@@ -10,7 +10,7 @@ on:
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
-    timeout-minutes: 30  # 設置超時時間為30分鐘
+    timeout-minutes: 60  # 設置超時時間為60分鐘
     
     steps:
     - name: Checkout repository
@@ -23,10 +23,15 @@ jobs:
       with:
         python-version: '3.10'
         
+    - name: Install Chrome
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y chromium-browser chromium-chromedriver
+        
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install cloudscraper pycryptodome requests
+        pip install cloudscraper pycryptodome requests selenium
         
     - name: Create directories
       run: |
@@ -39,7 +44,7 @@ jobs:
         GTV_PASS: ${{ secrets.GTV_PASS }}
       run: |
         # 使用較長的延遲和重試次數
-        python scripts/4g_m3u8.py --generate-playlist --delay 5 --retries 5 --timeout 20
+        python scripts/4g_m3u8.py --generate-playlist --delay 5 --retries 5 --timeout 30
         
     - name: Commit and push if changed
       run: |
