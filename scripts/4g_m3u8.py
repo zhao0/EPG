@@ -14,12 +14,6 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 import requests
 import logging
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException, NoSuchElementException
 
 # 關閉所有警告和日誌
 warnings.filterwarnings("ignore")
@@ -31,12 +25,12 @@ log.setLevel(logging.ERROR)
 log.disabled = True
 
 # 默認配置
-DEFAULT_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-DEFAULT_TIMEOUT = 20  # 增加超時時間
+DEFAULT_USER_AGENT = "%E5%9B%9B%E5%AD%A3%E7%B7%9A%E4%B8%8A/4 CFNetwork/3826.500.131 Darwin/24.5.0"
+DEFAULT_TIMEOUT = 15  # 增加超時時間
 CACHE_FILE = os.path.expanduser('~/.4gtvcache.txt')
 CACHE_TTL = 1 * 3600  # 2小時有效期
-CHANNEL_DELAY = 5  # 頻道之間的延遲時間（秒）
-MAX_RETRIES = 5  # 最大重試次數
+CHANNEL_DELAY = 3  # 增加頻道之間的延遲時間（秒）
+MAX_RETRIES = 3  # 最大重試次數
 
 # 默認賬號(可被環境變量覆蓋)
 DEFAULT_USER = os.environ.get('GTV_USER', '')
@@ -128,108 +122,39 @@ def get_all_channels(ua, timeout):
         return data.get("Data", [])
     return []
 
-def get_4gtv_channel_url_with_selenium(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key, auth_val, ua, timeout):
-    """使用Selenium模擬瀏覽器獲取頻道URL"""
-    try:
-        # 設置Chrome選項
-        chrome_options = Options()
-        chrome_options.add_argument("--headless")  # 無頭模式
-        chrome_options.add_argument("--no-sandbox")
-        chrome_options.add_argument("--disable-dev-shm-usage")
-        chrome_options.add_argument(f"user-agent={ua}")
-        chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-        chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
-        chrome_options.add_experimental_option('useAutomationExtension', False)
-        
-        # 初始化瀏覽器
-        driver = webdriver.Chrome(options=chrome_options)
-        driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
-        
-        try:
-            # 執行JavaScript來發送請求
-            script = f"""
-            var xhr = new XMLHttpRequest();
-            xhr.open('POST', 'https://api2.4gtv.tv/App/GetChannelUrl2', false);
-            xhr.setRequestHeader('Content-Type', 'application/json');
-            xhr.setRequestHeader('fsenc_key', '{fsenc_key}');
-            xhr.setRequestHeader('fsdevice', 'iOS');
-            xhr.setRequestHeader('fsversion', '3.2.8');
-            xhr.setRequestHeader('4gtv_auth', '{auth_val}');
-            xhr.setRequestHeader('User-Agent', '{ua}');
-            xhr.setRequestHeader('Referer', 'https://www.4gtv.tv/');
-            
-            var payload = {{
-                "fnCHANNEL_ID": {fnCHANNEL_ID},
-                "clsAPP_IDENTITY_VALIDATE_ARUS": {{"fsVALUE": "{fsVALUE}", "fsENC_KEY": "{fsenc_key}"}},
-                "fsASSET_ID": "{channel_id}",
-                "fsDEVICE_TYPE": "mobile"
-            }};
-            
-            xhr.send(JSON.stringify(payload));
-            
-            if (xhr.status === 200) {{
-                return xhr.responseText;
-            }} else {{
-                return null;
-            }}
-            """
-            
-            result = driver.execute_script(script)
-            
-            if result:
-                data = json.loads(result)
-                if data.get('Success') and 'flstURLs' in data.get('Data', {}):
-                    return data['Data']['flstURLs'][1]
-            
-            return None
-            
-        finally:
-            driver.quit()
-            
-    except Exception as e:
-        print(f"Selenium錯誤: {e}")
-        return None
-
 def get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key, auth_val, ua, timeout, max_retries=MAX_RETRIES):
     """帶重試機制的獲取頻道URL函數"""
     for attempt in range(max_retries):
         try:
-            # 交替使用常規方法和Selenium方法
-            if attempt % 2 == 0:
-                # 使用常規方法
-                headers = {
-                    "content-type": "application/json",
-                    "fsenc_key": fsenc_key,
-                    "accept": "*/*",
-                    "fsdevice": "iOS",
-                    "fsvalue": "",
-                    "fsversion": "3.2.8",
-                    "4gtv_auth": auth_val,
-                    "Referer": "https://www.4gtv.tv/",
-                    "User-Agent": ua
-                }
-                payload = {
-                    "fnCHANNEL_ID": fnCHANNEL_ID,
-                    "clsAPP_IDENTITY_VALIDATE_ARUS": {"fsVALUE": fsVALUE, "fsENC_KEY": fsenc_key},
-                    "fsASSET_ID": channel_id,
-                    "fsDEVICE_TYPE": "mobile"
-                }
-                scraper = cloudscraper.create_scraper()
-                scraper.headers.update({"User-Agent": ua})
-                resp = scraper.post('https://api2.4gtv.tv/App/GetChannelUrl2', headers=headers, json=payload, timeout=timeout)
-                resp.raise_for_status()
-                data = resp.json()
-                if data.get('Success') and 'flstURLs' in data.get('Data', {}):
-                    return data['Data']['flstURLs'][1]
-                return None
-            else:
-                # 使用Selenium方法
-                return get_4gtv_channel_url_with_selenium(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key, auth_val, ua, timeout)
-                
+            headers = {
+                "content-type": "application/json",
+                "fsenc_key": fsenc_key,
+                "accept": "*/*",
+                "fsdevice": "iOS",
+                "fsvalue": "",
+                "fsversion": "3.2.8",
+                "4gtv_auth": auth_val,
+                "Referer": "https://www.4gtv.tv/",
+                "User-Agent": ua
+            }
+            payload = {
+                "fnCHANNEL_ID": fnCHANNEL_ID,
+                "clsAPP_IDENTITY_VALIDATE_ARUS": {"fsVALUE": fsVALUE, "fsENC_KEY": fsenc_key},
+                "fsASSET_ID": channel_id,
+                "fsDEVICE_TYPE": "mobile"
+            }
+            scraper = cloudscraper.create_scraper()
+            scraper.headers.update({"User-Agent": ua})
+            resp = scraper.post('https://api2.4gtv.tv/App/GetChannelUrl2', headers=headers, json=payload, timeout=timeout)
+            resp.raise_for_status()
+            data = resp.json()
+            if data.get('Success') and 'flstURLs' in data.get('Data', {}):
+                return data['Data']['flstURLs'][1]
+            return None
         except Exception as e:
             if attempt < max_retries - 1:
                 print(f"⚠️ 獲取頻道 {channel_id} 失敗，正在重試 ({attempt + 1}/{max_retries})")
-                time.sleep(3)  # 重試前等待3秒
+                time.sleep(2)  # 重試前等待2秒
             else:
                 print(f"❌ 獲取頻道 {channel_id} 失敗，已達到最大重試次數")
                 return None
