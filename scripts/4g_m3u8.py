@@ -39,34 +39,7 @@ channel_cache = {}
 CACHE_EXPIRATION_TIME = 10800  # 3小時有效期
 cache_play_urls = {}
 
-def get_channel_info(fn_channel_id, ua, timeout):
-    """獲取頻道信息"""
-    # 檢查緩存
-    current_time = time.time()
-    if fn_channel_id in channel_cache:
-        cache_time, data = channel_cache[fn_channel_id]
-        if current_time - cache_time < CACHE_EXPIRATION_TIME:
-            return data
-    
-    get_channel_api = f'https://api2.4gtv.tv/Channel/GetChannel/{fn_channel_id}'
-    headers = {
-        'User-Agent': ua,
-        'X-Forwarded-For': 'https://api2.4gtv.tv'
-    }
-    
-    scraper = cloudscraper.create_scraper()
-    scraper.headers.update(headers)
-    response = scraper.get(get_channel_api, timeout=timeout)
-    
-    if response.status_code != 200:
-        return None
-        
-    data = response.json().get('Data', {})
-    
-    # 更新緩存
-    channel_cache[fn_channel_id] = (current_time, data)
-    
-    return data
+
 
 def generate_uuid(user):
     """根據賬號和目前日期生成唯一 UUID，確保不同用戶每天 UUID 不同"""
