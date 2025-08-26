@@ -192,7 +192,7 @@ def generate_m3u_playlist(user, password, ua, timeout, output_dir="playlist"):
             fnCHANNEL_ID = channel.get("fnID", "")
             
             # 只處理4gtv-live頻道
-            if not channel_id.startswith("4gtv-"):
+            if not channel_id.startswith("4gtv-live"):
                 continue
                 
             # 獲取頻道URL
