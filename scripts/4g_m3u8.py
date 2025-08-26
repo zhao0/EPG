@@ -26,10 +26,11 @@ log.disabled = True
 
 # 默認配置
 DEFAULT_USER_AGENT = "%E5%9B%9B%E5%AD%A3%E7%B7%9A%E4%B8%8A/4 CFNetwork/3826.500.131 Darwin/24.5.0"
-DEFAULT_TIMEOUT = 10  # seconds
+DEFAULT_TIMEOUT = 15  # 增加超時時間
 CACHE_FILE = os.path.expanduser('~/.4gtvcache.txt')
 CACHE_TTL = 1 * 3600  # 2小時有效期
-CHANNEL_DELAY = 1  # 頻道之間的延遲時間（秒）
+CHANNEL_DELAY = 3  # 增加頻道之間的延遲時間（秒）
+MAX_RETRIES = 3  # 最大重試次數
 
 # 默認賬號(可被環境變量覆蓋)
 DEFAULT_USER = os.environ.get('GTV_USER', '')
@@ -121,31 +122,42 @@ def get_all_channels(ua, timeout):
         return data.get("Data", [])
     return []
 
-def get_4gtv_channel_url(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key, auth_val, ua, timeout):
-    headers = {
-        "content-type": "application/json",
-        "fsenc_key": fsenc_key,
-        "accept": "*/*",
-        "fsdevice": "iOS",
-        "fsvalue": "",
-        "fsversion": "3.2.8",
-        "4gtv_auth": auth_val,
-        "Referer": "https://www.4gtv.tv/",
-        "User-Agent": ua
-    }
-    payload = {
-        "fnCHANNEL_ID": fnCHANNEL_ID,
-        "clsAPP_IDENTITY_VALIDATE_ARUS": {"fsVALUE": fsVALUE, "fsENC_KEY": fsenc_key},
-        "fsASSET_ID": channel_id,
-        "fsDEVICE_TYPE": "mobile"
-    }
-    scraper = cloudscraper.create_scraper()
-    scraper.headers.update({"User-Agent": ua})
-    resp = scraper.post('https://api2.4gtv.tv/App/GetChannelUrl2', headers=headers, json=payload, timeout=timeout)
-    resp.raise_for_status()
-    data = resp.json()
-    if data.get('Success') and 'flstURLs' in data.get('Data', {}):
-        return data['Data']['flstURLs'][1]
+def get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key, auth_val, ua, timeout, max_retries=MAX_RETRIES):
+    """帶重試機制的獲取頻道URL函數"""
+    for attempt in range(max_retries):
+        try:
+            headers = {
+                "content-type": "application/json",
+                "fsenc_key": fsenc_key,
+                "accept": "*/*",
+                "fsdevice": "iOS",
+                "fsvalue": "",
+                "fsversion": "3.2.8",
+                "4gtv_auth": auth_val,
+                "Referer": "https://www.4gtv.tv/",
+                "User-Agent": ua
+            }
+            payload = {
+                "fnCHANNEL_ID": fnCHANNEL_ID,
+                "clsAPP_IDENTITY_VALIDATE_ARUS": {"fsVALUE": fsVALUE, "fsENC_KEY": fsenc_key},
+                "fsASSET_ID": channel_id,
+                "fsDEVICE_TYPE": "mobile"
+            }
+            scraper = cloudscraper.create_scraper()
+            scraper.headers.update({"User-Agent": ua})
+            resp = scraper.post('https://api2.4gtv.tv/App/GetChannelUrl2', headers=headers, json=payload, timeout=timeout)
+            resp.raise_for_status()
+            data = resp.json()
+            if data.get('Success') and 'flstURLs' in data.get('Data', {}):
+                return data['Data']['flstURLs'][1]
+            return None
+        except Exception as e:
+            if attempt < max_retries - 1:
+                print(f"⚠️ 獲取頻道 {channel_id} 失敗，正在重試 ({attempt + 1}/{max_retries})")
+                time.sleep(2)  # 重試前等待2秒
+            else:
+                print(f"❌ 獲取頻道 {channel_id} 失敗，已達到最大重試次數")
+                return None
     return None
 
 def get_highest_bitrate_url(master_url, fnCHANNEL_ID, ua, timeout):
@@ -167,7 +179,7 @@ def get_highest_bitrate_url(master_url, fnCHANNEL_ID, ua, timeout):
 def generate_m3u_playlist(user, password, ua, timeout, output_dir="playlist", delay=CHANNEL_DELAY):
     """生成M3U播放清單"""
     try:
-        # 建立輸出目錄
+        # 創建輸出目錄
         os.makedirs(output_dir, exist_ok=True)
         
         # 生成認證信息
@@ -176,16 +188,17 @@ def generate_m3u_playlist(user, password, ua, timeout, output_dir="playlist", de
         fsVALUE = sign_in_4gtv(user, password, fsenc_key, auth_val, ua, timeout)
         
         if not fsVALUE:
-            print("登錄失敗")
+            print("❌ 登錄失敗")
             return False
             
         # 獲取所有頻道
         channels = get_all_channels(ua, timeout)
         
-        # 建立M3U檔案
+        # 創建M3U文件
         m3u_content = "#EXTM3U\n"
         successful_channels = 0
         failed_channels = 0
+        failed_list = []
         
         for channel in channels:
             channel_id = channel.get("fs4GTV_ID", "")
@@ -201,12 +214,13 @@ def generate_m3u_playlist(user, password, ua, timeout, output_dir="playlist", de
             # 添加延遲
             time.sleep(delay)
                 
-            # 獲取頻道URL
+            # 獲取頻道URL（帶重試機制）
             try:
-                stream_url = get_4gtv_channel_url(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key, auth_val, ua, timeout)
+                stream_url = get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key, auth_val, ua, timeout)
                 if not stream_url:
                     print(f"❌ 無法獲取頻道 {channel_name} 的URL")
                     failed_channels += 1
+                    failed_list.append(channel_name)
                     continue
                     
                 # 獲取最高碼率URL
@@ -222,20 +236,27 @@ def generate_m3u_playlist(user, password, ua, timeout, output_dir="playlist", de
             except Exception as e:
                 print(f"❌ 處理頻道 {channel_name} 時出錯: {e}")
                 failed_channels += 1
+                failed_list.append(channel_name)
                 continue
         
-        # 寫入檔案
+        # 寫入文件
         output_path = os.path.join(output_dir, "4gtv.m3u")
         with open(output_path, "w", encoding="utf-8") as f:
             f.write(m3u_content)
         
-        print(f"播放清單已生成: {output_path}")
-        print(f"成功處理: {successful_channels} 個頻道")
-        print(f"失敗處理: {failed_channels} 個頻道")
+        print(f"\n📊 播放清單生成完成: {output_path}")
+        print(f"✅ 成功處理: {successful_channels} 個頻道")
+        print(f"❌ 失敗處理: {failed_channels} 個頻道")
+        
+        if failed_list:
+            print("\n📋 失敗頻道列表:")
+            for channel in failed_list:
+                print(f"   - {channel}")
+        
         return True
         
     except Exception as e:
-        print(f"生成播放清單時出錯: {e}")
+        print(f"❌ 生成播放清單時出錯: {e}")
         return False
 
 def main():
@@ -250,6 +271,7 @@ def main():
     parser.add_argument('--timeout', type=int, default=DEFAULT_TIMEOUT, help='超時時間(秒)')
     parser.add_argument('--output-dir', type=str, default="playlist", help='輸出目錄')
     parser.add_argument('--delay', type=float, default=CHANNEL_DELAY, help='頻道之間的延遲時間(秒)')
+    parser.add_argument('--retries', type=int, default=MAX_RETRIES, help='最大重試次數')
     
     args = parser.parse_args()
     
