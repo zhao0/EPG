@@ -108,8 +108,7 @@ def get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key
                 "fsversion": "3.2.8",
                 "4gtv_auth": auth_val,
                 "Referer": "https://www.4gtv.tv/",
-                "User-Agent": ua,
-                'X-Forwarded-For': '49.159.74.105'
+                "User-Agent": ua
             }
             payload = {
                 "fnCHANNEL_ID": fnCHANNEL_ID,
@@ -177,10 +176,7 @@ def generate_m3u_playlist(user, password, ua, timeout, output_dir="playlist", de
             channel_logo = channel.get("fsLOGO_MOBILE", "")
             fnCHANNEL_ID = channel.get("fnID", "")
             
-            # 只處理4gtv-live頻道
-            if not channel_id.startswith("4gtv-live"):
-                continue
-                
+            # 移除了只處理4gtv-live頻道的限制，現在處理所有頻道
             # 添加延遲
             time.sleep(delay)
                 
