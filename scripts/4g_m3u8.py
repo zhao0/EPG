@@ -109,7 +109,7 @@ def get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key
                 "4gtv_auth": auth_val,
                 "Referer": "https://www.4gtv.tv/",
                 "User-Agent": ua,
-                'X-Forwarded-For': 'https://api2.4gtv.tv'
+                'X-Forwarded-For': '49.159.74.105'
             }
             payload = {
                 "fnCHANNEL_ID": fnCHANNEL_ID,
