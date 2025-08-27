@@ -38,6 +38,15 @@ DEFAULT_PASS = os.environ.get('GTV_PASS', '')
 cache_play_urls = {}
 CACHE_EXPIRATION_TIME = 86400  # 24小時有效期
 
+# 台灣代理服務器列表（示例，請使用實際可用的代理）
+TAIWAN_PROXIES = [
+    "http://210.59.182.144:3128",
+    "http://219.87.79.144:80",
+    "http://211.75.95.66:80",
+    "http://122.116.125.115:8888",
+    "http://60.249.94.59:3128",
+]
+
 def generate_uuid(user):
     """根據賬號和目前日期生成唯一 UUID，確保不同用戶每天 UUID 不同"""
     today = datetime.datetime.utcnow().strftime('%Y-%m-%d')
@@ -57,7 +66,7 @@ def generate_4gtv_auth():
     sha512 = hashlib.sha512((today + decrypted).encode()).digest()
     return base64.b64encode(sha512).decode()
 
-def sign_in_4gtv(user, password, fsenc_key, auth_val, ua, timeout):
+def sign_in_4gtv(user, password, fsenc_key, auth_val, ua, timeout, proxy=None):
     url = "https://api2.4gtv.tv/AppAccount/SignIn"
     headers = {
         "Content-Type": "application/json; charset=UTF-8",
@@ -70,16 +79,26 @@ def sign_in_4gtv(user, password, fsenc_key, auth_val, ua, timeout):
     payload = {"fsUSER": user, "fsPASSWORD": password, "fsENC_KEY": fsenc_key}
     scraper = cloudscraper.create_scraper()
     scraper.headers.update({"User-Agent": ua})
+    
+    # 設置代理
+    if proxy:
+        scraper.proxies = {"http": proxy, "https": proxy}
+    
     resp = scraper.post(url, headers=headers, json=payload, timeout=timeout)
     resp.raise_for_status()
     data = resp.json()
     return data.get("Data") if data.get("Success") else None
 
-def get_all_channels(ua, timeout):
+def get_all_channels(ua, timeout, proxy=None):
     url = 'https://api2.4gtv.tv/Channel/GetChannelBySetId/1/pc/L/V'
     headers = {"accept": "*/*", "origin": "https://www.4gtv.tv", "referer": "https://www.4gtv.tv/", "User-AAgent": ua}
     scraper = cloudscraper.create_scraper()
     scraper.headers.update({"User-Agent": ua})
+    
+    # 設置代理
+    if proxy:
+        scraper.proxies = {"http": proxy, "https": proxy}
+    
     resp = scraper.get(url, headers=headers, timeout=timeout)
     resp.raise_for_status()
     data = resp.json()
@@ -87,7 +106,7 @@ def get_all_channels(ua, timeout):
         return data.get("Data", [])
     return []
 
-def get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key, auth_val, ua, timeout, max_retries=MAX_RETRIES):
+def get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key, auth_val, ua, timeout, proxy=None, max_retries=MAX_RETRIES):
     """帶重試機制的獲取頻道URL函數"""
     # 檢查緩存
     current_time = time.time()
@@ -118,6 +137,11 @@ def get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key
             }
             scraper = cloudscraper.create_scraper()
             scraper.headers.update({"User-Agent": ua})
+            
+            # 設置代理
+            if proxy:
+                scraper.proxies = {"http": proxy, "https": proxy}
+            
             resp = scraper.post('https://api2.4gtv.tv/App/GetChannelUrl2', headers=headers, json=payload, timeout=timeout)
             resp.raise_for_status()
             data = resp.json()
@@ -145,23 +169,53 @@ def get_highest_bitrate_url(master_url):
     # 如果沒有720p，則保持原樣
     return master_url
 
-def generate_m3u_playlist(user, password, ua, timeout, output_dir="playlist", delay=CHANNEL_DELAY):
+def test_proxy_connection(proxy, timeout=10):
+    """測試代理連接是否有效"""
+    try:
+        test_url = "http://httpbin.org/ip"
+        scraper = cloudscraper.create_scraper()
+        scraper.proxies = {"http": proxy, "https": proxy}
+        response = scraper.get(test_url, timeout=timeout)
+        if response.status_code == 200:
+            print(f"✅ 代理測試成功: {proxy}")
+            print(f"   當前IP: {response.json()['origin']}")
+            return True
+    except Exception as e:
+        print(f"❌ 代理測試失敗: {proxy} - {e}")
+    return False
+
+def find_working_proxy(proxies, timeout=10):
+    """從代理列表中尋找可用的代理"""
+    print("🔍 正在測試代理服務器...")
+    for proxy in proxies:
+        if test_proxy_connection(proxy, timeout):
+            return proxy
+    print("❌ 沒有找到可用的代理服務器")
+    return None
+
+def generate_m3u_playlist(user, password, ua, timeout, output_dir="playlist", delay=CHANNEL_DELAY, proxy=None, auto_proxy=False):
     """生成M3U播放清單"""
     try:
+        # 自動尋找台灣代理
+        if auto_proxy:
+            proxy = find_working_proxy(TAIWAN_PROXIES, timeout)
+            if not proxy:
+                print("⚠️  將不使用代理繼續運行")
+        
         # 創建輸出目錄
         os.makedirs(output_dir, exist_ok=True)
         
         # 生成認證信息
         fsenc_key = generate_uuid(user)
         auth_val = generate_4gtv_auth()
-        fsVALUE = sign_in_4gtv(user, password, fsenc_key, auth_val, ua, timeout)
+        fsVALUE = sign_in_4gtv(user, password, fsenc_key, auth_val, ua, timeout, proxy)
         
         if not fsVALUE:
             print("❌ 登錄失敗")
             return False
             
         # 獲取所有頻道
-        channels = get_all_channels(ua, timeout)
+        channels = get_all_channels(ua, timeout, proxy)
         
         # 創建M3U文件
         m3u_content = "#EXTM3U\n"
@@ -176,13 +230,12 @@ def generate_m3u_playlist(user, password, ua, timeout, output_dir="playlist", de
             channel_logo = channel.get("fsLOGO_MOBILE", "")
             fnCHANNEL_ID = channel.get("fnID", "")
             
-            # 移除了只處理4gtv-live頻道的限制，現在處理所有頻道
             # 添加延遲
             time.sleep(delay)
                 
             # 獲取頻道URL（帶重試機制）
             try:
-                stream_url = get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key, auth_val, ua, timeout)
+                stream_url = get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key, auth_val, ua, timeout, proxy)
                 if not stream_url:
                     print(f"❌ 無法獲取頻道 {channel_name} 的URL")
                     failed_channels += 1
@@ -238,11 +291,22 @@ def main():
     parser.add_argument('--output-dir', type=str, default="playlist", help='輸出目錄')
     parser.add_argument('--delay', type=float, default=CHANNEL_DELAY, help='頻道之間的延遲時間(秒)')
     parser.add_argument('--retries', type=int, default=MAX_RETRIES, help='最大重試次數')
+    parser.add_argument('--proxy', type=str, help='使用代理服務器 (例如: http://proxy.tw.example.com:8080)')
+    parser.add_argument('--auto-proxy', action='store_true', help='自動嘗試使用台灣代理')
     
     args = parser.parse_args()
     
     if args.generate_playlist:
-        success = generate_m3u_playlist(args.user, args.password, args.ua, args.timeout, args.output_dir, args.delay)
+        success = generate_m3u_playlist(
+            args.user, 
+            args.password, 
+            args.ua, 
+            args.timeout, 
+            args.output_dir, 
+            args.delay, 
+            args.proxy,
+            args.auto_proxy
+        )
         return 0 if success else 1
     else:
         parser.print_help()
