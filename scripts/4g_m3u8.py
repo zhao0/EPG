@@ -36,7 +36,7 @@ DEFAULT_PASS = os.environ.get('GTV_PASS', '')
 
 # 記憶體緩存
 cache_play_urls = {}
-CACHE_EXPIRATION_TIME = 10800  # 3小時有效期
+CACHE_EXPIRATION_TIME = 3600  # 1小時有效期
 
 def generate_uuid(user):
     """根據賬號和目前日期生成唯一 UUID，確保不同用戶每天 UUID 不同"""
@@ -177,7 +177,7 @@ def generate_m3u_playlist(user, password, ua, timeout, output_dir="playlist", de
             fnCHANNEL_ID = channel.get("fnID", "")
             
             # 只處理4gtv-live頻道
-            if not channel_id.startswith("4gtv-live*.*"):
+            if not channel_id.startswith("4gtv-live"):
                 continue
                 
             # 添加延遲
