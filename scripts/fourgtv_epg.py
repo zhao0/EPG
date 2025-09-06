@@ -270,6 +270,11 @@ def generate_xml(channels, programs, filename):
         display_name = ET.SubElement(channel_elem, "display-name", lang="zh")
         display_name.text = channel_name
         
+        # 添加頻道描述
+        if channel.get("description"):
+            channel_desc = ET.SubElement(channel_elem, "desc", lang="zh")
+            channel_desc.text = channel["description"]
+        
         if channel.get("logo"):
             icon = ET.SubElement(channel_elem, "icon", src=channel["logo"])
         
