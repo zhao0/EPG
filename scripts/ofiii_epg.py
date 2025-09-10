@@ -24,6 +24,7 @@ def parse_channel_list():
     channel_list = [
         "倪珍越南語新聞 ==> nnews-vn",
         "倪珍報氣象 ==> nnews-wf",
+        "倪珍播新聞 ==> nnews-zh",
         "中天新聞台 ==> 4gtv-4gtv009",
         "台視 ==> 4gtv-4gtv066",
         "中視 ==> 4gtv-4gtv040",
@@ -52,8 +53,14 @@ def parse_channel_list():
         "ELTV生活英語台 ==> litv-longturn20",
         "龍華經典台 ==> litv-longturn21",
         "台灣戲劇台 ==> litv-longturn22",
-        "三立新聞iNEWS ==> iNEWS",
-        "倪珍播新聞 ==> nnews-zh"
+        "三立新聞iNEWS ==> iNEWS", 
+        "空中英語教室 ==> ofiii16",
+        "Golden 強片台 ==> ofiii70",
+        "周星馳台 ==> ofiii73",
+        "歐飛電影台 ==> ofiii74",
+        "歐飛動作電影台 ==> ofiii75",
+        "Focus探索新知台 ==> ofiii82",
+        "Focus風采戲劇台 ==> ofiii1048"
     ]
     
     for line in channel_list:
