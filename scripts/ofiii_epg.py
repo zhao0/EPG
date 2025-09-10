@@ -53,14 +53,7 @@ def parse_channel_list():
         "ELTV生活英語台 ==> litv-longturn20",
         "龍華經典台 ==> litv-longturn21",
         "台灣戲劇台 ==> litv-longturn22",
-        "三立新聞iNEWS ==> iNEWS", 
-        "空中英語教室 ==> ofiii16",
-        "Golden 強片台 ==> ofiii70",
-        "周星馳台 ==> ofiii73",
-        "歐飛電影台 ==> ofiii74",
-        "歐飛動作電影台 ==> ofiii75",
-        "Focus探索新知台 ==> ofiii82",
-        "Focus風采戲劇台 ==> ofiii1048"
+        "三立新聞iNEWS ==> iNEWS"
     ]
     
     for line in channel_list:
