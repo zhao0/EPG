@@ -44,7 +44,7 @@ HTTPS_PROXY = os.environ.get('https_proxy', '') or os.environ.get('HTTPS_PROXY',
 
 # 記憶體緩存
 cache_play_urls = {}
-CACHE_EXPIRATION_TIME = 86400  # 24小時有效期
+CACHE_EXPIRATION_TIME = 3600  # 1小時有效期
 cache_lock = threading.Lock()  # 緩存鎖
 
 def is_github_actions():
