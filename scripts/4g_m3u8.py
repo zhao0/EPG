@@ -40,7 +40,7 @@ HTTPS_PROXY = os.environ.get('https_proxy', '')
 
 # 記憶體緩存
 cache_play_urls = {}
-CACHE_EXPIRATION_TIME = 86400  # 24小時有效期
+CACHE_EXPIRATION_TIME = 3600  # 1小時有效期
 
 def get_proxies():
     """從環境變量獲取代理設置"""
