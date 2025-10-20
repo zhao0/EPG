@@ -14,6 +14,9 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 import requests
 import logging
+import concurrent.futures
+import threading
+from queue import Queue
 
 # 關閉所有警告和日誌
 warnings.filterwarnings("ignore")
@@ -27,8 +30,9 @@ log.disabled = True
 # 默認配置
 DEFAULT_USER_AGENT = "%E5%9B%9B%E5%AD%A3%E7%B7%9A%E4%B8%8A/4 CFNetwork/3826.500.131 Darwin/24.5.0"
 DEFAULT_TIMEOUT = 30  # 增加超時時間
-CHANNEL_DELAY = 1  # 增加頻道之間的延遲時間（秒）
-MAX_RETRIES = 1  # 最大重試次數
+CHANNEL_DELAY = 0.1  # 降低頻道之間的延遲時間（秒）
+MAX_RETRIES = 2  # 最大重試次數
+MAX_WORKERS = 10  # 最大併發工作線程數
 
 # 默認賬號(可被環境變量覆蓋)
 DEFAULT_USER = os.environ.get('GTV_USER', '')
@@ -41,6 +45,7 @@ HTTPS_PROXY = os.environ.get('https_proxy', '') or os.environ.get('HTTPS_PROXY',
 # 記憶體緩存
 cache_play_urls = {}
 CACHE_EXPIRATION_TIME = 86400  # 24小時有效期
+cache_lock = threading.Lock()  # 緩存鎖
 
 def is_github_actions():
     """檢查是否在 GitHub Actions 環境中運行"""
@@ -179,10 +184,12 @@ def get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key
     # 檢查緩存
     current_time = time.time()
     cache_key = f"{channel_id}_{fnCHANNEL_ID}"
-    if cache_key in cache_play_urls:
-        cache_time, url = cache_play_urls[cache_key]
-        if current_time - cache_time < CACHE_EXPIRATION_TIME:
-            return url
+    
+    with cache_lock:
+        if cache_key in cache_play_urls:
+            cache_time, url = cache_play_urls[cache_key]
+            if current_time - cache_time < CACHE_EXPIRATION_TIME:
+                return url
     
     for attempt in range(max_retries):
         try:
@@ -211,15 +218,14 @@ def get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key
             if data.get('Success') and 'flstURLs' in data.get('Data', {}):
                 url = data['Data']['flstURLs'][1]
                 # 更新緩存
-                cache_play_urls[cache_key] = (current_time, url)
+                with cache_lock:
+                    cache_play_urls[cache_key] = (current_time, url)
                 return url
             return None
         except Exception as e:
             if attempt < max_retries - 1:
-                print(f"⚠️ 獲取頻道 {channel_id} 失敗，正在重試 ({attempt + 1}/{max_retries})")
-                time.sleep(2)  # 重試前等待2秒
+                time.sleep(1)  # 重試前等待1秒
             else:
-                print(f"❌ 獲取頻道 {channel_id} 失敗，已達到最大重試次數")
                 return None
     return None
 
@@ -227,12 +233,48 @@ def get_highest_bitrate_url(master_url):
     """嘗試獲取更高質量的URL - 只對特定開頭的網址進行處理"""
     # 只對以 "https://4gtvfree-mozai.4gtv.tv" 開頭的網址進行處理
     if master_url.startswith("https://4gtvfree-mozai.4gtv.tv") and 'index.m3u8' in master_url:
-        print(f"   📶 嘗試獲取高質量URL (1080p)...")
         return master_url.replace('index.m3u8', '1080.m3u8')
     
     # 對於其他網址，保持原樣
-    print(f"   📶 使用原始URL (非4gtvfree-mozai域名)")
     return master_url
+
+def process_single_channel(channel, user, password, fsenc_key, auth_val, ua, timeout, max_retries, progress_queue):
+    """處理單個頻道的函數，用於併發執行"""
+    try:
+        channel_id = channel.get("fs4GTV_ID", "")
+        channel_name = channel.get("fsNAME", "")
+        channel_type = channel.get("fsTYPE_NAME", "其他")
+        channel_logo = channel.get("fsLOGO_MOBILE", "")
+        fnCHANNEL_ID = channel.get("fnID", "")
+        
+        # 處理頻道類型
+        if channel_type:
+            channel_type = channel_type.split(',')[0]
+        
+        # 檢查是否為fast-live開頭，如果是則修改類型為FastTV飛速看
+        if channel_id.startswith('fast-live'):
+            channel_type = "FastTV飛速看"
+        
+        # 獲取頻道URL（帶重試機制）
+        stream_url = get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, auth_val, fsenc_key, auth_val, ua, timeout, max_retries)
+        
+        if not stream_url:
+            progress_queue.put(("fail", channel_name, "無法獲取URL", None, None))
+            return None
+        
+        # 嘗試獲取更高質量的URL（僅對特定域名）
+        highest_url = get_highest_bitrate_url(stream_url)
+        
+        # 構建M3U內容
+        m3u_entry = f'#EXTINF:-1 tvg-id="{channel_name}" tvg-name="{channel_name}" tvg-logo="{channel_logo}" group-title="{channel_type}",{channel_name}\n'
+        m3u_entry += f"{highest_url}\n"
+        
+        progress_queue.put(("success", channel_name, channel_type, m3u_entry, None))
+        return m3u_entry
+        
+    except Exception as e:
+        progress_queue.put(("fail", channel_name, str(e), None, None))
+        return None
 
 def print_progress_bar(iteration, total, prefix='', suffix='', decimals=1, length=50, fill='█', print_end="\r"):
     """
@@ -255,8 +297,8 @@ def print_progress_bar(iteration, total, prefix='', suffix='', decimals=1, lengt
     if iteration == total: 
         print()
 
-def generate_m3u_playlist(user, password, ua, timeout, output_dir="playlist", delay=CHANNEL_DELAY):
-    """生成M3U播放清單"""
+def generate_m3u_playlist(user, password, ua, timeout, output_dir="playlist", delay=CHANNEL_DELAY, max_workers=MAX_WORKERS):
+    """生成M3U播放清單 - 併發版本"""
     try:
         # 建立輸出目錄
         os.makedirs(output_dir, exist_ok=True)
@@ -280,6 +322,7 @@ def generate_m3u_playlist(user, password, ua, timeout, output_dir="playlist", de
             return False
             
         print(f"📺 共找到 {len(channels)} 個頻道")
+        print(f"🚀 開始併發處理頻道 (最大 {max_workers} 個線程)...")
         
         # 建立M3U檔案
         m3u_content = "#EXTM3U\n"
@@ -287,61 +330,57 @@ def generate_m3u_playlist(user, password, ua, timeout, output_dir="playlist", de
         failed_channels = 0
         failed_list = []
         
-        # 顯示進度條
-        print("🚀 開始處理頻道:")
-        total_channels = len(channels)
+        # 進度隊列
+        progress_queue = Queue()
         
-        for index, channel in enumerate(channels):
-            channel_id = channel.get("fs4GTV_ID", "")
-            channel_name = channel.get("fsNAME", "")
-            channel_type = channel.get("fsTYPE_NAME", "其他")
-            channel_logo = channel.get("fsLOGO_MOBILE", "")
-            fnCHANNEL_ID = channel.get("fnID", "")
+        # 使用線程池併發處理
+        start_time = time.time()
+        
+        with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+            # 提交所有任務
+            future_to_channel = {
+                executor.submit(
+                    process_single_channel, 
+                    channel, user, password, fsenc_key, fsVALUE, ua, timeout, MAX_RETRIES, progress_queue
+                ): channel for channel in channels
+            }
             
-            # 處理頻道類型
-            if channel_type:
-                # 分割字符串並取第一部分
-                channel_type = channel_type.split(',')[0]
+            # 處理結果
+            completed = 0
+            total_channels = len(channels)
             
-            # 檢查是否為fast-live開頭，如果是則修改類型為FastTV飛速看
-            if channel_id.startswith('fast-live'):
-                channel_type = "FastTV飛速看"
+            # 啟動進度監視線程
+            def progress_monitor():
+                nonlocal completed, successful_channels, failed_channels, failed_list, m3u_content
+                while completed < total_channels:
+                    try:
+                        status, channel_name, info, m3u_entry, error = progress_queue.get(timeout=10)
+                        completed += 1
+                        
+                        if status == "success":
+                            successful_channels += 1
+                            m3u_content += m3u_entry
+                            print(f"   ✅ [{completed}/{total_channels}] {channel_name} - {info}")
+                        else:
+                            failed_channels += 1
+                            failed_list.append((channel_name, info))
+                            print(f"   ❌ [{completed}/{total_channels}] {channel_name} - {info}")
+                        
+                        # 更新進度條
+                        print_progress_bar(completed, total_channels, prefix='進度:', suffix=f'完成 {completed}/{total_channels}')
+                        
+                    except:
+                        break
             
-            # 顯示目前處理的頻道信息
-            print(f"\n[{index+1}/{total_channels}] 處理頻道: {channel_name}")
-            print(f"   📺 頻道類型: {channel_type}")
+            # 在主線程中運行進度監視
+            progress_monitor()
             
-            # 添加延遲
-            time.sleep(delay)
-                
-            # 獲取頻道URL（帶重試機制）
-            try:
-                print(f"   🔗 獲取頻道URL...")
-                stream_url = get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key, auth_val, ua, timeout)
-                if not stream_url:
-                    print(f"   ❌ 無法獲取頻道 {channel_name} 的URL")
-                    failed_channels += 1
-                    failed_list.append((channel_name, "無法獲取URL"))
-                    continue
-                    
-                # 嘗試獲取更高質量的URL（僅對特定域名）
-                highest_url = get_highest_bitrate_url(stream_url)
-                
-                # 添加到M3U內容
-                m3u_content += f'#EXTINF:-1 tvg-id="{channel_name}" tvg-name="{channel_name}" tvg-logo="{channel_logo}" group-title="{channel_type}",{channel_name}\n'
-                m3u_content += f"{highest_url}\n"
-                
-                print(f"   ✅ 已添加頻道: {channel_name}")
-                successful_channels += 1
-                
-            except Exception as e:
-                print(f"   ❌ 處理頻道 {channel_name} 時出錯: {e}")
-                failed_channels += 1
-                failed_list.append((channel_name, str(e)))
-                continue
-            
-            # 更新進度條
-            print_progress_bar(index + 1, total_channels, prefix='進度:', suffix=f'完成 {index+1}/{total_channels}')
+            # 等待所有任務完成
+            concurrent.futures.wait(future_to_channel.keys())
+        
+        # 計算總用時
+        end_time = time.time()
+        total_time = end_time - start_time
         
         # 寫入檔案
         output_path = os.path.join(output_dir, "4gtv.m3u")
@@ -349,8 +388,10 @@ def generate_m3u_playlist(user, password, ua, timeout, output_dir="playlist", de
             f.write(m3u_content)
         
         print(f"\n🎉 播放清單生成完成: {output_path}")
+        print(f"⏱️  總用時: {total_time:.2f} 秒")
         print(f"✅ 成功處理: {successful_channels} 個頻道")
         print(f"❌ 失敗處理: {failed_channels} 個頻道")
+        print(f"🚀 平均速度: {total_channels/total_time:.2f} 頻道/秒")
         
         if failed_list:
             print("\n📋 失敗頻道清單:")
@@ -378,6 +419,7 @@ def main():
     parser.add_argument('--output-dir', type=str, default="playlist", help='輸出目錄')
     parser.add_argument('--delay', type=float, default=CHANNEL_DELAY, help='頻道之間的延遲時間(秒)')
     parser.add_argument('--retries', type=int, default=MAX_RETRIES, help='最大重試次數')
+    parser.add_argument('--workers', type=int, default=MAX_WORKERS, help='併發工作線程數')
     parser.add_argument('--verbose', action='store_true', help='顯示詳細處理信息')
     parser.add_argument('--proxy', type=str, help='代理服務器 (例如: http://username:password@proxy.com:port)')
     parser.add_argument('--no-proxy', action='store_true', help='強制不使用代理')
@@ -403,7 +445,8 @@ def main():
             args.ua, 
             args.timeout, 
             args.output_dir, 
-            args.delay
+            args.delay,
+            args.workers
         )
         return 0 if success else 1
     else:
