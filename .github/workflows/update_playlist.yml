@@ -9,7 +9,7 @@ on:
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
-    timeout-minutes: 30  # 設置超時時間為30分鐘
+    timeout-minutes: 30
     
     steps:
     - name: Checkout repository
@@ -39,8 +39,8 @@ jobs:
         HTTP_PROXY:  ${{ secrets.HTTP_PROXY }}
         HTTPS_PROXY:  ${{ secrets. HTTPS_PROXY }}
       run: |
-        # 使用較長的延遲和重試次數
-        python scripts/4g_m3u8.py --generate-playlist --delay 5 --retries 5 --timeout 30
+        # 使用併發模式，降低延遲，增加工作線程
+        python scripts/4g_m3u8.py --generate-playlist --delay 0.1 --workers 8 --timeout 30
         
     - name: Commit and push if changed
       run: |
