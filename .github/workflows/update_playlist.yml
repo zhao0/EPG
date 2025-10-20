@@ -40,7 +40,7 @@ jobs:
         HTTPS_PROXY:  ${{ secrets. HTTPS_PROXY }}
       run: |
         # 使用併發模式，降低延遲，增加工作線程
-        python scripts/4g_m3u8.py --generate-playlist --delay 1 --workers 3 --timeout 30
+        python scripts/4g_m3u8.py --generate-playlist --delay 1 --retries 5 --workers 1 --timeout 30
         
     - name: Commit and push if changed
       run: |
