@@ -43,7 +43,7 @@ HTTPS_PROXY = os.environ.get('https_proxy', '')
 
 # 記憶體緩存
 cache_play_urls = {}
-CACHE_EXPIRATION_TIME = 3600  # 1小時有效期
+CACHE_EXPIRATION_TIME = 86400  # 24小時有效期
 
 # 線程安全的鎖
 cache_lock = Lock()
@@ -59,7 +59,7 @@ def get_proxies():
     return proxies if proxies else None
 
 def create_scraper_with_proxy(ua):
-    """創建帶有代理支持的scraper"""
+    """創建帶有代理支持的scraper - 用於獲取播放地址"""
     scraper = cloudscraper.create_scraper()
     scraper.headers.update({"User-Agent": ua})
     
@@ -67,7 +67,14 @@ def create_scraper_with_proxy(ua):
     proxies = get_proxies()
     if proxies:
         scraper.proxies.update(proxies)
+        print(f"🔌 使用代理: {proxies}")
     
+    return scraper
+
+def create_scraper_without_proxy(ua):
+    """創建不帶代理的scraper - 用於登錄和獲取頻道列表"""
+    scraper = cloudscraper.create_scraper()
+    scraper.headers.update({"User-Agent": ua})
     return scraper
 
 def generate_uuid(user):
@@ -90,7 +97,7 @@ def generate_4gtv_auth():
     return base64.b64encode(sha512).decode()
 
 def sign_in_4gtv(user, password, fsenc_key, auth_val, ua, timeout, max_retries=3):
-    """登錄4GTV，帶重試機制"""
+    """登錄4GTV，帶重試機制 - 不使用代理"""
     url = "https://api2.4gtv.tv/AppAccount/SignIn"
     
     for attempt in range(max_retries):
@@ -106,7 +113,8 @@ def sign_in_4gtv(user, password, fsenc_key, auth_val, ua, timeout, max_retries=3
             payload = {"fsUSER": user, "fsPASSWORD": password, "fsENC_KEY": fsenc_key}
             
             print(f"🔑 嘗試登錄 (第 {attempt + 1} 次)...")
-            scraper = create_scraper_with_proxy(ua)
+            # 使用不帶代理的scraper進行登錄
+            scraper = create_scraper_without_proxy(ua)
             
             resp = scraper.post(url, headers=headers, json=payload, timeout=timeout)
             resp.raise_for_status()
@@ -116,25 +124,28 @@ def sign_in_4gtv(user, password, fsenc_key, auth_val, ua, timeout, max_retries=3
                 print("✅ 登錄成功")
                 return data.get("Data")
             else:
-                print(f"❌ 登錄失敗: {data.get('Message', '未知錯誤')}")
+                error_msg = data.get('Message', '未知錯誤')
+                print(f"❌ 登錄失敗: {error_msg}")
                 if attempt < max_retries - 1:
-                    print(f"⏳ 等待 {2 ** attempt} 秒後重試...")
-                    time.sleep(2 ** attempt)  # 指數退避
+                    wait_time = 2 ** attempt
+                    print(f"⏳ 等待 {wait_time} 秒後重試...")
+                    time.sleep(wait_time)  # 指數退避
                     continue
                 return None
                 
         except Exception as e:
             print(f"❌ 登錄請求異常 (第 {attempt + 1} 次): {e}")
             if attempt < max_retries - 1:
-                print(f"⏳ 等待 {2 ** attempt} 秒後重試...")
-                time.sleep(2 ** attempt)  # 指數退避
+                wait_time = 2 ** attempt
+                print(f"⏳ 等待 {wait_time} 秒後重試...")
+                time.sleep(wait_time)  # 指數退避
                 continue
             return None
     
     return None
 
 def get_all_channels(ua, timeout):
-    """獲取所有頻道集合的頻道，並去除重複頻道"""
+    """獲取所有頻道集合的頻道，並去除重複頻道 - 不使用代理"""
     channel_sets = [1, 2, 33, 4]  # 已知的頻道集合ID
     all_channels = []
     seen_channel_ids = set()  # 用於跟踪已看到的頻道ID
@@ -143,7 +154,8 @@ def get_all_channels(ua, timeout):
         print(f"📡 正在獲取頻道集合 {set_id}...")
         url = f'https://api2.4gtv.tv/Channel/GetChannelBySetId/{set_id}/pc/L/V'
         headers = {"accept": "*/*", "origin": "https://www.4gtv.tv", "referer": "https://www.4gtv.tv/", "User-AAgent": ua}
-        scraper = create_scraper_with_proxy(ua)
+        # 使用不帶代理的scraper獲取頻道列表
+        scraper = create_scraper_without_proxy(ua)
         
         try:
             resp = scraper.get(url, headers=headers, timeout=timeout)
@@ -169,7 +181,7 @@ def get_all_channels(ua, timeout):
     return all_channels
 
 def get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key, auth_val, ua, timeout, max_retries=MAX_RETRIES):
-    """帶重試機制的獲取頻道URL函數"""
+    """帶重試機制的獲取頻道URL函數 - 使用代理"""
     # 檢查緩存
     current_time = time.time()
     cache_key = f"{channel_id}_{fnCHANNEL_ID}"
@@ -199,6 +211,7 @@ def get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key
                 "fsASSET_ID": channel_id,
                 "fsDEVICE_TYPE": "mobile"
             }
+            # 使用帶代理的scraper獲取播放地址
             scraper = create_scraper_with_proxy(ua)
             
             resp = scraper.post('https://api2.4gtv.tv/App/GetChannelUrl2', headers=headers, json=payload, timeout=timeout)
@@ -328,13 +341,19 @@ def generate_m3u_playlist(user, password, ua, timeout, output_dir="playlist", de
         print(f"📝 生成的 UUID: {fsenc_key}")
         print(f"🔐 生成的認證: {auth_val}")
         
+        # 顯示代理信息
+        proxies = get_proxies()
+        if proxies:
+            print(f"🔌 播放地址獲取將使用代理: {proxies}")
+        else:
+            print("🔌 播放地址獲取不使用代理")
+        
         fsVALUE = sign_in_4gtv(user, password, fsenc_key, auth_val, ua, timeout, max_retries=3)
         
         if not fsVALUE:
             print("❌ 登錄失敗，請檢查:")
             print("   - 賬號密碼是否正確")
             print("   - 網絡連接是否正常")
-            print("   - 代理設置是否正確")
             return False
         
         print("📡 正在獲取頻道清單...")
@@ -449,11 +468,6 @@ def main():
         HTTP_PROXY = args.http_proxy
     if args.https_proxy:
         HTTPS_PROXY = args.https_proxy
-    
-    # 顯示代理信息
-    proxies = get_proxies()
-    if proxies:
-        print(f"🔌 使用代理: {proxies}")
     
     if args.generate_playlist:
         success = generate_m3u_playlist(
