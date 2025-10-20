@@ -34,25 +34,26 @@ MAX_RETRIES = 1  # 最大重試次數
 DEFAULT_USER = os.environ.get('GTV_USER', '')
 DEFAULT_PASS = os.environ.get('GTV_PASS', '')
 
+# 代理設置(可被環境變量覆蓋)
+HTTP_PROXY = os.environ.get('http_proxy', '')
+HTTPS_PROXY = os.environ.get('https_proxy', '')
+
 # 記憶體緩存
 cache_play_urls = {}
 CACHE_EXPIRATION_TIME = 86400  # 24小時有效期
 
 def get_proxies():
-    """從環境變量獲取代理配置"""
-    http_proxy = os.environ.get('http_proxy') or os.environ.get('HTTP_PROXY')
-    https_proxy = os.environ.get('https_proxy') or os.environ.get('HTTPS_PROXY')
-    
+    """從環境變量獲取代理設置"""
     proxies = {}
-    if http_proxy:
-        proxies['http'] = http_proxy
-    if https_proxy:
-        proxies['https'] = https_proxy
-    
+    if HTTP_PROXY:
+        proxies['http'] = HTTP_PROXY
+    if HTTPS_PROXY:
+        proxies['https'] = HTTPS_PROXY
     return proxies if proxies else None
 
-def setup_scraper_with_proxy(scraper, ua):
-    """設置帶有代理的scraper"""
+def create_scraper_with_proxy(ua):
+    """創建帶有代理支持的scraper"""
+    scraper = cloudscraper.create_scraper()
     scraper.headers.update({"User-Agent": ua})
     
     # 設置代理
@@ -93,8 +94,7 @@ def sign_in_4gtv(user, password, fsenc_key, auth_val, ua, timeout):
         "User-Agent": ua
     }
     payload = {"fsUSER": user, "fsPASSWORD": password, "fsENC_KEY": fsenc_key}
-    scraper = cloudscraper.create_scraper()
-    scraper = setup_scraper_with_proxy(scraper, ua)
+    scraper = create_scraper_with_proxy(ua)
     
     resp = scraper.post(url, headers=headers, json=payload, timeout=timeout)
     resp.raise_for_status()
@@ -111,8 +111,7 @@ def get_all_channels(ua, timeout):
         print(f"📡 正在獲取頻道集合 {set_id}...")
         url = f'https://api2.4gtv.tv/Channel/GetChannelBySetId/{set_id}/pc/L/V'
         headers = {"accept": "*/*", "origin": "https://www.4gtv.tv", "referer": "https://www.4gtv.tv/", "User-AAgent": ua}
-        scraper = cloudscraper.create_scraper()
-        scraper = setup_scraper_with_proxy(scraper, ua)
+        scraper = create_scraper_with_proxy(ua)
         
         try:
             resp = scraper.get(url, headers=headers, timeout=timeout)
@@ -164,8 +163,7 @@ def get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key
                 "fsASSET_ID": channel_id,
                 "fsDEVICE_TYPE": "mobile"
             }
-            scraper = cloudscraper.create_scraper()
-            scraper = setup_scraper_with_proxy(scraper, ua)
+            scraper = create_scraper_with_proxy(ua)
             
             resp = scraper.post('https://api2.4gtv.tv/App/GetChannelUrl2', headers=headers, json=payload, timeout=timeout)
             resp.raise_for_status()
@@ -341,8 +339,17 @@ def main():
     parser.add_argument('--delay', type=float, default=CHANNEL_DELAY, help='頻道之間的延遲時間(秒)')
     parser.add_argument('--retries', type=int, default=MAX_RETRIES, help='最大重試次數')
     parser.add_argument('--verbose', action='store_true', help='顯示詳細處理信息')
+    parser.add_argument('--http-proxy', type=str, help='HTTP代理服務器')
+    parser.add_argument('--https-proxy', type=str, help='HTTPS代理服務器')
     
     args = parser.parse_args()
+    
+    # 設置代理（命令行參數優先於環境變量）
+    global HTTP_PROXY, HTTPS_PROXY
+    if args.http_proxy:
+        HTTP_PROXY = args.http_proxy
+    if args.https_proxy:
+        HTTPS_PROXY = args.https_proxy
     
     if args.generate_playlist:
         success = generate_m3u_playlist(
