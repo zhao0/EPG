@@ -226,7 +226,7 @@ def get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key
 def get_highest_bitrate_url(master_url):
     """嘗試獲取更高質量的URL - 只對特定開頭的網址進行處理"""
     # 只對以 "https://4gtvfree-mozai.4gtv.tv" 開頭的網址進行處理
-    if master_url.startswith("https://4gtvfree-mozai.4gtv.tv") and 'index.m3u8' in master_url:
+    if master_url.startswith("https://4gtvfree-cds.cdn.hinet.net") and 'index.m3u8' in master_url:
         print(f"   📶 嘗試獲取高質量URL (1080p)...")
         return master_url.replace('index.m3u8', '1080.m3u8')
     
