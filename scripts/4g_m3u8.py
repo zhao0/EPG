@@ -209,7 +209,7 @@ def get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, fsVALUE, fsenc_key
             resp.raise_for_status()
             data = resp.json()
             if data.get('Success') and 'flstURLs' in data.get('Data', {}):
-                url = data['Data']['flstURLs'][1]
+                url = data['Data']['flstURLs'][0]
                 # 更新緩存
                 cache_play_urls[cache_key] = (current_time, url)
                 return url
