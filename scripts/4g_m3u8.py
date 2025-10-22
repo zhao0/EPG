@@ -206,8 +206,7 @@ def get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, device_id, fsenc_k
     return None
 
 def get_highest_bitrate_url(master_url):
-    """嘗試獲取更高質量的URL - 只對特定開頭的網址進行處理"""
-    # 只對以 "https://4gtvfree-mozai.4gtv.tv" 開頭的網址進行處理
+    """嘗試獲取更高質量的UR"""
     if master_url.startswith("https://4gtvfree-mozai.4gtv.tv") and 'index.m3u8' in master_url:
         print(f"   📶 嘗試獲取高質量URL (1080p)...")
         return master_url.replace('index.m3u8', '1080.m3u8')
@@ -238,7 +237,7 @@ def print_progress_bar(iteration, total, prefix='', suffix='', decimals=1, lengt
         print()
 
 def generate_m3u_playlist(ua, timeout, output_dir="playlist", delay=CHANNEL_DELAY):
-    """生成M3U播放清單 - 無需帳號登入"""
+    """生成M3U播放清單"""
     try:
         # 建立輸出目錄
         os.makedirs(output_dir, exist_ok=True)
@@ -246,7 +245,7 @@ def generate_m3u_playlist(ua, timeout, output_dir="playlist", delay=CHANNEL_DELA
         print("🔑 正在生成隨機設備認證信息...")
         # 生成隨機設備ID和認證信息
         device_id = generate_random_device_id()
-        fsenc_key = generate_random_device_id()  # 使用另一個隨機ID作為加密密鑰
+        fsenc_key = generate_random_device_id()
         auth_val = generate_4gtv_auth()
         
         print(f"   📱 設備ID: {device_id}")
