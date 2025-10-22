@@ -191,7 +191,7 @@ def get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, device_id, fsenc_k
             resp.raise_for_status()
             data = resp.json()
             if data.get('Success') and 'flstURLs' in data.get('Data', {}):
-                url = data['Data']['flstURLs'][0]
+                url = data['Data']['flstURLs'][1]
                 # 更新緩存
                 cache_play_urls[cache_key] = (current_time, url)
                 return url
@@ -207,8 +207,8 @@ def get_4gtv_channel_url_with_retry(channel_id, fnCHANNEL_ID, device_id, fsenc_k
 
 def get_highest_bitrate_url(master_url):
     """嘗試獲取更高質量的URL - 只對特定開頭的網址進行處理"""
-    # 只對以 "https://4gtvfree-cds.cdn.hinet.net" 開頭的網址進行處理
-    if master_url.startswith("https://4gtvfree-cds.cdn.hinet.net") and 'index.m3u8' in master_url:
+    # 只對以 "https://4gtvfree-mozai.4gtv.tv" 開頭的網址進行處理
+    if master_url.startswith("https://4gtvfree-mozai.4gtv.tv") and 'index.m3u8' in master_url:
         print(f"   📶 嘗試獲取高質量URL (1080p)...")
         return master_url.replace('index.m3u8', '1080.m3u8')
     
