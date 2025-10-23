@@ -2,8 +2,8 @@ name: Update 4GTV Playlist
 
 on:
   schedule:
-    # 每1小時運行一次（UTC時間）
-    - cron: '0 */1 * * *'
+    # 每4小時運行一次（UTC時間）
+    - cron: '0 */4 * * *'
   workflow_dispatch: # 允許手動觸發
 
 jobs:
