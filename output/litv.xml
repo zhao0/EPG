@@ -1,0 +1,2458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator="LITV-EPG-Generator" source="www.litv.tv">
+  <channel id="民視第一台">
+    <display-name lang="zh">民視第一台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv003_cover.jpg"/>
+  </channel>
+  <channel id="民視">
+    <display-name lang="zh">民視</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv155_cover.jpg"/>
+  </channel>
+  <channel id="綜藝大集合">
+    <display-name lang="zh">綜藝大集合</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel7_cover.jpg"/>
+  </channel>
+  <channel id="台視">
+    <display-name lang="zh">台視</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv066_cover.jpg"/>
+  </channel>
+  <channel id="包青天 1993版">
+    <display-name lang="zh">包青天 1993版</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel9_cover.jpg"/>
+  </channel>
+  <channel id="中視">
+    <display-name lang="zh">中視</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv040_cover.jpg"/>
+  </channel>
+  <programme channel="中視" start="20251030080000 +0800" stop="20251030090000 +0800">
+    <title lang="zh">財經早點名</title>
+  </programme>
+  <programme channel="中視" start="20251030083000 +0800" stop="20251030093000 +0800">
+    <title lang="zh">股市貴公子</title>
+  </programme>
+  <programme channel="中視" start="20251030090000 +0800" stop="20251030100000 +0800">
+    <title lang="zh">繞著幸福轉</title>
+  </programme>
+  <programme channel="中視" start="20251030100000 +0800" stop="20251030110000 +0800">
+    <title lang="zh">完全省錢戀愛手冊</title>
+    <sub-title lang="zh">Love On a Shoestring</sub-title>
+    <desc lang="zh">Love On a Shoestring</desc>
+  </programme>
+  <programme channel="中視" start="20251030110000 +0800" stop="20251030120000 +0800">
+    <title lang="zh">繞著幸福轉</title>
+  </programme>
+  <programme channel="中視" start="20251030115800 +0800" stop="20251030125800 +0800">
+    <title lang="zh">中視午間新聞</title>
+  </programme>
+  <programme channel="中視" start="20251030130000 +0800" stop="20251030140000 +0800">
+    <title lang="zh">MIT台灣誌</title>
+  </programme>
+  <programme channel="中視" start="20251030140000 +0800" stop="20251030150000 +0800">
+    <title lang="zh">股林高手</title>
+  </programme>
+  <programme channel="中視" start="20251030143000 +0800" stop="20251030153000 +0800">
+    <title lang="zh">股市薇積分</title>
+  </programme>
+  <programme channel="中視" start="20251030150000 +0800" stop="20251030160000 +0800">
+    <title lang="zh">價值型投資</title>
+  </programme>
+  <programme channel="中視" start="20251030153000 +0800" stop="20251030163000 +0800">
+    <title lang="zh">金錢道</title>
+  </programme>
+  <programme channel="中視" start="20251030160000 +0800" stop="20251030170000 +0800">
+    <title lang="zh">完全省錢戀愛手冊</title>
+    <sub-title lang="zh">Love On a Shoestring</sub-title>
+    <desc lang="zh">Love On a Shoestring</desc>
+  </programme>
+  <programme channel="中視" start="20251030170000 +0800" stop="20251030180000 +0800">
+    <title lang="zh">中視新聞</title>
+  </programme>
+  <programme channel="中視" start="20251030172800 +0800" stop="20251030182800 +0800">
+    <title lang="zh">中視新聞</title>
+  </programme>
+  <programme channel="中視" start="20251030175800 +0800" stop="20251030185800 +0800">
+    <title lang="zh">中視新聞</title>
+  </programme>
+  <programme channel="中視" start="20251030185800 +0800" stop="20251030195800 +0800">
+    <title lang="zh">中視新聞全球報導</title>
+  </programme>
+  <programme channel="中視" start="20251030200000 +0800" stop="20251030210000 +0800">
+    <title lang="zh">完全省錢戀愛手冊</title>
+    <sub-title lang="zh">Love On a Shoestring</sub-title>
+    <desc lang="zh">Love On a Shoestring</desc>
+  </programme>
+  <programme channel="中視" start="20251030210000 +0800" stop="20251030220000 +0800">
+    <title lang="zh">完全省錢戀愛手冊</title>
+    <sub-title lang="zh">Love On a Shoestring</sub-title>
+    <desc lang="zh">Love On a Shoestring</desc>
+  </programme>
+  <programme channel="中視" start="20251030220000 +0800" stop="20251030230000 +0800">
+    <title lang="zh">唱歌給你聽</title>
+  </programme>
+  <programme channel="中視" start="20251030230000 +0800" stop="20251031000000 +0800">
+    <title lang="zh">大陸尋奇</title>
+  </programme>
+  <programme channel="中視" start="20251031000000 +0800" stop="20251031010000 +0800">
+    <title lang="zh">完全省錢戀愛手冊</title>
+    <sub-title lang="zh">Love On a Shoestring</sub-title>
+    <desc lang="zh">Love On a Shoestring</desc>
+  </programme>
+  <programme channel="中視" start="20251031010000 +0800" stop="20251031020000 +0800">
+    <title lang="zh">完全省錢戀愛手冊</title>
+    <sub-title lang="zh">Love On a Shoestring</sub-title>
+    <desc lang="zh">Love On a Shoestring</desc>
+  </programme>
+  <programme channel="中視" start="20251031020000 +0800" stop="20251031030000 +0800">
+    <title lang="zh">中視新聞</title>
+  </programme>
+  <programme channel="中視" start="20251031030000 +0800" stop="20251031040000 +0800">
+    <title lang="zh">台灣味道</title>
+  </programme>
+  <programme channel="中視" start="20251031033000 +0800" stop="20251031043000 +0800">
+    <title lang="zh">台灣味道</title>
+  </programme>
+  <programme channel="中視" start="20251031040000 +0800" stop="20251031050000 +0800">
+    <title lang="zh">MIT台灣誌</title>
+  </programme>
+  <programme channel="中視" start="20251031050000 +0800" stop="20251031060000 +0800">
+    <title lang="zh">大陸尋奇</title>
+  </programme>
+  <programme channel="中視" start="20251031060000 +0800" stop="20251031070000 +0800">
+    <title lang="zh">中視新聞</title>
+  </programme>
+  <programme channel="中視" start="20251031070000 +0800" stop="20251031080000 +0800">
+    <title lang="zh">中視早安新聞</title>
+  </programme>
+  <programme channel="中視" start="20251031080000 +0800" stop="20251031090000 +0800">
+    <title lang="zh">財經早點名</title>
+  </programme>
+  <programme channel="中視" start="20251031083000 +0800" stop="20251031093000 +0800">
+    <title lang="zh">股市貴公子</title>
+  </programme>
+  <programme channel="中視" start="20251031090000 +0800" stop="20251031100000 +0800">
+    <title lang="zh">繞著幸福轉</title>
+  </programme>
+  <programme channel="中視" start="20251031100000 +0800" stop="20251031110000 +0800">
+    <title lang="zh">完全省錢戀愛手冊</title>
+    <sub-title lang="zh">Love On a Shoestring</sub-title>
+    <desc lang="zh">Love On a Shoestring</desc>
+  </programme>
+  <programme channel="中視" start="20251031110000 +0800" stop="20251031120000 +0800">
+    <title lang="zh">繞著幸福轉</title>
+  </programme>
+  <programme channel="中視" start="20251031115800 +0800" stop="20251031125800 +0800">
+    <title lang="zh">中視午間新聞</title>
+  </programme>
+  <programme channel="中視" start="20251031130000 +0800" stop="20251031140000 +0800">
+    <title lang="zh">MIT台灣誌</title>
+  </programme>
+  <programme channel="中視" start="20251031140000 +0800" stop="20251031150000 +0800">
+    <title lang="zh">股林高手</title>
+  </programme>
+  <programme channel="中視" start="20251031143000 +0800" stop="20251031153000 +0800">
+    <title lang="zh">股市薇積分</title>
+  </programme>
+  <programme channel="中視" start="20251031150000 +0800" stop="20251031160000 +0800">
+    <title lang="zh">價值型投資</title>
+  </programme>
+  <programme channel="中視" start="20251031153000 +0800" stop="20251031163000 +0800">
+    <title lang="zh">金錢道</title>
+  </programme>
+  <programme channel="中視" start="20251031160000 +0800" stop="20251031170000 +0800">
+    <title lang="zh">完全省錢戀愛手冊</title>
+    <sub-title lang="zh">Love On a Shoestring</sub-title>
+    <desc lang="zh">Love On a Shoestring</desc>
+  </programme>
+  <programme channel="中視" start="20251031170000 +0800" stop="20251031180000 +0800">
+    <title lang="zh">中視新聞</title>
+  </programme>
+  <programme channel="中視" start="20251031172800 +0800" stop="20251031182800 +0800">
+    <title lang="zh">中視新聞</title>
+  </programme>
+  <programme channel="中視" start="20251031175800 +0800" stop="20251031185800 +0800">
+    <title lang="zh">中視新聞</title>
+  </programme>
+  <programme channel="中視" start="20251031185800 +0800" stop="20251031195800 +0800">
+    <title lang="zh">中視新聞全球報導</title>
+  </programme>
+  <programme channel="中視" start="20251031200000 +0800" stop="20251031210000 +0800">
+    <title lang="zh">完全省錢戀愛手冊</title>
+    <sub-title lang="zh">Love On a Shoestring</sub-title>
+    <desc lang="zh">Love On a Shoestring</desc>
+  </programme>
+  <programme channel="中視" start="20251031210000 +0800" stop="20251031220000 +0800">
+    <title lang="zh">完全省錢戀愛手冊</title>
+    <sub-title lang="zh">Love On a Shoestring</sub-title>
+    <desc lang="zh">Love On a Shoestring</desc>
+  </programme>
+  <programme channel="中視" start="20251031220000 +0800" stop="20251031230000 +0800">
+    <title lang="zh">唱歌給你聽</title>
+  </programme>
+  <programme channel="中視" start="20251031230000 +0800" stop="20251101000000 +0800">
+    <title lang="zh">大陸尋奇</title>
+  </programme>
+  <programme channel="中視" start="20251101000000 +0800" stop="20251101010000 +0800">
+    <title lang="zh">完全省錢戀愛手冊</title>
+    <sub-title lang="zh">Love On a Shoestring</sub-title>
+    <desc lang="zh">Love On a Shoestring</desc>
+  </programme>
+  <programme channel="中視" start="20251101010000 +0800" stop="20251101020000 +0800">
+    <title lang="zh">完全省錢戀愛手冊</title>
+    <sub-title lang="zh">Love On a Shoestring</sub-title>
+    <desc lang="zh">Love On a Shoestring</desc>
+  </programme>
+  <programme channel="中視" start="20251101020000 +0800" stop="20251101030000 +0800">
+    <title lang="zh">中視新聞</title>
+  </programme>
+  <programme channel="中視" start="20251101030000 +0800" stop="20251101040000 +0800">
+    <title lang="zh">台灣味道</title>
+  </programme>
+  <programme channel="中視" start="20251101033000 +0800" stop="20251101043000 +0800">
+    <title lang="zh">台灣味道</title>
+  </programme>
+  <programme channel="中視" start="20251101040000 +0800" stop="20251101050000 +0800">
+    <title lang="zh">MIT台灣誌</title>
+  </programme>
+  <programme channel="中視" start="20251101050000 +0800" stop="20251101060000 +0800">
+    <title lang="zh">飢餓遊戲</title>
+    <sub-title lang="zh">The Hunger Games</sub-title>
+    <desc lang="zh">The Hunger Games</desc>
+  </programme>
+  <programme channel="中視" start="20251101070000 +0800" stop="20251101080000 +0800">
+    <title lang="zh">中視早安新聞</title>
+  </programme>
+  <programme channel="中視" start="20251101080000 +0800" stop="20251101090000 +0800">
+    <title lang="zh">MIT台灣誌</title>
+  </programme>
+  <programme channel="中視" start="20251101090000 +0800" stop="20251101100000 +0800">
+    <title lang="zh">繞著幸福轉</title>
+  </programme>
+  <programme channel="中視" start="20251101100000 +0800" stop="20251101110000 +0800">
+    <title lang="zh">繞著幸福轉</title>
+  </programme>
+  <programme channel="中視" start="20251101110000 +0800" stop="20251101120000 +0800">
+    <title lang="zh">中視新聞</title>
+  </programme>
+  <programme channel="中視" start="20251101115800 +0800" stop="20251101125800 +0800">
+    <title lang="zh">中視午間新聞</title>
+  </programme>
+  <programme channel="中視" start="20251101130000 +0800" stop="20251101140000 +0800">
+    <title lang="zh">驚奇旅明星</title>
+  </programme>
+  <programme channel="中視" start="20251101150000 +0800" stop="20251101160000 +0800">
+    <title lang="zh">60分鐘</title>
+  </programme>
+  <programme channel="中視" start="20251101160000 +0800" stop="20251101170000 +0800">
+    <title lang="zh">中視新聞</title>
+  </programme>
+  <programme channel="中視" start="20251101170000 +0800" stop="20251101180000 +0800">
+    <title lang="zh">飢餓遊戲</title>
+    <sub-title lang="zh">The Hunger Games</sub-title>
+    <desc lang="zh">The Hunger Games</desc>
+  </programme>
+  <programme channel="中視" start="20251101185700 +0800" stop="20251101195700 +0800">
+    <title lang="zh">中視新聞全球報導</title>
+  </programme>
+  <programme channel="中視" start="20251101200000 +0800" stop="20251101210000 +0800">
+    <title lang="zh">綜藝一級棒</title>
+  </programme>
+  <programme channel="中視" start="20251101220000 +0800" stop="20251101230000 +0800">
+    <title lang="zh">綜藝玩很大</title>
+    <sub-title lang="zh">Mr. Player</sub-title>
+    <desc lang="zh">Mr. Player</desc>
+  </programme>
+  <programme channel="中視" start="20251102000000 +0800" stop="20251102010000 +0800">
+    <title lang="zh">飢餓遊戲</title>
+    <sub-title lang="zh">The Hunger Games</sub-title>
+    <desc lang="zh">The Hunger Games</desc>
+  </programme>
+  <programme channel="中視" start="20251102020000 +0800" stop="20251102030000 +0800">
+    <title lang="zh">綜藝一級棒</title>
+  </programme>
+  <programme channel="中視" start="20251102040000 +0800" stop="20251102050000 +0800">
+    <title lang="zh">綜藝玩很大</title>
+    <sub-title lang="zh">Mr. Player</sub-title>
+    <desc lang="zh">Mr. Player</desc>
+  </programme>
+  <programme channel="中視" start="20251102060000 +0800" stop="20251102070000 +0800">
+    <title lang="zh">大陸尋奇</title>
+  </programme>
+  <programme channel="中視" start="20251102070000 +0800" stop="20251102080000 +0800">
+    <title lang="zh">中視早安新聞</title>
+  </programme>
+  <programme channel="中視" start="20251102080000 +0800" stop="20251102090000 +0800">
+    <title lang="zh">中視新聞</title>
+  </programme>
+  <programme channel="中視" start="20251102090000 +0800" stop="20251102100000 +0800">
+    <title lang="zh">繞著幸福轉</title>
+  </programme>
+  <programme channel="中視" start="20251102100000 +0800" stop="20251102110000 +0800">
+    <title lang="zh">繞著幸福轉</title>
+  </programme>
+  <programme channel="中視" start="20251102110000 +0800" stop="20251102120000 +0800">
+    <title lang="zh">中視新聞</title>
+  </programme>
+  <programme channel="中視" start="20251102115800 +0800" stop="20251102125800 +0800">
+    <title lang="zh">中視午間新聞</title>
+  </programme>
+  <programme channel="中視" start="20251102130000 +0800" stop="20251102140000 +0800">
+    <title lang="zh">綜藝一級棒</title>
+  </programme>
+  <programme channel="中視" start="20251102150000 +0800" stop="20251102160000 +0800">
+    <title lang="zh">中視新聞</title>
+  </programme>
+  <programme channel="中視" start="20251102160000 +0800" stop="20251102170000 +0800">
+    <title lang="zh">綜藝玩很大</title>
+    <sub-title lang="zh">Mr. Player</sub-title>
+    <desc lang="zh">Mr. Player</desc>
+  </programme>
+  <programme channel="中視" start="20251102175700 +0800" stop="20251102185700 +0800">
+    <title lang="zh">大陸尋奇</title>
+  </programme>
+  <programme channel="中視" start="20251102185700 +0800" stop="20251102195700 +0800">
+    <title lang="zh">中視新聞全球報導</title>
+  </programme>
+  <programme channel="中視" start="20251102200000 +0800" stop="20251102210000 +0800">
+    <title lang="zh">飢餓遊戲</title>
+    <sub-title lang="zh">The Hunger Games</sub-title>
+    <desc lang="zh">The Hunger Games</desc>
+  </programme>
+  <programme channel="中視" start="20251102220000 +0800" stop="20251102230000 +0800">
+    <title lang="zh">驚奇旅明星</title>
+  </programme>
+  <channel id="天才衝衝衝 精選">
+    <display-name lang="zh">天才衝衝衝 精選</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel11_cover.jpg"/>
+  </channel>
+  <channel id="華視">
+    <display-name lang="zh">華視</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv041_cover.jpg"/>
+  </channel>
+  <programme channel="華視" start="20251030080000 +0800" stop="20251030090000 +0800">
+    <title lang="zh">GOOD Morning台灣</title>
+    <sub-title lang="zh">Good Morning Taiwan, CTS</sub-title>
+    <desc lang="zh">Good Morning Taiwan, CTS</desc>
+  </programme>
+  <programme channel="華視" start="20251030090000 +0800" stop="20251030100000 +0800">
+    <title lang="zh">華視0900整點新聞</title>
+  </programme>
+  <programme channel="華視" start="20251030100000 +0800" stop="20251030110000 +0800">
+    <title lang="zh">華視1000新聞搶先報</title>
+  </programme>
+  <programme channel="華視" start="20251030110000 +0800" stop="20251030120000 +0800">
+    <title lang="zh">華視1100新聞搶先報</title>
+  </programme>
+  <programme channel="華視" start="20251030112800 +0800" stop="20251030122800 +0800">
+    <title lang="zh">台灣好味道</title>
+    <sub-title lang="zh">#23</sub-title>
+    <desc lang="zh">#23</desc>
+  </programme>
+  <programme channel="華視" start="20251030115800 +0800" stop="20251030125800 +0800">
+    <title lang="zh">華視午間新聞</title>
+  </programme>
+  <programme channel="華視" start="20251030130000 +0800" stop="20251030140000 +0800">
+    <title lang="zh">包青天</title>
+    <sub-title lang="zh">孿生劫(4)</sub-title>
+    <desc lang="zh">孿生劫(4)</desc>
+  </programme>
+  <programme channel="華視" start="20251030140000 +0800" stop="20251030150000 +0800">
+    <title lang="zh">莒光園地</title>
+    <sub-title lang="zh">#2654</sub-title>
+    <desc lang="zh">#2654</desc>
+  </programme>
+  <programme channel="華視" start="20251030153000 +0800" stop="20251030163000 +0800">
+    <title lang="zh">台灣好味道</title>
+    <sub-title lang="zh">#23</sub-title>
+    <desc lang="zh">#23</desc>
+  </programme>
+  <programme channel="華視" start="20251030160000 +0800" stop="20251030170000 +0800">
+    <title lang="zh">華視在地新聞</title>
+  </programme>
+  <programme channel="華視" start="20251030165300 +0800" stop="20251030175300 +0800">
+    <title lang="zh">華視生活廣場</title>
+  </programme>
+  <programme channel="華視" start="20251030165800 +0800" stop="20251030175800 +0800">
+    <title lang="zh">華視新聞晚報</title>
+  </programme>
+  <programme channel="華視" start="20251030185800 +0800" stop="20251030195800 +0800">
+    <title lang="zh">華視晚間新聞</title>
+  </programme>
+  <programme channel="華視" start="20251030200000 +0800" stop="20251030210000 +0800">
+    <title lang="zh">華視2000整點新聞</title>
+  </programme>
+  <programme channel="華視" start="20251030210000 +0800" stop="20251030220000 +0800">
+    <title lang="zh">World News 9</title>
+    <sub-title lang="zh">世界新聞9</sub-title>
+    <desc lang="zh">世界新聞9</desc>
+  </programme>
+  <programme channel="華視" start="20251030220000 +0800" stop="20251030230000 +0800">
+    <title lang="zh">王牌辯護人</title>
+    <sub-title lang="zh">#8</sub-title>
+    <desc lang="zh">#8</desc>
+  </programme>
+  <programme channel="華視" start="20251030230000 +0800" stop="20251031000000 +0800">
+    <title lang="zh">華視夜間新聞</title>
+  </programme>
+  <programme channel="華視" start="20251030235500 +0800" stop="20251031005500 +0800">
+    <title lang="zh">華視生活廣場</title>
+  </programme>
+  <programme channel="華視" start="20251031000000 +0800" stop="20251031010000 +0800">
+    <title lang="zh">華視2400夜間新聞</title>
+  </programme>
+  <programme channel="華視" start="20251031010000 +0800" stop="20251031020000 +0800">
+    <title lang="zh">World News 9</title>
+    <sub-title lang="zh">世界新聞9</sub-title>
+    <desc lang="zh">世界新聞9</desc>
+  </programme>
+  <programme channel="華視" start="20251031020000 +0800" stop="20251031030000 +0800">
+    <title lang="zh">王牌辯護人</title>
+    <sub-title lang="zh">#8</sub-title>
+    <desc lang="zh">#8</desc>
+  </programme>
+  <programme channel="華視" start="20251031030000 +0800" stop="20251031040000 +0800">
+    <title lang="zh">我們發財了</title>
+    <sub-title lang="zh">#14</sub-title>
+    <desc lang="zh">#14</desc>
+  </programme>
+  <programme channel="華視" start="20251031040000 +0800" stop="20251031050000 +0800">
+    <title lang="zh">收播</title>
+    <sub-title lang="zh">aka:系統測試</sub-title>
+    <desc lang="zh">aka:系統測試</desc>
+  </programme>
+  <programme channel="華視" start="20251031050000 +0800" stop="20251031060000 +0800">
+    <title lang="zh">咱的城咱的市咱台灣的味</title>
+    <sub-title lang="zh">台東 山珍海味齊聚東台灣</sub-title>
+    <desc lang="zh">台東 山珍海味齊聚東台灣</desc>
+  </programme>
+  <programme channel="華視" start="20251031060000 +0800" stop="20251031070000 +0800">
+    <title lang="zh">華視2400夜間新聞</title>
+  </programme>
+  <programme channel="華視" start="20251031070000 +0800" stop="20251031080000 +0800">
+    <title lang="zh">GOOD Morning台灣</title>
+    <sub-title lang="zh">Good Morning Taiwan, CTS</sub-title>
+    <desc lang="zh">Good Morning Taiwan, CTS</desc>
+  </programme>
+  <programme channel="華視" start="20251031080000 +0800" stop="20251031090000 +0800">
+    <title lang="zh">施公奇案</title>
+    <sub-title lang="zh">#90_變臉(4)</sub-title>
+    <desc lang="zh">#90_變臉(4)</desc>
+  </programme>
+  <programme channel="華視" start="20251031090000 +0800" stop="20251031100000 +0800">
+    <title lang="zh">施公奇案</title>
+    <sub-title lang="zh">#91_變臉(5)</sub-title>
+    <desc lang="zh">#91_變臉(5)</desc>
+  </programme>
+  <programme channel="華視" start="20251031100000 +0800" stop="20251031110000 +0800">
+    <title lang="zh">包青天</title>
+    <sub-title lang="zh">孿生劫(3)</sub-title>
+    <desc lang="zh">孿生劫(3)</desc>
+  </programme>
+  <programme channel="華視" start="20251031105800 +0800" stop="20251031115800 +0800">
+    <title lang="zh">包青天</title>
+    <sub-title lang="zh">孿生劫(4)</sub-title>
+    <desc lang="zh">孿生劫(4)</desc>
+  </programme>
+  <programme channel="華視" start="20251031115800 +0800" stop="20251031125800 +0800">
+    <title lang="zh">華視午間新聞</title>
+  </programme>
+  <programme channel="華視" start="20251031130000 +0800" stop="20251031140000 +0800">
+    <title lang="zh">包青天</title>
+    <sub-title lang="zh">孿生劫(5)(完)</sub-title>
+    <desc lang="zh">孿生劫(5)(完)</desc>
+  </programme>
+  <programme channel="華視" start="20251031140000 +0800" stop="20251031150000 +0800">
+    <title lang="zh">莒光園地</title>
+    <sub-title lang="zh">#2654</sub-title>
+    <desc lang="zh">#2654</desc>
+  </programme>
+  <programme channel="華視" start="20251031153000 +0800" stop="20251031163000 +0800">
+    <title lang="zh">台灣好味道</title>
+    <sub-title lang="zh">#24(完)</sub-title>
+    <desc lang="zh">#24(完)</desc>
+  </programme>
+  <programme channel="華視" start="20251031155500 +0800" stop="20251031165500 +0800">
+    <title lang="zh">華視新聞雜誌</title>
+    <sub-title lang="zh">#2480</sub-title>
+    <desc lang="zh">#2480</desc>
+  </programme>
+  <programme channel="華視" start="20251031165400 +0800" stop="20251031175400 +0800">
+    <title lang="zh">華視生活廣場</title>
+  </programme>
+  <programme channel="華視" start="20251031165800 +0800" stop="20251031175800 +0800">
+    <title lang="zh">華視新聞晚報</title>
+  </programme>
+  <programme channel="華視" start="20251031185800 +0800" stop="20251031195800 +0800">
+    <title lang="zh">華視晚間新聞</title>
+  </programme>
+  <programme channel="華視" start="20251031200000 +0800" stop="20251031210000 +0800">
+    <title lang="zh">華視2000整點新聞</title>
+  </programme>
+  <programme channel="華視" start="20251031210000 +0800" stop="20251031220000 +0800">
+    <title lang="zh">World News 9</title>
+    <sub-title lang="zh">世界新聞9</sub-title>
+    <desc lang="zh">世界新聞9</desc>
+  </programme>
+  <programme channel="華視" start="20251031220000 +0800" stop="20251031230000 +0800">
+    <title lang="zh">健康早知道</title>
+    <sub-title lang="zh">#4</sub-title>
+    <desc lang="zh">#4</desc>
+  </programme>
+  <programme channel="華視" start="20251031223000 +0800" stop="20251031233000 +0800">
+    <title lang="zh">台灣好滋味</title>
+    <sub-title lang="zh">#7</sub-title>
+    <desc lang="zh">#7</desc>
+  </programme>
+  <programme channel="華視" start="20251031230000 +0800" stop="20251101000000 +0800">
+    <title lang="zh">華視夜間新聞</title>
+  </programme>
+  <programme channel="華視" start="20251031235500 +0800" stop="20251101005500 +0800">
+    <title lang="zh">華視生活廣場</title>
+  </programme>
+  <programme channel="華視" start="20251101000000 +0800" stop="20251101010000 +0800">
+    <title lang="zh">華視2400夜間新聞</title>
+  </programme>
+  <programme channel="華視" start="20251101010000 +0800" stop="20251101020000 +0800">
+    <title lang="zh">World News 9</title>
+    <sub-title lang="zh">世界新聞9</sub-title>
+    <desc lang="zh">世界新聞9</desc>
+  </programme>
+  <programme channel="華視" start="20251101020000 +0800" stop="20251101030000 +0800">
+    <title lang="zh">健康早知道</title>
+    <sub-title lang="zh">#4</sub-title>
+    <desc lang="zh">#4</desc>
+  </programme>
+  <programme channel="華視" start="20251101023000 +0800" stop="20251101033000 +0800">
+    <title lang="zh">台灣好滋味</title>
+    <sub-title lang="zh">#7</sub-title>
+    <desc lang="zh">#7</desc>
+  </programme>
+  <programme channel="華視" start="20251101030000 +0800" stop="20251101040000 +0800">
+    <title lang="zh">我們發財了</title>
+    <sub-title lang="zh">#15</sub-title>
+    <desc lang="zh">#15</desc>
+  </programme>
+  <programme channel="華視" start="20251101040000 +0800" stop="20251101050000 +0800">
+    <title lang="zh">我們發財了</title>
+    <sub-title lang="zh">#16</sub-title>
+    <desc lang="zh">#16</desc>
+  </programme>
+  <programme channel="華視" start="20251101050000 +0800" stop="20251101060000 +0800">
+    <title lang="zh">人生清理員</title>
+    <sub-title lang="zh">#9(完)</sub-title>
+    <desc lang="zh">#9(完)</desc>
+  </programme>
+  <programme channel="華視" start="20251101060000 +0800" stop="20251101070000 +0800">
+    <title lang="zh">華視台語新聞雜誌</title>
+    <sub-title lang="zh">#781</sub-title>
+    <desc lang="zh">#781</desc>
+  </programme>
+  <programme channel="華視" start="20251101070000 +0800" stop="20251101080000 +0800">
+    <title lang="zh">GOOD Morning台灣</title>
+    <sub-title lang="zh">Good Morning Taiwan, CTS</sub-title>
+    <desc lang="zh">Good Morning Taiwan, CTS</desc>
+  </programme>
+  <programme channel="華視" start="20251101080000 +0800" stop="20251101090000 +0800">
+    <title lang="zh">莒光園地</title>
+    <sub-title lang="zh">#2654</sub-title>
+    <desc lang="zh">#2654</desc>
+  </programme>
+  <programme channel="華視" start="20251101093000 +0800" stop="20251101103000 +0800">
+    <title lang="zh">華視0900整點新聞</title>
+  </programme>
+  <programme channel="華視" start="20251101100000 +0800" stop="20251101110000 +0800">
+    <title lang="zh">華視1000新聞搶先報</title>
+  </programme>
+  <programme channel="華視" start="20251101110000 +0800" stop="20251101120000 +0800">
+    <title lang="zh">華視1100新聞搶先報</title>
+  </programme>
+  <programme channel="華視" start="20251101115700 +0800" stop="20251101125700 +0800">
+    <title lang="zh">華視午間新聞</title>
+  </programme>
+  <programme channel="華視" start="20251101130000 +0800" stop="20251101140000 +0800">
+    <title lang="zh">台灣好味道</title>
+    <sub-title lang="zh">#24(完)</sub-title>
+    <desc lang="zh">#24(完)</desc>
+  </programme>
+  <programme channel="華視" start="20251101133000 +0800" stop="20251101143000 +0800">
+    <title lang="zh">台灣好味道</title>
+    <sub-title lang="zh">#1</sub-title>
+    <desc lang="zh">#1</desc>
+  </programme>
+  <programme channel="華視" start="20251101140000 +0800" stop="20251101150000 +0800">
+    <title lang="zh">俗女養成記</title>
+    <sub-title lang="zh">#9</sub-title>
+    <desc lang="zh">#9</desc>
+  </programme>
+  <programme channel="華視" start="20251101150000 +0800" stop="20251101160000 +0800">
+    <title lang="zh">三國演議</title>
+    <sub-title lang="zh">#456</sub-title>
+    <desc lang="zh">#456</desc>
+  </programme>
+  <programme channel="華視" start="20251101160000 +0800" stop="20251101170000 +0800">
+    <title lang="zh">華視1600整點新聞</title>
+  </programme>
+  <programme channel="華視" start="20251101170000 +0800" stop="20251101180000 +0800">
+    <title lang="zh">華視新聞晚報</title>
+  </programme>
+  <programme channel="華視" start="20251101190000 +0800" stop="20251101200000 +0800">
+    <title lang="zh">華視晚間新聞</title>
+  </programme>
+  <programme channel="華視" start="20251101200000 +0800" stop="20251101210000 +0800">
+    <title lang="zh">台灣體能王</title>
+    <sub-title lang="zh">S1,#10</sub-title>
+    <desc lang="zh">S1,#10</desc>
+  </programme>
+  <programme channel="華視" start="20251101220000 +0800" stop="20251101230000 +0800">
+    <title lang="zh">天才衝衝衝</title>
+    <sub-title lang="zh">#989</sub-title>
+    <desc lang="zh">#989</desc>
+  </programme>
+  <programme channel="華視" start="20251102001500 +0800" stop="20251102011500 +0800">
+    <title lang="zh">台灣體能王</title>
+    <sub-title lang="zh">S1,#10</sub-title>
+    <desc lang="zh">S1,#10</desc>
+  </programme>
+  <programme channel="華視" start="20251102021500 +0800" stop="20251102031500 +0800">
+    <title lang="zh">華視2400夜間新聞</title>
+  </programme>
+  <programme channel="華視" start="20251102030000 +0800" stop="20251102040000 +0800">
+    <title lang="zh">華視新聞雜誌</title>
+    <sub-title lang="zh">#2481</sub-title>
+    <desc lang="zh">#2481</desc>
+  </programme>
+  <programme channel="華視" start="20251102040000 +0800" stop="20251102050000 +0800">
+    <title lang="zh">華視2400夜間新聞</title>
+  </programme>
+  <programme channel="華視" start="20251102050000 +0800" stop="20251102060000 +0800">
+    <title lang="zh">花甲少年趣旅行</title>
+    <sub-title lang="zh">S4,#15_香港(下)(完)</sub-title>
+    <desc lang="zh">S4,#15_香港(下)(完)</desc>
+  </programme>
+  <programme channel="華視" start="20251102070000 +0800" stop="20251102080000 +0800">
+    <title lang="zh">GOOD Morning台灣</title>
+    <sub-title lang="zh">Good Morning Taiwan, CTS</sub-title>
+    <desc lang="zh">Good Morning Taiwan, CTS</desc>
+  </programme>
+  <programme channel="華視" start="20251102080000 +0800" stop="20251102090000 +0800">
+    <title lang="zh">GOOD Morning台灣</title>
+    <sub-title lang="zh">Good Morning Taiwan, CTS</sub-title>
+    <desc lang="zh">Good Morning Taiwan, CTS</desc>
+  </programme>
+  <programme channel="華視" start="20251102090000 +0800" stop="20251102100000 +0800">
+    <title lang="zh">華視0900整點新聞</title>
+  </programme>
+  <programme channel="華視" start="20251102100000 +0800" stop="20251102110000 +0800">
+    <title lang="zh">華視1000新聞搶先報</title>
+  </programme>
+  <programme channel="華視" start="20251102110000 +0800" stop="20251102120000 +0800">
+    <title lang="zh">華視1100新聞搶先報</title>
+  </programme>
+  <programme channel="華視" start="20251102115900 +0800" stop="20251102125900 +0800">
+    <title lang="zh">華視午間新聞</title>
+  </programme>
+  <programme channel="華視" start="20251102125500 +0800" stop="20251102135500 +0800">
+    <title lang="zh">華視生活廣場</title>
+  </programme>
+  <programme channel="華視" start="20251102130000 +0800" stop="20251102140000 +0800">
+    <title lang="zh">天才衝衝衝</title>
+    <sub-title lang="zh">#988</sub-title>
+    <desc lang="zh">#988</desc>
+  </programme>
+  <programme channel="華視" start="20251102150000 +0800" stop="20251102160000 +0800">
+    <title lang="zh">台灣體能王</title>
+    <sub-title lang="zh">S1,#10</sub-title>
+    <desc lang="zh">S1,#10</desc>
+  </programme>
+  <programme channel="華視" start="20251102170000 +0800" stop="20251102180000 +0800">
+    <title lang="zh">華視新聞晚報</title>
+  </programme>
+  <programme channel="華視" start="20251102190000 +0800" stop="20251102200000 +0800">
+    <title lang="zh">華視晚間新聞</title>
+  </programme>
+  <programme channel="華視" start="20251102200000 +0800" stop="20251102210000 +0800">
+    <title lang="zh">新聞高峰會</title>
+    <sub-title lang="zh">#157</sub-title>
+    <desc lang="zh">#157</desc>
+  </programme>
+  <programme channel="華視" start="20251102210000 +0800" stop="20251102220000 +0800">
+    <title lang="zh">國際線，出發！</title>
+    <sub-title lang="zh">#267</sub-title>
+    <desc lang="zh">#267</desc>
+  </programme>
+  <programme channel="華視" start="20251102220000 +0800" stop="20251102230000 +0800">
+    <title lang="zh">我們與惡的距離II</title>
+    <sub-title lang="zh">#4_幸國│大丈夫</sub-title>
+    <desc lang="zh">#4_幸國│大丈夫</desc>
+  </programme>
+  <programme channel="華視" start="20251102231500 +0800" stop="20251103001500 +0800">
+    <title lang="zh">我們與惡的距離II</title>
+    <sub-title lang="zh">#4_幸國│大丈夫</sub-title>
+    <desc lang="zh">#4_幸國│大丈夫</desc>
+  </programme>
+  <channel id="公視戲劇">
+    <display-name lang="zh">公視戲劇</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv042_cover.jpg"/>
+  </channel>
+  <channel id="好消息">
+    <display-name lang="zh">好消息</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-ftv16_cover.jpg"/>
+  </channel>
+  <channel id="空中英語教室HD頻道">
+    <display-name lang="zh">空中英語教室HD頻道</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-playout955_cover.jpg"/>
+  </channel>
+  <channel id="全民星攻略">
+    <display-name lang="zh">全民星攻略</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel18_cover.jpg"/>
+  </channel>
+  <channel id="最強綜藝秀">
+    <display-name lang="zh">最強綜藝秀</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel21_cover.jpg"/>
+  </channel>
+  <channel id="去有風的地方">
+    <display-name lang="zh">去有風的地方</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel22_cover.jpg"/>
+  </channel>
+  <channel id="台灣1001個故事">
+    <display-name lang="zh">台灣1001個故事</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel23_cover.jpg"/>
+  </channel>
+  <channel id="台灣啟示錄">
+    <display-name lang="zh">台灣啟示錄</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel25_cover.jpg"/>
+  </channel>
+  <channel id="WTO姐妹會">
+    <display-name lang="zh">WTO姐妹會</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel26_cover.jpg"/>
+  </channel>
+  <channel id="民視綜藝台">
+    <display-name lang="zh">民視綜藝台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv004_cover.jpg"/>
+  </channel>
+  <channel id="東森娛樂台">
+    <display-name lang="zh">東森娛樂台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel32_cover.jpg"/>
+  </channel>
+  <channel id="亞洲旅遊台">
+    <display-name lang="zh">亞洲旅遊台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn17_cover.jpg"/>
+  </channel>
+  <channel id="韶華若錦">
+    <display-name lang="zh">韶華若錦</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel35_cover.jpg"/>
+  </channel>
+  <channel id="中天亞洲台">
+    <display-name lang="zh">中天亞洲台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv109_cover.jpg"/>
+  </channel>
+  <channel id="小明星大跟班">
+    <display-name lang="zh">小明星大跟班</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel37_cover.jpg"/>
+  </channel>
+  <channel id="龍華戲劇台">
+    <display-name lang="zh">龍華戲劇台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn18_cover.jpg"/>
+  </channel>
+  <channel id="TVBS精采台">
+    <display-name lang="zh">TVBS精采台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv067_cover.jpg"/>
+  </channel>
+  <channel id="TVBS歡樂台">
+    <display-name lang="zh">TVBS歡樂台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv068_cover.jpg"/>
+  </channel>
+  <channel id="東森購物1台">
+    <display-name lang="zh">東森購物1台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv102_cover.jpg"/>
+  </channel>
+  <channel id="民視影劇台">
+    <display-name lang="zh">民視影劇台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-ftv09_cover.jpg"/>
+  </channel>
+  <channel id="龍華偶像台">
+    <display-name lang="zh">龍華偶像台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn12_cover.jpg"/>
+  </channel>
+  <channel id="龍華日韓台">
+    <display-name lang="zh">龍華日韓台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn11_cover.jpg"/>
+  </channel>
+  <channel id="Yes娛樂">
+    <display-name lang="zh">Yes娛樂</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel47_cover.jpg"/>
+  </channel>
+  <channel id="東森購物2台">
+    <display-name lang="zh">東森購物2台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv103_cover.jpg"/>
+  </channel>
+  <channel id="掏掏新聞">
+    <display-name lang="zh">掏掏新聞</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-playout50_cover.jpg"/>
+  </channel>
+  <channel id="東森新聞台">
+    <display-name lang="zh">東森新聞台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv152_cover.jpg"/>
+  </channel>
+  <programme channel="東森新聞台" start="20251030090000 +0800" stop="20251030100000 +0800">
+    <title lang="zh">東森0900台灣新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251030100000 +0800" stop="20251030110000 +0800">
+    <title lang="zh">東森午安新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251030150000 +0800" stop="20251030160000 +0800">
+    <title lang="zh">東森大社會</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251030160000 +0800" stop="20251030170000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251030200000 +0800" stop="20251030210000 +0800">
+    <title lang="zh">東森世界日報</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251030220000 +0800" stop="20251030230000 +0800">
+    <title lang="zh">關鍵時刻</title>
+    <sub-title lang="zh">2025/10/30</sub-title>
+    <desc lang="zh">2025/10/30</desc>
+  </programme>
+  <programme channel="東森新聞台" start="20251031000000 +0800" stop="20251031010000 +0800">
+    <title lang="zh">東森2400夜間新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251031010000 +0800" stop="20251031020000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251031030000 +0800" stop="20251031040000 +0800">
+    <title lang="zh">東森世界日報</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251031050000 +0800" stop="20251031060000 +0800">
+    <title lang="zh">東森2400夜間新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251031060000 +0800" stop="20251031070000 +0800">
+    <title lang="zh">Hello 台灣</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251031090000 +0800" stop="20251031100000 +0800">
+    <title lang="zh">東森0900台灣新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251031100000 +0800" stop="20251031110000 +0800">
+    <title lang="zh">東森午安新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251031150000 +0800" stop="20251031160000 +0800">
+    <title lang="zh">東森大社會</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251031160000 +0800" stop="20251031170000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251031200000 +0800" stop="20251031210000 +0800">
+    <title lang="zh">東森世界日報</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251031220000 +0800" stop="20251031230000 +0800">
+    <title lang="zh">關鍵時刻</title>
+    <sub-title lang="zh">2025/10/31</sub-title>
+    <desc lang="zh">2025/10/31</desc>
+  </programme>
+  <programme channel="東森新聞台" start="20251101000000 +0800" stop="20251101010000 +0800">
+    <title lang="zh">東森2400夜間新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251101010000 +0800" stop="20251101020000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251101030000 +0800" stop="20251101040000 +0800">
+    <title lang="zh">東森世界日報</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251101050000 +0800" stop="20251101060000 +0800">
+    <title lang="zh">東森2400夜間新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251101060000 +0800" stop="20251101070000 +0800">
+    <title lang="zh">Hello 台灣</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251101090000 +0800" stop="20251101100000 +0800">
+    <title lang="zh">東森0900台灣新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251101100000 +0800" stop="20251101110000 +0800">
+    <title lang="zh">東森午安新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251101110000 +0800" stop="20251101120000 +0800">
+    <title lang="zh">東森午安新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251101150000 +0800" stop="20251101160000 +0800">
+    <title lang="zh">東森大社會</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251101160000 +0800" stop="20251101170000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251101200000 +0800" stop="20251101210000 +0800">
+    <title lang="zh">東森世界日報</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251101220000 +0800" stop="20251101230000 +0800">
+    <title lang="zh">東森2200夜間新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251101230000 +0800" stop="20251102000000 +0800">
+    <title lang="zh">台灣一千零一個故事</title>
+    <sub-title lang="zh">Taiwan 1001 stories</sub-title>
+    <desc lang="zh">Taiwan 1001 stories</desc>
+  </programme>
+  <programme channel="東森新聞台" start="20251102000000 +0800" stop="20251102010000 +0800">
+    <title lang="zh">東森2400夜間新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251102010000 +0800" stop="20251102020000 +0800">
+    <title lang="zh">東森2400夜間新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251102020000 +0800" stop="20251102030000 +0800">
+    <title lang="zh">台灣一千零一個故事</title>
+    <sub-title lang="zh">Taiwan 1001 stories</sub-title>
+    <desc lang="zh">Taiwan 1001 stories</desc>
+  </programme>
+  <programme channel="東森新聞台" start="20251102030000 +0800" stop="20251102040000 +0800">
+    <title lang="zh">東森世界日報</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251102050000 +0800" stop="20251102060000 +0800">
+    <title lang="zh">東森2400夜間新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251102060000 +0800" stop="20251102070000 +0800">
+    <title lang="zh">Hello 台灣</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251102090000 +0800" stop="20251102100000 +0800">
+    <title lang="zh">東森0900台灣新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251102100000 +0800" stop="20251102110000 +0800">
+    <title lang="zh">東森午安新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251102110000 +0800" stop="20251102120000 +0800">
+    <title lang="zh">東森午安新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251102150000 +0800" stop="20251102160000 +0800">
+    <title lang="zh">海峽拚經濟</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251102153000 +0800" stop="20251102163000 +0800">
+    <title lang="zh">東森大社會</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251102160000 +0800" stop="20251102170000 +0800">
+    <title lang="zh">東森晚間新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251102200000 +0800" stop="20251102210000 +0800">
+    <title lang="zh">東森世界日報</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251102220000 +0800" stop="20251102230000 +0800">
+    <title lang="zh">東森2200夜間新聞</title>
+  </programme>
+  <programme channel="東森新聞台" start="20251102230000 +0800" stop="20251103000000 +0800">
+    <title lang="zh">台灣啟示錄</title>
+  </programme>
+  <channel id="華視新聞">
+    <display-name lang="zh">華視新聞</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv052_cover.jpg"/>
+  </channel>
+  <channel id="民視新聞台">
+    <display-name lang="zh">民視新聞台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-ftv13_cover.jpg"/>
+  </channel>
+  <programme channel="民視新聞台" start="20251030080000 +0800" stop="20251030090000 +0800">
+    <title lang="zh">民視八點晨間新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251030083000 +0800" stop="20251030093000 +0800">
+    <title lang="zh">國際早報</title>
+    <sub-title lang="zh">aka:國際早點名</sub-title>
+    <desc lang="zh">aka:國際早點名</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251030090000 +0800" stop="20251030100000 +0800">
+    <title lang="zh">民視九點新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251030100000 +0800" stop="20251030110000 +0800">
+    <title lang="zh">民視十點台語新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251030110000 +0800" stop="20251030120000 +0800">
+    <title lang="zh">民視十一點新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251030115000 +0800" stop="20251030125000 +0800">
+    <title lang="zh">民視午間新聞</title>
+    <sub-title lang="zh">aka:民視無線午間新聞</sub-title>
+    <desc lang="zh">aka:民視無線午間新聞</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251030135000 +0800" stop="20251030145000 +0800">
+    <title lang="zh">頭家來開講</title>
+    <sub-title lang="zh">2025年#58</sub-title>
+    <desc lang="zh">2025年#58</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251030160000 +0800" stop="20251030170000 +0800">
+    <title lang="zh">民視四點新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251030163000 +0800" stop="20251030173000 +0800">
+    <title lang="zh">民視國際新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251030170000 +0800" stop="20251030180000 +0800">
+    <title lang="zh">民視五點新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251030175500 +0800" stop="20251030185500 +0800">
+    <title lang="zh">民視晚間新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251030195500 +0800" stop="20251030205500 +0800">
+    <title lang="zh">台灣最前線</title>
+    <sub-title lang="zh">#2327</sub-title>
+    <desc lang="zh">#2327</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251030215500 +0800" stop="20251030225500 +0800">
+    <title lang="zh">台灣向前行</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251030233000 +0800" stop="20251031003000 +0800">
+    <title lang="zh">民視午夜新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251031010000 +0800" stop="20251031020000 +0800">
+    <title lang="zh">民視英語新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251031013000 +0800" stop="20251031023000 +0800">
+    <title lang="zh">台灣看世界</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251031023000 +0800" stop="20251031033000 +0800">
+    <title lang="zh">民視晚間新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251031033000 +0800" stop="20251031043000 +0800">
+    <title lang="zh">台灣最前線</title>
+    <sub-title lang="zh">#2327</sub-title>
+    <desc lang="zh">#2327</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251031053000 +0800" stop="20251031063000 +0800">
+    <title lang="zh">民視午夜新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251031060000 +0800" stop="20251031070000 +0800">
+    <title lang="zh">民視六點晨間新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251031070000 +0800" stop="20251031080000 +0800">
+    <title lang="zh">民視七點晨間新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251031080000 +0800" stop="20251031090000 +0800">
+    <title lang="zh">民視八點晨間新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251031083000 +0800" stop="20251031093000 +0800">
+    <title lang="zh">國際早報</title>
+    <sub-title lang="zh">aka:國際早點名</sub-title>
+    <desc lang="zh">aka:國際早點名</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251031090000 +0800" stop="20251031100000 +0800">
+    <title lang="zh">民視九點新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251031100000 +0800" stop="20251031110000 +0800">
+    <title lang="zh">民視十點台語新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251031110000 +0800" stop="20251031120000 +0800">
+    <title lang="zh">民視十一點新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251031115000 +0800" stop="20251031125000 +0800">
+    <title lang="zh">民視午間新聞</title>
+    <sub-title lang="zh">aka:民視無線午間新聞</sub-title>
+    <desc lang="zh">aka:民視無線午間新聞</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251031135000 +0800" stop="20251031145000 +0800">
+    <title lang="zh">頭家來開講</title>
+    <sub-title lang="zh">2025年#59</sub-title>
+    <desc lang="zh">2025年#59</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251031160000 +0800" stop="20251031170000 +0800">
+    <title lang="zh">民視四點新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251031163000 +0800" stop="20251031173000 +0800">
+    <title lang="zh">民視國際新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251031170000 +0800" stop="20251031180000 +0800">
+    <title lang="zh">民視五點新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251031175500 +0800" stop="20251031185500 +0800">
+    <title lang="zh">民視晚間新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251031195500 +0800" stop="20251031205500 +0800">
+    <title lang="zh">台灣最前線</title>
+    <sub-title lang="zh">#2328</sub-title>
+    <desc lang="zh">#2328</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251031215500 +0800" stop="20251031225500 +0800">
+    <title lang="zh">台灣向前行</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251031233000 +0800" stop="20251101003000 +0800">
+    <title lang="zh">民視午夜新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251101010000 +0800" stop="20251101020000 +0800">
+    <title lang="zh">民視英語新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251101013000 +0800" stop="20251101023000 +0800">
+    <title lang="zh">台灣看世界</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251101023000 +0800" stop="20251101033000 +0800">
+    <title lang="zh">民視晚間新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251101033000 +0800" stop="20251101043000 +0800">
+    <title lang="zh">台灣最前線</title>
+    <sub-title lang="zh">#2328</sub-title>
+    <desc lang="zh">#2328</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251101053000 +0800" stop="20251101063000 +0800">
+    <title lang="zh">民視午夜新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251101060000 +0800" stop="20251101070000 +0800">
+    <title lang="zh">民視六點晨間新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251101070000 +0800" stop="20251101080000 +0800">
+    <title lang="zh">民視七點晨間新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251101080000 +0800" stop="20251101090000 +0800">
+    <title lang="zh">民視八點晨間新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251101083000 +0800" stop="20251101093000 +0800">
+    <title lang="zh">國際早報</title>
+    <sub-title lang="zh">aka:國際早點名</sub-title>
+    <desc lang="zh">aka:國際早點名</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251101090000 +0800" stop="20251101100000 +0800">
+    <title lang="zh">民視九點新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251101100000 +0800" stop="20251101110000 +0800">
+    <title lang="zh">民視十點新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251101110000 +0800" stop="20251101120000 +0800">
+    <title lang="zh">民視十一點新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251101115000 +0800" stop="20251101125000 +0800">
+    <title lang="zh">民視午間新聞</title>
+    <sub-title lang="zh">aka:民視無線午間新聞</sub-title>
+    <desc lang="zh">aka:民視無線午間新聞</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251101135000 +0800" stop="20251101145000 +0800">
+    <title lang="zh">頭家來開講</title>
+    <sub-title lang="zh">2025年#60</sub-title>
+    <desc lang="zh">2025年#60</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251101160000 +0800" stop="20251101170000 +0800">
+    <title lang="zh">民視四點新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251101170000 +0800" stop="20251101180000 +0800">
+    <title lang="zh">民視新聞觀測站</title>
+    <sub-title lang="zh">#867</sub-title>
+    <desc lang="zh">#867</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251101174500 +0800" stop="20251101184500 +0800">
+    <title lang="zh">民視晚間新聞搶先報</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251101175500 +0800" stop="20251101185500 +0800">
+    <title lang="zh">民視晚間新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251101195500 +0800" stop="20251101205500 +0800">
+    <title lang="zh">台灣最前線</title>
+    <sub-title lang="zh">#2329</sub-title>
+    <desc lang="zh">#2329</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251101215500 +0800" stop="20251101225500 +0800">
+    <title lang="zh">能戰!全民新視界</title>
+    <sub-title lang="zh">Fighting ROC Taiwan Hero</sub-title>
+    <desc lang="zh">Fighting ROC Taiwan Hero</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251101225500 +0800" stop="20251101235500 +0800">
+    <title lang="zh">民視異言堂</title>
+    <sub-title lang="zh">#1384</sub-title>
+    <desc lang="zh">#1384</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251101235500 +0800" stop="20251102005500 +0800">
+    <title lang="zh">民視午夜新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251102010000 +0800" stop="20251102020000 +0800">
+    <title lang="zh">民視新聞觀測站</title>
+    <sub-title lang="zh">#867</sub-title>
+    <desc lang="zh">#867</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251102020000 +0800" stop="20251102030000 +0800">
+    <title lang="zh">財經週末趴</title>
+    <sub-title lang="zh">Saturday Money Party</sub-title>
+    <desc lang="zh">Saturday Money Party</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251102030000 +0800" stop="20251102040000 +0800">
+    <title lang="zh">民視異言堂</title>
+    <sub-title lang="zh">#1384</sub-title>
+    <desc lang="zh">#1384</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251102040000 +0800" stop="20251102050000 +0800">
+    <title lang="zh">台灣最前線</title>
+    <sub-title lang="zh">#2329</sub-title>
+    <desc lang="zh">#2329</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251102060000 +0800" stop="20251102070000 +0800">
+    <title lang="zh">民視六點晨間新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251102070000 +0800" stop="20251102080000 +0800">
+    <title lang="zh">民視七點晨間新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251102080000 +0800" stop="20251102090000 +0800">
+    <title lang="zh">民視八點晨間新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251102083000 +0800" stop="20251102093000 +0800">
+    <title lang="zh">國際早報</title>
+    <sub-title lang="zh">aka:國際早點名</sub-title>
+    <desc lang="zh">aka:國際早點名</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251102090000 +0800" stop="20251102100000 +0800">
+    <title lang="zh">民視九點新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251102100000 +0800" stop="20251102110000 +0800">
+    <title lang="zh">民視十點新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251102110000 +0800" stop="20251102120000 +0800">
+    <title lang="zh">決策者</title>
+    <sub-title lang="zh">聚界潔能董事長谷月涵</sub-title>
+    <desc lang="zh">聚界潔能董事長谷月涵</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251102114500 +0800" stop="20251102124500 +0800">
+    <title lang="zh">民視午間新聞</title>
+    <sub-title lang="zh">aka:民視無線午間新聞</sub-title>
+    <desc lang="zh">aka:民視無線午間新聞</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251102140000 +0800" stop="20251102150000 +0800">
+    <title lang="zh">民視二點新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251102150000 +0800" stop="20251102160000 +0800">
+    <title lang="zh">科學再發現</title>
+    <sub-title lang="zh">Science Discovery</sub-title>
+    <desc lang="zh">Science Discovery</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251102160000 +0800" stop="20251102170000 +0800">
+    <title lang="zh">財經週日趴</title>
+    <sub-title lang="zh">Sunday Money Party</sub-title>
+    <desc lang="zh">Sunday Money Party</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251102170000 +0800" stop="20251102180000 +0800">
+    <title lang="zh">民視五點新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251102175500 +0800" stop="20251102185500 +0800">
+    <title lang="zh">民視晚間新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251102195500 +0800" stop="20251102205500 +0800">
+    <title lang="zh">台灣演義</title>
+    <sub-title lang="zh">#757</sub-title>
+    <desc lang="zh">#757</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251102210000 +0800" stop="20251102220000 +0800">
+    <title lang="zh">民視全球新聞</title>
+  </programme>
+  <programme channel="民視新聞台" start="20251102220000 +0800" stop="20251102230000 +0800">
+    <title lang="zh">挑戰新聞</title>
+    <sub-title lang="zh">#1681</sub-title>
+    <desc lang="zh">#1681</desc>
+  </programme>
+  <programme channel="民視新聞台" start="20251102233000 +0800" stop="20251103003000 +0800">
+    <title lang="zh">民視午夜新聞</title>
+  </programme>
+  <channel id="三立新聞iNEWS">
+    <display-name lang="zh">三立新聞iNEWS</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/iNEWS_cover.jpg"/>
+  </channel>
+  <programme channel="三立新聞iNEWS" start="20251030080000 +0800" stop="20251030090000 +0800">
+    <title lang="zh">iNEWS財經早報</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251030090000 +0800" stop="20251030100000 +0800">
+    <title lang="zh">iNEWS0900整點新聞</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251030095500 +0800" stop="20251030105500 +0800">
+    <title lang="zh">iNEWS1000整點新聞</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251030105500 +0800" stop="20251030115500 +0800">
+    <title lang="zh">iNEWS1100整點新聞</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251030115500 +0800" stop="20251030125500 +0800">
+    <title lang="zh">iNEWS財經午報</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251030140000 +0800" stop="20251030150000 +0800">
+    <title lang="zh">台股大贏家</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251030143000 +0800" stop="20251030153000 +0800">
+    <title lang="zh">iNEWS1430整點新聞</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251030150000 +0800" stop="20251030160000 +0800">
+    <title lang="zh">智富食代</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251030160000 +0800" stop="20251030170000 +0800">
+    <title lang="zh">iNEWS 1600 整點新聞</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251030170000 +0800" stop="20251030180000 +0800">
+    <title lang="zh">1700iNEWS整點新聞</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251030180000 +0800" stop="20251030190000 +0800">
+    <title lang="zh">1819錢進大頭條</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251030195500 +0800" stop="20251030205500 +0800">
+    <title lang="zh">iNEWS大世界</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251030203000 +0800" stop="20251030213000 +0800">
+    <title lang="zh">全民i彩券(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251030210000 +0800" stop="20251030220000 +0800">
+    <title lang="zh">關我什麼事(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251030230000 +0800" stop="20251031000000 +0800">
+    <title lang="zh">2300iNEWS財經夜世界</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031000000 +0800" stop="20251031010000 +0800">
+    <title lang="zh">關我什麼事</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031020000 +0800" stop="20251031030000 +0800">
+    <title lang="zh">2300iNEWS財經夜世界</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031030000 +0800" stop="20251031040000 +0800">
+    <title lang="zh">1819錢進大頭條</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031050000 +0800" stop="20251031060000 +0800">
+    <title lang="zh">iNEWS 1600 整點新聞</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031060000 +0800" stop="20251031070000 +0800">
+    <title lang="zh">2300iNEWS財經夜世界</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031070000 +0800" stop="20251031080000 +0800">
+    <title lang="zh">iNEWS財經早報</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031080000 +0800" stop="20251031090000 +0800">
+    <title lang="zh">iNEWS財經早報</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031090000 +0800" stop="20251031100000 +0800">
+    <title lang="zh">iNEWS0900整點新聞</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031095500 +0800" stop="20251031105500 +0800">
+    <title lang="zh">iNEWS1000整點新聞</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031105500 +0800" stop="20251031115500 +0800">
+    <title lang="zh">iNEWS1100整點新聞</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031115500 +0800" stop="20251031125500 +0800">
+    <title lang="zh">iNEWS財經午報</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031140000 +0800" stop="20251031150000 +0800">
+    <title lang="zh">台股大贏家</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031143000 +0800" stop="20251031153000 +0800">
+    <title lang="zh">iNEWS1430整點新聞</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031150000 +0800" stop="20251031160000 +0800">
+    <title lang="zh">智富食代</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031160000 +0800" stop="20251031170000 +0800">
+    <title lang="zh">iNEWS 1600 整點新聞</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031170000 +0800" stop="20251031180000 +0800">
+    <title lang="zh">1700iNEWS整點新聞</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031180000 +0800" stop="20251031190000 +0800">
+    <title lang="zh">1819錢進大頭條</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031200000 +0800" stop="20251031210000 +0800">
+    <title lang="zh">全民i彩券(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031203000 +0800" stop="20251031213000 +0800">
+    <title lang="zh">全民i彩券(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031210000 +0800" stop="20251031220000 +0800">
+    <title lang="zh">關我什麼事(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251031230000 +0800" stop="20251101000000 +0800">
+    <title lang="zh">2300iNEWS財經夜世界</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101000000 +0800" stop="20251101010000 +0800">
+    <title lang="zh">關我什麼事</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101020000 +0800" stop="20251101030000 +0800">
+    <title lang="zh">2300iNEWS財經夜世界</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101030000 +0800" stop="20251101040000 +0800">
+    <title lang="zh">1819錢進大頭條</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101050000 +0800" stop="20251101060000 +0800">
+    <title lang="zh">iNEWS 1600 整點新聞</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101060000 +0800" stop="20251101070000 +0800">
+    <title lang="zh">2300iNEWS財經夜世界</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101070000 +0800" stop="20251101080000 +0800">
+    <title lang="zh">消失的國界(iNEWS看世界)(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101080000 +0800" stop="20251101090000 +0800">
+    <title lang="zh">全球新食力</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101090000 +0800" stop="20251101100000 +0800">
+    <title lang="zh">祝你健康</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101100000 +0800" stop="20251101110000 +0800">
+    <title lang="zh">台灣新思路</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101110000 +0800" stop="20251101120000 +0800">
+    <title lang="zh">iNEWS1100整點新聞</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101115500 +0800" stop="20251101125500 +0800">
+    <title lang="zh">iNEWS財經午報</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101125500 +0800" stop="20251101135500 +0800">
+    <title lang="zh">吃貨請跟上(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101135500 +0800" stop="20251101145500 +0800">
+    <title lang="zh">我們一家人 閃耀新家園</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101145500 +0800" stop="20251101155500 +0800">
+    <title lang="zh">好宅敲敲門</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101155500 +0800" stop="20251101165500 +0800">
+    <title lang="zh">消失的國界(iNEWS看世界</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101165500 +0800" stop="20251101175500 +0800">
+    <title lang="zh">iNEWS財經晚報</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101175500 +0800" stop="20251101185500 +0800">
+    <title lang="zh">1819錢進大頭條</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101195500 +0800" stop="20251101205500 +0800">
+    <title lang="zh">iNEWS大世界</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101203000 +0800" stop="20251101213000 +0800">
+    <title lang="zh">全民i彩券(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101210000 +0800" stop="20251101220000 +0800">
+    <title lang="zh">Catch大錢潮(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101220000 +0800" stop="20251101230000 +0800">
+    <title lang="zh">MIT趨勢先知(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251101230000 +0800" stop="20251102000000 +0800">
+    <title lang="zh">驚爆新聞線(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102000000 +0800" stop="20251102010000 +0800">
+    <title lang="zh">驚爆新聞線(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102010000 +0800" stop="20251102020000 +0800">
+    <title lang="zh">Catch大錢潮</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102020000 +0800" stop="20251102030000 +0800">
+    <title lang="zh">MIT趨勢先知</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102030000 +0800" stop="20251102040000 +0800">
+    <title lang="zh">全球新食力</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102040000 +0800" stop="20251102050000 +0800">
+    <title lang="zh">1819錢進大頭條</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102050000 +0800" stop="20251102060000 +0800">
+    <title lang="zh">1819錢進大頭條</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102060000 +0800" stop="20251102070000 +0800">
+    <title lang="zh">吃貨請跟上</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102070000 +0800" stop="20251102080000 +0800">
+    <title lang="zh">台灣亮起來</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102080000 +0800" stop="20251102090000 +0800">
+    <title lang="zh">Catch大錢潮</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102090000 +0800" stop="20251102100000 +0800">
+    <title lang="zh">祝你健康(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102100000 +0800" stop="20251102110000 +0800">
+    <title lang="zh">我們一家人 閃耀新家園(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102110000 +0800" stop="20251102120000 +0800">
+    <title lang="zh">iNEWS1100整點新聞</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102120000 +0800" stop="20251102130000 +0800">
+    <title lang="zh">iNEWS財經午報</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102130000 +0800" stop="20251102140000 +0800">
+    <title lang="zh">好宅敲敲門(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102140000 +0800" stop="20251102150000 +0800">
+    <title lang="zh">全球新食力(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102150000 +0800" stop="20251102160000 +0800">
+    <title lang="zh">吃貨請跟上</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102160000 +0800" stop="20251102170000 +0800">
+    <title lang="zh">話時代人物</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102170000 +0800" stop="20251102180000 +0800">
+    <title lang="zh">iNEWS財經晚報</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102180000 +0800" stop="20251102190000 +0800">
+    <title lang="zh">1819錢進大頭條</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102200000 +0800" stop="20251102210000 +0800">
+    <title lang="zh">360大世界(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102210000 +0800" stop="20251102220000 +0800">
+    <title lang="zh">Catch大錢潮(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102220000 +0800" stop="20251102230000 +0800">
+    <title lang="zh">台灣新思路(首)</title>
+  </programme>
+  <programme channel="三立新聞iNEWS" start="20251102230000 +0800" stop="20251103000000 +0800">
+    <title lang="zh">驚爆新聞線(首)</title>
+  </programme>
+  <channel id="TVBS新聞">
+    <display-name lang="zh">TVBS新聞</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv072_cover.jpg"/>
+  </channel>
+  <programme channel="TVBS新聞" start="20251030080000 +0800" stop="20251030090000 +0800">
+    <title lang="zh">TVBSN早安台灣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251030090000 +0800" stop="20251030100000 +0800">
+    <title lang="zh">TVBSN上午9點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251030100000 +0800" stop="20251030110000 +0800">
+    <title lang="zh">TVBSN上午10點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251030110000 +0800" stop="20251030120000 +0800">
+    <title lang="zh">TVBSN上午11點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251030120000 +0800" stop="20251030130000 +0800">
+    <title lang="zh">TVBSN午間12 13新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251030130000 +0800" stop="20251030140000 +0800">
+    <title lang="zh">TVBSN午間12 13新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251030140000 +0800" stop="20251030150000 +0800">
+    <title lang="zh">1400說新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251030150000 +0800" stop="20251030160000 +0800">
+    <title lang="zh">TVBSN 15整點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251030160000 +0800" stop="20251030170000 +0800">
+    <title lang="zh">TVBSN 16整點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251030170000 +0800" stop="20251030180000 +0800">
+    <title lang="zh">TVBSN 17整點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251030180000 +0800" stop="20251030190000 +0800">
+    <title lang="zh">TVBSN晚間6 7新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251030190000 +0800" stop="20251030200000 +0800">
+    <title lang="zh">TVBSN晚間6 7新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251030200000 +0800" stop="20251030210000 +0800">
+    <title lang="zh">最前線新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251030210000 +0800" stop="20251030220000 +0800">
+    <title lang="zh">九點熱話題</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251030220000 +0800" stop="20251030230000 +0800">
+    <title lang="zh">十點不一樣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251030230000 +0800" stop="20251031000000 +0800">
+    <title lang="zh">新聞夜視界</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031000000 +0800" stop="20251031010000 +0800">
+    <title lang="zh">新聞夜視界</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031010000 +0800" stop="20251031020000 +0800">
+    <title lang="zh">十點不一樣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031020000 +0800" stop="20251031030000 +0800">
+    <title lang="zh">新聞夜視界</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031030000 +0800" stop="20251031040000 +0800">
+    <title lang="zh">九點熱話題</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031040000 +0800" stop="20251031050000 +0800">
+    <title lang="zh">九點熱話題</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031050000 +0800" stop="20251031060000 +0800">
+    <title lang="zh">十點不一樣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031060000 +0800" stop="20251031070000 +0800">
+    <title lang="zh">TVBSN早安台灣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031070000 +0800" stop="20251031080000 +0800">
+    <title lang="zh">TVBSN早安台灣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031080000 +0800" stop="20251031090000 +0800">
+    <title lang="zh">TVBSN早安台灣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031090000 +0800" stop="20251031100000 +0800">
+    <title lang="zh">TVBSN上午9點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031100000 +0800" stop="20251031110000 +0800">
+    <title lang="zh">TVBSN上午10點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031110000 +0800" stop="20251031120000 +0800">
+    <title lang="zh">TVBSN上午11點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031120000 +0800" stop="20251031130000 +0800">
+    <title lang="zh">TVBSN午間12 13新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031130000 +0800" stop="20251031140000 +0800">
+    <title lang="zh">TVBSN午間12 13新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031140000 +0800" stop="20251031150000 +0800">
+    <title lang="zh">1400說新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031150000 +0800" stop="20251031160000 +0800">
+    <title lang="zh">TVBSN 15整點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031160000 +0800" stop="20251031170000 +0800">
+    <title lang="zh">TVBSN 16整點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031170000 +0800" stop="20251031180000 +0800">
+    <title lang="zh">TVBSN 17整點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031180000 +0800" stop="20251031190000 +0800">
+    <title lang="zh">TVBSN晚間6 7新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031190000 +0800" stop="20251031200000 +0800">
+    <title lang="zh">TVBSN晚間6 7新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031200000 +0800" stop="20251031210000 +0800">
+    <title lang="zh">最前線新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031210000 +0800" stop="20251031220000 +0800">
+    <title lang="zh">九點熱話題</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031220000 +0800" stop="20251031230000 +0800">
+    <title lang="zh">十點不一樣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251031230000 +0800" stop="20251101000000 +0800">
+    <title lang="zh">新聞夜視界</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101000000 +0800" stop="20251101010000 +0800">
+    <title lang="zh">新聞夜視界</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101010000 +0800" stop="20251101020000 +0800">
+    <title lang="zh">十點不一樣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101020000 +0800" stop="20251101030000 +0800">
+    <title lang="zh">新聞夜視界</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101030000 +0800" stop="20251101040000 +0800">
+    <title lang="zh">九點熱話題</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101040000 +0800" stop="20251101050000 +0800">
+    <title lang="zh">九點熱話題</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101050000 +0800" stop="20251101060000 +0800">
+    <title lang="zh">十點不一樣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101060000 +0800" stop="20251101070000 +0800">
+    <title lang="zh">TVBSN早安台灣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101070000 +0800" stop="20251101080000 +0800">
+    <title lang="zh">TVBSN早安台灣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101080000 +0800" stop="20251101090000 +0800">
+    <title lang="zh">TVBSN早安台灣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101090000 +0800" stop="20251101100000 +0800">
+    <title lang="zh">TVBSN上午9點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101100000 +0800" stop="20251101110000 +0800">
+    <title lang="zh">TVBSN上午10點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101110000 +0800" stop="20251101120000 +0800">
+    <title lang="zh">TVBSN上午11點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101120000 +0800" stop="20251101130000 +0800">
+    <title lang="zh">TVBSN午間12 13新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101130000 +0800" stop="20251101140000 +0800">
+    <title lang="zh">TVBSN午間12 13新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101140000 +0800" stop="20251101150000 +0800">
+    <title lang="zh">1400說新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101150000 +0800" stop="20251101160000 +0800">
+    <title lang="zh">TVBSN 15整點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101160000 +0800" stop="20251101170000 +0800">
+    <title lang="zh">TVBSN 16整點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101170000 +0800" stop="20251101180000 +0800">
+    <title lang="zh">TVBSN 17整點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101180000 +0800" stop="20251101190000 +0800">
+    <title lang="zh">TVBSN晚間6 7新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101190000 +0800" stop="20251101200000 +0800">
+    <title lang="zh">TVBSN晚間6 7新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101200000 +0800" stop="20251101210000 +0800">
+    <title lang="zh">TVBSN晚間8點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101210000 +0800" stop="20251101220000 +0800">
+    <title lang="zh">九點熱話題</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101220000 +0800" stop="20251101230000 +0800">
+    <title lang="zh">十點不一樣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251101230000 +0800" stop="20251102000000 +0800">
+    <title lang="zh">新聞夜視界</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102000000 +0800" stop="20251102010000 +0800">
+    <title lang="zh">新聞夜視界</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102010000 +0800" stop="20251102020000 +0800">
+    <title lang="zh">十點不一樣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102020000 +0800" stop="20251102030000 +0800">
+    <title lang="zh">新聞夜視界</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102030000 +0800" stop="20251102040000 +0800">
+    <title lang="zh">新聞夜視界</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102040000 +0800" stop="20251102050000 +0800">
+    <title lang="zh">九點熱話題</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102050000 +0800" stop="20251102060000 +0800">
+    <title lang="zh">十點不一樣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102060000 +0800" stop="20251102070000 +0800">
+    <title lang="zh">TVBSN早安台灣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102070000 +0800" stop="20251102080000 +0800">
+    <title lang="zh">TVBSN早安台灣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102080000 +0800" stop="20251102090000 +0800">
+    <title lang="zh">TVBSN早安台灣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102090000 +0800" stop="20251102100000 +0800">
+    <title lang="zh">TVBSN上午9點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102100000 +0800" stop="20251102110000 +0800">
+    <title lang="zh">TVBSN上午10點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102110000 +0800" stop="20251102120000 +0800">
+    <title lang="zh">TVBSN上午11點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102120000 +0800" stop="20251102130000 +0800">
+    <title lang="zh">TVBSN午間12 13新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102130000 +0800" stop="20251102140000 +0800">
+    <title lang="zh">TVBSN午間12 13新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102140000 +0800" stop="20251102150000 +0800">
+    <title lang="zh">1400說新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102150000 +0800" stop="20251102160000 +0800">
+    <title lang="zh">TVBSN 15整點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102160000 +0800" stop="20251102170000 +0800">
+    <title lang="zh">TVBSN 16整點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102170000 +0800" stop="20251102180000 +0800">
+    <title lang="zh">TVBSN 17整點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102180000 +0800" stop="20251102190000 +0800">
+    <title lang="zh">TVBSN晚間6 7新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102190000 +0800" stop="20251102200000 +0800">
+    <title lang="zh">TVBSN晚間6 7新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102200000 +0800" stop="20251102210000 +0800">
+    <title lang="zh">TVBSN晚間8點新聞</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102210000 +0800" stop="20251102220000 +0800">
+    <title lang="zh">九點熱話題</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102220000 +0800" stop="20251102230000 +0800">
+    <title lang="zh">一步一腳印 發現新台灣</title>
+  </programme>
+  <programme channel="TVBS新聞" start="20251102230000 +0800" stop="20251103000000 +0800">
+    <title lang="zh">新聞夜視界</title>
+  </programme>
+  <channel id="TVBS">
+    <display-name lang="zh">TVBS</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv073_cover.jpg"/>
+  </channel>
+  <channel id="東森財經新聞台">
+    <display-name lang="zh">東森財經新聞台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv153_cover.jpg"/>
+  </channel>
+  <channel id="非凡新聞台">
+    <display-name lang="zh">非凡新聞台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv010_cover.jpg"/>
+  </channel>
+  <channel id="台視新聞">
+    <display-name lang="zh">台視新聞</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv051_cover.jpg"/>
+  </channel>
+  <channel id="中視新聞">
+    <display-name lang="zh">中視新聞</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv074_cover.jpg"/>
+  </channel>
+  <channel id="中天新聞台">
+    <display-name lang="zh">中天新聞台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv009_cover.jpg"/>
+  </channel>
+  <channel id="寰宇新聞台灣台">
+    <display-name lang="zh">寰宇新聞台灣台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn15_cover.jpg"/>
+  </channel>
+  <channel id="寰宇新聞台">
+    <display-name lang="zh">寰宇新聞台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn14_cover.jpg"/>
+  </channel>
+  <channel id="FOCUS焦點電影台">
+    <display-name lang="zh">FOCUS焦點電影台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel65_cover.jpg"/>
+  </channel>
+  <channel id="龍華經典台">
+    <display-name lang="zh">龍華經典台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn21_cover.jpg"/>
+  </channel>
+  <channel id="影迷數位電影台">
+    <display-name lang="zh">影迷數位電影台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv011_cover.jpg"/>
+  </channel>
+  <channel id="Golden Movies">
+    <display-name lang="zh">Golden Movies</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel70_cover.jpg"/>
+  </channel>
+  <channel id="龍華電影台">
+    <display-name lang="zh">龍華電影台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn03_cover.jpg"/>
+  </channel>
+  <programme channel="龍華電影台" start="20251030080000 +0800" stop="20251030090000 +0800">
+    <title lang="zh">神鵰俠侶</title>
+    <sub-title lang="zh">#18</sub-title>
+    <desc lang="zh">#18</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251030100000 +0800" stop="20251030110000 +0800">
+    <title lang="zh">A計劃</title>
+  </programme>
+  <programme channel="龍華電影台" start="20251030121000 +0800" stop="20251030131000 +0800">
+    <title lang="zh">金錢帝國</title>
+  </programme>
+  <programme channel="龍華電影台" start="20251030143000 +0800" stop="20251030153000 +0800">
+    <title lang="zh">從你的全世界路過</title>
+    <sub-title lang="zh">I Belonged to You</sub-title>
+    <desc lang="zh">I Belonged to You</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251030164500 +0800" stop="20251030174500 +0800">
+    <title lang="zh">黃飛鴻之鐵雞鬥蜈蚣</title>
+    <sub-title lang="zh">Last Hero In China</sub-title>
+    <desc lang="zh">Last Hero In China</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251030190000 +0800" stop="20251030200000 +0800">
+    <title lang="zh">英雄</title>
+    <sub-title lang="zh">Hero</sub-title>
+    <desc lang="zh">Hero</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251030210000 +0800" stop="20251030220000 +0800">
+    <title lang="zh">蘇乞兒之武功蓋世</title>
+    <sub-title lang="zh">Drunken Fist</sub-title>
+    <desc lang="zh">Drunken Fist</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251030223500 +0800" stop="20251030233500 +0800">
+    <title lang="zh">賭神之神</title>
+    <sub-title lang="zh">Return from the other World</sub-title>
+    <desc lang="zh">Return from the other World</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251031003500 +0800" stop="20251031013500 +0800">
+    <title lang="zh">非常警探</title>
+    <sub-title lang="zh">A Hard Day</sub-title>
+    <desc lang="zh">A Hard Day</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251031025000 +0800" stop="20251031035000 +0800">
+    <title lang="zh">我是大哥大！！劇場版</title>
+    <sub-title lang="zh">From Today, It’s My Turn!!</sub-title>
+    <desc lang="zh">From Today, It’s My Turn!!</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251031051000 +0800" stop="20251031061000 +0800">
+    <title lang="zh">第一爐香</title>
+    <sub-title lang="zh">Love After Love</sub-title>
+    <desc lang="zh">Love After Love</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251031080000 +0800" stop="20251031090000 +0800">
+    <title lang="zh">神鵰俠侶</title>
+    <sub-title lang="zh">#19</sub-title>
+    <desc lang="zh">#19</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251031100000 +0800" stop="20251031110000 +0800">
+    <title lang="zh">黃飛鴻</title>
+    <sub-title lang="zh">aka:武狀元黃飛鴻</sub-title>
+    <desc lang="zh">aka:武狀元黃飛鴻</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251031124500 +0800" stop="20251031134500 +0800">
+    <title lang="zh">中國最後一個太監</title>
+  </programme>
+  <programme channel="龍華電影台" start="20251031144000 +0800" stop="20251031154000 +0800">
+    <title lang="zh">天馬茶房</title>
+  </programme>
+  <programme channel="龍華電影台" start="20251031164000 +0800" stop="20251031174000 +0800">
+    <title lang="zh">嚦咕嚦咕新年財</title>
+  </programme>
+  <programme channel="龍華電影台" start="20251031184000 +0800" stop="20251031194000 +0800">
+    <title lang="zh">五億探長雷洛傳2父子情仇</title>
+    <sub-title lang="zh">aka:雷洛傳2之父子情仇</sub-title>
+    <desc lang="zh">aka:雷洛傳2之父子情仇</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251031210000 +0800" stop="20251031220000 +0800">
+    <title lang="zh">滿城盡帶黃金甲</title>
+  </programme>
+  <programme channel="龍華電影台" start="20251031232000 +0800" stop="20251101002000 +0800">
+    <title lang="zh">我是證人</title>
+    <sub-title lang="zh">The Witness</sub-title>
+    <desc lang="zh">The Witness</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251101014000 +0800" stop="20251101024000 +0800">
+    <title lang="zh">遮天：禁區</title>
+    <sub-title lang="zh">Forbidden Zone</sub-title>
+    <desc lang="zh">Forbidden Zone</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251101032500 +0800" stop="20251101042500 +0800">
+    <title lang="zh">高地戰</title>
+    <sub-title lang="zh">The Front Line</sub-title>
+    <desc lang="zh">The Front Line</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251101061000 +0800" stop="20251101071000 +0800">
+    <title lang="zh">唐山大兄</title>
+  </programme>
+  <programme channel="龍華電影台" start="20251101081500 +0800" stop="20251101091500 +0800">
+    <title lang="zh">十面埋伏</title>
+    <sub-title lang="zh">House of Flying Daggers</sub-title>
+    <desc lang="zh">House of Flying Daggers</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251101104000 +0800" stop="20251101114000 +0800">
+    <title lang="zh">警察故事3之超級警察</title>
+  </programme>
+  <programme channel="龍華電影台" start="20251101123500 +0800" stop="20251101133500 +0800">
+    <title lang="zh">靈幻先生</title>
+  </programme>
+  <programme channel="龍華電影台" start="20251101143000 +0800" stop="20251101153000 +0800">
+    <title lang="zh">生死一劍</title>
+    <sub-title lang="zh">Thunderbolt Fantasy: The Sword of Life and Death</sub-title>
+    <desc lang="zh">Thunderbolt Fantasy: The Sword of Life and Death</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251101160500 +0800" stop="20251101170500 +0800">
+    <title lang="zh">塞上風雲記</title>
+    <sub-title lang="zh">#43</sub-title>
+    <desc lang="zh">#43</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251101170500 +0800" stop="20251101180500 +0800">
+    <title lang="zh">塞上風雲記</title>
+    <sub-title lang="zh">#44</sub-title>
+    <desc lang="zh">#44</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251101180500 +0800" stop="20251101190500 +0800">
+    <title lang="zh">塞上風雲記</title>
+    <sub-title lang="zh">#45(完)</sub-title>
+    <desc lang="zh">#45(完)</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251101190500 +0800" stop="20251101200500 +0800">
+    <title lang="zh">控制</title>
+    <sub-title lang="zh">Gone Girl</sub-title>
+    <desc lang="zh">Gone Girl</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251101210000 +0800" stop="20251101220000 +0800">
+    <title lang="zh">斷網</title>
+    <sub-title lang="zh">Cyber Heist</sub-title>
+    <desc lang="zh">Cyber Heist</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251101231500 +0800" stop="20251102001500 +0800">
+    <title lang="zh">出埃及記</title>
+    <sub-title lang="zh">Exodus</sub-title>
+    <desc lang="zh">Exodus</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251102011000 +0800" stop="20251102021000 +0800">
+    <title lang="zh">風暴</title>
+    <sub-title lang="zh">Fire storm</sub-title>
+    <desc lang="zh">Fire storm</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251102032500 +0800" stop="20251102042500 +0800">
+    <title lang="zh">洗黑錢</title>
+  </programme>
+  <programme channel="龍華電影台" start="20251102052500 +0800" stop="20251102062500 +0800">
+    <title lang="zh">神偷大劫案</title>
+    <sub-title lang="zh">The Thieves</sub-title>
+    <desc lang="zh">The Thieves</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251102081500 +0800" stop="20251102091500 +0800">
+    <title lang="zh">殭屍叔叔</title>
+  </programme>
+  <programme channel="龍華電影台" start="20251102101000 +0800" stop="20251102111000 +0800">
+    <title lang="zh">九品芝麻官</title>
+    <sub-title lang="zh">Hail the Judge</sub-title>
+    <desc lang="zh">Hail the Judge</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251102122000 +0800" stop="20251102132000 +0800">
+    <title lang="zh">素還真</title>
+    <sub-title lang="zh">Demigod: The Legend Begins</sub-title>
+    <desc lang="zh">Demigod: The Legend Begins</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251102143000 +0800" stop="20251102153000 +0800">
+    <title lang="zh">賭俠</title>
+    <sub-title lang="zh">God Of Gamblers II</sub-title>
+    <desc lang="zh">God Of Gamblers II</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251102164000 +0800" stop="20251102174000 +0800">
+    <title lang="zh">失孤</title>
+    <sub-title lang="zh">Lost and Love</sub-title>
+    <desc lang="zh">Lost and Love</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251102185500 +0800" stop="20251102195500 +0800">
+    <title lang="zh">家有喜事</title>
+    <sub-title lang="zh">All's Well, End's Well</sub-title>
+    <desc lang="zh">All's Well, End's Well</desc>
+  </programme>
+  <programme channel="龍華電影台" start="20251102210000 +0800" stop="20251102220000 +0800">
+    <title lang="zh">警察故事3之超級警察</title>
+  </programme>
+  <programme channel="龍華電影台" start="20251102230000 +0800" stop="20251103000000 +0800">
+    <title lang="zh">警察故事</title>
+  </programme>
+  <channel id="靖天電影台">
+    <display-name lang="zh">靖天電影台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv061_cover.jpg"/>
+  </channel>
+  <channel id="靖天映畫">
+    <display-name lang="zh">靖天映畫</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv055_cover.jpg"/>
+  </channel>
+  <channel id="Golden影迷台">
+    <display-name lang="zh">Golden影迷台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel75_cover.jpg"/>
+  </channel>
+  <channel id="中影電影院">
+    <display-name lang="zh">中影電影院</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel76_cover.jpg"/>
+  </channel>
+  <channel id="博斯高球台">
+    <display-name lang="zh">博斯高球台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn05_cover.jpg"/>
+  </channel>
+  <channel id="博斯高球二台">
+    <display-name lang="zh">博斯高球二台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn06_cover.jpg"/>
+  </channel>
+  <channel id="博斯運動一台">
+    <display-name lang="zh">博斯運動一台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn07_cover.jpg"/>
+  </channel>
+  <channel id="博斯無限台">
+    <display-name lang="zh">博斯無限台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn10_cover.jpg"/>
+  </channel>
+  <channel id="博斯網球台">
+    <display-name lang="zh">博斯網球台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn09_cover.jpg"/>
+  </channel>
+  <programme channel="博斯網球台" start="20251030080000 +0800" stop="20251030090000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">維也納男網賽-十六強</sub-title>
+    <desc lang="zh">維也納男網賽-十六強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251030100000 +0800" stop="20251030110000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">巴塞爾男網賽-十六強</sub-title>
+    <desc lang="zh">巴塞爾男網賽-十六強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251030120000 +0800" stop="20251030130000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">巴黎大師賽-第三天</sub-title>
+    <desc lang="zh">巴黎大師賽-第三天</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251030180000 +0800" stop="20251030190000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">巴黎大師賽-十六強</sub-title>
+    <desc lang="zh">巴黎大師賽-十六強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251031060000 +0800" stop="20251031070000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">上海大師賽-八強</sub-title>
+    <desc lang="zh">上海大師賽-八強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251031080000 +0800" stop="20251031090000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">維也納男網賽-十六強</sub-title>
+    <desc lang="zh">維也納男網賽-十六強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251031100000 +0800" stop="20251031110000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">巴塞爾男網賽-十六強</sub-title>
+    <desc lang="zh">巴塞爾男網賽-十六強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251031120000 +0800" stop="20251031130000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">巴黎大師賽-十六強</sub-title>
+    <desc lang="zh">巴黎大師賽-十六強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251031210000 +0800" stop="20251031220000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">巴黎大師賽-八強</sub-title>
+    <desc lang="zh">巴黎大師賽-八強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251101060000 +0800" stop="20251101070000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">北京男網賽-精華</sub-title>
+    <desc lang="zh">北京男網賽-精華</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251101070000 +0800" stop="20251101080000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">上海大師賽-八強</sub-title>
+    <desc lang="zh">上海大師賽-八強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251101100000 +0800" stop="20251101110000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">維也納男網賽-八強</sub-title>
+    <desc lang="zh">維也納男網賽-八強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251101120000 +0800" stop="20251101130000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">巴黎大師賽-八強</sub-title>
+    <desc lang="zh">巴黎大師賽-八強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251101200000 +0800" stop="20251101210000 +0800">
+    <title lang="zh">網球雜誌</title>
+  </programme>
+  <programme channel="博斯網球台" start="20251101203000 +0800" stop="20251101213000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">北京男網賽-精華</sub-title>
+    <desc lang="zh">北京男網賽-精華</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251101213000 +0800" stop="20251101223000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">巴黎大師賽-四強</sub-title>
+    <desc lang="zh">巴黎大師賽-四強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251102020000 +0800" stop="20251102030000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">上海大師賽-八強</sub-title>
+    <desc lang="zh">上海大師賽-八強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251102040000 +0800" stop="20251102050000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">維也納男網賽-八強</sub-title>
+    <desc lang="zh">維也納男網賽-八強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251102060000 +0800" stop="20251102070000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">巴塞爾男網賽-十六強</sub-title>
+    <desc lang="zh">巴塞爾男網賽-十六強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251102080000 +0800" stop="20251102090000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">上海大師賽-八強</sub-title>
+    <desc lang="zh">上海大師賽-八強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251102100000 +0800" stop="20251102110000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">維也納男網賽-八強</sub-title>
+    <desc lang="zh">維也納男網賽-八強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251102120000 +0800" stop="20251102130000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">巴黎大師賽-四強</sub-title>
+    <desc lang="zh">巴黎大師賽-四強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251102160000 +0800" stop="20251102170000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">北京男網賽-精華</sub-title>
+    <desc lang="zh">北京男網賽-精華</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251102170000 +0800" stop="20251102180000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">巴塞爾男網賽-十六強</sub-title>
+    <desc lang="zh">巴塞爾男網賽-十六強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251102190000 +0800" stop="20251102200000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">維也納男網賽-八強</sub-title>
+    <desc lang="zh">維也納男網賽-八強</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251102210000 +0800" stop="20251102220000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">上海大師賽-精華</sub-title>
+    <desc lang="zh">上海大師賽-精華</desc>
+  </programme>
+  <programme channel="博斯網球台" start="20251102220000 +0800" stop="20251102230000 +0800">
+    <title lang="zh">2025 ATP男子網球巡迴賽</title>
+    <sub-title lang="zh">巴黎大師賽-決賽</sub-title>
+    <desc lang="zh">巴黎大師賽-決賽</desc>
+  </programme>
+  <channel id="博斯運動二台">
+    <display-name lang="zh">博斯運動二台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn08_cover.jpg"/>
+  </channel>
+  <channel id="博斯魅力台">
+    <display-name lang="zh">博斯魅力台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn04_cover.jpg"/>
+  </channel>
+  <channel id="博斯無限二台">
+    <display-name lang="zh">博斯無限二台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn13_cover.jpg"/>
+  </channel>
+  <channel id="綜藝新時代">
+    <display-name lang="zh">綜藝新時代</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel85_cover.jpg"/>
+  </channel>
+  <channel id="第1財經">
+    <display-name lang="zh">第1財經</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel88_cover.jpg"/>
+  </channel>
+  <channel id="非凡商業台">
+    <display-name lang="zh">非凡商業台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv048_cover.jpg"/>
+  </channel>
+  <channel id="台視財經">
+    <display-name lang="zh">台視財經</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv056_cover.jpg"/>
+  </channel>
+  <channel id="法眼黑與白">
+    <display-name lang="zh">法眼黑與白</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel92_cover.jpg"/>
+  </channel>
+  <channel id="豬哥壹級棒">
+    <display-name lang="zh">豬哥壹級棒</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel94_cover.jpg"/>
+  </channel>
+  <channel id="我們這一家">
+    <display-name lang="zh">我們這一家</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel98_cover.jpg"/>
+  </channel>
+  <channel id="九九敬老頻道">
+    <display-name lang="zh">九九敬老頻道</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel99_cover.jpg"/>
+  </channel>
+  <channel id="蠟筆小新台">
+    <display-name lang="zh">蠟筆小新台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel100_cover.jpg"/>
+  </channel>
+  <channel id="豬哥亮歌廳秀">
+    <display-name lang="zh">豬哥亮歌廳秀</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv006_cover.jpg"/>
+  </channel>
+  <channel id="金庸武俠台">
+    <display-name lang="zh">金庸武俠台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel109_cover.jpg"/>
+  </channel>
+  <channel id="視納華仁紀實頻道">
+    <display-name lang="zh">視納華仁紀實頻道</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv013_cover.jpg"/>
+  </channel>
+  <channel id="影迷數位紀實台">
+    <display-name lang="zh">影迷數位紀實台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-ftv15_cover.jpg"/>
+  </channel>
+  <channel id="Focus亞洲電影台">
+    <display-name lang="zh">Focus亞洲電影台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel142_cover.jpg"/>
+  </channel>
+  <channel id="華語電影台">
+    <display-name lang="zh">華語電影台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel143_cover.jpg"/>
+  </channel>
+  <channel id="Focus精采戲劇台">
+    <display-name lang="zh">Focus精采戲劇台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-playout953_cover.JPG"/>
+  </channel>
+  <channel id="八大精彩台">
+    <display-name lang="zh">八大精彩台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv034_cover.jpg"/>
+  </channel>
+  <channel id="采昌影劇台">
+    <display-name lang="zh">采昌影劇台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv049_cover.jpg"/>
+  </channel>
+  <channel id="靖天戲劇台">
+    <display-name lang="zh">靖天戲劇台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv058_cover.jpg"/>
+  </channel>
+  <channel id="靖天日本台">
+    <display-name lang="zh">靖天日本台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv047_cover.jpg"/>
+  </channel>
+  <channel id="靖天育樂台">
+    <display-name lang="zh">靖天育樂台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv062_cover.jpg"/>
+  </channel>
+  <channel id="KLT-靖天國際台">
+    <display-name lang="zh">KLT-靖天國際台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv063_cover.jpg"/>
+  </channel>
+  <channel id="靖洋戲劇台">
+    <display-name lang="zh">靖洋戲劇台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv045_cover.jpg"/>
+  </channel>
+  <channel id="靖天綜合台">
+    <display-name lang="zh">靖天綜合台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv046_cover.jpg"/>
+  </channel>
+  <channel id="Nice TV靖天歡樂台">
+    <display-name lang="zh">Nice TV靖天歡樂台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv054_cover.jpg"/>
+  </channel>
+  <channel id="靖天資訊台">
+    <display-name lang="zh">靖天資訊台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv065_cover.jpg"/>
+  </channel>
+  <channel id="民視旅遊台">
+    <display-name lang="zh">民視旅遊台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-ftv07_cover.jpg"/>
+  </channel>
+  <channel id="愛爾達娛樂台">
+    <display-name lang="zh">愛爾達娛樂台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv070_cover.jpg"/>
+  </channel>
+  <channel id="中視菁采台">
+    <display-name lang="zh">中視菁采台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv064_cover.jpg"/>
+  </channel>
+  <channel id="中視經典台">
+    <display-name lang="zh">中視經典台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv080_cover.jpg"/>
+  </channel>
+  <channel id="八大綜藝台">
+    <display-name lang="zh">八大綜藝台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv039_cover.jpg"/>
+  </channel>
+  <channel id="客家電視台">
+    <display-name lang="zh">客家電視台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv043_cover.jpg"/>
+  </channel>
+  <channel id="Focus探索新知台">
+    <display-name lang="zh">Focus探索新知台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel164_cover.jpg"/>
+  </channel>
+  <channel id="以家人之名">
+    <display-name lang="zh">以家人之名</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel172_cover.jpg"/>
+  </channel>
+  <channel id="俗女養成記">
+    <display-name lang="zh">俗女養成記</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel174_cover.jpg"/>
+  </channel>
+  <channel id="倪珍播新聞">
+    <display-name lang="zh">倪珍播新聞</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/nnews-zh_cover.jpg"/>
+  </channel>
+  <channel id="第1商業台">
+    <display-name lang="zh">第1商業台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv104_cover.jpg"/>
+  </channel>
+  <channel id="國會頻道1台">
+    <display-name lang="zh">國會頻道1台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv084_cover.jpg"/>
+  </channel>
+  <channel id="國會頻道2台">
+    <display-name lang="zh">國會頻道2台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv085_cover.jpg"/>
+  </channel>
+  <channel id="蠟筆小新劇場版">
+    <display-name lang="zh">蠟筆小新劇場版</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel200_cover.jpg"/>
+  </channel>
+  <channel id="劉德華台">
+    <display-name lang="zh">劉德華台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel201_cover.jpg"/>
+  </channel>
+  <channel id="周星馳台">
+    <display-name lang="zh">周星馳台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel998_cover.jpg"/>
+  </channel>
+  <channel id="香港天王台">
+    <display-name lang="zh">香港天王台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel205_cover.jpg"/>
+  </channel>
+  <channel id="TRACE Sport Stars">
+    <display-name lang="zh">TRACE Sport Stars</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv077_cover.jpg"/>
+  </channel>
+  <channel id="智林體育台">
+    <display-name lang="zh">智林體育台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv101_cover.jpg"/>
+  </channel>
+  <channel id="時尚運動X">
+    <display-name lang="zh">時尚運動X</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv014_cover.jpg"/>
+  </channel>
+  <channel id="GINX Esports TV">
+    <display-name lang="zh">GINX Esports TV</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv053_cover.jpg"/>
+  </channel>
+  <channel id="TRACE Urban">
+    <display-name lang="zh">TRACE Urban</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv082_cover.jpg"/>
+  </channel>
+  <channel id="Mezzo Live HD">
+    <display-name lang="zh">Mezzo Live HD</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv083_cover.jpg"/>
+  </channel>
+  <channel id="CLASSICA 古典樂">
+    <display-name lang="zh">CLASSICA 古典樂</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv059_cover.jpg"/>
+  </channel>
+  <channel id="ARIRANG阿里郎頻道">
+    <display-name lang="zh">ARIRANG阿里郎頻道</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv079_cover.jpg"/>
+  </channel>
+  <channel id="達文西頻道">
+    <display-name lang="zh">達文西頻道</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv018_cover.jpg"/>
+  </channel>
+  <channel id="ELTV生活英語台">
+    <display-name lang="zh">ELTV生活英語台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn20_cover.jpg"/>
+  </channel>
+  <channel id="靖洋卡通Nice Bingo">
+    <display-name lang="zh">靖洋卡通Nice Bingo</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv057_cover.jpg"/>
+  </channel>
+  <channel id="靖天卡通台">
+    <display-name lang="zh">靖天卡通台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv044_cover.jpg"/>
+  </channel>
+  <channel id="龍華卡通台">
+    <display-name lang="zh">龍華卡通台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn01_cover.jpg"/>
+  </channel>
+  <channel id="好消息2台">
+    <display-name lang="zh">好消息2台</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-ftv17_cover.jpg"/>
+  </channel>
+  <channel id="天堂敬拜">
+    <display-name lang="zh">天堂敬拜</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel901_cover.jpg"/>
+  </channel>
+  <channel id="經典音樂河">
+    <display-name lang="zh">經典音樂河</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel902_cover.jpg"/>
+  </channel>
+  <channel id="大衛鮑森新約縱覽">
+    <display-name lang="zh">大衛鮑森新約縱覽</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel910_cover.jpg"/>
+  </channel>
+  <channel id="大衛鮑森舊約縱覽">
+    <display-name lang="zh">大衛鮑森舊約縱覽</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel911_cover.jpg"/>
+  </channel>
+  <channel id="有聲聖經 新約">
+    <display-name lang="zh">有聲聖經 新約</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel920_cover.jpg"/>
+  </channel>
+  <channel id="有聲聖經 舊約">
+    <display-name lang="zh">有聲聖經 舊約</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel921_cover.jpg"/>
+  </channel>
+  <channel id="生命的贏家">
+    <display-name lang="zh">生命的贏家</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel931_cover.jpg"/>
+  </channel>
+  <channel id="豐盛人生">
+    <display-name lang="zh">豐盛人生</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel932_cover.jpg"/>
+  </channel>
+  <channel id="空中主日學">
+    <display-name lang="zh">空中主日學</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel940_cover.jpg"/>
+  </channel>
+  <channel id="共享觀點">
+    <display-name lang="zh">共享觀點</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel942_cover.jpg"/>
+  </channel>
+  <channel id="全家歸主有良方">
+    <display-name lang="zh">全家歸主有良方</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel943_cover.jpg"/>
+  </channel>
+  <channel id="劉三講古">
+    <display-name lang="zh">劉三講古</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel944_cover.jpg"/>
+  </channel>
+  <channel id="國度權柄釋放特會">
+    <display-name lang="zh">國度權柄釋放特會</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel945_cover.jpg"/>
+  </channel>
+  <channel id="空中聖經學院">
+    <display-name lang="zh">空中聖經學院</display-name>
+    <icon src="https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel946_cover.jpg"/>
+  </channel>
+</tv>

@@ -1,0 +1,806 @@
+[
+  {
+    "channelName": "民視第一台",
+    "id": "4gtv-4gtv003",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv003_cover.jpg",
+    "description": "每天與民視新聞台同步播出《晨間新聞》、《午間新聞》、《晚間新聞》、與《挑戰新聞》，讓您隨時掌握最新最重要的國內外大事與最權威的觀點。每周一到周五與民視無線台同步播出全國第一名八點檔大戲《多情城市》，每周六日播出《台灣那麼旺》、《舞力全開》與《綜藝大集合》。"
+  },
+  {
+    "channelName": "民視",
+    "id": "4gtv-4gtv155",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv155_cover.jpg",
+    "description": "民視於1997年開播，繼台視、中視、華視及公視之後，成為台灣第五個無線電視頻道。擁有廣大收視族群的民視，播出節目多元，除鄉土劇及偶像劇外，更有許多自製綜藝及生活節目。近期熱播節目有傅孟柏、李國毅、邵雨薇、周曉涵、市原隼人、田中千繪主演的《商魂》。"
+  },
+  {
+    "channelName": "綜藝大集合",
+    "id": "litv-vchannel7",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel7_cover.jpg",
+    "description": "由胡瓜所主持的外景綜藝節目，秉持著「幸福好運到，獎金送夠夠」的精神，和眾多藝人與鄉親同樂玩遊戲拿獎金，介紹各地的人文、美食、特產等，提供豐富多元的內容，不間斷的笑料，讓您忘卻一切煩惱、開懷大笑。"
+  },
+  {
+    "channelName": "台視",
+    "id": "4gtv-4gtv066",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv066_cover.jpg",
+    "description": "台視直播線上看。最流行的戲劇、綜藝都在這裡，八點檔《美麗人生》、《嗨！營業中》第四季熱播中。"
+  },
+  {
+    "channelName": "包青天 1993版",
+    "id": "litv-vchannel9",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel9_cover.jpg",
+    "description": "古代中國民間故事中，宋朝最家喻戶曉的名臣包拯(金超群)擔任開封府尹期間所審理過的一些奇特刑案。"
+  },
+  {
+    "channelName": "中視",
+    "id": "4gtv-4gtv040",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv040_cover.jpg",
+    "description": "中視直播線上看。除了招牌的《中視新聞》，也包含戲劇、綜藝、人文知識等節目內容，像收視冠軍《綜藝玩很大》吳宗憲、林柏昇的趣味主持、《飢餓遊戲》5566孫協志、王仁甫的超強默契。其他代表節目還有《全民星攻略》、《我愛冰冰Show》等。"
+  },
+  {
+    "channelName": "天才衝衝衝 精選",
+    "id": "litv-vchannel11",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel11_cover.jpg",
+    "description": "節目透過精心設計的遊戲內容，包括給我Tempo、你是WORD演、急中生字ㄅㄆㄇ、會演是英雄、EAR傳耳ABC等單元，考驗現場來賓的機智反應，逗趣又爆笑！"
+  },
+  {
+    "channelName": "華視",
+    "id": "4gtv-4gtv041",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv041_cover.jpg",
+    "description": "華視直播線上看。華視頻道包含了各式優質的節目內容，有綜藝娛樂節目、偶像劇、熱門卡通、新聞，《火車來去》熱播中。其他推薦節目如《華視晚間新聞》、《天才衝衝衝》等。"
+  },
+  {
+    "channelName": "公視戲劇",
+    "id": "4gtv-4gtv042",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv042_cover.jpg",
+    "description": "此台彙整公視膾炙人口、好評不斷的戲劇，如《刺蝟男孩》、《人生劇展》等，亦有許多金鐘得獎鉅作，精彩好戲，千萬別錯過！"
+  },
+  {
+    "channelName": "好消息",
+    "id": "litv-ftv16",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-ftv16_cover.jpg",
+    "description": "精彩內容包含家庭、教育、生活、音樂、生命見證、信仰與真理課程，帶給觀眾安慰、造就與勸勉，適合各年齡層收看，推薦節目像《烤箱讀書會》、《健康新煮流》、《真情部落格》。"
+  },
+  {
+    "channelName": "空中英語教室HD頻道",
+    "id": "litv-playout955",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-playout955_cover.jpg",
+    "description": "空中英語教室是一個各年齡層皆適宜的英文學習頻道，內有《大家說英語》、《空中英語教室》、《彭蒙惠英語》...等課程，課後還會搭配《音樂ok蹦》、《Let's 動動吧》、《英語維基》...等相關輕鬆有趣的短篇節目，歡迎大家一起學英語，讓英語變得更有趣！"
+  },
+  {
+    "channelName": "全民星攻略",
+    "id": "litv-vchannel18",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel18_cover.jpg",
+    "description": "全新益智實境節目《全民星攻略》，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。"
+  },
+  {
+    "channelName": "最強綜藝秀",
+    "id": "litv-vchannel21",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel21_cover.jpg",
+    "description": "熱愛《民視第一發發發》的忠實觀眾，一定要看！喜歡五花八門達人秀的網友，非追不可！愛看明星挑戰各種才藝表演的鐵粉，絕不能錯過！什麼都有，什麼都秀，請看《最強綜藝秀》！"
+  },
+  {
+    "channelName": "去有風的地方",
+    "id": "litv-vchannel22",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel22_cover.jpg",
+    "description": "《去有風的地方》陸劇線上看。許紅豆在閨蜜去世後陷入低谷，於是獨自來到大理雲苗村\"有風小院\"落腳休息，在那裏認識了回鄉創業的青年謝之遙。在有風小院結識了帶著不同故事來到這裡的短暫租客，從陌生到熟悉，一群毫無相識的人，在這裡為各自點燃不期而遇的溫暖，愛情也悄悄展開..."
+  },
+  {
+    "channelName": "台灣1001個故事",
+    "id": "litv-vchannel23",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel23_cover.jpg",
+    "description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+  },
+  {
+    "channelName": "台灣啟示錄",
+    "id": "litv-vchannel25",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel25_cover.jpg",
+    "description": "由東森主播洪培翔主持，以客觀的角度帶領觀眾深入探討事件的發展，探討新聞事件背後的艱辛內幕，取材涵蓋層面廣泛，包括人物故事、歷史檔案、社會觀察，以及時事啟發。"
+  },
+  {
+    "channelName": "WTO姐妹會",
+    "id": "litv-vchannel26",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel26_cover.jpg",
+    "description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+  },
+  {
+    "channelName": "民視綜藝台",
+    "id": "4gtv-4gtv004",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv004_cover.jpg",
+    "description": "民視綜藝台專門播出民視當紅的綜藝節目，採用全時段輪播的方式，目前播出由胡瓜主持的外景節目《綜藝大集合》、舞蹈選秀節目《舞力全開》、以及歡笑不斷的《三星報囍》，讓觀眾開心度過每一天。"
+  },
+  {
+    "channelName": "東森娛樂台",
+    "id": "litv-vchannel32",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel32_cover.jpg",
+    "description": "東森娛樂台是LiTV專屬的東森頻道，精選《台灣1001個故事》、《請你跟我這樣過》和《醫師好辣》等老少咸宜的多元化節目，給你全新的娛樂感受。"
+  },
+  {
+    "channelName": "亞洲旅遊台",
+    "id": "litv-longturn17",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn17_cover.jpg",
+    "description": "全天候播出的專業旅遊頻道，秉持著全新、精緻、活潑、高格調的節目規劃 ，采擷各地自然風光、風土民情、人文地理、飯店美食和流行購物訊息等為亞洲觀眾提供全方位的旅遊資訊。"
+  },
+  {
+    "channelName": "韶華若錦",
+    "id": "litv-vchannel35",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel35_cover.jpg",
+    "description": "《琅琊榜》陸劇線上看。梅長蘇從12年前梅嶺慘烈戰場的噩夢中驚醒。琅琊閣閣主藺晨收到北燕六皇子冊封為太子的消息。與此同時，大梁七珠親王譽王也獲悉，此次六皇子冊封，是因為獲得了琅琊閣錦囊中「麒麟才子，得之可得天下」的秘密。"
+  },
+  {
+    "channelName": "中天亞洲台",
+    "id": "4gtv-4gtv109",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv109_cover.jpg",
+    "description": "全球華人最喜愛的國際化電視頻道，結合專題新聞、時事政論、發燒娛樂等精彩內容！「文茜的世界周報」帶您了解國際局勢；「大政治大爆卦」分析時下最夯的政治話題；「小明星大跟班」更是由綜藝天王吳宗憲主持，保證有滿滿笑料！"
+  },
+  {
+    "channelName": "小明星大跟班",
+    "id": "litv-vchannel37",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel37_cover.jpg",
+    "description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！"
+  },
+  {
+    "channelName": "龍華戲劇台",
+    "id": "litv-longturn18",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn18_cover.jpg",
+    "description": "全天候播出跨時代經典的古裝大戲，以及氣壯山河、如畫如詩的的強檔歷史劇，看兩岸三地影視巨星同台飆戲，互爭沙場的壯闊場景；領略歷代君王的治世哲學，揭開宮廷內的殘酷鬥爭，感受傳奇家族的興衰歷史，演員陣容遍及中外的史詩大戲頻道。"
+  },
+  {
+    "channelName": "TVBS精采台",
+    "id": "4gtv-4gtv067",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv067_cover.jpg",
+    "description": "TVBS精采台是最具時尚流行與生活娛樂指標性的頻道，結合戲劇、音樂綜藝、時尚美妝與生活旅遊，第一手呈現！強檔節目有旅遊美食《食尚玩家》、美妝保養《女人我最大》、偶像劇《機智校園生活》等等。"
+  },
+  {
+    "channelName": "TVBS歡樂台",
+    "id": "4gtv-4gtv068",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv068_cover.jpg",
+    "description": "TVBS旗下的娛樂綜合頻道，最新益智節目《拜託ATM》、佘詩曼主演的最新港劇《新聞女王》熱播中，還有當紅招牌美食旅遊節目《食尚玩家》、時尚教主藍心湄主持的長壽美妝保養節目《女人我最大》都深受民眾喜愛。代表節目還有麻辣談話性節目《11點熱吵店》、《機智校園生活》等。"
+  },
+  {
+    "channelName": "東森購物1台",
+    "id": "4gtv-4gtv102",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv102_cover.jpg",
+    "description": "快鎖定CH43、CH49、CH87及免費綜藝<東森購物商城>，訂購專線0800-366-006。"
+  },
+  {
+    "channelName": "民視影劇台",
+    "id": "litv-ftv09",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-ftv09_cover.jpg",
+    "description": "民視戲劇台主要播出民視八點檔連續劇，目前播出《幸福來了》、帶你尋找台灣最美麗年代的《多情城市》，還有一場場的醫療震撼教育《實習醫師鬥格》，全時段輪播讓觀眾能一看再看。"
+  },
+  {
+    "channelName": "龍華偶像台",
+    "id": "litv-longturn12",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn12_cover.jpg",
+    "description": "集結台灣、大陸最HIT的優質偶像劇，看兩岸新生代演員展現實力派的演技，貼近生活以及絲絲入扣的故事情節，一起進入青春無敵的浪漫夢幻戲劇！"
+  },
+  {
+    "channelName": "龍華日韓台",
+    "id": "litv-longturn11",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn11_cover.jpg",
+    "description": "精挑細選出最受歡迎、最精緻唯美的日本、韓國偶像戲劇，看優質偶像如何使出渾身解數展現巨星風采，席捲觀眾的心。"
+  },
+  {
+    "channelName": "Yes娛樂",
+    "id": "litv-vchannel47",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel47_cover.jpg",
+    "description": "從粉絲的角度出發，提供全華人娛樂圈的動態新聞。 讓您追星不用出門、八卦不用狗仔、看劇不用電視機，輕輕鬆鬆就能成為娛樂達人。 只要10分鐘，讓你看完娛樂大小事！"
+  },
+  {
+    "channelName": "東森購物2台",
+    "id": "4gtv-4gtv103",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv103_cover.jpg",
+    "description": "快鎖定CH43、CH49、CH87及免費綜藝<東森購物商城>，訂購專線0800-366-006。"
+  },
+  {
+    "channelName": "掏掏新聞",
+    "id": "litv-playout50",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-playout50_cover.jpg",
+    "description": "掏掏新聞挖掘新聞真相，真相掏深一點，守護台灣的民主價值與新聞自由，有你的加入，讓我們多一份監督政府的力量。"
+  },
+  {
+    "channelName": "東森新聞台",
+    "id": "4gtv-4gtv152",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv152_cover.jpg",
+    "description": "免費新聞台直播，免費註冊會員，免費看新聞第四台頻道。東森新聞台直播線上看，網路電視頻道線上看。提供24小時全方位的新聞快訊、即時新聞直播、國際重大新聞、最新疫情新聞等，推薦節目有《關鍵時刻》、《台灣啟示錄》、《台灣1001個故事》等。"
+  },
+  {
+    "channelName": "華視新聞",
+    "id": "4gtv-4gtv052",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv052_cover.jpg",
+    "description": "華視新聞直播線上看。主打24小時即時新聞快報、國內外重大新聞報導。主打節目《華視新聞雜誌》、《新聞高峰會》、《華視晚間新聞》等。"
+  },
+  {
+    "channelName": "民視新聞台",
+    "id": "litv-ftv13",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-ftv13_cover.jpg",
+    "description": "民視新聞直播線上看，以不同的觀點分析國內外重大新聞事件、國際新聞。並強調關懷本土文化，更領先全台播出每日英語新聞，推薦節目像《台灣演義》、《台灣最前線》。"
+  },
+  {
+    "channelName": "三立新聞iNEWS",
+    "id": "iNEWS",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/iNEWS_cover.jpg",
+    "description": "三立新聞iNEWS直播線上看。三立新聞iNEWS是三立電視旗下財經頻道之一，姊妹台頻道為三立新聞台。製播內容包括國際時事、財經股匯市報導、深度新聞、娛樂資訊及時事評論等內容，推薦節目有《Catch大錢潮》、《關我什麼事》、《錢進大頭條》等。"
+  },
+  {
+    "channelName": "TVBS新聞",
+    "id": "4gtv-4gtv072",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv072_cover.jpg",
+    "description": "免費新聞台直播，免費註冊會員，免費看新聞第四台頻道。TVBS新聞台直播線上看，網路電視頻道線上看。有最新即時新聞快訊，24小時的Live即時新聞直播，以及國際新聞、財經動態、最新疫情消息、名人專訪等。主打節目有《十點不一樣》、《新聞夜視界》、《Focus全球新聞》等。"
+  },
+  {
+    "channelName": "TVBS",
+    "id": "4gtv-4gtv073",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv073_cover.jpg",
+    "description": "TVBS 直播線上看。專業主播報導即時新聞、疫情新聞、選情報導，以及政論談話、生活資訊、財經商業、節目表等精彩內容的綜合頻道，主打節目有《Focus全球新聞》、《少康戰情室》、《TVBS文茜的世界周報》、《健康2.0》。"
+  },
+  {
+    "channelName": "東森財經新聞台",
+    "id": "4gtv-4gtv153",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv153_cover.jpg",
+    "description": "東森財經新聞台立即線上看。節目內容以投資理財、市場趨勢動態分析、財經新聞與股市資訊為主，關心最新疫情新聞、疫情指揮中心直播、今日確診人數統計等重大新聞對財經的影響，目前節目包含《57金錢爆》、《夢想街57號》、《老謝看世界》、《幸福空間》及《57新聞王》等精彩節目。"
+  },
+  {
+    "channelName": "非凡新聞台",
+    "id": "4gtv-4gtv010",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv010_cover.jpg",
+    "description": "免費註冊會員，免費看新聞第四台頻道。非凡新聞直播線上看，網路電視頻道線上看。提供live即時新聞及商業報導，台股、美股即時盤面分析，全球性的觀點，給觀眾最正確的財經資訊、國際金融新聞等等，代表節目還有《非凡大探索》、《錢線百分百》、《美食按個讚》、《台灣真善美》等。"
+  },
+  {
+    "channelName": "台視新聞",
+    "id": "4gtv-4gtv051",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv051_cover.jpg",
+    "description": "台視新聞24小時Live直播線上看。包括全天候即時新聞、晚間大頭條、選情報導、政治社會新聞、國際新聞等等。代表節目有《台視晚間新聞》、《台視新聞全球現場》、《熱線追蹤》、《晚安台灣》。"
+  },
+  {
+    "channelName": "中視新聞",
+    "id": "4gtv-4gtv074",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv074_cover.jpg",
+    "description": "中視新聞Live直播線上看。以播報國內外新聞為主，有各節Live即時新聞、還有政論節目、最新疫情新聞、國際新聞報導等，讓你掌握世界大事。主要節目如《中視新聞全球報導》、《頭條開講》等。"
+  },
+  {
+    "channelName": "中天新聞台",
+    "id": "4gtv-4gtv009",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv009_cover.jpg",
+    "description": "免費註冊會員，免費看新聞。中天新聞直播線上看，網路電視頻道線上看。全天候Live即時新聞直播為主。除各節整點新聞、每日最新疫情新聞，或是新聞政論節目，例如《頭條開講》、《大新聞大爆卦》等。"
+  },
+  {
+    "channelName": "寰宇新聞台灣台",
+    "id": "litv-longturn15",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn15_cover.jpg",
+    "description": "寰宇新聞新聞台深度分析台灣、全亞洲與歐美局勢新聞，以及目前最新疫情新聞，還有國際間時事政治、財經報導、社會百態，更整合一系列時事節目、專題報導、人物專訪等等。"
+  },
+  {
+    "channelName": "寰宇新聞台",
+    "id": "litv-longturn14",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn14_cover.jpg",
+    "description": "寰宇新聞直播線上看。24小時Live新聞直播，各節整點新聞、烏克蘭、俄羅斯衝突最新狀況，最新疫情、疫情指揮中心直播等重大新聞。主打節目《寰宇全球新聞》、《寰宇全視界》、《聚焦全世界》等。"
+  },
+  {
+    "channelName": "FOCUS焦點電影台",
+    "id": "litv-vchannel65",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel65_cover.jpg",
+    "description": "擁有熱門強檔電影、得獎影片及經典大片，24小時不間斷的精彩節目！讓您在最舒適的環境下，擁有絕佳的影音視聽享受。"
+  },
+  {
+    "channelName": "龍華經典台",
+    "id": "litv-longturn21",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn21_cover.jpg",
+    "description": "想看雋永懷舊的老電影嗎？「龍華經典台」有好萊塢膾炙人口、評價優異的著名電影、日本黑澤明導演傾力製作的精彩電影，以及香港早期經典電影，值得您一看再看！"
+  },
+  {
+    "channelName": "影迷數位電影台",
+    "id": "4gtv-4gtv011",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv011_cover.jpg",
+    "description": "影迷數位電影台（Fans Digichannel）由影迷數位股份有限公司所設置，提供HD高畫質的電影、紀錄片、藝術、戲劇、生活等節目，適合全家觀賞。"
+  },
+  {
+    "channelName": "Golden Movies",
+    "id": "litv-vchannel70",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel70_cover.jpg",
+    "description": "網羅近年膾炙人口的華語及歐美院線強檔電影，以及全球各大影展優質佳片，呈現多元化的風格和內容，滿足所有觀眾之觀影需求。"
+  },
+  {
+    "channelName": "龍華電影台",
+    "id": "litv-longturn03",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn03_cover.jpg",
+    "description": "提供觀眾最受歡迎的亞洲電影，包含日本、韓國、香港、台灣、泰國等亞洲各地，讓觀眾在本頻道感受多元又融洽的東方風情，諸多叫好叫座的亞洲電影全天候24小時播出。"
+  },
+  {
+    "channelName": "靖天電影台",
+    "id": "4gtv-4gtv061",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv061_cover.jpg",
+    "description": "24小時不間斷的高畫質電影，巨星名導、影展佳作，天天給您優質好片。"
+  },
+  {
+    "channelName": "靖天映畫",
+    "id": "4gtv-4gtv055",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv055_cover.jpg",
+    "description": "網羅亞洲各國熱門電影，給您一部部膾炙人口的佳片，天天回味昔日的不朽佳作之外，更能體驗震撼享受！"
+  },
+  {
+    "channelName": "Golden影迷台",
+    "id": "litv-vchannel75",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel75_cover.jpg",
+    "description": "囊括近年最受觀眾歡迎的華語、歐美、日韓院線強檔電影，以及廣獲世界各大影展肯定的得獎佳作，更有適合大小朋友一同觀賞的精采動畫電影，優質且多元的選擇，豐富您的觀影享受！"
+  },
+  {
+    "channelName": "中影電影院",
+    "id": "litv-vchannel76",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel76_cover.jpg",
+    "description": "孕育出台灣最優秀導演的搖籃，李安、侯孝賢、楊德昌導演的作品都收錄在這個文化的聖殿。"
+  },
+  {
+    "channelName": "博斯高球台",
+    "id": "litv-longturn05",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn05_cover.jpg",
+    "description": "即時轉播各大高爾夫LIVE賽事，包括《PGA美國高球巡迴賽》、《歐洲高球巡迴賽》、《TPGA台巡賽事》等重點比賽直播，看台灣好手潘政琮、高球名將強生(Dustin Johnson)、拉姆(Jon Rahm)、森川柯林(Collin Morikawa)等人展現最佳球技。"
+  },
+  {
+    "channelName": "博斯高球二台",
+    "id": "litv-longturn06",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn06_cover.jpg",
+    "description": "專業高球體育頻道，即時轉播高爾夫LIVE賽事，包括《LPGA美國女子巡迴賽》、《歐洲女子巡迴賽》等精采比賽直播。看世界球后柯達(Nelly Korda)、南韓軍團朴仁妃、高寶璟、姜孝林、瑞典女王諾奎斯(Anna Nordqvist)，以及我國的徐薇淩、李旻、程思嘉等好手同場較量。"
+  },
+  {
+    "channelName": "博斯運動一台",
+    "id": "litv-longturn07",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn07_cover.jpg",
+    "description": "播出賽事包括高爾夫球四大滿貫賽事（美國名人賽、美國高爾夫公開賽、英國公開賽、PGA錦標賽），以及網球四大賽（澳網、溫網、美網）等重要賽事。2025中華職棒統一獅+台鋼雄鷹主場賽事轉播！"
+  },
+  {
+    "channelName": "博斯無限台",
+    "id": "litv-longturn10",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn10_cover.jpg",
+    "description": "博斯無限台集結最受國人歡迎的頂尖運動賽事，打造獨特出的運動新天地，包括世界頂級的桌球聯賽，看莊智淵為國爭光；另有集腦力、體力、智力於一體的司諾克撞球聯賽。"
+  },
+  {
+    "channelName": "博斯網球台",
+    "id": "litv-longturn09",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn09_cover.jpg",
+    "description": "轉播澳網、美網、溫網，四大滿貫網球賽體育新聞節目！台灣唯一的高畫質專業網球直播體育頻道，欣賞球王喬科維奇 Djokovic、納達爾 Rafael Nadal、費德勒 Roger Federer、梅德維傑夫 Medvedev、茲維瑞夫 Zverev等人風采。"
+  },
+  {
+    "channelName": "博斯運動二台",
+    "id": "litv-longturn08",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn08_cover.jpg",
+    "description": "以綜合運動賽事轉播為主，除了MLS美國足球大聯盟外，搭配羽球、拳擊、格鬥、電競、馬拉松等一系列重要又精彩的賽事內容，讓觀眾也可以觀看到不同種類、不同形式、不同節奏的運動比賽，感受到多項運動賽事的運動魅力所在。"
+  },
+  {
+    "channelName": "博斯魅力台",
+    "id": "litv-longturn04",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn04_cover.jpg",
+    "description": "即時播出WTA女子網球LIVE賽事，包括美國天后大小威廉斯、球后Halep、Wozniacki等巨星的風采絕對不能錯過。還有我國球星謝淑薇、詹詠然、詹皓晴等選手的精華剪輯，不容錯過。"
+  },
+  {
+    "channelName": "博斯無限二台",
+    "id": "litv-longturn13",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn13_cover.jpg",
+    "description": "博斯無限二台除了電競賽事外，賽車賽事、極限運動、戶外運動、休閒運動...等不同類型的賽事與節目，讓您不出門也能感受車輛極速飛馳的刺激、海上航行的風光、戶外陽光洋溢的各項運動，追求讓觀眾能有更多元的收視選擇與更精彩的收視體驗。"
+  },
+  {
+    "channelName": "綜藝新時代",
+    "id": "litv-vchannel85",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel85_cover.jpg",
+    "description": "《綜藝新時代》最不一樣的浩角翔起，合體征服史上最不可能的任務！全新型態的外景節目，浩角翔起將挑戰各種新奇刺激的主題任務，與各行各業的金牌好手進行捉對廝殺，不是玩遊戲更不是點到為止的介紹，而是在經過腳踏實地的魔鬼訓練，要與這些金牌好手們進行真槍實彈的對決，「整個就來真的！」"
+  },
+  {
+    "channelName": "第1財經",
+    "id": "litv-vchannel88",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel88_cover.jpg",
+    "description": "第1財經頻道，提供您最完整且即時的台股走勢、國際股市。透過全方位選股工具，掌握當日大盤、個股、基金、各類技術面籌碼面財務面排行資訊。"
+  },
+  {
+    "channelName": "非凡商業台",
+    "id": "4gtv-4gtv048",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv048_cover.jpg",
+    "description": "非凡商業台是非凡電視台旗下的商業頻道。有股市現場直播、盤勢分析等財經資訊，主打節目為《全球新觀點》、《股海揚帆》、《只要錢長大》。集結精英理財專家顧問，提供專業財經投資等資訊，給觀眾全方位的財經知識。"
+  },
+  {
+    "channelName": "台視財經",
+    "id": "4gtv-4gtv056",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv056_cover.jpg",
+    "description": "優質財經頻道，服務觀眾掌握每日股市行情、投資脈動及各產業面向，包括最新歐美股市、國際財經脈動，並與富士電視合作，提供日本最新產經生活資訊報導。"
+  },
+  {
+    "channelName": "法眼黑與白",
+    "id": "litv-vchannel92",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel92_cover.jpg",
+    "description": "《法眼黑與白》是最早也唯一以科學鑑識為基礎來談刑案的節目，內容以強調鑑識證據、法醫解剖、詳細辦案過程的精神，來呈現深入報導的專業度。以探究刑事案件為主軸，並以專題方式深度報導關於酒駕、毒品、虐童等社會問題。"
+  },
+  {
+    "channelName": "豬哥壹級棒",
+    "id": "litv-vchannel94",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel94_cover.jpg",
+    "description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+  },
+  {
+    "channelName": "我們這一家",
+    "id": "litv-vchannel98",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel98_cover.jpg",
+    "description": "超人氣極短篇動畫《我們這一家》故事溫馨有趣，真實的刻畫出家庭人物的性格。 從故事主角花媽到姐姐橘子、弟弟柚子和花爸，都顯示出現代社會中四人小家庭樸實而真誠的生活風格。"
+  },
+  {
+    "channelName": "九九敬老頻道",
+    "id": "litv-vchannel99",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel99_cover.jpg",
+    "description": "節目內容專為銀髮族設計，有介紹777銀髮族協會的《銀髮時刻》與相關醫療知識的《銀髮寶典》，還有現代科技知識分享《3C易起來》與爺奶們的旅遊活動《跟著爺奶導遊走》，以及唯有阿公阿嬤才能重現的私房美味料理《私房好食光》與重溫1930-1980年代的經典歌曲的《黑膠年華》還有可以讓大家認識周遭植物的《植人聚卉》，所有的節目都適合全家大小陪伴家中長者一同觀賞。"
+  },
+  {
+    "channelName": "蠟筆小新台",
+    "id": "litv-vchannel100",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel100_cover.jpg",
+    "description": "故事舞台是在埼玉縣春日部市，一位正在「雙葉幼稚園」學習的五歲的小孩──野原新之助，在日常生活中發生的事。"
+  },
+  {
+    "channelName": "豬哥亮歌廳秀",
+    "id": "4gtv-4gtv006",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv006_cover.jpg",
+    "description": "想體驗天王豬哥亮的歌廳秀嗎？豬式幽默，所有精彩笑料讓您笑不停，保證精彩可期，盡在豬哥亮歌廳秀頻道。"
+  },
+  {
+    "channelName": "金庸武俠台",
+    "id": "litv-vchannel109",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel109_cover.jpg",
+    "description": "金庸大師雖已離去，可其留下的經典作品，是歷代影視最喜愛改編的素材。《射鵰三部曲》、《笑傲江湖》、《鹿鼎記》等大作，值得一看再看，細細品味。"
+  },
+  {
+    "channelName": "視納華仁紀實頻道",
+    "id": "4gtv-4gtv013",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv013_cover.jpg",
+    "description": "CNEX紀實頻道以紀錄片為引，凝視不同生命處境、叩問時代的根本問題。內容涵蓋社會政經、文化視野、探索創新、人物特寫等範疇，以期讓紀錄片在廣大的社會帶動對話思索。"
+  },
+  {
+    "channelName": "影迷數位紀實台",
+    "id": "litv-ftv15",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-ftv15_cover.jpg",
+    "description": "i-Fun動漫台為HD高畫質播映動畫頻道，以日本動漫為主要播出內容，部分節目與日本同步或即時播出，同步新番如《刀劍神域外傳GGO》，其餘還有《鬼燈的冷徹S2》、《史上最強弟子兼一OVA:暗之襲擊》等熱門動漫，並以日語原音呈現！"
+  },
+  {
+    "channelName": "Focus亞洲電影台",
+    "id": "litv-vchannel142",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel142_cover.jpg",
+    "description": "精選亞洲各國精采電影，橫跨兩岸三地、泰國、越南、蒙古等地，內容囊括喜劇、愛情、動作、歷史和驚悚懸疑，多元類型豐富您的觀影體驗！"
+  },
+  {
+    "channelName": "華語電影台",
+    "id": "litv-vchannel143",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel143_cover.jpg",
+    "description": "過去有許多華語電影都讓人回味無窮，如《百變金剛》、《笑林小子之新烏龍院》、《最佳損友》等。「華語電影台」蒐羅了這些港台早期的經典電影，帶領觀眾重新進入華語電影的流金歲月。"
+  },
+  {
+    "channelName": "Focus精采戲劇台",
+    "id": "litv-playout953",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-playout953_cover.JPG",
+    "description": "LiTV原創頻道，FOCUS精采戲劇台每天播出強檔好戲，最夯的台劇、陸劇、韓劇24小時不間斷，內容精彩，原音呈現，輕鬆追劇無極限，一次滿足觀眾期待！"
+  },
+  {
+    "channelName": "八大精彩台",
+    "id": "4gtv-4gtv034",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv034_cover.jpg",
+    "description": "播出八大電視歷年出品的經典偶像劇，像是《鬥魚》、《終極一家》等膾炙人口的作品。"
+  },
+  {
+    "channelName": "采昌影劇台",
+    "id": "4gtv-4gtv049",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv049_cover.jpg",
+    "description": "采昌影劇台為HD高畫質播映的專業影劇頻道，24小時播出歐美、 華語、 亞洲各國影劇節目，內容精彩，原音呈現。"
+  },
+  {
+    "channelName": "靖天戲劇台",
+    "id": "4gtv-4gtv058",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv058_cover.jpg",
+    "description": "以國內頻道如東森戲劇、三立、中視、台視播映之臺灣偶像劇為主，及集結臺灣重要演職員為主之陸劇的戲劇頻道。節目類型包括偶像劇、時代劇、古裝劇、武俠劇等。"
+  },
+  {
+    "channelName": "靖天日本台",
+    "id": "4gtv-4gtv047",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv047_cover.jpg",
+    "description": "超夯節目跨界合作！以鮮明的頻道色彩，加上與哈日館、富士電視台的合作，播出《AKB48﹝神TV﹞》、《吉本新喜劇》...等，哈日迷必備！"
+  },
+  {
+    "channelName": "靖天育樂台",
+    "id": "4gtv-4gtv062",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv062_cover.jpg",
+    "description": "寓教娛樂的育樂台，以時下年輕人喜愛的多元節目內容為主，還有不定時播出的經典懷舊電影，都是育樂台所囊括的節目強項。"
+  },
+  {
+    "channelName": "KLT-靖天國際台",
+    "id": "4gtv-4gtv063",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv063_cover.jpg",
+    "description": "以來自香港（粵語發音）和馬來西亞（華語發音）在地節目為主，提供豐富的旅遊、美食、綜藝節目，以及戲劇節目等。"
+  },
+  {
+    "channelName": "靖洋戲劇台",
+    "id": "4gtv-4gtv045",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv045_cover.jpg",
+    "description": "HD高畫質港劇頻道，與香港TVB合作最新最完整港劇：古裝偶像、警匪無間、經典劇集、輕鬆情境喜劇、浪漫愛情、倫理親情…等。"
+  },
+  {
+    "channelName": "靖天綜合台",
+    "id": "4gtv-4gtv046",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv046_cover.jpg",
+    "description": "提供本土文化、地方藝術的綜合頻道，最本土的藝術大車拼，懷舊閩南語戲劇、知名的黃俊雄布袋戲系列等節目，本土特色鮮明。"
+  },
+  {
+    "channelName": "Nice TV靖天歡樂台",
+    "id": "4gtv-4gtv054",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv054_cover.jpg",
+    "description": "與東森合作的最新綜藝頻道，節目含綜藝、娛樂、時尚、美食旅遊等。"
+  },
+  {
+    "channelName": "靖天資訊台",
+    "id": "4gtv-4gtv065",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv065_cover.jpg",
+    "description": "靖天資訊台讓觀眾擁有「電視圖書館」，時尚、品牌、新知、生活、娛樂等，豐富您的心靈、滿足您的需求。"
+  },
+  {
+    "channelName": "民視旅遊台",
+    "id": "litv-ftv07",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-ftv07_cover.jpg",
+    "description": "民視旅遊台全時段播出民視頻道旅遊及美食節目，目前播出長壽美食節目《美鳳有約》、帶你上山下海遊台灣的《GO GO TAIWAN》，還有告訴你捷運附近哪裡好玩的《Go Go 捷運》，快來跟著主持人一起吃喝玩樂吧！"
+  },
+  {
+    "channelName": "愛爾達娛樂台",
+    "id": "4gtv-4gtv070",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv070_cover.jpg",
+    "description": "愛爾達自製節目包含旅遊、美食、休閒運動、財經、座談等多種類優質內容。"
+  },
+  {
+    "channelName": "中視菁采台",
+    "id": "4gtv-4gtv064",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv064_cover.jpg",
+    "description": "主打年輕與活力之主訴求，強調分眾，爭取異業結合，以合作方式交流成功經驗與經營方式，開發多元化內容，達成節目之多樣化。"
+  },
+  {
+    "channelName": "中視經典台",
+    "id": "4gtv-4gtv080",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv080_cover.jpg",
+    "description": "精選台灣及海外各類型經典戲劇與綜藝、行腳、生活資訊等節目，提供觀眾重溫經典好節目。"
+  },
+  {
+    "channelName": "八大綜藝台",
+    "id": "4gtv-4gtv039",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv039_cover.jpg",
+    "description": "想看小豬搞笑嗎?八大綜藝台給您娛樂百分百、WTO姊妹會、世界第一等、生活一級棒等精彩節目，讓您不錯過。"
+  },
+  {
+    "channelName": "客家電視台",
+    "id": "4gtv-4gtv043",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv043_cover.jpg",
+    "description": "全程使用臺灣客家語發音，以全方位的角度24小時關注客家文化及語言，透過精心製作的各類節目：戲劇戲曲、兒童青少年、生活資訊、音樂綜藝、人文紀錄與新聞雜誌類，讓所有客家及非客家觀眾都能欣賞與了解客家文化。"
+  },
+  {
+    "channelName": "Focus探索新知台",
+    "id": "litv-vchannel164",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel164_cover.jpg",
+    "description": "網搜最有質感的科學、新知節目，從各種多元面向讓你增廣見聞！從各國文化、歷史，到旅遊、美食紀實，跟著我們的腳步一起解密無窮無盡的世界奇觀吧！"
+  },
+  {
+    "channelName": "以家人之名",
+    "id": "litv-vchannel172",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel172_cover.jpg",
+    "description": "三個沒有血緣關係、在原生家庭遭遇過不同傷痛的孩子，機緣巧合下成為了兄妹。大哥凌霄、二哥賀子秋、妹妹李尖尖在兩個爸爸的撫養下相互扶持成長。高中畢業後，兩個哥哥回到了自己的原生家庭，一邊是相互珍惜的新家人，一邊是無法選擇但關係淡漠的親生父母…"
+  },
+  {
+    "channelName": "俗女養成記",
+    "id": "litv-vchannel174",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel174_cover.jpg",
+    "description": "陳嘉玲，一個永遠不像台北女生的台南女生。年屆39歲的她，沒房沒車也沒有老公沒小孩。當年不惜引發家庭革命也要離開家鄉的她，在台北奮鬥了近二十年，到頭來竟然是一場空？ 過去一直追求「淑女」的夢想，卻在跨入40歲大關的時候，開始認清，其實自己是個「俗女」。"
+  },
+  {
+    "channelName": "倪珍播新聞",
+    "id": "nnews-zh",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/nnews-zh_cover.jpg",
+    "description": "《NOWnews今日新聞》政治、財經、生活、運動、娛樂、國際、社會、旅遊、美食、3C、消費、地方等軟硬性內容通通有，多元化主題深入新聞核心，深入淺出專題解析新聞重點。"
+  },
+  {
+    "channelName": "第1商業台",
+    "id": "4gtv-4gtv104",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv104_cover.jpg",
+    "description": "散戶VS大戶，讓第1商業台的專家告訴你贏家的思考模式，創造財富成長，專業分析師，解析產業趨勢，深入解析，提早佈局，幫你成為市場贏家。"
+  },
+  {
+    "channelName": "國會頻道1台",
+    "id": "4gtv-4gtv084",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv084_cover.jpg",
+    "description": "國會頻道提供大眾一個最直接的管道，審視由大家選票選出的立法委員的議事過程，打破長久以來為人詬病的密室協商，讓全民都能夠直接參與時下最貼近生活的政治。"
+  },
+  {
+    "channelName": "國會頻道2台",
+    "id": "4gtv-4gtv085",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv085_cover.jpg",
+    "description": "國會頻道提供大眾一個最直接的管道，審視由大家選票選出的立法委員的議事過程，打破長久以來為人詬病的密室協商，讓全民都能夠直接參與時下最貼近生活的政治。"
+  },
+  {
+    "channelName": "蠟筆小新劇場版",
+    "id": "litv-vchannel200",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel200_cover.jpg",
+    "description": "家喻戶曉、老少咸宜的蠟筆小新野原新之助在劇場版會有怎樣的爆笑行為呢？人氣作品《宇宙人Pi力來襲》、《黃金間諜大作戰》一次看！"
+  },
+  {
+    "channelName": "劉德華台",
+    "id": "litv-vchannel201",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel201_cover.jpg",
+    "description": "不老男神劉德華風靡全球，主演的強片無數，敬業形象深植人心，所有最忠心的「華嫂」們，你們最愛的華仔都在這哩！"
+  },
+  {
+    "channelName": "周星馳台",
+    "id": "litv-vchannel998",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel998_cover.jpg",
+    "description": "看你千遍也不厭倦！星爺周星馳從影以來經典無數，各種經典台詞琅琅上口，有如滔滔江水、綿延不絕！周星馳台讓你一次笑翻天。"
+  },
+  {
+    "channelName": "香港天王台",
+    "id": "litv-vchannel205",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel205_cover.jpg",
+    "description": "集結多位香港天王如梁朝偉、張學友、鄭伊健、古天樂等代表作品，眾星雲集，絕對精采。"
+  },
+  {
+    "channelName": "TRACE Sport Stars",
+    "id": "4gtv-4gtv077",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv077_cover.jpg",
+    "description": "全球首創致力於報導運動明星生活的娛樂型體育頻道，所有節目都與「運動明星」緊緊相連。從歌星到運動明星的擂台競技，再到時尚設計師為運動名人穿衣打扮，為您呈現運動明星的日常生活與幕後花絮報導。"
+  },
+  {
+    "channelName": "智林體育台",
+    "id": "4gtv-4gtv101",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv101_cover.jpg",
+    "description": "推廣台灣各項運動，發掘各項運動員追求更快、更高、更遠的故事, 呈現給關心台灣體育推廣的觀眾。希望成為基層體育的發聲管道。主打賽事像是《海峰盃圍棋賽》、《企業排球聯賽》都是較不為人知卻精彩絕倫的好賽事。"
+  },
+  {
+    "channelName": "時尚運動X",
+    "id": "4gtv-4gtv014",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv014_cover.jpg",
+    "description": "時尚運動X以吸引年輕族群眼球的內容為主要導向，包含年輕人喜好之舞蹈、上班族偏好之瑜珈、鐵人，以及具備時尚之性感運動、名模爭鬥等。主打節目《K-pop舞蹈學院》找來編舞老師教大家跳最in最流行的韓團舞蹈。"
+  },
+  {
+    "channelName": "GINX Esports TV",
+    "id": "4gtv-4gtv053",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv053_cover.jpg",
+    "description": "GINX電競頻道來自英國，提供世界各地最快最集時的電競實況、覆盤、未來賽事資訊以及即將推出的電玩遊戲大作，適合重度玩家密切追蹤。"
+  },
+  {
+    "channelName": "TRACE Urban",
+    "id": "4gtv-4gtv082",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv082_cover.jpg",
+    "description": "走在時尚尖端、傾力製作的音樂頻道，並宣揚最流行的「都會音樂」風格。除涵蓋各類型音樂曲風外，TRACE Urban主要提供豐富的Hip-hop及R&B曲風，24小時不間斷，讓觀眾隨時沉浸在舒適的都會節奏中。"
+  },
+  {
+    "channelName": "Mezzo Live HD",
+    "id": "4gtv-4gtv083",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv083_cover.jpg",
+    "description": "製播古典音樂、歌劇、藝術舞蹈聞名全球的文化藝術頻道，不定期現場直播世界知名經典音樂會，讓樂迷在家也能零時差同步感受世界文化氣息。Mezzo Live HD 更提供一系列的爵士音樂節目，療癒您一天辛苦工作後的心靈。"
+  },
+  {
+    "channelName": "CLASSICA 古典樂",
+    "id": "4gtv-4gtv059",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv059_cover.jpg",
+    "description": "提供各時期最耳熟能詳的音樂家作品，從巴哈、維瓦第、舒伯特，到海頓、莫札特、貝多芬，無一不是一時之選，一場最豐盛的聽覺饗宴。"
+  },
+  {
+    "channelName": "ARIRANG阿里郎頻道",
+    "id": "4gtv-4gtv079",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv079_cover.jpg",
+    "description": "由韓國政府設立，對外介紹韓國的頻道，以全英語發音。近似於「美國之音」「德國之音」或是「半島電視台」。播報海量韓國新聞，最新商品資訊甚至偶像情報，是哈韓族最佳的夥伴。"
+  },
+  {
+    "channelName": "達文西頻道",
+    "id": "4gtv-4gtv018",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv018_cover.jpg",
+    "description": "「達文西頻道」是一個無恐怖、無色情、無暴力的頻道，提供家中孩童一個放心收視的頻道，節目內容兼顧遊戲性與教育性的特質。"
+  },
+  {
+    "channelName": "ELTV生活英語台",
+    "id": "litv-longturn20",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn20_cover.jpg",
+    "description": "全天候24小時播放的英語學習頻道；以簡單、活潑、快樂、有趣的方式，藉由豐富的節目《e4kids英語樂園 plus》、《跟外國人學英語》、《跟外國人玩創意》、《趣味ABC》…等帶領大小朋友一起學英語。"
+  },
+  {
+    "channelName": "靖洋卡通Nice Bingo",
+    "id": "4gtv-4gtv057",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv057_cover.jpg",
+    "description": "擁有經典也有最本土文化的卡通動畫，適合12歲以下孩童收看的動漫卡通頻道。讓孩子看得開心、父母看得放心！"
+  },
+  {
+    "channelName": "靖天卡通台",
+    "id": "4gtv-4gtv044",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv044_cover.jpg",
+    "description": "擁有經典也有最本土文化的卡通動畫，適合12歲以下孩童收看的動漫卡通頻道。讓孩子看得開心、父母看得放心！"
+  },
+  {
+    "channelName": "龍華卡通台",
+    "id": "litv-longturn01",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn01_cover.jpg",
+    "description": "針對年齡較小的動漫族群提供各式可以闔家觀賞之幼兒卡通，如《泡泡小廚》、《逗逗迪迪之酷比偵探》、《豬豬俠》等。"
+  },
+  {
+    "channelName": "好消息2台",
+    "id": "litv-ftv17",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-ftv17_cover.jpg",
+    "description": "好消息2台為真理造就台，強調信仰生活與靈命建造，內容有家庭教育、兒少節目、生命故事、詩歌音樂、信仰生活與真理課程。"
+  },
+  {
+    "channelName": "天堂敬拜",
+    "id": "litv-vchannel901",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel901_cover.jpg",
+    "description": "《新約縱覽》以清晰的思路，提綱挈領地勾勒出每卷經文的脈絡，並提供詳細的歷史地理背景，幫助觀眾抓住每卷書的精義與梗概，無論對於初信者以及忠實的信仰追求者都是大有幫助。"
+  },
+  {
+    "channelName": "經典音樂河",
+    "id": "litv-vchannel902",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel902_cover.jpg",
+    "description": "《舊約縱覽》以清晰的思路，提綱挈領地勾勒出每卷經文的脈絡，並提供詳細的歷史地理背景，幫助觀眾抓住每卷書的精義與梗概，無論對於初信者以及忠實的信仰追求者都是大有幫助。"
+  },
+  {
+    "channelName": "大衛鮑森新約縱覽",
+    "id": "litv-vchannel910",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel910_cover.jpg",
+    "description": "GOOD TV 再次推出重量級音樂節目《天堂敬拜》，匯集當代知名音樂人，在敬拜水流中引領觀眾經歷神的同在。期盼觀眾收看時，神的同在降臨、聖靈充滿；透過音樂成為橋樑，讓神同在的氛圍，吸引非基督徒渴望認識神，得著救恩。"
+  },
+  {
+    "channelName": "大衛鮑森舊約縱覽",
+    "id": "litv-vchannel911",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel911_cover.jpg",
+    "description": "重現經典詩歌生命力，讓您在歌中感受上帝亙古榮耀作為和救贖大恩。"
+  },
+  {
+    "channelName": "有聲聖經 新約",
+    "id": "litv-vchannel920",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel920_cover.jpg",
+    "description": "2019年是中文和合本聖經出版一百週年紀念。吾人有幸躬逢其盛，謹以此錄音表達個人對中文聖經，以及當年翻譯人士最高的敬意和謝意。"
+  },
+  {
+    "channelName": "有聲聖經 舊約",
+    "id": "litv-vchannel921",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel921_cover.jpg",
+    "description": "2019年是中文和合本聖經出版一百週年紀念。吾人有幸躬逢其盛，謹以此錄音表達個人對中文聖經，以及當年翻譯人士最高的敬意和謝意。"
+  },
+  {
+    "channelName": "生命的贏家",
+    "id": "litv-vchannel931",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel931_cover.jpg",
+    "description": "約爾·歐斯汀（Joel Osteen）綽號是「微笑的傳道者」，是美國的宣教士、電視佈道家和作家，他在美國最大的基督教會湖木教會擔任主任牧師。2004年，他的第一本書「活出美好」，首次出版就登上紐約時報暢銷書的榜首，這本書在紐約時報暢銷200多週。"
+  },
+  {
+    "channelName": "豐盛人生",
+    "id": "litv-vchannel932",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel932_cover.jpg",
+    "description": "喬依絲．邁爾（Joyce Meyer）講求聖經的實際應用，講道風格幽默且平易近人。她也是紐約時報暢銷書排行第一名的作家，撰寫近九十本啟發人心的書籍，包括暢銷書《心思的戰場》、《如何管理你的情緒》、《拒絕的根》、《自在作自己》、《成功作自己》"
+  },
+  {
+    "channelName": "空中主日學",
+    "id": "litv-vchannel940",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel940_cover.jpg",
+    "description": "新約精讀、舊約精讀、門徒造就、神學與教會歷史等主題系列，全方位裝備基督徒生命，教師與牧師精闢解析，幫助您更加明白聖經真理，走進神的心意。"
+  },
+  {
+    "channelName": "共享觀點",
+    "id": "litv-vchannel942",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel942_cover.jpg",
+    "description": "連結社群、分享、行動的特色，運用講道學的架構，談論包含基要真理、生活話題及神學裝備三大面向主題。身為第六代基督徒，從小在教會中長大的周巽正，與第一代基督徒的廖文華，背景及生活經歷都不同，在節目中以輕鬆對談的方式，貢獻出不同角度的觀點。"
+  },
+  {
+    "channelName": "全家歸主有良方",
+    "id": "litv-vchannel943",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel943_cover.jpg",
+    "description": "用熟悉的台語幫助您能明白上帝真道，讓聖經教導不再是難懂艱澀的道理，是閩南語族群明白真道的最佳途徑，信息結合生活、見證，淺顯易懂、親切熟悉。"
+  },
+  {
+    "channelName": "劉三講古",
+    "id": "litv-vchannel944",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel944_cover.jpg",
+    "description": "「劉三講古」是好消息最老牌的節目，除了加入戲劇元素「喳唸伯與長腳姨」外，並蒐集無數史料，找到美好而精彩的基督徒生命故事，好讓福音更輕鬆真實的呈現在觀眾眼前。"
+  },
+  {
+    "channelName": "國度權柄釋放特會",
+    "id": "litv-vchannel945",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel945_cover.jpg",
+    "description": "由多位客家牧師輪流主講，信息包括對婚姻、家庭、人際關係等生活的教導，也針對客家人特別看重的敬祖和孝道問題提出詳細的解說。深入淺出的福音性信息，加上悠揚的客語詩歌及劉興欽老師話民俗單元，全新的組合，令人耳目一新。"
+  },
+  {
+    "channelName": "空中聖經學院",
+    "id": "litv-vchannel946",
+    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel946_cover.jpg",
+    "description": "節目中有系統的完整講解聖經真理，邀請受過解經講道訓練的老師，按著正意分解真理的道，帶領弟兄姊妹更深的了解聖經的浩瀚與偉大。"
+  }
+]
