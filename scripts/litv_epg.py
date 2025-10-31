@@ -54,7 +54,6 @@ def parse_channel_list(session):
         response.raise_for_status()
         
         data = response.json()
-        print(f"獲取的頻道數據結構: {list(data.keys())}")
         
         # 從 pageProps.introduction.channels 獲取頻道列表
         channels_data = data.get('pageProps', {}).get('introduction', {}).get('channels', [])
@@ -111,36 +110,7 @@ def parse_channel_list(session):
         
     except Exception as e:
         print(f"❌ 獲取頻道清單失敗: {str(e)}")
-        import traceback
-        traceback.print_exc()
         return []
-
-def parse_date_from_title(date_text):
-    """從日期標題解析日期"""
-    try:
-        # 處理 "今日 / 11月1日 / 星期六" 格式
-        parts = date_text.split(' / ')
-        if len(parts) >= 2:
-            date_part = parts[1]  # "11月1日"
-            
-            # 獲取當前年份
-            current_year = datetime.datetime.now().year
-            
-            # 解析月份和日期
-            month_match = re.search(r'(\d+)月', date_part)
-            day_match = re.search(r'(\d+)日', date_part)
-            
-            if month_match and day_match:
-                month = int(month_match.group(1))
-                day = int(day_match.group(1))
-                
-                # 創建日期對象
-                date_obj = datetime.datetime(current_year, month, day, tzinfo=TAIPEI_TZ)
-                return date_obj
-    except Exception as e:
-        print(f"⚠️ 日期解析失敗: {date_text}, 錯誤: {str(e)}")
-    
-    return None
 
 def fetch_channel_epg(session, channel_id, channel_name):
     """從頻道頁面獲取節目表數據"""
@@ -153,99 +123,71 @@ def fetch_channel_epg(session, channel_id, channel_name):
         response = session.get(channel_url, timeout=30)
         response.raise_for_status()
         
-        # 解析HTML
-        soup = BeautifulSoup(response.text, 'html.parser')
+        # 使用正則表達式直接從HTML中提取節目資訊
+        html_content = response.text
         
-        # 調試：保存HTML以便檢查
-        with open(f"debug_{channel_id}.html", "w", encoding="utf-8") as f:
-            f.write(soup.prettify())
-        print(f"✅ 已保存HTML到 debug_{channel_id}.html 用於調試")
-        
+        # 尋找節目表區域 - 根據您提供的HTML結構
+        # 查找包含日期和節目資訊的區域
         programs = []
+        
+        # 獲取當前日期
+        now = datetime.datetime.now(TAIPEI_TZ)
+        
+        # 查找所有日期標題和節目行
+        date_pattern = r'<div[^>]*class="[^"]*pl-\[10px\][^"]*pr-\[10px\][^"]*text-\[15px\][^"]*text-\[#fff\][^"]*leading-\[40px\][^"]*"[^>]*>([^<]+)</div>'
+        program_pattern = r'<div[^>]*class="[^"]*pl-\[10px\][^"]*grow[^"]*text-\[15px\][^"]*leading-\[30px\][^"]*[^>]*>([^<]+)</div>'
+        
+        dates = re.findall(date_pattern, html_content)
+        program_texts = re.findall(program_pattern, html_content)
+        
+        print(f"找到 {len(dates)} 個日期標題")
+        print(f"找到 {len(program_texts)} 個節目文本")
+        
+        # 解析日期和節目
         current_date = None
+        program_index = 0
         
-        # 方法1: 查找包含節目表的容器
-        # 嘗試多種可能的選擇器
-        selectors = [
-            'div.grow.overflow-y-auto',
-            'div[class*="overflow-y-auto"]',
-            'div[class*="epg"]',
-            'div[class*="schedule"]',
-            'div[class*="program"]'
-        ]
-        
-        epg_container = None
-        for selector in selectors:
-            epg_container = soup.select_one(selector)
-            if epg_container:
-                print(f"✅ 使用選擇器找到節目表容器: {selector}")
-                break
-        
-        if not epg_container:
-            print("❌ 未找到節目表容器，嘗試備用方法...")
-            # 備用方法：查找所有包含時間和節目名稱的div
-            all_divs = soup.find_all('div')
-            for div in all_divs:
-                text = div.get_text(strip=True)
-                if re.match(r'\d{1,2}:\d{2}\s+.+', text):
-                    print(f"找到節目行: {text}")
-        
-        # 如果找到容器，解析其中的節目
-        if epg_container:
-            # 查找所有直接子元素
-            for child in epg_container.children:
-                if child.name == 'div':
-                    classes = child.get('class', [])
-                    class_str = ' '.join(classes) if classes else ''
-                    text = child.get_text(strip=True)
-                    
-                    print(f"檢查元素: class='{class_str}', text='{text}'")
-                    
-                    # 檢查是否是日期標題
-                    if text and ('今日' in text or '月' in text and '日' in text):
-                        print(f"📅 找到日期標題: {text}")
-                        current_date = parse_date_from_title(text)
-                        if current_date:
-                            print(f"  解析為: {current_date.strftime('%Y-%m-%d')}")
-                    
-                    # 檢查是否是節目行 - 使用更寬鬆的條件
-                    elif text and re.match(r'\d{1,2}:\d{2}\s+.+', text):
-                        time_match = re.match(r'(\d{1,2}):(\d{2})\s+(.+)', text)
-                        if time_match and current_date:
-                            hour = int(time_match.group(1))
-                            minute = int(time_match.group(2))
-                            program_name = time_match.group(3)
-                            
-                            # 計算節目開始時間
-                            program_start = current_date.replace(hour=hour, minute=minute, second=0)
-                            
-                            # 預設節目時長為1小時
-                            program_end = program_start + datetime.timedelta(hours=1)
-                            
-                            programs.append({
-                                "channelName": channel_name,
-                                "programName": program_name,
-                                "description": "",
-                                "subtitle": "",
-                                "start": program_start,
-                                "end": program_end
-                            })
-                            
-                            print(f"   📺 節目: {hour:02d}:{minute:02d} - {program_name}")
-        
-        # 方法2: 如果上面沒找到，嘗試搜索整個文檔中的節目行
-        if not programs:
-            print("嘗試方法2: 搜索整個文檔中的節目行")
-            all_elements = soup.find_all(text=re.compile(r'\d{1,2}:\d{2}\s+.+'))
-            for element in all_elements:
-                text = element.strip()
-                time_match = re.match(r'(\d{1,2}):(\d{2})\s+(.+)', text)
+        for date_text in dates:
+            print(f"處理日期: {date_text}")
+            
+            # 解析日期
+            date_parts = date_text.split(' / ')
+            if len(date_parts) >= 2:
+                date_str = date_parts[1]  # 例如 "11月1日"
+                
+                # 將日期轉換為當前年份的完整日期
+                current_year = now.year
+                try:
+                    # 解析 "月日" 格式
+                    month_day_match = re.search(r'(\d+)月(\d+)日', date_str)
+                    if month_day_match:
+                        month = int(month_day_match.group(1))
+                        day = int(month_day_match.group(2))
+                        current_date = datetime.datetime(current_year, month, day, tzinfo=TAIPEI_TZ)
+                        print(f"解析日期: {current_year}-{month}-{day}")
+                except Exception as e:
+                    print(f"日期解析失敗: {date_str}, {str(e)}")
+                    continue
+            
+            # 處理這個日期下的節目
+            while program_index < len(program_texts):
+                program_text = program_texts[program_index]
+                
+                # 檢查是否是下一個日期標題（節目文本中不會包含日期格式）
+                if re.search(r'\d+月\d+日', program_text):
+                    break
+                
+                # 解析節目時間和名稱
+                time_match = re.match(r'(\d{1,2}):(\d{2})\s+(.+)', program_text)
                 if time_match and current_date:
                     hour = int(time_match.group(1))
                     minute = int(time_match.group(2))
                     program_name = time_match.group(3)
                     
+                    # 計算節目開始時間
                     program_start = current_date.replace(hour=hour, minute=minute, second=0)
+                    
+                    # 預設節目時長為1小時
                     program_end = program_start + datetime.timedelta(hours=1)
                     
                     programs.append({
@@ -257,15 +199,15 @@ def fetch_channel_epg(session, channel_id, channel_name):
                         "end": program_end
                     })
                     
-                    print(f"   📺 節目: {hour:02d}:{minute:02d} - {program_name}")
+                    print(f"  節目: {hour:02d}:{minute:02d} - {program_name}")
+                
+                program_index += 1
         
         print(f"✅ 頻道 {channel_name} 獲取到 {len(programs)} 個節目")
         return programs
         
     except Exception as e:
         print(f"❌ 獲取頻道 {channel_name} 節目表失敗: {str(e)}")
-        import traceback
-        traceback.print_exc()
         return []
 
 def get_litv_epg():
@@ -330,7 +272,7 @@ def get_litv_epg():
         print(f"📺 頻道 {channel}: {count} 個節目")
     
     print("="*50)
-    return channels_info, all_channels, all_programs  # 返回三個值
+    return channels_info, all_channels, all_programs
 
 def generate_xmltv(channels, programs, output_file="litv.xml"):
     """生成XMLTV格式的EPG數據"""
@@ -343,7 +285,6 @@ def generate_xmltv(channels, programs, output_file="litv.xml"):
     # 建立XML根元素
     root = ET.Element("tv", generator="LITV-EPG-Generator", source="www.litv.tv")
     
-    # 頻道1 -> 頻道1節目 -> 頻道2-> 頻道2節目 -> ...
     program_count = 0
     for channel in channels:
         channel_name = channel['name']
@@ -381,12 +322,6 @@ def generate_xmltv(channels, programs, output_file="litv.xml"):
                 title = program.get('programName', '未知節目')
                 ET.SubElement(program_elem, "title", lang="zh").text = title
                 
-                if program.get('subtitle'):
-                    ET.SubElement(program_elem, "sub-title", lang="zh").text = program['subtitle']
-                
-                if program.get('description'):
-                    ET.SubElement(program_elem, "desc", lang="zh").text = program['description']
-                
                 program_count += 1
             except Exception as e:
                 print(f"⚠️ 跳過無效的節目數據: {str(e)}")
@@ -411,7 +346,6 @@ def generate_xmltv(channels, programs, output_file="litv.xml"):
         print(f"✅ XMLTV檔案已生成: {output_file}")
         print(f"📺 頻道數: {len(channels)}")
         print(f"📺 節目數: {program_count}")
-        print(f"💾 檔案大小: {os.path.getsize(output_file) / 1024:.2f} KB")
         return True
     except Exception as e:
         print(f"❌ 儲存XML檔案失敗: {str(e)}")
@@ -443,7 +377,6 @@ def generate_channel_json(channels_info, output_file="litv.json"):
         
         print(f"✅ JSON頻道檔案已生成: {output_file}")
         print(f"📺 頻道數: {len(json_channels)}")
-        print(f"💾 檔案大小: {os.path.getsize(output_file) / 1024:.2f} KB")
         return True
         
     except Exception as e:
@@ -457,8 +390,6 @@ def main():
                        help='輸出XML檔案路徑 (默認: output/litv.xml)')
     parser.add_argument('--json', type=str, default='output/litv.json',
                        help='輸出JSON頻道檔案路徑 (默認: output/litv.json)')
-    parser.add_argument('--debug', action='store_true',
-                       help='啟用調試模式，保存HTML文件')
     
     args = parser.parse_args()
     
@@ -496,8 +427,6 @@ def main():
             
     except Exception as e:
         print(f"❌ 主程序錯誤: {str(e)}")
-        import traceback
-        traceback.print_exc()
         sys.exit(1)
 
 if __name__ == "__main__":
