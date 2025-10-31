@@ -5,10 +5,6 @@ on:
     - cron: '0 18 * * *'
   workflow_dispatch:
 
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
-
 jobs:
   generate-epg:
     runs-on: ubuntu-latest
@@ -50,11 +46,8 @@ jobs:
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "GitHub Actions"
-        git pull --rebase
+        
+        # 直接添加文件并提交，不检查变化
         git add output/ofiii.xml output/ofiii.json
-        if git diff-index --quiet HEAD --; then
-          echo "沒有變化可提交"
-        else
-          git commit -m "Auto-update EPG data (output)"
-          git push
-        fi
+        git commit -m "Auto-update EPG data $(date +'%Y-%m-%d %H:%M:%S')" || echo "没有变化可提交"
+        git push
