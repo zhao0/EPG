@@ -14,11 +14,35 @@ from xml.dom import minidom
 
 # 全局時區設置
 TAIPEI_TZ = pytz.timezone('Asia/Taipei')
+
+# 代理設置 (從環境變量讀取)
+HTTP_PROXY = os.environ.get('http_proxy', '') or os.environ.get('HTTP_PROXY', '')
+HTTPS_PROXY = os.environ.get('https_proxy', '') or os.environ.get('HTTPS_PROXY', '')
+
+PROXIES = {}
+if HTTP_PROXY:
+    PROXIES['http'] = HTTP_PROXY
+if HTTPS_PROXY:
+    PROXIES['https'] = HTTPS_PROXY
+
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
 
-def parse_channel_list():
+def create_session():
+    """創建帶有代理的會話"""
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    
+    if PROXIES:
+        print(f"使用代理: {PROXIES}")
+        session.proxies.update(PROXIES)
+    else:
+        print("未設置代理，使用直接連接")
+    
+    return session
+
+def parse_channel_list(session):
     """從LiTV API獲取頻道清單"""
     print("開始獲取LiTV頻道清單...")
     
@@ -26,7 +50,7 @@ def parse_channel_list():
     channel_url = "https://www.litv.tv/_next/data/322e31352e3138/channel.json"
     
     try:
-        response = requests.get(channel_url, headers=HEADERS, timeout=30)
+        response = session.get(channel_url, timeout=30)
         response.raise_for_status()
         
         data = response.json()
@@ -74,7 +98,7 @@ def parse_channel_list():
         traceback.print_exc()
         return []
 
-def fetch_epg_data():
+def fetch_epg_data(session):
     """從LiTV API獲取節目表數據"""
     print("開始獲取LiTV節目表數據...")
     
@@ -82,7 +106,7 @@ def fetch_epg_data():
     epg_url = "https://www.litv.tv/_next/data/322e31352e3138/index.json"
     
     try:
-        response = requests.get(epg_url, headers=HEADERS, timeout=30)
+        response = session.get(epg_url, timeout=30)
         response.raise_for_status()
         
         data = response.json()
@@ -183,14 +207,17 @@ def get_litv_epg():
     print("開始獲取LiTV電視節目表")
     print("="*50)
     
+    # 創建會話
+    session = create_session()
+    
     # 獲取頻道清單
-    channels_info = parse_channel_list()
+    channels_info = parse_channel_list(session)
     if not channels_info:
         print("❌ 無法獲取頻道清單")
         return [], [], []  # 返回三個空列表
     
     # 獲取節目表數據
-    epg_json = fetch_epg_data()
+    epg_json = fetch_epg_data(session)
     if not epg_json:
         print("❌ 無法獲取節目表數據")
         return channels_info, [], []  # 返回頻道資訊和兩個空列表
