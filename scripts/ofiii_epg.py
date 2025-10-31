@@ -53,7 +53,8 @@ def parse_channel_list():
         "ELTV生活英語台 ==> litv-longturn20",
         "龍華經典台 ==> litv-longturn21",
         "台灣戲劇台 ==> litv-longturn22",
-        "三立新聞iNEWS ==> iNEWS"
+        "三立新聞iNEWS ==> iNEWS",
+        "Focus探索新知台 ==> ofiii82"
     ]
     
     for line in channel_list:
