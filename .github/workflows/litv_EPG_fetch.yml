@@ -14,15 +14,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     
-    env:
-      HTTP_PROXY: ${{ secrets.HTTP_PROXY }}
-      HTTPS_PROXY: ${{ secrets.HTTPS_PROXY }}
-    
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
         
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -38,17 +32,14 @@ jobs:
     - name: Create output directory
       run: mkdir -p output
       
-    - name: Check proxy settings
-      run: |
-        echo "HTTP_PROXY: $HTTP_PROXY"
-        echo "HTTPS_PROXY: $HTTPS_PROXY"
-      
     - name: Generate EPG and JSON
+      env:
+        HTTP_PROXY: ${{ secrets.HTTP_PROXY }}
+        HTTPS_PROXY: ${{ secrets.HTTPS_PROXY }}
       run: |
         echo "開始生成LiTV EPG數據..."
-        # 設置小寫的代理環境變量
-        export http_proxy="$HTTP_PROXY"
-        export https_proxy="$HTTPS_PROXY"
+        echo "HTTP_PROXY: $HTTP_PROXY"
+        echo "HTTPS_PROXY: $HTTPS_PROXY"
         python scripts/litv_epg.py --output output/litv.xml --json output/litv.json
         echo "EPG和JSON生成完成"
         
