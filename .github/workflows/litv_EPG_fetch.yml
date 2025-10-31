@@ -1,4 +1,4 @@
-name: Daily ofiii EPG Update
+name: Daily litv EPG Update
 
 on:
   schedule:
