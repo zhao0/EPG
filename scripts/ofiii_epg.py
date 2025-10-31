@@ -19,9 +19,9 @@ HEADERS = {
 }
 
 def parse_channel_list():
-    """从网页动态解析频道清单"""
-    # 尝试使用频道列表页面
-    url = "https://www.ofiii.com/channel"
+    """從網頁動態解析頻道清單"""
+    # 嘗試使用頻道列表頁面
+    url = "https://www.ofiii.com/channel/4gtv-4gtv066"
     
     try:
         response = requests.get(url, headers=HEADERS, timeout=30)
@@ -29,41 +29,41 @@ def parse_channel_list():
         
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # 方法1: 从__NEXT_DATA__中解析
+        # 方法1: 從__NEXT_DATA__中解析
         script_tag = soup.find('script', id='__NEXT_DATA__')
         if script_tag and script_tag.string:
             try:
                 data = json.loads(script_tag.string)
-                # 这里需要根据实际数据结构来提取频道列表
-                # 由于我们不知道结构，可以先打印一部分数据来查看
-                # 但是为了不使代码复杂，我们暂时跳过，直接使用方法2
+                # 這里需要根據實際數據結構來提取頻道列表
+                # 由於我們不知道結構，可以先打印一部分數據來查看
+                # 但是為了不使代碼覆雜，我們暫時跳過，直接使用方法2
             except json.JSONDecodeError:
                 pass
         
-        # 方法2: 从HTML中解析所有频道链接
+        # 方法2: 從HTML中解析所有頻道鏈接
         channel_links = soup.find_all('a', href=re.compile(r'/channel/watch/'))
         if not channel_links:
-            print("❌ 未找到频道链接")
+            print("❌ 未找到頻道鏈接")
             return []
         
         channel_list = []
         for link in channel_links:
             try:
                 href = link.get('href', '')
-                # 提取频道ID（/channel/watch/后面的部分）
+                # 提取頻道ID（/channel/watch/後面的部分）
                 if '/channel/watch/' in href:
                     channel_id = href.split('/channel/watch/')[-1].strip('/')
                     if channel_id and channel_id not in channel_list:
                         channel_list.append(channel_id)
             except Exception as e:
-                print(f"⚠️ 解析频道链接失败: {str(e)}")
+                print(f"⚠️ 解析頻道鏈接失敗: {str(e)}")
                 continue
         
-        print(f"✅ 成功解析 {len(channel_list)} 个频道")
+        print(f"✅ 成功解析 {len(channel_list)} 個頻道")
         return channel_list
         
     except Exception as e:
-        print(f"❌ 动态获取频道列表失败: {str(e)}")
+        print(f"❌ 動態獲取頻道列表失敗: {str(e)}")
         return []
 
 def fetch_epg_data(channel_id, max_retries=3):
