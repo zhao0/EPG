@@ -1,4 +1,4 @@
-name: Daily litv EPG Update
+name: Daily LiTV EPG Update
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         
@@ -42,12 +42,13 @@ jobs:
       run: |
         echo "HTTP_PROXY: $HTTP_PROXY"
         echo "HTTPS_PROXY: $HTTPS_PROXY"
-        echo "http_proxy: $http_proxy"
-        echo "https_proxy: $https_proxy"
       
     - name: Generate EPG and JSON
       run: |
         echo "開始生成LiTV EPG數據..."
+        # 設置小寫的代理環境變量
+        export http_proxy="$HTTP_PROXY"
+        export https_proxy="$HTTPS_PROXY"
         python scripts/litv_epg.py --output output/litv.xml --json output/litv.json
         echo "EPG和JSON生成完成"
         
@@ -65,8 +66,8 @@ jobs:
         
         if [ -f "output/litv.json" ]; then
           echo "✅ JSON文件已生成，大小: $(wc -c < output/litv.json) bytes"
-          echo "JSON文件結構:"
-          jq length output/litv.json && echo "個頻道" || echo "無法解析JSON"
+          echo "JSON文件包含頻道數量:"
+          python -c "import json; data = json.load(open('output/litv.json')); print(len(data), '個頻道')"
         else
           echo "❌ JSON文件未生成"
           exit 1
@@ -99,7 +100,7 @@ jobs:
         
     - name: Upload EPG files as artifact
       if: always()
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: litv-epg-files
         path: output/
