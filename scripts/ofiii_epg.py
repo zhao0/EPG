@@ -19,275 +19,202 @@ HEADERS = {
 }
 
 def parse_channel_list():
-    """從網頁動態解析頻道清單"""
-    # 嘗試使用頻道列表頁面
-    url = "https://www.ofiii.com/channel"
-    
-    try:
-        response = requests.get(url, headers=HEADERS, timeout=30)
-        response.raise_for_status()
-        
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # 方法1: 從__NEXT_DATA__中解析（增強版）
-        script_tag = soup.find('script', id='__NEXT_DATA__')
-        if script_tag and script_tag.string:
-            try:
-                data = json.loads(script_tag.string)
-                print("🔍 分析__NEXT_DATA__結構...")
-                
-                # 增強的解析方法
-                channels_from_next_data = extract_channels_from_next_data_enhanced(data)
-                if channels_from_next_data:
-                    print(f"✅ 從__NEXT_DATA__解析到 {len(channels_from_next_data)} 個頻道")
-                    return channels_from_next_data
-                else:
-                    print("⚠️ __NEXT_DATA__中未找到頻道列表，嘗試調試...")
-                    debug_next_data(data)  # 調試函數，幫助分析數據結構
-                    
-            except json.JSONDecodeError as e:
-                print(f"⚠️ __NEXT_DATA__ JSON解析失敗: {str(e)}")
-        
-        # 方法2: 從HTML中解析所有頻道鏈接
-        print("🔍 從HTML鏈接解析頻道...")
-        channel_links = soup.find_all('a', href=re.compile(r'/channel/watch/'))
-        if not channel_links:
-            print("❌ 未找到頻道鏈接")
-            return []
-        
-        channel_list = []
-        for link in channel_links:
-            try:
-                href = link.get('href', '')
-                # 提取頻道ID（/channel/watch/後面的部分）
-                if '/channel/watch/' in href:
-                    channel_id = href.split('/channel/watch/')[-1].strip('/')
-                    if channel_id and channel_id not in channel_list:
-                        channel_list.append(channel_id)
-            except Exception as e:
-                print(f"⚠️ 解析頻道鏈接失敗: {str(e)}")
-                continue
-        
-        print(f"✅ 從HTML鏈接解析到 {len(channel_list)} 個頻道")
-        
-        # 如果HTML解析的數量較少，嘗試其他方法補充
-        if len(channel_list) < 50:  # 假設實際頻道數應該大於50
-            print("⚠️ 頻道數量較少，嘗試其他方法補充...")
-            additional_channels = get_additional_channels(url, soup)
-            for channel in additional_channels:
-                if channel not in channel_list:
-                    channel_list.append(channel)
-            
-            print(f"✅ 補充後共有 {len(channel_list)} 個頻道")
-        
-        return channel_list
-        
-    except Exception as e:
-        print(f"❌ 動態獲取頻道列表失敗: {str(e)}")
-        return []
-
-def extract_channels_from_next_data_enhanced(data):
-    """增強版：從__NEXT_DATA__中提取頻道列表"""
-    channels = []
-    
-    try:
-        # 方法1: 標準Next.js結構
-        props = data.get('props', {})
-        page_props = props.get('pageProps', {})
-        
-        # 嘗試不同的可能字段名和嵌套結構
-        possible_paths = [
-            ['props', 'pageProps', 'channels'],
-            ['props', 'pageProps', 'channelList'],
-            ['props', 'pageProps', 'items'],
-            ['props', 'pageProps', 'data'],
-            ['props', 'pageProps', 'initialState', 'channels'],
-            ['props', 'pageProps', 'dehydratedState', 'queries'],
-            ['props', 'pageProps', '__APOLLO_STATE__'],
-            ['buildId'],
-            ['page'],
-            ['query'],
-        ]
-        
-        for path in possible_paths:
-            result = get_nested_value(data, path)
-            if result:
-                extracted = extract_channels_from_object(result)
-                channels.extend(extracted)
-        
-        # 方法2: 搜索整個數據結構中的頻道模式
-        if not channels:
-            channels = search_channels_in_data_enhanced(data)
-        
-        # 去重
-        channels = list(set(channels))
-        
-    except Exception as e:
-        print(f"⚠️ 從__NEXT_DATA__提取頻道失敗: {str(e)}")
-    
-    return channels
-
-def get_nested_value(obj, keys):
-    """安全地獲取嵌套字典的值"""
-    try:
-        for key in keys:
-            if isinstance(obj, dict) and key in obj:
-                obj = obj[key]
-            else:
-                return None
-        return obj
-    except:
-        return None
-
-def extract_channels_from_object(obj):
-    """從對象中提取頻道ID"""
-    channels = []
-    
-    if isinstance(obj, list):
-        for item in obj:
-            channels.extend(extract_channels_from_object(item))
-    elif isinstance(obj, dict):
-        # 檢查常見頻道ID字段
-        for key in ['id', 'channelId', 'slug', 'code', 'name', 'key']:
-            if key in obj and isinstance(obj[key], str):
-                channel_id = obj[key]
-                if is_valid_channel_id(channel_id):
-                    channels.append(channel_id)
-        
-        # 遞歸檢查所有值
-        for value in obj.values():
-            channels.extend(extract_channels_from_object(value))
-    
-    return channels
-
-def is_valid_channel_id(channel_id):
-    """檢查是否為有效的頻道ID"""
-    if not isinstance(channel_id, str):
-        return False
-    
-    # 有效的頻道ID模式
-    patterns = [
-        r'^4gtv-',
-        r'^litv-',
-        r'^ofiii',
-        r'^nnews-',
-        r'^iNEWS',
-        r'^daystar',
+    """解析頻道清單檔案內容"""
+    channel_list = [
+        "nnews-zh",
+        "4gtv-4gtv009",
+        "4gtv-4gtv066",
+        "4gtv-4gtv040",
+        "4gtv-4gtv041",
+        "4gtv-4gtv051",
+        "4gtv-4gtv052",
+        "4gtv-4gtv074",
+        "4gtv-4gtv084",
+        "4gtv-4gtv085",
+        "4gtv-4gtv076",
+        "4gtv-4gtv102",
+        "4gtv-4gtv103",
+        "4gtv-4gtv104",
+        "4gtv-4gtv156",
+        "4gtv-4gtv158",
+        "litv-ftv16",
+        "litv-ftv17",
+        "litv-longturn01",
+        "litv-longturn02",
+        "litv-longturn03",
+        "litv-longturn11",
+        "litv-longturn12",
+        "litv-longturn14",
+        "litv-longturn18",
+        "litv-longturn19",
+        "litv-longturn20",
+        "litv-longturn21",
+        "litv-longturn22",
+        "iNEWS",
+        "daystar",
+        "ofiii13",
+        "ofiii16",
+        "ofiii22",
+        "ofiii23",
+        "ofiii24",
+        "ofiii31",
+        "ofiii32",
+        "ofiii36",
+        "ofiii38",
+        "ofiii39",
+        "ofiii1048",
+        "ofiii50",
+        "ofiii55",
+        "ofiii64",
+        "ofiii70",
+        "ofiii73",
+        "ofiii74",
+        "ofiii75",
+        "ofiii76",
+        "ofiii81",
+        "ofiii82",
+        "ofiii83",
+        "ofiii85",
+        "ofiii88",
+        "ofiii89",
+        "ofiii91",
+        "ofiii92",
+        "ofiii94",
+        "ofiii95",
+        "ofiii96",
+        "ofiii97",
+        "ofiii99",
+        "ofiii100",
+        "ofiii101",
+        "ofiii102",
+        "ofiii103",
+        "ofiii104",
+        "ofiii105",
+        "ofiii106",
+        "ofiii107",
+        "ofiii108",
+        "ofiii109",
+        "ofiii110",
+        "ofiii111",
+        "ofiii112",
+        "ofiii113",
+        "ofiii114",
+        "ofiii115",
+        "ofiii116",
+        "ofiii117",
+        "ofiii118",
+        "ofiii119",
+        "ofiii120",
+        "ofiii121",
+        "ofiii122",
+        "ofiii123",
+        "ofiii124",
+        "ofiii125",
+        "ofiii126",
+        "ofiii127",
+        "ofiii128",
+        "ofiii129",
+        "ofiii131",
+        "ofiii132",
+        "ofiii133",
+        "ofiii134",
+        "ofiii135",
+        "ofiii136",
+        "ofiii137",
+        "ofiii139",
+        "ofiii140",
+        "ofiii141",
+        "ofiii142",
+        "ofiii143",
+        "ofiii144",
+        "ofiii145",
+        "ofiii146",
+        "ofiii147",
+        "ofiii148",
+        "ofiii150",
+        "ofiii151",
+        "ofiii152",
+        "ofiii153",
+        "ofiii154",
+        "ofiii155",
+        "ofiii156",
+        "ofiii157",
+        "ofiii158",
+        "ofiii159",
+        "ofiii160",
+        "ofiii161",
+        "ofiii162",
+        "ofiii163",
+        "ofiii164",
+        "ofiii165",
+        "ofiii166",
+        "ofiii167",
+        "ofiii168",
+        "ofiii169",
+        "ofiii170",
+        "ofiii171",
+        "ofiii172",
+        "ofiii173",
+        "ofiii174",
+        "ofiii175",
+        "ofiii177",
+        "ofiii178",
+        "ofiii179",
+        "ofiii180",
+        "ofiii182",
+        "ofiii183",
+        "ofiii184",
+        "ofiii185",
+        "ofiii186",
+        "ofiii187",
+        "ofiii192",
+        "ofiii195",
+        "ofiii196",
+        "ofiii198",
+        "ofiii200",
+        "ofiii201",
+        "ofiii202",
+        "ofiii203",
+        "ofiii204",
+        "ofiii205",
+        "ofiii206",
+        "ofiii207",
+        "ofiii208",
+        "ofiii209",
+        "ofiii210",
+        "ofiii211",
+        "ofiii212",
+        "ofiii215",
+        "ofiii216",
+        "ofiii217",
+        "ofiii218",
+        "ofiii225",
+        "ofiii226",
+        "ofiii227",
+        "ofiii228",
+        "ofiii234",
+        "ofiii235",
+        "ofiii236",
+        "ofiii237",
+        "ofiii238",
+        "ofiii239",
+        "ofiii240",
+        "ofiii241",
+        "ofiii242",
+        "ofiii243",
+        "ofiii244",
+        "ofiii245",
+        "ofiii246",
+        "ofiii247",
+        "ofiii248",
+        "ofiii250",
+        "ofiii251",
+        "ofiii252",
+        "ofiii254",
+        "ofiii255"
     ]
     
-    for pattern in patterns:
-        if re.search(pattern, channel_id):
-            return True
-    
-    return False
-
-def search_channels_in_data_enhanced(data, max_depth=5):
-    """增強版：在數據結構中遞歸搜索頻道ID"""
-    channels = []
-    
-    def _search(obj, depth=0, path=""):
-        if depth > max_depth:
-            return
-        
-        if isinstance(obj, dict):
-            for key, value in obj.items():
-                current_path = f"{path}.{key}" if path else key
-                # 如果值是字符串，檢查是否是頻道ID
-                if isinstance(value, str) and is_valid_channel_id(value):
-                    if value not in channels:
-                        channels.append(value)
-                        print(f"🔍 在路徑 {current_path} 找到頻道: {value}")
-                else:
-                    _search(value, depth + 1, current_path)
-        elif isinstance(obj, list):
-            for i, item in enumerate(obj):
-                current_path = f"{path}[{i}]" if path else f"[{i}]"
-                _search(item, depth + 1, current_path)
-    
-    _search(data)
-    return channels
-
-def debug_next_data(data):
-    """調試函數：分析__NEXT_DATA__結構"""
-    print("🔍 調試__NEXT_DATA__結構:")
-    
-    # 打印頂層鍵
-    print("頂層鍵:", list(data.keys()))
-    
-    # 檢查props結構
-    props = data.get('props', {})
-    if props:
-        print("props鍵:", list(props.keys()))
-        
-        page_props = props.get('pageProps', {})
-        if page_props:
-            print("pageProps鍵:", list(page_props.keys()))
-    
-    # 查找所有包含"channel"的鍵
-    def find_channel_keys(obj, path=""):
-        channel_keys = []
-        
-        if isinstance(obj, dict):
-            for key, value in obj.items():
-                current_path = f"{path}.{key}" if path else key
-                if "channel" in key.lower():
-                    channel_keys.append(current_path)
-                channel_keys.extend(find_channel_keys(value, current_path))
-        elif isinstance(obj, list):
-            for i, item in enumerate(obj):
-                current_path = f"{path}[{i}]" if path else f"[{i}]"
-                channel_keys.extend(find_channel_keys(item, current_path))
-        
-        return channel_keys
-    
-    channel_keys = find_channel_keys(data)
-    if channel_keys:
-        print("包含'channel'的鍵:", channel_keys[:10])  # 只顯示前10個
-    
-    # 統計數據結構大小
-    def count_items(obj):
-        if isinstance(obj, dict):
-            return 1 + sum(count_items(v) for v in obj.values())
-        elif isinstance(obj, list):
-            return 1 + sum(count_items(item) for item in obj)
-        else:
-            return 1
-    
-    print("數據結構大小:", count_items(data))
-
-def get_additional_channels(url, soup):
-    """獲取額外的頻道列表"""
-    additional_channels = []
-    
-    # 方法1: 查找可能的API端點
-    scripts = soup.find_all('script')
-    for script in scripts:
-        if script.string:
-            # 查找可能的API URL
-            api_patterns = [
-                r'https?://[^"\']+api[^"\']+channels[^"\']*',
-                r'https?://[^"\']+channels[^"\']*',
-                r'/api/[^"\']+channels[^"\']*',
-            ]
-            
-            for pattern in api_patterns:
-                matches = re.findall(pattern, script.string)
-                for match in matches:
-                    print(f"🔍 發現可能的API端點: {match}")
-                    # 這里可以添加調用API的代碼
-    
-    # 方法2: 查找其他可能的頻道列表容器
-    containers = soup.find_all(['div', 'section'], class_=re.compile(r'.*(list|grid|container|channel).*', re.I))
-    for container in containers:
-        links = container.find_all('a', href=re.compile(r'/channel/watch/'))
-        for link in links:
-            href = link.get('href', '')
-            if '/channel/watch/' in href:
-                channel_id = href.split('/channel/watch/')[-1].strip('/')
-                if channel_id and channel_id not in additional_channels:
-                    additional_channels.append(channel_id)
-    
-    return additional_channels
+    return channel_list
 
 def fetch_epg_data(channel_id, max_retries=3):
     """獲取指定頻道的電視節目表數據"""
