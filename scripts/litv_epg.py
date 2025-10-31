@@ -30,32 +30,48 @@ def parse_channel_list():
         response.raise_for_status()
         
         data = response.json()
-        channels_data = data.get('pageProps', {}).get('channels', [])
+        print(f"獲取的頻道數據結構: {list(data.keys())}")
+        
+        # 嘗試不同的數據結構路徑
+        channels_data = None
+        if 'pageProps' in data and 'channels' in data['pageProps']:
+            channels_data = data['pageProps']['channels']
+        elif 'channels' in data:
+            channels_data = data['channels']
+        else:
+            print(f"未知的數據結構: {data}")
+            return []
+        
+        print(f"找到 {len(channels_data)} 個頻道")
         
         channels = []
         for channel in channels_data:
             channel_name = channel.get('title', '').strip()
             channel_id = channel.get('cdn_code', '').strip()
             
-            if channel_name and channel_id:
-                # 處理logo URL
-                logo = channel.get('picture', '')
-                if logo and not logo.startswith('http'):
-                    logo = f"https://fino.svc.litv.tv/{logo.lstrip('/')}"
+            if not channel_name or not channel_id:
+                continue
                 
-                channels.append({
-                    "channelName": channel_name,
-                    "id": channel_id,
-                    "logo": logo,
-                    "description": channel.get('description', ''),
-                    "content_type": channel.get('content_type', 'channel')
-                })
+            # 處理logo URL
+            logo = channel.get('picture', '')
+            if logo and not logo.startswith('http'):
+                logo = f"https://fino.svc.litv.tv/{logo.lstrip('/')}"
+            
+            channels.append({
+                "channelName": channel_name,
+                "id": channel_id,
+                "logo": logo,
+                "description": channel.get('description', ''),
+                "content_type": channel.get('content_type', 'channel')
+            })
         
         print(f"✅ 成功獲取 {len(channels)} 個頻道")
         return channels
         
     except Exception as e:
         print(f"❌ 獲取頻道清單失敗: {str(e)}")
+        import traceback
+        traceback.print_exc()
         return []
 
 def fetch_epg_data():
@@ -70,10 +86,13 @@ def fetch_epg_data():
         response.raise_for_status()
         
         data = response.json()
+        print(f"獲取的節目表數據結構: {list(data.keys())}")
         return data
         
     except Exception as e:
         print(f"❌ 獲取節目表數據失敗: {str(e)}")
+        import traceback
+        traceback.print_exc()
         return None
 
 def parse_epg_data(epg_json, channels_info):
@@ -84,12 +103,25 @@ def parse_epg_data(epg_json, channels_info):
     programs = []
     
     try:
-        channel_list = epg_json.get('pageProps', {}).get('list', [])
+        # 嘗試不同的數據結構路徑
+        channel_list = None
+        if 'pageProps' in epg_json and 'list' in epg_json['pageProps']:
+            channel_list = epg_json['pageProps']['list']
+        elif 'list' in epg_json:
+            channel_list = epg_json['list']
+        else:
+            print(f"未知的節目表數據結構: {epg_json}")
+            return []
+        
+        print(f"找到 {len(channel_list)} 個頻道的節目表")
         
         for channel_data in channel_list:
             channel_id = channel_data.get('contentId', '')
             schedule = channel_data.get('schedule', [])
             
+            if not channel_id:
+                continue
+                
             # 查找對應的頻道名稱
             channel_name = None
             for channel in channels_info:
@@ -101,6 +133,8 @@ def parse_epg_data(epg_json, channels_info):
                 # 如果找不到對應頻道，使用API返回的標題
                 channel_name = channel_data.get('title', f"未知頻道-{channel_id}")
                 print(f"⚠️ 頻道ID {channel_id} 不在頻道列表中，使用API標題: {channel_name}")
+            
+            print(f"處理頻道 {channel_name} 的 {len(schedule)} 個節目")
             
             # 解析該頻道的節目表
             for schedule_item in schedule:
@@ -153,13 +187,13 @@ def get_litv_epg():
     channels_info = parse_channel_list()
     if not channels_info:
         print("❌ 無法獲取頻道清單")
-        return [], []
+        return [], [], []  # 返回三個空列表
     
     # 獲取節目表數據
     epg_json = fetch_epg_data()
     if not epg_json:
         print("❌ 無法獲取節目表數據")
-        return [], []
+        return channels_info, [], []  # 返回頻道資訊和兩個空列表
     
     # 解析節目數據
     programs = parse_epg_data(epg_json, channels_info)
@@ -196,11 +230,15 @@ def get_litv_epg():
         print(f"📺 頻道 {channel}: {count} 個節目")
     
     print("="*50)
-    return channels_info, all_channels, programs
+    return channels_info, all_channels, programs  # 返回三個值
 
 def generate_xmltv(channels, programs, output_file="litv.xml"):
     """生成XMLTV格式的EPG數據"""
     print(f"\n生成XMLTV檔案: {output_file}")
+    
+    if not channels or not programs:
+        print("❌ 沒有頻道或節目數據，無法生成XMLTV")
+        return False
     
     # 建立XML根元素
     root = ET.Element("tv", generator="LITV-EPG-Generator", source="www.litv.tv")
@@ -283,6 +321,10 @@ def generate_channel_json(channels_info, output_file="litv.json"):
     """生成JSON格式的頻道資訊"""
     print(f"\n生成JSON頻道檔案: {output_file}")
     
+    if not channels_info:
+        print("❌ 沒有頻道數據，無法生成JSON")
+        return False
+    
     try:
         # 格式化頻道資訊為所需的JSON格式
         json_channels = []
@@ -333,16 +375,17 @@ def main():
         # 獲取EPG數據
         channels_info, all_channels, programs = get_litv_epg()
         
-        if not channels_info or not programs:
-            print("❌ 未獲取到有效EPG數據，無法生成XML和JSON")
+        if not channels_info:
+            print("❌ 未獲取到頻道數據，無法生成XML和JSON")
             sys.exit(1)
             
         # 生成XMLTV檔案
         if not generate_xmltv(all_channels, programs, args.output):
-            sys.exit(1)
+            print("⚠️ XMLTV檔案生成失敗，但繼續生成JSON檔案")
             
         # 生成JSON頻道檔案
         if not generate_channel_json(channels_info, args.json):
+            print("❌ JSON頻道檔案生成失敗")
             sys.exit(1)
             
         print(f"\n🎉 所有檔案生成完成！")
