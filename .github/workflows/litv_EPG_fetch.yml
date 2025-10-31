@@ -1,0 +1,84 @@
+name: Daily litv EPG Update
+
+on:
+  schedule:
+    - cron: '0 20 * * *'
+  workflow_dispatch:
+
+env:
+  HTTP_PROXY: ${{ secrets.HTTP_PROXY }}
+  HTTPS_PROXY: ${{ secrets.HTTPS_PROXY }}
+  http_proxy: ${{ secrets.HTTP_PROXY }}
+  https_proxy: ${{ secrets.HTTPS_PROXY }}
+
+jobs:
+  generate-epg:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4 pytz lxml
+        pip list
+        
+    - name: Create output directory
+      run: mkdir -p output
+      
+    - name: Check proxy settings
+      run: |
+        echo "HTTP_PROXY: $HTTP_PROXY"
+        echo "HTTPS_PROXY: $HTTPS_PROXY"
+        echo "http_proxy: $http_proxy"
+        echo "https_proxy: $https_proxy"
+      
+    - name: Generate EPG and JSON
+      run: |
+        echo "開始生成EPG數據..."
+        python scripts/litv_epg.py --output output/litv.xml --json output/litv.json
+        echo "EPG和JSON生成完成"
+        
+    - name: Debug - List files
+      run: |
+        echo "當前目錄內容:"
+        ls -la
+        echo "輸出目錄內容:"
+        ls -la output/
+        echo "檢查生成的文件:"
+        if [ -f "output/litv.xml" ]; then
+          echo "XML文件大小: $(wc -l < output/litv.xml) 行"
+        else
+          echo "XML文件未生成"
+        fi
+        if [ -f "output/litv.json" ]; then
+          echo "JSON文件大小: $(wc -l < output/litv.json) 行"
+          echo "JSON文件預覽:"
+          head -20 output/litv.json
+        else
+          echo "JSON文件未生成"
+        fi
+        
+    - name: Commit and push changes
+      if: success()
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "GitHub Actions"
+        
+        # 檢查是否有變化
+        git add output/litv.xml output/litv.json
+        
+        if git diff-index --quiet HEAD --; then
+          echo "沒有變化可提交"
+        else
+          git commit -m "Auto-update LiTV EPG data (output/litv.xml and output/litv.json)"
+          git push
+        fi
