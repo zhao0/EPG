@@ -101,8 +101,8 @@ def fetch_epg_data(channel_id, max_retries=3):
     print(f"❌ 無法獲取 電視節目表 數據: {channel_id}")
     return None
 
-def parse_epg_data(json_data, channel_name):
-    """解析電視節目表 JSON數據"""
+def parse_live_epg_data(json_data, channel_name):
+    """解析直播頻道的電視節目表 JSON數據"""
     if not json_data:
         return []
     
@@ -148,9 +148,100 @@ def parse_epg_data(json_data, channel_name):
             })
             
     except (KeyError, TypeError, ValueError) as e:
-        print(f"❌ 解析電視節目表數據失敗: {str(e)}")
+        print(f"❌ 解析直播電視節目表數據失敗: {str(e)}")
     
     return programs
+
+def parse_vod_epg_data(json_data, channel_name):
+    """解析點播頻道的電視節目表 JSON數據"""
+    if not json_data:
+        return []
+    
+    programs = []
+    try:
+        # 添加安全檢查
+        if not json_data.get('props') or not json_data['props'].get('pageProps') or not json_data['props']['pageProps'].get('channel'):
+            print(f"❌ JSON結構無效: {channel_name}")
+            return []
+        
+        channel_data = json_data['props']['pageProps']['channel']
+        vod_schedule = channel_data.get('vod_channel_schedule', {})
+        
+        if not vod_schedule:
+            print(f"⚠️ 點播頻道 {channel_name} 沒有節目表數據")
+            return []
+        
+        vod_programs = vod_schedule.get('programs', [])
+        
+        for item in vod_programs:
+            # 解析開始時間 (毫秒時間戳)
+            try:
+                start_timestamp = item.get('p_start', 0)  # 毫秒時間戳
+                if start_timestamp == 0:
+                    continue
+                    
+                # 將毫秒時間戳轉換為台北時區的datetime對象
+                start_taipei = datetime.datetime.fromtimestamp(start_timestamp / 1000, TAIPEI_TZ)
+                
+                # 計算結束時間 (使用length字段，單位毫秒)
+                duration_ms = item.get('length', 0)
+                duration = datetime.timedelta(milliseconds=duration_ms)
+                end_taipei = start_taipei + duration
+                
+            except (KeyError, ValueError, TypeError) as e:
+                print(f"⚠️ 跳過無效的時間格式: {channel_name}, {str(e)}")
+                continue
+            
+            programs.append({
+                "channelName": channel_name,
+                "programName": item.get('title', '未知節目'),
+                "description": item.get('vod_channel_description', ''),
+                "subtitle": item.get('subtitle', ''),
+                "start": start_taipei,
+                "end": end_taipei
+            })
+            
+    except (KeyError, TypeError, ValueError) as e:
+        print(f"❌ 解析點播電視節目表數據失敗: {str(e)}")
+    
+    return programs
+
+def parse_epg_data(json_data, channel_name):
+    """解析電視節目表 JSON數據，自動判斷直播或點播"""
+    if not json_data:
+        return []
+    
+    # 檢查是直播還是點播頻道
+    try:
+        channel_data = json_data['props']['pageProps']['channel']
+        content_type = channel_data.get('content_type', '')
+        
+        if content_type == 'vod-channel' or channel_data.get('vod_channel_schedule'):
+            print(f"📹 檢測到點播頻道: {channel_name}")
+            return parse_vod_epg_data(json_data, channel_name)
+        else:
+            print(f"📺 檢測到直播頻道: {channel_name}")
+            return parse_live_epg_data(json_data, channel_name)
+            
+    except (KeyError, TypeError, ValueError) as e:
+        print(f"❌ 判斷頻道類型失敗: {str(e)}")
+        # 默認嘗試直播解析
+        return parse_live_epg_data(json_data, channel_name)
+
+def get_channel_logo(channel_data, introduction):
+    """獲取頻道logo，處理直播和點播的不同路徑"""
+    logo = channel_data.get('picture') or introduction.get('image')
+    
+    if logo:
+        # 處理相對路徑
+        if not logo.startswith("http"):
+            logo = f"https://p-cdnstatic.svc.litv.tv/{logo}"
+        
+        # 將logo路徑中的_tv替換為_mobile以獲取移動版logo
+        if '_tv' in logo:
+            logo = logo.replace('_tv', '_mobile')
+    
+    return logo
 
 def get_ofiii_epg():
     """獲取歐飛電視節目表"""
@@ -192,10 +283,8 @@ def get_ofiii_epg():
                 failed_channels.append(channel_name)
                 continue
 
-            # 處理 logo（允許為 None）
-            logo = channel_data.get('picture') or introduction.get('image')
-            if logo and not logo.startswith("http"):
-                logo = f"https://p-cdnstatic.svc.litv.tv/{logo}"
+            # 處理logo（使用新的logo處理函數）
+            logo = get_channel_logo(channel_data, introduction)
 
             # 處理描述
             desc = introduction.get('description', '') or channel_data.get('description', '')
