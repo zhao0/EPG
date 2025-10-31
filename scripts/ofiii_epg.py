@@ -21,8 +21,6 @@ HEADERS = {
 def parse_channel_list():
     """解析頻道清單檔案內容"""
     channel_list = [
-        "nnews-vn",
-        "nnews-wf",
         "nnews-zh",
         "4gtv-4gtv009",
         "4gtv-4gtv066",
