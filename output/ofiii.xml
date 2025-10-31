@@ -2,7 +2,7 @@
 <tv generator="OFIII-EPG-Generator" source="www.ofiii.com">
   <channel id="倪珍播新聞">
     <display-name lang="zh">倪珍播新聞</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_mobile.png"/>
   </channel>
   <programme channel="倪珍播新聞" start="20251031180000 +0800" stop="20251101000000 +0800">
     <title lang="zh">晚安新聞</title>
@@ -66,12 +66,8 @@
   </programme>
   <channel id="中天新聞台">
     <display-name lang="zh">中天新聞台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_mobile.png"/>
   </channel>
-  <programme channel="中天新聞台" start="20251031180000 +0800" stop="20251031190000 +0800">
-    <title lang="zh">中天辣晚報</title>
-    <desc lang="zh">提供國內、兩岸、國際頭條焦點，掌握時事脈動，觀察新聞背後的真正意義，帶領觀眾知曉天下事。有最深度的內容、最專業的追蹤、最需要的資訊，收視率領先各台，具有高度影響力！</desc>
-  </programme>
   <programme channel="中天新聞台" start="20251031190000 +0800" stop="20251031200000 +0800">
     <title lang="zh">中天辣晚報</title>
     <desc lang="zh">提供國內、兩岸、國際頭條焦點，掌握時事脈動，觀察新聞背後的真正意義，帶領觀眾知曉天下事。有最深度的內容、最專業的追蹤、最需要的資訊，收視率領先各台，具有高度影響力！</desc>
@@ -530,18 +526,8 @@
   </programme>
   <channel id="台視">
     <display-name lang="zh">台視</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_mobile.png"/>
   </channel>
-  <programme channel="台視" start="20251031175800 +0800" stop="20251031182800 +0800">
-    <title lang="zh">蠟筆小新</title>
-    <sub-title lang="zh">Crayon Shin-chan</sub-title>
-    <desc lang="zh">主角是個年僅5歲的幼稚園小男孩新之助，作者臼井儀人從日常生活中取材，敘述在小新生活周遭所發生的事情，在他小小的腦袋裡有一些大人的想法，而經過他表現出來的動作，常令人大笑不已。《蠟筆小新》會帶給您意想不到的輕鬆感受。</desc>
-  </programme>
-  <programme channel="台視" start="20251031182800 +0800" stop="20251031185800 +0800">
-    <title lang="zh">蠟筆小新</title>
-    <sub-title lang="zh">Crayon Shin-chan</sub-title>
-    <desc lang="zh">主角是個年僅5歲的幼稚園小男孩新之助，作者臼井儀人從日常生活中取材，敘述在小新生活周遭所發生的事情，在他小小的腦袋裡有一些大人的想法，而經過他表現出來的動作，常令人大笑不已。《蠟筆小新》會帶給您意想不到的輕鬆感受。</desc>
-  </programme>
   <programme channel="台視" start="20251031185800 +0800" stop="20251031200000 +0800">
     <title lang="zh">台視晚間新聞</title>
     <desc lang="zh">由最專業的台視主播，每日為觀眾提供即時新聞與專業的追蹤報導。</desc>
@@ -818,11 +804,8 @@
   </programme>
   <channel id="中視">
     <display-name lang="zh">中視</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_mobile.png"/>
   </channel>
-  <programme channel="中視" start="20251031175800 +0800" stop="20251031185800 +0800">
-    <title lang="zh">中視新聞</title>
-  </programme>
   <programme channel="中視" start="20251031185800 +0800" stop="20251031200000 +0800">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
@@ -1019,12 +1002,8 @@
   </programme>
   <channel id="華視">
     <display-name lang="zh">華視</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_mobile.png"/>
   </channel>
-  <programme channel="華視" start="20251031165800 +0800" stop="20251031185800 +0800">
-    <title lang="zh">華視新聞晚報</title>
-    <desc lang="zh">華視新聞部每天整理當天重大國內外新聞事件，為觀眾做最快、最即時的播報。</desc>
-  </programme>
   <programme channel="華視" start="20251031185800 +0800" stop="20251031200000 +0800">
     <title lang="zh">華視晚間新聞</title>
     <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導國內外重要新聞。</desc>
@@ -1551,12 +1530,8 @@
   </programme>
   <channel id="台視新聞">
     <display-name lang="zh">台視新聞</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_mobile.png"/>
   </channel>
-  <programme channel="台視新聞" start="20251031175500 +0800" stop="20251031185800 +0800">
-    <title lang="zh">台視新聞全球現場</title>
-    <desc lang="zh">由台視主播為觀眾帶來的國際間新聞，帶給各位最專業、完整、深入的新聞報導。</desc>
-  </programme>
   <programme channel="台視新聞" start="20251031185800 +0800" stop="20251031195900 +0800">
     <title lang="zh">台視晚間新聞</title>
     <desc lang="zh">由最專業的台視主播，每日為觀眾提供即時新聞與專業的追蹤報導。</desc>
@@ -2092,7 +2067,7 @@
   </programme>
   <channel id="華視新聞">
     <display-name lang="zh">華視新聞</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_mobile.png"/>
   </channel>
   <programme channel="華視新聞" start="20251031165300 +0800" stop="20251031200000 +0800">
     <title lang="zh">華視新聞晚報</title>
@@ -2583,12 +2558,8 @@
   </programme>
   <channel id="中視新聞">
     <display-name lang="zh">中視新聞</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_mobile.png"/>
   </channel>
-  <programme channel="中視新聞" start="20251031180000 +0800" stop="20251031185800 +0800">
-    <title lang="zh">中視新聞全球報導</title>
-    <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
-  </programme>
   <programme channel="中視新聞" start="20251031185800 +0800" stop="20251031200000 +0800">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
@@ -2831,7 +2802,7 @@
   </programme>
   <channel id="國會頻道1台">
     <display-name lang="zh">國會頻道1台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv084_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv084_mobile.png"/>
   </channel>
   <programme channel="國會頻道1台" start="20251031180000 +0800" stop="20251101000000 +0800">
     <title lang="zh">當日立法院會議轉播</title>
@@ -2916,7 +2887,7 @@
   </programme>
   <channel id="國會頻道2台">
     <display-name lang="zh">國會頻道2台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv085_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv085_mobile.png"/>
   </channel>
   <programme channel="國會頻道2台" start="20251031180000 +0800" stop="20251101000000 +0800">
     <title lang="zh">當日立法院會議轉播</title>
@@ -3001,13 +2972,8 @@
   </programme>
   <channel id="亞洲旅遊台">
     <display-name lang="zh">亞洲旅遊台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_mobile.png"/>
   </channel>
-  <programme channel="亞洲旅遊台" start="20251031180000 +0800" stop="20251031190000 +0800">
-    <title lang="zh">型男闖世界</title>
-    <sub-title lang="zh">S2,#4_愛沙尼亞</sub-title>
-    <desc lang="zh">《型男闖世界》前往世界各地的特殊景點或深山秘境，挑戰極限運動，尋找奇人異事、踏尋隱身在叢林邊境的傳說、進行各種挑戰及探險。</desc>
-  </programme>
   <programme channel="亞洲旅遊台" start="20251031190000 +0800" stop="20251031200000 +0800">
     <title lang="zh">33廚房</title>
     <sub-title lang="zh">#55</sub-title>
@@ -3580,11 +3546,8 @@
   </programme>
   <channel id="東森購物1台">
     <display-name lang="zh">東森購物1台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv102_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv102_mobile.png"/>
   </channel>
-  <programme channel="東森購物1台" start="20251031180000 +0800" stop="20251031184000 +0800">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-  </programme>
   <programme channel="東森購物1台" start="20251031184000 +0800" stop="20251031192000 +0800">
     <title lang="zh">10/1-10/31全月訂單實付滿8,000元回饋1,000 E幣</title>
   </programme>
@@ -4118,11 +4081,8 @@
   </programme>
   <channel id="東森購物2台">
     <display-name lang="zh">東森購物2台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv103_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv103_mobile.png"/>
   </channel>
-  <programme channel="東森購物2台" start="20251031180000 +0800" stop="20251031184000 +0800">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-  </programme>
   <programme channel="東森購物2台" start="20251031184000 +0800" stop="20251031192000 +0800">
     <title lang="zh">10/1-10/31全月訂單實付滿8,000元回饋1,000 E幣</title>
   </programme>
@@ -4656,14 +4616,8 @@
   </programme>
   <channel id="第1商業台">
     <display-name lang="zh">第1商業台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_mobile.png"/>
   </channel>
-  <programme channel="第1商業台" start="20251031180000 +0800" stop="20251031183000 +0800">
-    <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
-  </programme>
-  <programme channel="第1商業台" start="20251031183000 +0800" stop="20251031190000 +0800">
-    <title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title>
-  </programme>
   <programme channel="第1商業台" start="20251031190000 +0800" stop="20251031193000 +0800">
     <title lang="zh">旗開得勝-顧德投顧-張家豪分析師</title>
   </programme>
@@ -5311,12 +5265,8 @@
   </programme>
   <channel id="寰宇新聞台灣台">
     <display-name lang="zh">寰宇新聞台灣台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_mobile.png"/>
   </channel>
-  <programme channel="寰宇新聞台灣台" start="20251031175500 +0800" stop="20251031185500 +0800">
-    <title lang="zh">寰宇晚間新聞</title>
-    <desc lang="zh">寰宇晚間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
-  </programme>
   <programme channel="寰宇新聞台灣台" start="20251031185500 +0800" stop="20251031195500 +0800">
     <title lang="zh">寰宇晚間新聞</title>
     <desc lang="zh">寰宇晚間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
@@ -5730,13 +5680,8 @@
   </programme>
   <channel id="寰宇財經台">
     <display-name lang="zh">寰宇財經台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_mobile.png"/>
   </channel>
-  <programme channel="寰宇財經台" start="20251031180000 +0800" stop="20251031190000 +0800">
-    <title lang="zh">台灣大代誌</title>
-    <sub-title lang="zh">#1</sub-title>
-    <desc lang="zh">時間播回1996年，當時爆發了兩國論台海危機，李登輝總統拋出了兩國論，大陸方面做出對台導彈試射進行威脅，不過李登輝總統說出了一句話：「他說不用怕啦！他們射出的都是啞巴彈空包彈，根本就是在作秀」大陸查到底是誰掀底牌的，分別是劉連昆、邵正宗，誰為他們牽線佈下整個情報脈絡的呢？</desc>
-  </programme>
   <programme channel="寰宇財經台" start="20251031190000 +0800" stop="20251031200000 +0800">
     <title lang="zh">銅板美食呷透透</title>
     <desc lang="zh">東森新聞製播的美食特輯，記者深入台灣各地，尋找令人回味無窮的美食記憶，介紹各種好吃又便宜的店家。</desc>
@@ -6143,15 +6088,8 @@
   </programme>
   <channel id="好消息">
     <display-name lang="zh">好消息</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_mobile.png"/>
   </channel>
-  <programme channel="好消息" start="20251031180000 +0800" stop="20251031183000 +0800">
-    <title lang="zh">玩具咖啡屋</title>
-  </programme>
-  <programme channel="好消息" start="20251031183000 +0800" stop="20251031190000 +0800">
-    <title lang="zh">福氣人生</title>
-    <desc lang="zh">如何才能擁有福氣人生?看牧師們以台語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
-  </programme>
   <programme channel="好消息" start="20251031190000 +0800" stop="20251031191500 +0800">
     <title lang="zh">機智青年生活</title>
     <desc lang="zh">這不是韓劇，而是正上演的一齣充滿血淚與美好友誼的熱血植堂連續劇 ！旌旗好生活邀請到三對青年牧師CP，來聊聊由上帝導演，引領青年教會及一群青年團隊，經歷瘋狂又精彩的植堂人生！</desc>
@@ -6769,16 +6707,8 @@
   </programme>
   <channel id="好消息2台">
     <display-name lang="zh">好消息2台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_mobile.png"/>
   </channel>
-  <programme channel="好消息2台" start="20251031180000 +0800" stop="20251031183000 +0800">
-    <title lang="zh">共享觀點</title>
-    <desc lang="zh">連結社群、分享、行動的特色，藉著媒體平台將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
-  </programme>
-  <programme channel="好消息2台" start="20251031183000 +0800" stop="20251031190000 +0800">
-    <title lang="zh">愛＋好醫生</title>
-    <desc lang="zh">結合醫療專業及全人關懷的新型態節目，主持人黃瑽寧醫師親訪家庭，跨領域醫療顧問團全方位檢視，提供最完整、實用和正確的資訊來守護孩子的健康。</desc>
-  </programme>
   <programme channel="好消息2台" start="20251031190000 +0800" stop="20251031200000 +0800">
     <title lang="zh">幸福學堂</title>
     <desc lang="zh">幸福學堂是一個深度探討家庭問題的節目，讓觀眾的家庭問題可以在節目中得到協助，這些輔導經驗豐富的專家，也是信仰堅定的基督徒學者，包含林如萍、武自珍、葉高芳、錢玉芬等教授，透過深入的討與講解，為現場觀眾解答家庭的疑惑。</desc>
@@ -7635,16 +7565,8 @@
   </programme>
   <channel id="龍華卡通台">
     <display-name lang="zh">龍華卡通台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn01_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn01_mobile.png"/>
   </channel>
-  <programme channel="龍華卡通台" start="20251031180000 +0800" stop="20251031183000 +0800">
-    <title lang="zh">百變校巴</title>
-    <desc lang="zh">劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</desc>
-  </programme>
-  <programme channel="龍華卡通台" start="20251031183000 +0800" stop="20251031190000 +0800">
-    <title lang="zh">百變校巴</title>
-    <desc lang="zh">劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</desc>
-  </programme>
   <programme channel="龍華卡通台" start="20251031190000 +0800" stop="20251031193000 +0800">
     <title lang="zh">王國戰隊</title>
     <desc lang="zh">頻繁的地震導致各地災情不斷，五大王國決定召集各國的動物英雄－－狼群守護者路卡、熊群保護者諾文、猿猴守望者狄萊拉、獾群守護者提傑，以及貓群守護者米特絲，組成「王國戰隊」！習慣獨自戰鬥的英雄們，不得不學習互相合作，共同守護彼此重視的家園。</desc>
@@ -8585,13 +8507,8 @@
   </programme>
   <channel id="龍華洋片台">
     <display-name lang="zh">龍華洋片台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn02_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn02_mobile.png"/>
   </channel>
-  <programme channel="龍華洋片台" start="20251031170500 +0800" stop="20251031190500 +0800">
-    <title lang="zh">愛情不輪轉</title>
-    <sub-title lang="zh">Rolling to You</sub-title>
-    <desc lang="zh">喬斯藍是慢跑鞋公司大老闆，家財萬貫流連於美女足尖。某日，他回到老家繼承家產，遇上了美女看護，陰錯陽差成為輪椅人士。而看護的姊姊也是輪椅人士，兩人從互看不順眼，到情投意合，但喬斯藍的天大秘密該如何開口…</desc>
-  </programme>
   <programme channel="龍華洋片台" start="20251031190500 +0800" stop="20251031210000 +0800">
     <title lang="zh">特務殺很大</title>
     <sub-title lang="zh">3 Days to Kill</sub-title>
@@ -8850,12 +8767,8 @@
   </programme>
   <channel id="龍華電影台">
     <display-name lang="zh">龍華電影台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_mobile.png"/>
   </channel>
-  <programme channel="龍華電影台" start="20251031164000 +0800" stop="20251031184000 +0800">
-    <title lang="zh">嚦咕嚦咕新年財</title>
-    <desc lang="zh">麻雀大俠德華（劉德華）天生喜愛打麻將，以致多年前債台高築，與弟弟天樂（古天樂）反目成仇。多年後德華決心負起責任，並以麻將治療老人痴呆症的母親，但卻遭到前女友詠琪（梁詠琪）的百般糾纏。青雲（劉青雲）與采兒（應采兒）是利用麻將騙人的老千，為了奪得麻將俠的稱號而向德華設下圈套…</desc>
-  </programme>
   <programme channel="龍華電影台" start="20251031184000 +0800" stop="20251031210000 +0800">
     <title lang="zh">五億探長雷洛傳2父子情仇</title>
     <sub-title lang="zh">aka:雷洛傳2之父子情仇</sub-title>
@@ -9125,12 +9038,8 @@
   </programme>
   <channel id="龍華日韓台">
     <display-name lang="zh">龍華日韓台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_mobile.png"/>
   </channel>
-  <programme channel="龍華日韓台" start="20251031180000 +0800" stop="20251031190000 +0800">
-    <title lang="zh">味之道</title>
-    <sub-title lang="zh">#55</sub-title>
-  </programme>
   <programme channel="龍華日韓台" start="20251031190000 +0800" stop="20251031200000 +0800">
     <title lang="zh">我親愛的朋友們</title>
     <sub-title lang="zh">#9</sub-title>
@@ -9717,12 +9626,8 @@
   </programme>
   <channel id="龍華偶像台">
     <display-name lang="zh">龍華偶像台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_mobile.png"/>
   </channel>
-  <programme channel="龍華偶像台" start="20251031180000 +0800" stop="20251031190000 +0800">
-    <title lang="zh">君九齡</title>
-    <sub-title lang="zh">#4</sub-title>
-  </programme>
   <programme channel="龍華偶像台" start="20251031190000 +0800" stop="20251031200000 +0800">
     <title lang="zh">君九齡</title>
     <sub-title lang="zh">#5</sub-title>
@@ -10312,12 +10217,8 @@
   </programme>
   <channel id="寰宇新聞台">
     <display-name lang="zh">寰宇新聞台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_mobile.png"/>
   </channel>
-  <programme channel="寰宇新聞台" start="20251031175500 +0800" stop="20251031185500 +0800">
-    <title lang="zh">寰宇全球新聞</title>
-    <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
-  </programme>
   <programme channel="寰宇新聞台" start="20251031185500 +0800" stop="20251031195500 +0800">
     <title lang="zh">寰宇全球新聞</title>
     <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
@@ -10730,13 +10631,8 @@
   </programme>
   <channel id="龍華戲劇台">
     <display-name lang="zh">龍華戲劇台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_mobile.png"/>
   </channel>
-  <programme channel="龍華戲劇台" start="20251031180000 +0800" stop="20251031190000 +0800">
-    <title lang="zh">阿麥從軍</title>
-    <sub-title lang="zh">#13</sub-title>
-    <desc lang="zh">為報滅門之仇，南夏盛國公之女阿麥女扮男裝混跡江湖，並憑藉過人的軍事才能屢建奇功，一步步從無名步兵成為名震漠北的麥帥。阿麥輔佐深陷追殺、艱難存活的長公主之子商易之找到自我、成就偉業，也與屢屢交戰的敵軍將領常鈺青經歷生死、相知相惜。</desc>
-  </programme>
   <programme channel="龍華戲劇台" start="20251031190000 +0800" stop="20251031200000 +0800">
     <title lang="zh">阿麥從軍</title>
     <sub-title lang="zh">#14</sub-title>
@@ -11294,11 +11190,8 @@
   </programme>
   <channel id="Smart知識台">
     <display-name lang="zh">Smart知識台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_mobile.png"/>
   </channel>
-  <programme channel="Smart知識台" start="20251031180000 +0800" stop="20251031190000 +0800">
-    <title lang="zh">全民星攻略【首】</title>
-  </programme>
   <programme channel="Smart知識台" start="20251031190000 +0800" stop="20251031200000 +0800">
     <title lang="zh">台灣啟示錄</title>
     <sub-title lang="zh">十大槍擊犯之首,徵信業者蒐證直擊</sub-title>
@@ -11757,12 +11650,8 @@
   </programme>
   <channel id="ELTV生活英語台">
     <display-name lang="zh">ELTV生活英語台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_mobile.png"/>
   </channel>
-  <programme channel="ELTV生活英語台" start="20251031180000 +0800" stop="20251031190000 +0800">
-    <title lang="zh">森林偵探</title>
-    <sub-title lang="zh">#9</sub-title>
-  </programme>
   <programme channel="ELTV生活英語台" start="20251031190000 +0800" stop="20251031200000 +0800">
     <title lang="zh">歡唱小浣熊</title>
   </programme>
@@ -12207,11 +12096,8 @@
   </programme>
   <channel id="龍華經典台">
     <display-name lang="zh">龍華經典台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_mobile.png"/>
   </channel>
-  <programme channel="龍華經典台" start="20251031171000 +0800" stop="20251031190000 +0800">
-    <title lang="zh">聯合縮小軍</title>
-  </programme>
   <programme channel="龍華經典台" start="20251031190000 +0800" stop="20251031210000 +0800">
     <title lang="zh">天地民心(13-14)</title>
   </programme>
@@ -12416,16 +12302,8 @@
   </programme>
   <channel id="台灣戲劇台">
     <display-name lang="zh">台灣戲劇台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_mobile.png"/>
   </channel>
-  <programme channel="台灣戲劇台" start="20251031180000 +0800" stop="20251031183000 +0800">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme channel="台灣戲劇台" start="20251031183000 +0800" stop="20251031190000 +0800">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
-  </programme>
   <programme channel="台灣戲劇台" start="20251031190000 +0800" stop="20251031200000 +0800">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</desc>
@@ -12928,7 +12806,7 @@
   </programme>
   <channel id="三立新聞iNEWS">
     <display-name lang="zh">三立新聞iNEWS</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_tv.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_mobile.png"/>
   </channel>
   <programme channel="三立新聞iNEWS" start="20251031180000 +0800" stop="20251031200000 +0800">
     <title lang="zh">1819錢進大頭條</title>
@@ -13261,6 +13139,506 @@
   </programme>
   <channel id="Focus探索新知台">
     <display-name lang="zh">Focus探索新知台</display-name>
-    <icon src="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii82_tv_20221213.png"/>
+    <icon src="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii82_mobile_20221213.png"/>
   </channel>
+  <programme channel="Focus探索新知台" start="20251029161500 +0800" stop="20251029164422 +0800">
+    <title lang="zh">煙火拾味</title>
+    <sub-title lang="zh">第1集</sub-title>
+    <desc lang="zh">《煙火拾味》立足上海本土老字型大小美食，以美食帶出人和食物、人和人、人和城市的生動故事，體現上海人精緻、實惠的生活方式和包容創新的人文精神，這是一個味與情高度融合的人文紀錄片。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251029165000 +0800" stop="20251029171925 +0800">
+    <title lang="zh">煙火拾味</title>
+    <sub-title lang="zh">第2集</sub-title>
+    <desc lang="zh">《煙火拾味》立足上海本土老字型大小美食，以美食帶出人和食物、人和人、人和城市的生動故事，體現上海人精緻、實惠的生活方式和包容創新的人文精神，這是一個味與情高度融合的人文紀錄片。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251029172500 +0800" stop="20251029175348 +0800">
+    <title lang="zh">煙火拾味</title>
+    <sub-title lang="zh">第3集</sub-title>
+    <desc lang="zh">《煙火拾味》立足上海本土老字型大小美食，以美食帶出人和食物、人和人、人和城市的生動故事，體現上海人精緻、實惠的生活方式和包容創新的人文精神，這是一個味與情高度融合的人文紀錄片。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251029175500 +0800" stop="20251029182425 +0800">
+    <title lang="zh">煙火拾味</title>
+    <sub-title lang="zh">第4集</sub-title>
+    <desc lang="zh">《煙火拾味》立足上海本土老字型大小美食，以美食帶出人和食物、人和人、人和城市的生動故事，體現上海人精緻、實惠的生活方式和包容創新的人文精神，這是一個味與情高度融合的人文紀錄片。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251029183000 +0800" stop="20251029185923 +0800">
+    <title lang="zh">煙火拾味</title>
+    <sub-title lang="zh">第5集</sub-title>
+    <desc lang="zh">《煙火拾味》立足上海本土老字型大小美食，以美食帶出人和食物、人和人、人和城市的生動故事，體現上海人精緻、實惠的生活方式和包容創新的人文精神，這是一個味與情高度融合的人文紀錄片。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251029190500 +0800" stop="20251029193421 +0800">
+    <title lang="zh">煙火拾味</title>
+    <sub-title lang="zh">第6集</sub-title>
+    <desc lang="zh">《煙火拾味》立足上海本土老字型大小美食，以美食帶出人和食物、人和人、人和城市的生動故事，體現上海人精緻、實惠的生活方式和包容創新的人文精神，這是一個味與情高度融合的人文紀錄片。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251029194000 +0800" stop="20251029200929 +0800">
+    <title lang="zh">煙火拾味</title>
+    <sub-title lang="zh">第7集</sub-title>
+    <desc lang="zh">《煙火拾味》立足上海本土老字型大小美食，以美食帶出人和食物、人和人、人和城市的生動故事，體現上海人精緻、實惠的生活方式和包容創新的人文精神，這是一個味與情高度融合的人文紀錄片。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251029201500 +0800" stop="20251029205500 +0800">
+    <title lang="zh">兩岸家書</title>
+    <sub-title lang="zh">第1集 我從唐山攜夢來</sub-title>
+    <desc lang="zh">六集人文紀錄片《兩岸家書》透過跨越海峽兩岸的家族和家庭書信，展示兩岸的歲月滄桑，和無數普通人在時代巨變中的悲歡離合，重現斑駁字跡背後剪不斷、離不散的至真至情。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251029210000 +0800" stop="20251029214000 +0800">
+    <title lang="zh">兩岸家書</title>
+    <sub-title lang="zh">第2集 迢遙漫漫回家路</sub-title>
+    <desc lang="zh">六集人文紀錄片《兩岸家書》透過跨越海峽兩岸的家族和家庭書信，展示兩岸的歲月滄桑，和無數普通人在時代巨變中的悲歡離合，重現斑駁字跡背後剪不斷、離不散的至真至情。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251029214500 +0800" stop="20251029222500 +0800">
+    <title lang="zh">兩岸家書</title>
+    <sub-title lang="zh">第3集 半百青春不留白</sub-title>
+    <desc lang="zh">六集人文紀錄片《兩岸家書》透過跨越海峽兩岸的家族和家庭書信，展示兩岸的歲月滄桑，和無數普通人在時代巨變中的悲歡離合，重現斑駁字跡背後剪不斷、離不散的至真至情。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251029223000 +0800" stop="20251029231000 +0800">
+    <title lang="zh">兩岸家書</title>
+    <sub-title lang="zh">第4集 隔海相望且相惜</sub-title>
+    <desc lang="zh">六集人文紀錄片《兩岸家書》透過跨越海峽兩岸的家族和家庭書信，展示兩岸的歲月滄桑，和無數普通人在時代巨變中的悲歡離合，重現斑駁字跡背後剪不斷、離不散的至真至情。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251029231500 +0800" stop="20251029235500 +0800">
+    <title lang="zh">兩岸家書</title>
+    <sub-title lang="zh">第5集 倚窗猶識夢中人</sub-title>
+    <desc lang="zh">六集人文紀錄片《兩岸家書》透過跨越海峽兩岸的家族和家庭書信，展示兩岸的歲月滄桑，和無數普通人在時代巨變中的悲歡離合，重現斑駁字跡背後剪不斷、離不散的至真至情。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030000000 +0800" stop="20251030004000 +0800">
+    <title lang="zh">兩岸家書</title>
+    <sub-title lang="zh">第6集 情深義重是為家</sub-title>
+    <desc lang="zh">六集人文紀錄片《兩岸家書》透過跨越海峽兩岸的家族和家庭書信，展示兩岸的歲月滄桑，和無數普通人在時代巨變中的悲歡離合，重現斑駁字跡背後剪不斷、離不散的至真至情。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030004500 +0800" stop="20251030010854 +0800">
+    <title lang="zh">台灣原住民部落</title>
+    <sub-title lang="zh">第1集 台灣的原住民</sub-title>
+    <desc lang="zh">歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030011000 +0800" stop="20251030013412 +0800">
+    <title lang="zh">台灣原住民部落</title>
+    <sub-title lang="zh">第2集 阿美族</sub-title>
+    <desc lang="zh">歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030014000 +0800" stop="20251030020417 +0800">
+    <title lang="zh">台灣原住民部落</title>
+    <sub-title lang="zh">第3集 排灣族</sub-title>
+    <desc lang="zh">歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030021000 +0800" stop="20251030023452 +0800">
+    <title lang="zh">台灣原住民部落</title>
+    <sub-title lang="zh">第4集 泰雅族</sub-title>
+    <desc lang="zh">歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030024000 +0800" stop="20251030030419 +0800">
+    <title lang="zh">台灣原住民部落</title>
+    <sub-title lang="zh">第5集 布農族</sub-title>
+    <desc lang="zh">歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030031000 +0800" stop="20251030033428 +0800">
+    <title lang="zh">台灣原住民部落</title>
+    <sub-title lang="zh">第6集 卑南族</sub-title>
+    <desc lang="zh">歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030034000 +0800" stop="20251030040352 +0800">
+    <title lang="zh">台灣原住民部落</title>
+    <sub-title lang="zh">第7集 魯凱族</sub-title>
+    <desc lang="zh">歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030040500 +0800" stop="20251030042952 +0800">
+    <title lang="zh">台灣原住民部落</title>
+    <sub-title lang="zh">第8集 鄒族</sub-title>
+    <desc lang="zh">歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030043500 +0800" stop="20251030045959 +0800">
+    <title lang="zh">台灣原住民部落</title>
+    <sub-title lang="zh">第9集 賽夏族</sub-title>
+    <desc lang="zh">歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030050500 +0800" stop="20251030053036 +0800">
+    <title lang="zh">台灣原住民部落</title>
+    <sub-title lang="zh">第10集 雅美族</sub-title>
+    <desc lang="zh">歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030053500 +0800" stop="20251030055913 +0800">
+    <title lang="zh">台灣原住民部落</title>
+    <sub-title lang="zh">第11集 邵族、太魯閣族、拉阿魯哇族</sub-title>
+    <desc lang="zh">歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030060500 +0800" stop="20251030062942 +0800">
+    <title lang="zh">台灣原住民部落</title>
+    <sub-title lang="zh">第12集 賽德克族、撒奇萊雅族、卡那卡那富族、噶瑪蘭族</sub-title>
+    <desc lang="zh">歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030063500 +0800" stop="20251030065852 +0800">
+    <title lang="zh">台灣國家風景區</title>
+    <sub-title lang="zh">第1集 認識台灣的國家風景區</sub-title>
+    <desc lang="zh">13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030070000 +0800" stop="20251030072447 +0800">
+    <title lang="zh">台灣國家風景區</title>
+    <sub-title lang="zh">第2集 東北角暨宜蘭海岸國家風景區</sub-title>
+    <desc lang="zh">13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030073000 +0800" stop="20251030075424 +0800">
+    <title lang="zh">台灣國家風景區</title>
+    <sub-title lang="zh">第3集 北海岸及觀音山國家風景區</sub-title>
+    <desc lang="zh">13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030080000 +0800" stop="20251030082416 +0800">
+    <title lang="zh">台灣國家風景區</title>
+    <sub-title lang="zh">第4集 參山國家風景區</sub-title>
+    <desc lang="zh">13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030083000 +0800" stop="20251030085314 +0800">
+    <title lang="zh">台灣國家風景區</title>
+    <sub-title lang="zh">第5集 日月潭國家風景區</sub-title>
+    <desc lang="zh">13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030085500 +0800" stop="20251030091929 +0800">
+    <title lang="zh">台灣國家風景區</title>
+    <sub-title lang="zh">第6集 阿里山國家風景區</sub-title>
+    <desc lang="zh">13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030092500 +0800" stop="20251030095025 +0800">
+    <title lang="zh">台灣國家風景區</title>
+    <sub-title lang="zh">第7集 雲嘉南濱海國家風景區</sub-title>
+    <desc lang="zh">13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030095500 +0800" stop="20251030101836 +0800">
+    <title lang="zh">台灣國家風景區</title>
+    <sub-title lang="zh">第8集 西拉雅國家風景區</sub-title>
+    <desc lang="zh">13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030102000 +0800" stop="20251030104425 +0800">
+    <title lang="zh">台灣國家風景區</title>
+    <sub-title lang="zh">第9集 茂林國家風景區</sub-title>
+    <desc lang="zh">13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030105000 +0800" stop="20251030111434 +0800">
+    <title lang="zh">台灣國家風景區</title>
+    <sub-title lang="zh">第10集 大鵬灣國家風景區</sub-title>
+    <desc lang="zh">13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030112000 +0800" stop="20251030114330 +0800">
+    <title lang="zh">台灣國家風景區</title>
+    <sub-title lang="zh">第11集 花東縱谷國家風景區</sub-title>
+    <desc lang="zh">13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030114500 +0800" stop="20251030120931 +0800">
+    <title lang="zh">台灣國家風景區</title>
+    <sub-title lang="zh">第12集 東部海岸國家風景區</sub-title>
+    <desc lang="zh">13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030121500 +0800" stop="20251030123944 +0800">
+    <title lang="zh">台灣國家風景區</title>
+    <sub-title lang="zh">第13集 澎湖國家風景區</sub-title>
+    <desc lang="zh">13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030124500 +0800" stop="20251030130947 +0800">
+    <title lang="zh">台灣國家風景區</title>
+    <sub-title lang="zh">第14集 馬祖國家風景區</sub-title>
+    <desc lang="zh">13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030131500 +0800" stop="20251030133504 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第1集 龍飛鳳舞</sub-title>
+    <desc lang="zh">從遠古的原始人類到漁獵和農耕時代的文明發展，從龍和鳳的傳說到古代帝王的象徵，展示中國文明的多樣性和連續性。從洪山文化到黃帝陵，從盤古開天到皇帝的葬禮，我們將揭示中國古代文化的根源和傳承。龍和鳳的形象在神話和藝術中與中國的起源和統一相結合，展現了華夏民族的凝聚力和智慧。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030134000 +0800" stop="20251030140031 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第2集 春秋戰國</sub-title>
+    <desc lang="zh">隨著周朝衰敗，進入春秋戰國時代，這是一個動盪不安、國家分裂的時期。各諸侯國紛爭不斷，並出現了五霸、百家爭鳴的局面。在這個時期，鐵器的使用和推廣、農業生產的發展、思想文化的蓬勃興起等都對中國社會產生了深遠的影響。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030140500 +0800" stop="20251030142508 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第3集 周易八卦</sub-title>
+    <desc lang="zh">《周易》不僅是一部占卜試卦的書籍，更是蘊含豐富思維方式和哲學內涵的典籍。卦象和解釋詞語的組合形成了周易的系統符號，幾千年來，人們對周易抱持著特殊的心理，相信它具有預測未來的能力。雖然有這麼多人研究周易，至今仍保留著一定的神秘感。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030143000 +0800" stop="20251030145018 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第4集 孔孟儒家</sub-title>
+    <desc lang="zh">孔子和孟子在不同時期對中國文化和社會產生了巨大的影響，他們的思想經久不衰。孔子提出的儒家思想強調仁愛之心、克己復禮和道德規範，將人放在核心位置。孟子則進一步發揚了儒家思想，特別關注民本思想，主張仁政和尊重人民的權益。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030145500 +0800" stop="20251030151514 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第5集 老莊道學</sub-title>
+    <desc lang="zh">老子被孔子尊稱為禮的專家。老子認為道是宇宙的根源，並提出無為而治的觀念，反對虛偽的禮教和嚴刑峻法。莊子是道家的關鍵人物，他進一步發展了老子的思想，主張追求自然和超脫現實。玄學則將儒家和道家思想結合，追求精神上的快樂和超越，為動盪時期的人們提供一種避世的精神寄託。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030152000 +0800" stop="20251030154011 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第6集 秦皇漢武</sub-title>
+    <desc lang="zh">秦始皇常被視為暴君的代名詞，他的焚書坑儒行為和對儒家思想的打壓受到後世的批評。然而，他實行了一整套以皇帝為核心的專制政治體制，其中包括郡縣制度，成為後世封建王朝所沿用的制度。此外，在秦漢時期，中國取得了重要的文化成就，如造紙術的發明對世界文化發展做出了重要貢獻。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030154500 +0800" stop="20251030160522 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第7集 貞觀之治</sub-title>
+    <desc lang="zh">探索中國封建社會中最鼎盛的時期─唐朝。唐太宗李世民實施了一系列開明政策和措施，使得貞觀之治取得了顯著的成就。唐朝推行科舉制度，在全國範圍內發展了教育事業，提供文人世子入學和升官的機會，同時吸納外國留學生並培養他們。科舉考試和進士制度展現了大唐帝國開放包容的精神。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030161000 +0800" stop="20251030163010 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第8集 中土佛陀</sub-title>
+    <desc lang="zh">《西遊記》是中國文學中最著名的作品。故事描述了唐朝時期的一場取經之旅，主角是唐朝名僧玄奘。儘管孫悟空、豬八戒、沙僧等角色是虛構的，但取經的故事有歷史基礎。玄奘是唐代一位卓越的高僧，為了尋求真理和取得更多佛經，他踏上了危險而艱苦的印度之旅，最終成功取得大量佛經並帶回中國。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030163500 +0800" stop="20251030165614 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第9集 白紙黑字</sub-title>
+    <desc lang="zh">中國文字與印刷術的故事令人驚嘆。從結繩記事到岩畫，再到甲骨文和金文，每一個階段都為人類文明的發展作出了重要貢獻。秦始皇統一文字，確立小篆為標準字體，加速了文字的規範化和統一。而紙的發明更是中國獨特的貢獻。蔡倫對紙的製作工藝進行改進，使其成為一種方便書寫的材料，取代了竹簡和絲帛。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030170000 +0800" stop="20251030172031 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第10集 科舉考試</sub-title>
+    <desc lang="zh">從漢朝的察舉制，依據品德和行為推薦人才，到兩晉南北朝時期的科舉制度出現問題，產生了社會上品無寒門、下品無世族的局面。唐代的科舉制度逐漸完善，開展科舉考試，允許普通世子參加，根據考試成績選拔人才授予官職。然而，隨著時間推移，這一制度出現了一系列弊端，無法滿足社會需求。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030172500 +0800" stop="20251030174448 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第11集 日月經天</sub-title>
+    <desc lang="zh">從古代的觀測台到不同朝代的曆法制定，以及科學家如張衡和郭守敬的貢獻，中國古代天文學豐富了人類的知識和技術。本集將引領你穿越時空，深入探索中國古代天文學的傳承，展示觀測和曆法制定的重要性，並介紹古代科學家的貢獻。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030175000 +0800" stop="20251030180950 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第12集 江河行地</sub-title>
+    <desc lang="zh">古代中國人對大地的敬畏和尊重，以及對自然環境的關注，對地理學的起源和發展起到了重要影響。本集將帶領你穿越時空，深入探索中國古代地理學的獨特特色和成就。從古代的地理著作到地圖製作，我們將揭開古代中國人對地理的探索和瞭解。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030181500 +0800" stop="20251030183502 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第13集 神農醫藥</sub-title>
+    <desc lang="zh">探索古代中國對疾病的觀念和醫藥學的發展。在古代，人們普遍認為疾病是由鬼魂作怪，並通過敬神拜鬼和巫術來驅除病魔和祈求健康。隨著時間的推移，中國古代醫藥學經歷了漫長的演進過程。從最早的使用火和酒，到辨識草藥和器具的應用，再到更完整的醫療體系的建立，醫藥學取得了長足的進步。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030184000 +0800" stop="20251030190015 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第14集 以農為本</sub-title>
+    <desc lang="zh">從古代神農傳授耕種技術的傳說，到歷代帝王對農業的重視，農業一直在中國社會中佔據著重要地位。本集將深入探索古代中國農業的起源和發展。從農家思想的出現，到商鞅變法和秦漢時期以農為本的政策，農業在中國的政治和經濟發展中扮演著關鍵角色。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030190500 +0800" stop="20251030192457 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第15集 商業貨幣</sub-title>
+    <desc lang="zh">從最早的以物易物的集市起源，到商朝的銅貝貨幣的出現。但封建統治者實行重農抑商的政策，限制商業發展，將商業與農業對立起來。直到唐朝時期，商業繁榮達到了巔峰，各種商業活動蓬勃發展，商品流通四通八達。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030193000 +0800" stop="20251030195012 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第16集 絲綢之路</sub-title>
+    <desc lang="zh">本集將深入探討絲綢之路的重要性和影響。它不僅促進了商品的流通和經濟的繁榮，還促進了各國之間的文化交流和相互瞭解。透過豐富的故事和史料，觀眾將穿越時空，感受絲綢之路的魅力，並瞭解它對於人類文明發展的巨大貢獻。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030195500 +0800" stop="20251030201401 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第17集 青銅陶瓷</sub-title>
+    <desc lang="zh">自唐代以來，景德鎮的瓷器工藝日趨成熟，宋代時期更達到了巔峰。當時生產的青瓷、白瓷、黑瓷等品種以及精湛的繪畫技術和創新的釉色處理，使景德鎮瓷器成為當時最具價值和欣賞價值的瓷器之一。宋代出現和發展的五大著名瓷窯推動了中國古代瓷器工藝的進步和創新，並成為中國瓷器藝術的重要代表之一。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030202000 +0800" stop="20251030204007 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第18集 天工開物</sub-title>
+    <desc lang="zh">傳說中，黃帝的妻子嫘祖開始養蠶取絲的技術，這項技術至今在中國得到傳承。絲綢不僅是中國的特產，也是中國古代文明的象徵。從商湯時代開始，絲綢生產逐漸發展，成為貴族和王侯必不可少的物品，甚至成為外交禮物。本集將深入探討養蠶、絲織和染色等技術，並介紹各個時代的工藝精品，如金銀玉器和織錦。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030204500 +0800" stop="20251030210504 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第19集 古代建築</sub-title>
+    <desc lang="zh">中國的建築發展經歷了多個時期和風格，從秦漢時期的雄渾樸直，到隋唐時期的壯麗風格，再到明清時期的宮殿式建築。受到儒家和法家思想的影響，儒家注重藝術性和尊卑秩序，法家則側重實用性。建築按照官府、私宅、宗教和園林等方面進行規劃，體現了不同的價值觀。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030211000 +0800" stop="20251030213015 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第20集 塔寺園林</sub-title>
+    <desc lang="zh">中國古代的建築多樣而豐富，包括官府、民宅、橋樑、寺塔和園林等。值得一提的是，趙州橋（又稱安濟橋）是世界上現存最古老的大跨度單孔石拱橋，讓人驚嘆其建造的巧妙和堅固。另外，佛教寺塔是中國古代建築中的瑰寶，寺廟以其平面對稱的佈局和宮殿式的建築風格而著名。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030213500 +0800" stop="20251030215633 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第21集 古窟藝術</sub-title>
+    <desc lang="zh">本集我們將進入中國的石窟藝術寶庫！這些石窟不僅是佛教和本土文化融合的結晶，也是真正的時間旅行者。讓我們開始這段奇妙的旅程吧！在古代，中國石窟藝術發展蓬勃，它不僅數量多，而且跨度長，就像是個世界級的寶藏。在魏晉南北朝時期，佛教和當地玄學相互交融，成為時尚潮流。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030220000 +0800" stop="20251030222034 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第22集 帝王陵寢</sub-title>
+    <desc lang="zh">讓我們一同踏上一場穿越時空的奇幻之旅，去探索中國古代帝王陵墓的神秘世界！這些陵寢不僅是研究中國古代歷史和文化的重要資料，更是一座座承載著五千年文明歷史記憶的寶庫。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030222500 +0800" stop="20251030224511 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第23集 水墨丹青</sub-title>
+    <desc lang="zh">從漢代起，丹青成為繪畫的代名詞。中國的繪畫起源悠久，最早在彩陶上表現，而後發展至岩石、青銅器、壁畫等形式。敦煌莫高窟作為世界上最長的畫廊，保存了豐富的佛教壁畫。中國傳統繪畫注重留白，將詩、書、畫、印結合成一體，表現藝術家的情感和思想。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030225000 +0800" stop="20251030231009 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第24集 書法瑰寶</sub-title>
+    <desc lang="zh">本集我們將帶你探索中國書法的神奇世界，揭開書法家們的影響力！從漢字的象形創造開始，我們將看到書法的起源和它如何演變成一種藝術形式。毛筆、墨和宣紙的變化，加上各種書體的發展，像是隸書、草書、楷書等，展現了書法的多樣性和變革。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030231500 +0800" stop="20251030233512 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第25集 各領風騷</sub-title>
+    <desc lang="zh">探索中國古代文學的神奇世界，我們將遊歷在神話、詩歌、散文、小說和戲曲等不同形式的文學大陸上！這裡是中國人民的智慧和情感的寶庫。從詩歌開始，詩經是最早的詩歌總集，記錄了古人對世界和人生的感悟。然後是詩歌的黃金時代，唐詩！李白和杜甫是代表詩人，他們的作品讓我們為之陶醉。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251030234000 +0800" stop="20251030235959 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第26集 梨園戲曲</sub-title>
+    <desc lang="zh">唐明皇李隆基不僅是個天子，還是個熱愛音樂與舞蹈的狂熱者。他親自指導梨園的藝人和宮女，從此戲曲界被稱為梨園界。然而，梨園只是中國戲曲史上的開端。真正的先驅是元代戲劇家關漢卿！他的劇本《竇娥淵望江亭》等作品贏得廣泛讚譽，結構完整、情節生動，對抗社會黑暗的精神深深觸動人心。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031000500 +0800" stop="20251031002432 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第27集 變法圖強</sub-title>
+    <desc lang="zh">歷史上的變法，就像拔河比賽一樣，是帝王們和明臣們力爭國家興盛的重要手段。他們通過改革舉措來清除弊端，重振國家的生機，這可不是小事情！商鞅變法和王安石的變法是最著名的例子。商鞅的改革讓秦國如虎添翼，為秦始皇的統一做好了準備。而王安石的變法則為北宋朝廷注入了新的活力，救了國家的危機。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031003000 +0800" stop="20251031004919 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第28集 通古鑑今</sub-title>
+    <desc lang="zh">歷史，從口耳相傳，蛻變成了文字的結晶。從孔子整理的春秋到後來的史記和資治通鑑，歷史記錄開始了它精彩的旅程。而這一路上，司馬遷和司馬光等編修者用他們的筆觸展現了他們對歷史的熱愛和真相的追尋。本集將帶你深入瞭解中國歷史的發展，揭示修史的重要性。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031005500 +0800" stop="20251031011425 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第29集 康乾盛世</sub-title>
+    <desc lang="zh">康熙皇帝，八歲登基！年幼的他不想被困在紫禁城，於是決心扛起歷史重擔。但他面對的問題可不輕鬆，四面八方的反清勢力，內外分裂，康熙得果斷對抗，統一國家。不僅武功了得，他還是一位卓越的政治家和文化學者。康熙可不只重視打拼，他也重視文化發展，恢復科舉制度，重視教育，推動國學的繁榮。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031012000 +0800" stop="20251031014041 +0800">
+    <title lang="zh">跨越時空的文明</title>
+    <sub-title lang="zh">第30集 跨越時空</sub-title>
+    <desc lang="zh">別以為中國古代歷史平淡無奇，這個古國歷經數千年，卻始終沒有文化斷層。我們將追溯遠古的猿人足跡，感受北京猿人的存在，還有中國農耕文明的形成。跟著時間的脈動，我們將探索古代的奴隸社會、封建社會，還有多民族的交融。中國傳統文化以家庭、宗法制度和禮義道德為核心，凝聚力十足，包容性無限。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031014500 +0800" stop="20251031020842 +0800">
+    <title lang="zh">國家步道系列</title>
+    <sub-title lang="zh">第1集 認識國家步道系統</sub-title>
+    <desc lang="zh">帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031021000 +0800" stop="20251031023309 +0800">
+    <title lang="zh">國家步道系列</title>
+    <sub-title lang="zh">第2集 陽明山</sub-title>
+    <desc lang="zh">帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031023500 +0800" stop="20251031025840 +0800">
+    <title lang="zh">國家步道系列</title>
+    <sub-title lang="zh">第3集 南台灣</sub-title>
+    <desc lang="zh">帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031030000 +0800" stop="20251031032405 +0800">
+    <title lang="zh">國家步道系列</title>
+    <sub-title lang="zh">第4集 淡蘭到東北角</sub-title>
+    <desc lang="zh">帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031033000 +0800" stop="20251031035312 +0800">
+    <title lang="zh">國家步道系列</title>
+    <sub-title lang="zh">第5集 插天山</sub-title>
+    <desc lang="zh">帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031035500 +0800" stop="20251031041902 +0800">
+    <title lang="zh">國家步道系列</title>
+    <sub-title lang="zh">第6集 霞喀羅 鹿場連嶺</sub-title>
+    <desc lang="zh">帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031042500 +0800" stop="20251031044712 +0800">
+    <title lang="zh">國家步道系列</title>
+    <sub-title lang="zh">第7集 蘇花到比亞毫</sub-title>
+    <desc lang="zh">帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031045000 +0800" stop="20251031051258 +0800">
+    <title lang="zh">國家步道系列</title>
+    <sub-title lang="zh">第8集 雪山羣峰</sub-title>
+    <desc lang="zh">帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031051500 +0800" stop="20251031053838 +0800">
+    <title lang="zh">國家步道系列</title>
+    <sub-title lang="zh">第9集 合歡 能高越嶺</sub-title>
+    <desc lang="zh">帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031054000 +0800" stop="20251031060357 +0800">
+    <title lang="zh">國家步道系列</title>
+    <sub-title lang="zh">第10集 中央山脈脊樑</sub-title>
+    <desc lang="zh">帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031060500 +0800" stop="20251031062700 +0800">
+    <title lang="zh">國家步道系列</title>
+    <sub-title lang="zh">第11集 關門</sub-title>
+    <desc lang="zh">帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031063000 +0800" stop="20251031065259 +0800">
+    <title lang="zh">國家步道系列</title>
+    <sub-title lang="zh">第12集 海岸山脈</sub-title>
+    <desc lang="zh">帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031065500 +0800" stop="20251031071814 +0800">
+    <title lang="zh">國家步道系列</title>
+    <sub-title lang="zh">第13集 阿里山</sub-title>
+    <desc lang="zh">帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031072000 +0800" stop="20251031074347 +0800">
+    <title lang="zh">國家步道系列</title>
+    <sub-title lang="zh">第14集 玉山橫斷</sub-title>
+    <desc lang="zh">帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031074500 +0800" stop="20251031080758 +0800">
+    <title lang="zh">國家步道系列</title>
+    <sub-title lang="zh">第15集 關山到內本鹿越嶺</sub-title>
+    <desc lang="zh">帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031081000 +0800" stop="20251031085308 +0800">
+    <title lang="zh">探索發現—孫子兵法</title>
+    <sub-title lang="zh">第1集 「根」（上篇）</sub-title>
+    <desc lang="zh">追溯中華文明史上智慧型文化的根源，黃帝首次開創了在戰爭中運用智慧的先河。探討《孫子兵法》作者孫武當時生活的歷史背景。東西方文化的對比。為什麼東方人具有好動腦筋善於思索的性格特徵？俗話說：「兩軍相逢，勇者勝」。神秘的八卦圖至今讓專家學者們絞盡腦汁。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031085500 +0800" stop="20251031093818 +0800">
+    <title lang="zh">探索發現—孫子兵法</title>
+    <sub-title lang="zh">第2集 「根」（下篇）</sub-title>
+    <desc lang="zh">姜太公創建了齊國，實行了開明的政策富國強兵，使齊很快崛起成為春秋五霸之首。廣開言論創「稷下學宮」，「百家爭鳴」由此而來，各方學派應運而生，創造了孫子兵法產生的溫床。當時山東同時出現了三個對中華文化有突出貢獻的偉人—孔子、老子、孫子，決不是偶然的，他們的思想奠定了中華文化的基礎。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031094000 +0800" stop="20251031102313 +0800">
+    <title lang="zh">探索發現—孫子兵法</title>
+    <sub-title lang="zh">第3集 「策」（上篇）</sub-title>
+    <desc lang="zh">西元前512年，年輕的孫武為避內亂離開故鄉來到當時的沿海新興國家吳國，尋求施展才華的用武之地。結識伍子胥後以兵書「十三篇」進獻吳王，並訓練宮女，力斬吳王寵姬終被任為將軍。當時吳國要向內陸發展的主要對手是春秋五霸之一楚國。楚國雄厚的物力和人力，軍隊強大不可一世，要戰勝楚軍並非易事。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031102500 +0800" stop="20251031110816 +0800">
+    <title lang="zh">探索發現—孫子兵法</title>
+    <sub-title lang="zh">第4集 「策」（下篇）</sub-title>
+    <desc lang="zh">中國武術源遠流長，歷史上有數不清的武門豪傑。而武術的傳授有其特有的神秘性。自古以來「武為文用」，講「練拳歸道」，即追求真理的最高境界。原楚國武將伍子胥即是這樣的忠臣。其父兄為主持正義被楚王殺害，子胥被迫逃到吳國，同孫武一起扶佐吳王，興國強兵。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031111000 +0800" stop="20251031115317 +0800">
+    <title lang="zh">探索發現—孫子兵法</title>
+    <sub-title lang="zh">第5集 「謀」</sub-title>
+    <desc lang="zh">歐洲近代軍事理論家克勞塞維茨因著《戰爭論》一書而被人們稱為「戰爭之父」。而早在他二千三百年的孫子在所著兵書中卻已經精闢地闡明了戰爭的理論，令後人不得不嘆服。諸葛亮一生謹慎，卻也難免不犯錯誤。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031115500 +0800" stop="20251031123814 +0800">
+    <title lang="zh">探索發現—孫子兵法</title>
+    <sub-title lang="zh">第6集 「爭」（上篇）</sub-title>
+    <desc lang="zh">兵法的核心原則，包括攻其不備、兵不厭詐、和智慧的運用，以及這些原則在中國歷史中的實際應用。孫武率吳軍在攻楚時，採用了「攻其不備」的策略，繞道楚國的背後，出其不意地打擊了對手。這次行動突顯了孫武的計謀才智，並引出了「兵不厭詐」的概念。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031124000 +0800" stop="20251031131534 +0800">
+    <title lang="zh">探索發現—孫子兵法</title>
+    <sub-title lang="zh">第7集 「爭」（下篇）</sub-title>
+    <desc lang="zh">西元前260年，秦將白起坑殺趙降兵四十萬人的慘劇，由於中了秦國的「反間計」，葬送了趙國四十萬軍隊。由此可瞭解「用間」這篇兵法的重要性。西元前506年，吳軍柏舉戰勝楚莊王，並以佔領楚都結束了長達六年的戰爭。這史事突顯了孫武作為一名優秀的將軍，成功應用兵法中的策略和軍事智慧。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031132000 +0800" stop="20251031140312 +0800">
+    <title lang="zh">探索發現—孫子兵法</title>
+    <sub-title lang="zh">第8集 「融」</sub-title>
+    <desc lang="zh">在寧夏首府銀川市的郊外，是七百多年前曾在這片土地上興旺發展的西夏國的王陵區。三十年代，一支俄羅斯探險隊在內蒙額濟納旗西夏黑水城遺址中發現了大量的西夏文物，其中就有翻譯成西夏文的《孫子兵法》。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031140500 +0800" stop="20251031140959 +0800">
+    <title lang="zh">早餐中國2</title>
+    <sub-title lang="zh">第2季第1集 新疆吐魯番《烤包子》</sub-title>
+    <desc lang="zh">每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031141500 +0800" stop="20251031141959 +0800">
+    <title lang="zh">早餐中國2</title>
+    <sub-title lang="zh">第2季第2集 重慶《小麵》</sub-title>
+    <desc lang="zh">每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031142500 +0800" stop="20251031142959 +0800">
+    <title lang="zh">早餐中國2</title>
+    <sub-title lang="zh">第2季第3集 內蒙古赤峰《對夾》</sub-title>
+    <desc lang="zh">每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031143500 +0800" stop="20251031143959 +0800">
+    <title lang="zh">早餐中國2</title>
+    <sub-title lang="zh">第2季第4集 浙江寧波《麵結麵》</sub-title>
+    <desc lang="zh">每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031144500 +0800" stop="20251031144959 +0800">
+    <title lang="zh">早餐中國2</title>
+    <sub-title lang="zh">第2季第5集 寧夏銀川《羊雜碎》</sub-title>
+    <desc lang="zh">每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031145500 +0800" stop="20251031145959 +0800">
+    <title lang="zh">早餐中國2</title>
+    <sub-title lang="zh">第2季第6集 山東濰坊《火燒》</sub-title>
+    <desc lang="zh">每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031150500 +0800" stop="20251031150959 +0800">
+    <title lang="zh">早餐中國2</title>
+    <sub-title lang="zh">第2季第7集 北京《豆汁》</sub-title>
+    <desc lang="zh">每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。</desc>
+  </programme>
+  <programme channel="Focus探索新知台" start="20251031151500 +0800" stop="20251031151959 +0800">
+    <title lang="zh">早餐中國2</title>
+    <sub-title lang="zh">第2季第8集 江西南昌《拌粉 瓦罐湯》</sub-title>
+    <desc lang="zh">每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。</desc>
+  </programme>
 </tv>
