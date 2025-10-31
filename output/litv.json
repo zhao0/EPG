@@ -12,34 +12,16 @@
     "description": "民視於1997年開播，繼台視、中視、華視及公視之後，成為台灣第五個無線電視頻道。擁有廣大收視族群的民視，播出節目多元，除鄉土劇及偶像劇外，更有許多自製綜藝及生活節目。近期熱播節目有傅孟柏、李國毅、邵雨薇、周曉涵、市原隼人、田中千繪主演的《商魂》。"
   },
   {
-    "channelName": "綜藝大集合",
-    "id": "litv-vchannel7",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel7_cover.jpg",
-    "description": "由胡瓜所主持的外景綜藝節目，秉持著「幸福好運到，獎金送夠夠」的精神，和眾多藝人與鄉親同樂玩遊戲拿獎金，介紹各地的人文、美食、特產等，提供豐富多元的內容，不間斷的笑料，讓您忘卻一切煩惱、開懷大笑。"
-  },
-  {
     "channelName": "台視",
     "id": "4gtv-4gtv066",
     "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv066_cover.jpg",
     "description": "台視直播線上看。最流行的戲劇、綜藝都在這裡，八點檔《美麗人生》、《嗨！營業中》第四季熱播中。"
   },
   {
-    "channelName": "包青天 1993版",
-    "id": "litv-vchannel9",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel9_cover.jpg",
-    "description": "古代中國民間故事中，宋朝最家喻戶曉的名臣包拯(金超群)擔任開封府尹期間所審理過的一些奇特刑案。"
-  },
-  {
     "channelName": "中視",
     "id": "4gtv-4gtv040",
     "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv040_cover.jpg",
     "description": "中視直播線上看。除了招牌的《中視新聞》，也包含戲劇、綜藝、人文知識等節目內容，像收視冠軍《綜藝玩很大》吳宗憲、林柏昇的趣味主持、《飢餓遊戲》5566孫協志、王仁甫的超強默契。其他代表節目還有《全民星攻略》、《我愛冰冰Show》等。"
-  },
-  {
-    "channelName": "天才衝衝衝 精選",
-    "id": "litv-vchannel11",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel11_cover.jpg",
-    "description": "節目透過精心設計的遊戲內容，包括給我Tempo、你是WORD演、急中生字ㄅㄆㄇ、會演是英雄、EAR傳耳ABC等單元，考驗現場來賓的機智反應，逗趣又爆笑！"
   },
   {
     "channelName": "華視",
@@ -60,58 +42,10 @@
     "description": "精彩內容包含家庭、教育、生活、音樂、生命見證、信仰與真理課程，帶給觀眾安慰、造就與勸勉，適合各年齡層收看，推薦節目像《烤箱讀書會》、《健康新煮流》、《真情部落格》。"
   },
   {
-    "channelName": "空中英語教室HD頻道",
-    "id": "litv-playout955",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-playout955_cover.jpg",
-    "description": "空中英語教室是一個各年齡層皆適宜的英文學習頻道，內有《大家說英語》、《空中英語教室》、《彭蒙惠英語》...等課程，課後還會搭配《音樂ok蹦》、《Let's 動動吧》、《英語維基》...等相關輕鬆有趣的短篇節目，歡迎大家一起學英語，讓英語變得更有趣！"
-  },
-  {
-    "channelName": "全民星攻略",
-    "id": "litv-vchannel18",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel18_cover.jpg",
-    "description": "全新益智實境節目《全民星攻略》，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。"
-  },
-  {
-    "channelName": "最強綜藝秀",
-    "id": "litv-vchannel21",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel21_cover.jpg",
-    "description": "熱愛《民視第一發發發》的忠實觀眾，一定要看！喜歡五花八門達人秀的網友，非追不可！愛看明星挑戰各種才藝表演的鐵粉，絕不能錯過！什麼都有，什麼都秀，請看《最強綜藝秀》！"
-  },
-  {
-    "channelName": "去有風的地方",
-    "id": "litv-vchannel22",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel22_cover.jpg",
-    "description": "《去有風的地方》陸劇線上看。許紅豆在閨蜜去世後陷入低谷，於是獨自來到大理雲苗村\"有風小院\"落腳休息，在那裏認識了回鄉創業的青年謝之遙。在有風小院結識了帶著不同故事來到這裡的短暫租客，從陌生到熟悉，一群毫無相識的人，在這裡為各自點燃不期而遇的溫暖，愛情也悄悄展開..."
-  },
-  {
-    "channelName": "台灣1001個故事",
-    "id": "litv-vchannel23",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel23_cover.jpg",
-    "description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
-  },
-  {
-    "channelName": "台灣啟示錄",
-    "id": "litv-vchannel25",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel25_cover.jpg",
-    "description": "由東森主播洪培翔主持，以客觀的角度帶領觀眾深入探討事件的發展，探討新聞事件背後的艱辛內幕，取材涵蓋層面廣泛，包括人物故事、歷史檔案、社會觀察，以及時事啟發。"
-  },
-  {
-    "channelName": "WTO姐妹會",
-    "id": "litv-vchannel26",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel26_cover.jpg",
-    "description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
-  },
-  {
     "channelName": "民視綜藝台",
     "id": "4gtv-4gtv004",
     "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv004_cover.jpg",
     "description": "民視綜藝台專門播出民視當紅的綜藝節目，採用全時段輪播的方式，目前播出由胡瓜主持的外景節目《綜藝大集合》、舞蹈選秀節目《舞力全開》、以及歡笑不斷的《三星報囍》，讓觀眾開心度過每一天。"
-  },
-  {
-    "channelName": "東森娛樂台",
-    "id": "litv-vchannel32",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel32_cover.jpg",
-    "description": "東森娛樂台是LiTV專屬的東森頻道，精選《台灣1001個故事》、《請你跟我這樣過》和《醫師好辣》等老少咸宜的多元化節目，給你全新的娛樂感受。"
   },
   {
     "channelName": "亞洲旅遊台",
@@ -120,22 +54,10 @@
     "description": "全天候播出的專業旅遊頻道，秉持著全新、精緻、活潑、高格調的節目規劃 ，采擷各地自然風光、風土民情、人文地理、飯店美食和流行購物訊息等為亞洲觀眾提供全方位的旅遊資訊。"
   },
   {
-    "channelName": "韶華若錦",
-    "id": "litv-vchannel35",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel35_cover.jpg",
-    "description": "《琅琊榜》陸劇線上看。梅長蘇從12年前梅嶺慘烈戰場的噩夢中驚醒。琅琊閣閣主藺晨收到北燕六皇子冊封為太子的消息。與此同時，大梁七珠親王譽王也獲悉，此次六皇子冊封，是因為獲得了琅琊閣錦囊中「麒麟才子，得之可得天下」的秘密。"
-  },
-  {
     "channelName": "中天亞洲台",
     "id": "4gtv-4gtv109",
     "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv109_cover.jpg",
     "description": "全球華人最喜愛的國際化電視頻道，結合專題新聞、時事政論、發燒娛樂等精彩內容！「文茜的世界周報」帶您了解國際局勢；「大政治大爆卦」分析時下最夯的政治話題；「小明星大跟班」更是由綜藝天王吳宗憲主持，保證有滿滿笑料！"
-  },
-  {
-    "channelName": "小明星大跟班",
-    "id": "litv-vchannel37",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel37_cover.jpg",
-    "description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！"
   },
   {
     "channelName": "龍華戲劇台",
@@ -180,22 +102,10 @@
     "description": "精挑細選出最受歡迎、最精緻唯美的日本、韓國偶像戲劇，看優質偶像如何使出渾身解數展現巨星風采，席捲觀眾的心。"
   },
   {
-    "channelName": "Yes娛樂",
-    "id": "litv-vchannel47",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel47_cover.jpg",
-    "description": "從粉絲的角度出發，提供全華人娛樂圈的動態新聞。 讓您追星不用出門、八卦不用狗仔、看劇不用電視機，輕輕鬆鬆就能成為娛樂達人。 只要10分鐘，讓你看完娛樂大小事！"
-  },
-  {
     "channelName": "東森購物2台",
     "id": "4gtv-4gtv103",
     "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv103_cover.jpg",
     "description": "快鎖定CH43、CH49、CH87及免費綜藝<東森購物商城>，訂購專線0800-366-006。"
-  },
-  {
-    "channelName": "掏掏新聞",
-    "id": "litv-playout50",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-playout50_cover.jpg",
-    "description": "掏掏新聞挖掘新聞真相，真相掏深一點，守護台灣的民主價值與新聞自由，有你的加入，讓我們多一份監督政府的力量。"
   },
   {
     "channelName": "東森新聞台",
@@ -276,12 +186,6 @@
     "description": "寰宇新聞直播線上看。24小時Live新聞直播，各節整點新聞、烏克蘭、俄羅斯衝突最新狀況，最新疫情、疫情指揮中心直播等重大新聞。主打節目《寰宇全球新聞》、《寰宇全視界》、《聚焦全世界》等。"
   },
   {
-    "channelName": "FOCUS焦點電影台",
-    "id": "litv-vchannel65",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel65_cover.jpg",
-    "description": "擁有熱門強檔電影、得獎影片及經典大片，24小時不間斷的精彩節目！讓您在最舒適的環境下，擁有絕佳的影音視聽享受。"
-  },
-  {
     "channelName": "龍華經典台",
     "id": "litv-longturn21",
     "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-longturn21_cover.jpg",
@@ -292,12 +196,6 @@
     "id": "4gtv-4gtv011",
     "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv011_cover.jpg",
     "description": "影迷數位電影台（Fans Digichannel）由影迷數位股份有限公司所設置，提供HD高畫質的電影、紀錄片、藝術、戲劇、生活等節目，適合全家觀賞。"
-  },
-  {
-    "channelName": "Golden Movies",
-    "id": "litv-vchannel70",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel70_cover.jpg",
-    "description": "網羅近年膾炙人口的華語及歐美院線強檔電影，以及全球各大影展優質佳片，呈現多元化的風格和內容，滿足所有觀眾之觀影需求。"
   },
   {
     "channelName": "龍華電影台",
@@ -316,18 +214,6 @@
     "id": "4gtv-4gtv055",
     "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv055_cover.jpg",
     "description": "網羅亞洲各國熱門電影，給您一部部膾炙人口的佳片，天天回味昔日的不朽佳作之外，更能體驗震撼享受！"
-  },
-  {
-    "channelName": "Golden影迷台",
-    "id": "litv-vchannel75",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel75_cover.jpg",
-    "description": "囊括近年最受觀眾歡迎的華語、歐美、日韓院線強檔電影，以及廣獲世界各大影展肯定的得獎佳作，更有適合大小朋友一同觀賞的精采動畫電影，優質且多元的選擇，豐富您的觀影享受！"
-  },
-  {
-    "channelName": "中影電影院",
-    "id": "litv-vchannel76",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel76_cover.jpg",
-    "description": "孕育出台灣最優秀導演的搖籃，李安、侯孝賢、楊德昌導演的作品都收錄在這個文化的聖殿。"
   },
   {
     "channelName": "博斯高球台",
@@ -378,18 +264,6 @@
     "description": "博斯無限二台除了電競賽事外，賽車賽事、極限運動、戶外運動、休閒運動...等不同類型的賽事與節目，讓您不出門也能感受車輛極速飛馳的刺激、海上航行的風光、戶外陽光洋溢的各項運動，追求讓觀眾能有更多元的收視選擇與更精彩的收視體驗。"
   },
   {
-    "channelName": "綜藝新時代",
-    "id": "litv-vchannel85",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel85_cover.jpg",
-    "description": "《綜藝新時代》最不一樣的浩角翔起，合體征服史上最不可能的任務！全新型態的外景節目，浩角翔起將挑戰各種新奇刺激的主題任務，與各行各業的金牌好手進行捉對廝殺，不是玩遊戲更不是點到為止的介紹，而是在經過腳踏實地的魔鬼訓練，要與這些金牌好手們進行真槍實彈的對決，「整個就來真的！」"
-  },
-  {
-    "channelName": "第1財經",
-    "id": "litv-vchannel88",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel88_cover.jpg",
-    "description": "第1財經頻道，提供您最完整且即時的台股走勢、國際股市。透過全方位選股工具，掌握當日大盤、個股、基金、各類技術面籌碼面財務面排行資訊。"
-  },
-  {
     "channelName": "非凡商業台",
     "id": "4gtv-4gtv048",
     "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv048_cover.jpg",
@@ -402,46 +276,10 @@
     "description": "優質財經頻道，服務觀眾掌握每日股市行情、投資脈動及各產業面向，包括最新歐美股市、國際財經脈動，並與富士電視合作，提供日本最新產經生活資訊報導。"
   },
   {
-    "channelName": "法眼黑與白",
-    "id": "litv-vchannel92",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel92_cover.jpg",
-    "description": "《法眼黑與白》是最早也唯一以科學鑑識為基礎來談刑案的節目，內容以強調鑑識證據、法醫解剖、詳細辦案過程的精神，來呈現深入報導的專業度。以探究刑事案件為主軸，並以專題方式深度報導關於酒駕、毒品、虐童等社會問題。"
-  },
-  {
-    "channelName": "豬哥壹級棒",
-    "id": "litv-vchannel94",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel94_cover.jpg",
-    "description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
-  },
-  {
-    "channelName": "我們這一家",
-    "id": "litv-vchannel98",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel98_cover.jpg",
-    "description": "超人氣極短篇動畫《我們這一家》故事溫馨有趣，真實的刻畫出家庭人物的性格。 從故事主角花媽到姐姐橘子、弟弟柚子和花爸，都顯示出現代社會中四人小家庭樸實而真誠的生活風格。"
-  },
-  {
-    "channelName": "九九敬老頻道",
-    "id": "litv-vchannel99",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel99_cover.jpg",
-    "description": "節目內容專為銀髮族設計，有介紹777銀髮族協會的《銀髮時刻》與相關醫療知識的《銀髮寶典》，還有現代科技知識分享《3C易起來》與爺奶們的旅遊活動《跟著爺奶導遊走》，以及唯有阿公阿嬤才能重現的私房美味料理《私房好食光》與重溫1930-1980年代的經典歌曲的《黑膠年華》還有可以讓大家認識周遭植物的《植人聚卉》，所有的節目都適合全家大小陪伴家中長者一同觀賞。"
-  },
-  {
-    "channelName": "蠟筆小新台",
-    "id": "litv-vchannel100",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel100_cover.jpg",
-    "description": "故事舞台是在埼玉縣春日部市，一位正在「雙葉幼稚園」學習的五歲的小孩──野原新之助，在日常生活中發生的事。"
-  },
-  {
     "channelName": "豬哥亮歌廳秀",
     "id": "4gtv-4gtv006",
     "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv006_cover.jpg",
     "description": "想體驗天王豬哥亮的歌廳秀嗎？豬式幽默，所有精彩笑料讓您笑不停，保證精彩可期，盡在豬哥亮歌廳秀頻道。"
-  },
-  {
-    "channelName": "金庸武俠台",
-    "id": "litv-vchannel109",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel109_cover.jpg",
-    "description": "金庸大師雖已離去，可其留下的經典作品，是歷代影視最喜愛改編的素材。《射鵰三部曲》、《笑傲江湖》、《鹿鼎記》等大作，值得一看再看，細細品味。"
   },
   {
     "channelName": "視納華仁紀實頻道",
@@ -454,24 +292,6 @@
     "id": "litv-ftv15",
     "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-ftv15_cover.jpg",
     "description": "i-Fun動漫台為HD高畫質播映動畫頻道，以日本動漫為主要播出內容，部分節目與日本同步或即時播出，同步新番如《刀劍神域外傳GGO》，其餘還有《鬼燈的冷徹S2》、《史上最強弟子兼一OVA:暗之襲擊》等熱門動漫，並以日語原音呈現！"
-  },
-  {
-    "channelName": "Focus亞洲電影台",
-    "id": "litv-vchannel142",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel142_cover.jpg",
-    "description": "精選亞洲各國精采電影，橫跨兩岸三地、泰國、越南、蒙古等地，內容囊括喜劇、愛情、動作、歷史和驚悚懸疑，多元類型豐富您的觀影體驗！"
-  },
-  {
-    "channelName": "華語電影台",
-    "id": "litv-vchannel143",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel143_cover.jpg",
-    "description": "過去有許多華語電影都讓人回味無窮，如《百變金剛》、《笑林小子之新烏龍院》、《最佳損友》等。「華語電影台」蒐羅了這些港台早期的經典電影，帶領觀眾重新進入華語電影的流金歲月。"
-  },
-  {
-    "channelName": "Focus精采戲劇台",
-    "id": "litv-playout953",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-playout953_cover.JPG",
-    "description": "LiTV原創頻道，FOCUS精采戲劇台每天播出強檔好戲，最夯的台劇、陸劇、韓劇24小時不間斷，內容精彩，原音呈現，輕鬆追劇無極限，一次滿足觀眾期待！"
   },
   {
     "channelName": "八大精彩台",
@@ -570,30 +390,6 @@
     "description": "全程使用臺灣客家語發音，以全方位的角度24小時關注客家文化及語言，透過精心製作的各類節目：戲劇戲曲、兒童青少年、生活資訊、音樂綜藝、人文紀錄與新聞雜誌類，讓所有客家及非客家觀眾都能欣賞與了解客家文化。"
   },
   {
-    "channelName": "Focus探索新知台",
-    "id": "litv-vchannel164",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel164_cover.jpg",
-    "description": "網搜最有質感的科學、新知節目，從各種多元面向讓你增廣見聞！從各國文化、歷史，到旅遊、美食紀實，跟著我們的腳步一起解密無窮無盡的世界奇觀吧！"
-  },
-  {
-    "channelName": "以家人之名",
-    "id": "litv-vchannel172",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel172_cover.jpg",
-    "description": "三個沒有血緣關係、在原生家庭遭遇過不同傷痛的孩子，機緣巧合下成為了兄妹。大哥凌霄、二哥賀子秋、妹妹李尖尖在兩個爸爸的撫養下相互扶持成長。高中畢業後，兩個哥哥回到了自己的原生家庭，一邊是相互珍惜的新家人，一邊是無法選擇但關係淡漠的親生父母…"
-  },
-  {
-    "channelName": "俗女養成記",
-    "id": "litv-vchannel174",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel174_cover.jpg",
-    "description": "陳嘉玲，一個永遠不像台北女生的台南女生。年屆39歲的她，沒房沒車也沒有老公沒小孩。當年不惜引發家庭革命也要離開家鄉的她，在台北奮鬥了近二十年，到頭來竟然是一場空？ 過去一直追求「淑女」的夢想，卻在跨入40歲大關的時候，開始認清，其實自己是個「俗女」。"
-  },
-  {
-    "channelName": "倪珍播新聞",
-    "id": "nnews-zh",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/nnews-zh_cover.jpg",
-    "description": "《NOWnews今日新聞》政治、財經、生活、運動、娛樂、國際、社會、旅遊、美食、3C、消費、地方等軟硬性內容通通有，多元化主題深入新聞核心，深入淺出專題解析新聞重點。"
-  },
-  {
     "channelName": "第1商業台",
     "id": "4gtv-4gtv104",
     "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv104_cover.jpg",
@@ -610,30 +406,6 @@
     "id": "4gtv-4gtv085",
     "logo": "https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv085_cover.jpg",
     "description": "國會頻道提供大眾一個最直接的管道，審視由大家選票選出的立法委員的議事過程，打破長久以來為人詬病的密室協商，讓全民都能夠直接參與時下最貼近生活的政治。"
-  },
-  {
-    "channelName": "蠟筆小新劇場版",
-    "id": "litv-vchannel200",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel200_cover.jpg",
-    "description": "家喻戶曉、老少咸宜的蠟筆小新野原新之助在劇場版會有怎樣的爆笑行為呢？人氣作品《宇宙人Pi力來襲》、《黃金間諜大作戰》一次看！"
-  },
-  {
-    "channelName": "劉德華台",
-    "id": "litv-vchannel201",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel201_cover.jpg",
-    "description": "不老男神劉德華風靡全球，主演的強片無數，敬業形象深植人心，所有最忠心的「華嫂」們，你們最愛的華仔都在這哩！"
-  },
-  {
-    "channelName": "周星馳台",
-    "id": "litv-vchannel998",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel998_cover.jpg",
-    "description": "看你千遍也不厭倦！星爺周星馳從影以來經典無數，各種經典台詞琅琅上口，有如滔滔江水、綿延不絕！周星馳台讓你一次笑翻天。"
-  },
-  {
-    "channelName": "香港天王台",
-    "id": "litv-vchannel205",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel205_cover.jpg",
-    "description": "集結多位香港天王如梁朝偉、張學友、鄭伊健、古天樂等代表作品，眾星雲集，絕對精采。"
   },
   {
     "channelName": "TRACE Sport Stars",
@@ -718,89 +490,5 @@
     "id": "litv-ftv17",
     "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-ftv17_cover.jpg",
     "description": "好消息2台為真理造就台，強調信仰生活與靈命建造，內容有家庭教育、兒少節目、生命故事、詩歌音樂、信仰生活與真理課程。"
-  },
-  {
-    "channelName": "天堂敬拜",
-    "id": "litv-vchannel901",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel901_cover.jpg",
-    "description": "《新約縱覽》以清晰的思路，提綱挈領地勾勒出每卷經文的脈絡，並提供詳細的歷史地理背景，幫助觀眾抓住每卷書的精義與梗概，無論對於初信者以及忠實的信仰追求者都是大有幫助。"
-  },
-  {
-    "channelName": "經典音樂河",
-    "id": "litv-vchannel902",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel902_cover.jpg",
-    "description": "《舊約縱覽》以清晰的思路，提綱挈領地勾勒出每卷經文的脈絡，並提供詳細的歷史地理背景，幫助觀眾抓住每卷書的精義與梗概，無論對於初信者以及忠實的信仰追求者都是大有幫助。"
-  },
-  {
-    "channelName": "大衛鮑森新約縱覽",
-    "id": "litv-vchannel910",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel910_cover.jpg",
-    "description": "GOOD TV 再次推出重量級音樂節目《天堂敬拜》，匯集當代知名音樂人，在敬拜水流中引領觀眾經歷神的同在。期盼觀眾收看時，神的同在降臨、聖靈充滿；透過音樂成為橋樑，讓神同在的氛圍，吸引非基督徒渴望認識神，得著救恩。"
-  },
-  {
-    "channelName": "大衛鮑森舊約縱覽",
-    "id": "litv-vchannel911",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel911_cover.jpg",
-    "description": "重現經典詩歌生命力，讓您在歌中感受上帝亙古榮耀作為和救贖大恩。"
-  },
-  {
-    "channelName": "有聲聖經 新約",
-    "id": "litv-vchannel920",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel920_cover.jpg",
-    "description": "2019年是中文和合本聖經出版一百週年紀念。吾人有幸躬逢其盛，謹以此錄音表達個人對中文聖經，以及當年翻譯人士最高的敬意和謝意。"
-  },
-  {
-    "channelName": "有聲聖經 舊約",
-    "id": "litv-vchannel921",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel921_cover.jpg",
-    "description": "2019年是中文和合本聖經出版一百週年紀念。吾人有幸躬逢其盛，謹以此錄音表達個人對中文聖經，以及當年翻譯人士最高的敬意和謝意。"
-  },
-  {
-    "channelName": "生命的贏家",
-    "id": "litv-vchannel931",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel931_cover.jpg",
-    "description": "約爾·歐斯汀（Joel Osteen）綽號是「微笑的傳道者」，是美國的宣教士、電視佈道家和作家，他在美國最大的基督教會湖木教會擔任主任牧師。2004年，他的第一本書「活出美好」，首次出版就登上紐約時報暢銷書的榜首，這本書在紐約時報暢銷200多週。"
-  },
-  {
-    "channelName": "豐盛人生",
-    "id": "litv-vchannel932",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel932_cover.jpg",
-    "description": "喬依絲．邁爾（Joyce Meyer）講求聖經的實際應用，講道風格幽默且平易近人。她也是紐約時報暢銷書排行第一名的作家，撰寫近九十本啟發人心的書籍，包括暢銷書《心思的戰場》、《如何管理你的情緒》、《拒絕的根》、《自在作自己》、《成功作自己》"
-  },
-  {
-    "channelName": "空中主日學",
-    "id": "litv-vchannel940",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel940_cover.jpg",
-    "description": "新約精讀、舊約精讀、門徒造就、神學與教會歷史等主題系列，全方位裝備基督徒生命，教師與牧師精闢解析，幫助您更加明白聖經真理，走進神的心意。"
-  },
-  {
-    "channelName": "共享觀點",
-    "id": "litv-vchannel942",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel942_cover.jpg",
-    "description": "連結社群、分享、行動的特色，運用講道學的架構，談論包含基要真理、生活話題及神學裝備三大面向主題。身為第六代基督徒，從小在教會中長大的周巽正，與第一代基督徒的廖文華，背景及生活經歷都不同，在節目中以輕鬆對談的方式，貢獻出不同角度的觀點。"
-  },
-  {
-    "channelName": "全家歸主有良方",
-    "id": "litv-vchannel943",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel943_cover.jpg",
-    "description": "用熟悉的台語幫助您能明白上帝真道，讓聖經教導不再是難懂艱澀的道理，是閩南語族群明白真道的最佳途徑，信息結合生活、見證，淺顯易懂、親切熟悉。"
-  },
-  {
-    "channelName": "劉三講古",
-    "id": "litv-vchannel944",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel944_cover.jpg",
-    "description": "「劉三講古」是好消息最老牌的節目，除了加入戲劇元素「喳唸伯與長腳姨」外，並蒐集無數史料，找到美好而精彩的基督徒生命故事，好讓福音更輕鬆真實的呈現在觀眾眼前。"
-  },
-  {
-    "channelName": "國度權柄釋放特會",
-    "id": "litv-vchannel945",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel945_cover.jpg",
-    "description": "由多位客家牧師輪流主講，信息包括對婚姻、家庭、人際關係等生活的教導，也針對客家人特別看重的敬祖和孝道問題提出詳細的解說。深入淺出的福音性信息，加上悠揚的客語詩歌及劉興欽老師話民俗單元，全新的組合，令人耳目一新。"
-  },
-  {
-    "channelName": "空中聖經學院",
-    "id": "litv-vchannel946",
-    "logo": "https://fino.svc.litv.tv/frontpage/channel/image/litv-vchannel946_cover.jpg",
-    "description": "節目中有系統的完整講解聖經真理，邀請受過解經講道訓練的老師，按著正意分解真理的道，帶領弟兄姊妹更深的了解聖經的浩瀚與偉大。"
   }
 ]
