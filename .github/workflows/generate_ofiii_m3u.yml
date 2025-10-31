@@ -1,0 +1,39 @@
+name: Generate ofiii-M3U Playlist
+
+on:
+  workflow_dispatch:  # 手動觸發
+  schedule:
+    - cron: '0 0 * * *'  # 每天 UTC 時間 00:00 自動執行
+
+jobs:
+  generate-m3u:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests
+        
+    - name: Create output directory
+      run: mkdir -p output
+      
+    - name: Generate M3U playlist
+      run: |
+        cd scripts
+        python generate_ofiii_m3u.py
+        
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add output/ofiii.m3u
+        git diff --staged --quiet || git commit -m "Update M3U playlist - $(date)"
+        git push
