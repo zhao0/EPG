@@ -8,7 +8,6 @@ import argparse
 import requests
 import datetime
 import pytz
-from bs4 import BeautifulSoup
 from xml.etree import ElementTree as ET
 from xml.dom import minidom
 
@@ -26,7 +25,8 @@ if HTTPS_PROXY:
     PROXIES['https'] = HTTPS_PROXY
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Referer': 'https://www.litv.tv/'
 }
 
 def create_session():
@@ -43,10 +43,10 @@ def create_session():
     return session
 
 def parse_channel_list(session):
-    """从LiTV API获取频道清单，只抓取特定ID模式的频道"""
+    """从LiTV Next.js API获取频道清单，只抓取特定ID模式的频道"""
     print("开始获取LiTV频道清单...")
     
-    # LiTV频道API
+    # LiTV Next.js频道API
     channel_url = "https://www.litv.tv/_next/data/322e31352e3138/channel.json"
     
     try:
@@ -112,125 +112,143 @@ def parse_channel_list(session):
         print(f"❌ 获取频道清单失败: {str(e)}")
         return []
 
-def fetch_channel_epg(session, channel_id, channel_name):
-    """从频道页面获取节目表数据 - 新方法"""
-    print(f"\n开始获取频道 {channel_name} 的节目表...")
-    
-    # 频道页面URL
-    channel_url = f"https://www.litv.tv/channel/watch/{channel_id}"
+def get_epg_from_homepage(session):
+    """从LiTV主页Next.js API获取EPG数据"""
+    print("开始从主页获取LiTV EPG数据...")
     
     try:
-        response = session.get(channel_url, timeout=30)
+        # 获取主页数据
+        main_url = "https://www.litv.tv/_next/data/322e31352e3138/index.json"
+        response = session.get(main_url, timeout=30)
         response.raise_for_status()
         
-        # 解析HTML
-        soup = BeautifulSoup(response.text, 'html.parser')
+        data = response.json()
         
-        # 保存HTML用于调试
-        with open(f"debug_{channel_id}.html", "w", encoding="utf-8") as f:
-            f.write(soup.prettify())
-        print(f"✅ 已保存HTML到 debug_{channel_id}.html 用于调试")
+        # 从主页数据中提取节目表
+        channel_list = data.get('pageProps', {}).get('homeChannel', {}).get('list', [])
         
-        programs = []
-        
-        # 方法1: 查找包含节目表的容器
-        # 根据您提供的图片，节目表可能在一个特定的容器中
-        epg_containers = soup.find_all('div', class_=lambda x: x and 'overflow-y-auto' in x)
-        
-        if not epg_containers:
-            print("❌ 未找到节目表容器")
+        if not channel_list:
+            print("❌ 未找到节目表数据")
             return []
         
-        print(f"找到 {len(epg_containers)} 个可能的节目表容器")
+        print(f"找到 {len(channel_list)} 个频道的节目表")
         
-        for container in epg_containers:
-            # 检查容器是否包含节目信息
-            container_text = container.get_text(strip=True)
-            if re.search(r'\d{1,2}:\d{2}\s+.+', container_text):
-                print("✅ 找到包含节目信息的容器")
+        programs = []
+        for channel_data in channel_list:
+            channel_id = channel_data.get('contentId', '')
+            channel_name = channel_data.get('title', '')
+            schedule = channel_data.get('schedule', [])
+            
+            if not channel_id or not channel_name:
+                continue
+            
+            print(f"处理频道 {channel_name} 的 {len(schedule)} 个节目")
+            
+            for item in schedule:
+                program_data = item.get('program', {})
+                air_datetime = item.get('airDateTime', '')
                 
-                # 查找所有日期标题
-                date_headers = container.find_all('div', class_=lambda x: x and 'text-[#fff]' in x)
-                print(f"找到 {len(date_headers)} 个日期标题")
+                if not air_datetime:
+                    continue
                 
-                for date_header in date_headers:
-                    date_text = date_header.get_text(strip=True)
-                    print(f"处理日期: {date_text}")
+                try:
+                    # 解析UTC时间
+                    start_utc = datetime.datetime.strptime(
+                        air_datetime, "%Y-%m-%dT%H:%M:%SZ"
+                    ).replace(tzinfo=pytz.UTC)
                     
-                    # 解析日期
-                    current_date = parse_date_from_text(date_text)
-                    if not current_date:
-                        continue
+                    # 转换为台北时区
+                    start_taipei = start_utc.astimezone(TAIPEI_TZ)
                     
-                    # 查找这个日期下的所有节目
-                    # 查找日期标题后面的所有节目行
-                    next_elem = date_header.find_next_sibling()
-                    while next_elem:
-                        # 检查是否是节目行
-                        if next_elem.name == 'div' and next_elem.get('class'):
-                            class_str = ' '.join(next_elem.get('class', []))
-                            program_text = next_elem.get_text(strip=True)
-                            
-                            # 检查是否是新的日期标题
-                            if re.search(r'\d+月\d+日', program_text):
-                                break
-                                
-                            # 检查是否是节目行
-                            time_match = re.match(r'(\d{1,2}):(\d{2})\s+(.+)', program_text)
-                            if time_match:
-                                hour = int(time_match.group(1))
-                                minute = int(time_match.group(2))
-                                program_name = time_match.group(3)
-                                
-                                # 计算节目开始时间
-                                program_start = current_date.replace(hour=hour, minute=minute, second=0)
-                                
-                                # 预设节目时长为1小时
-                                program_end = program_start + datetime.timedelta(hours=1)
-                                
-                                programs.append({
-                                    "channelName": channel_name,
-                                    "programName": program_name,
-                                    "description": "",
-                                    "subtitle": "",
-                                    "start": program_start,
-                                    "end": program_end
-                                })
-                                
-                                print(f"  节目: {hour:02d}:{minute:02d} - {program_name}")
-                        
-                        next_elem = next_elem.find_next_sibling()
-                
-                break  # 只处理第一个有效的节目表容器
-        
-        # 方法2: 如果上面没找到，尝试直接搜索所有包含时间和节目名称的元素
-        if not programs:
-            print("尝试方法2: 直接搜索所有节目行")
-            all_elements = soup.find_all(text=re.compile(r'\d{1,2}:\d{2}\s+.+'))
-            for element in all_elements:
-                text = element.strip()
-                time_match = re.match(r'(\d{1,2}):(\d{2})\s+(.+)', text)
-                if time_match:
-                    # 使用当前日期作为默认值
-                    current_date = datetime.datetime.now(TAIPEI_TZ).replace(hour=0, minute=0, second=0)
-                    
-                    hour = int(time_match.group(1))
-                    minute = int(time_match.group(2))
-                    program_name = time_match.group(3)
-                    
-                    program_start = current_date.replace(hour=hour, minute=minute, second=0)
-                    program_end = program_start + datetime.timedelta(hours=1)
+                    # 预设节目时长为1小时
+                    duration = datetime.timedelta(hours=1)
+                    end_taipei = start_taipei + duration
                     
                     programs.append({
                         "channelName": channel_name,
-                        "programName": program_name,
-                        "description": "",
-                        "subtitle": "",
-                        "start": program_start,
-                        "end": program_end
+                        "programName": program_data.get('title', '未知节目'),
+                        "description": program_data.get('subTitle', ''),
+                        "subtitle": program_data.get('subTitle', ''),
+                        "start": start_taipei,
+                        "end": end_taipei
                     })
                     
-                    print(f"  节目: {hour:02d}:{minute:02d} - {program_name}")
+                except ValueError as e:
+                    print(f"时间格式解析失败: {air_datetime}, {str(e)}")
+                    continue
+        
+        print(f"✅ 成功获取 {len(programs)} 个节目")
+        return programs
+        
+    except Exception as e:
+        print(f"❌ 获取EPG数据失败: {str(e)}")
+        return []
+
+def get_epg_from_channel_api(session, channel_id, channel_name):
+    """尝试从频道Next.js API获取节目表数据"""
+    print(f"尝试从频道API获取 {channel_name} 的节目表...")
+    
+    # 频道Next.js API
+    channel_api_url = f"https://www.litv.tv/_next/data/322e31352e3138/channel/{channel_id}.json"
+    
+    try:
+        response = session.get(channel_api_url, timeout=30)
+        response.raise_for_status()
+        
+        data = response.json()
+        
+        # 检查是否有重定向
+        if data.get('pageProps', {}).get('__N_REDIRECT'):
+            print(f"⚠️ 频道 {channel_name} 返回重定向")
+            return []
+        
+        # 尝试从不同路径获取节目表
+        schedule_paths = [
+            data.get('pageProps', {}).get('channel', {}).get('schedule', []),
+            data.get('pageProps', {}).get('schedule', []),
+            data.get('schedule', [])
+        ]
+        
+        programs = []
+        for schedule in schedule_paths:
+            if schedule and isinstance(schedule, list):
+                print(f"找到节目表数据，共 {len(schedule)} 个项目")
+                
+                for item in schedule:
+                    program_data = item.get('program', {})
+                    air_datetime = item.get('airDateTime', '')
+                    
+                    if not air_datetime:
+                        continue
+                    
+                    try:
+                        # 解析UTC时间
+                        start_utc = datetime.datetime.strptime(
+                            air_datetime, "%Y-%m-%dT%H:%M:%SZ"
+                        ).replace(tzinfo=pytz.UTC)
+                        
+                        # 转换为台北时区
+                        start_taipei = start_utc.astimezone(TAIPEI_TZ)
+                        
+                        # 预设节目时长为1小时
+                        duration = datetime.timedelta(hours=1)
+                        end_taipei = start_taipei + duration
+                        
+                        programs.append({
+                            "channelName": channel_name,
+                            "programName": program_data.get('title', '未知节目'),
+                            "description": program_data.get('subTitle', ''),
+                            "subtitle": program_data.get('subTitle', ''),
+                            "start": start_taipei,
+                            "end": end_taipei
+                        })
+                        
+                    except ValueError as e:
+                        print(f"时间格式解析失败: {air_datetime}, {str(e)}")
+                        continue
+                
+                if programs:
+                    break
         
         print(f"✅ 频道 {channel_name} 获取到 {len(programs)} 个节目")
         return programs
@@ -238,33 +256,6 @@ def fetch_channel_epg(session, channel_id, channel_name):
     except Exception as e:
         print(f"❌ 获取频道 {channel_name} 节目表失败: {str(e)}")
         return []
-
-def parse_date_from_text(date_text):
-    """从日期文本解析日期"""
-    try:
-        # 处理 "今日 / 11月1日 / 星期六" 或 "明日 / 11月2日 / 星期五" 格式
-        parts = date_text.split(' / ')
-        if len(parts) >= 2:
-            date_part = parts[1]  # "11月1日"
-            
-            # 获取当前年份
-            current_year = datetime.datetime.now().year
-            
-            # 解析月份和日期
-            month_match = re.search(r'(\d+)月', date_part)
-            day_match = re.search(r'(\d+)日', date_part)
-            
-            if month_match and day_match:
-                month = int(month_match.group(1))
-                day = int(day_match.group(1))
-                
-                # 创建日期对象
-                date_obj = datetime.datetime(current_year, month, day, tzinfo=TAIPEI_TZ)
-                return date_obj
-    except Exception as e:
-        print(f"⚠️ 日期解析失败: {date_text}, 错误: {str(e)}")
-    
-    return None
 
 def get_litv_epg():
     """获取LiTV电视节目表"""
@@ -281,20 +272,27 @@ def get_litv_epg():
         print("❌ 无法获取频道清单")
         return [], [], []  # 返回三个空列表
     
-    # 为每个频道获取节目表
-    all_programs = []
+    # 从主页获取所有节目表数据
+    all_programs = get_epg_from_homepage(session)
+    
+    # 过滤出目标频道的节目
+    target_channel_names = [channel['channelName'] for channel in channels_info]
+    filtered_programs = [p for p in all_programs if p['channelName'] in target_channel_names]
+    
+    # 如果主页数据中没有某些频道的节目，尝试从频道API获取
+    missing_channels = []
     for channel in channels_info:
-        channel_id = channel["id"]
-        channel_name = channel["channelName"]
-        
-        # 获取该频道的节目表
-        programs = fetch_channel_epg(session, channel_id, channel_name)
-        all_programs.extend(programs)
-        
-        # 添加随机延迟，避免请求过于频繁
-        delay = random.uniform(2, 5)
-        print(f"等待 {delay:.1f} 秒后继续...")
-        time.sleep(delay)
+        channel_programs = [p for p in filtered_programs if p['channelName'] == channel['channelName']]
+        if not channel_programs:
+            missing_channels.append(channel)
+    
+    if missing_channels:
+        print(f"\n尝试从频道API获取 {len(missing_channels)} 个缺失频道的节目...")
+        for channel in missing_channels:
+            programs = get_epg_from_channel_api(session, channel['id'], channel['channelName'])
+            filtered_programs.extend(programs)
+            # 添加延迟，避免请求过于频繁
+            time.sleep(1)
     
     # 格式化频道资讯（用于XMLTV生成）
     all_channels = []
@@ -317,18 +315,18 @@ def get_litv_epg():
     # 统计结果
     print("\n" + "="*50)
     print(f"✅ 成功获取 {len(all_channels)} 个频道")
-    print(f"✅ 成功获取 {len(all_programs)} 个节目")
+    print(f"✅ 成功获取 {len(filtered_programs)} 个节目")
     
     # 按频道名称分组显示节目数量
     channel_counts = {}
-    for program in all_programs:
+    for program in filtered_programs:
         channel_counts[program["channelName"]] = channel_counts.get(program["channelName"], 0) + 1
     
     for channel, count in channel_counts.items():
         print(f"📺 频道 {channel}: {count} 个节目")
     
     print("="*50)
-    return channels_info, all_channels, all_programs
+    return channels_info, all_channels, filtered_programs
 
 def generate_xmltv(channels, programs, output_file="litv.xml"):
     """生成XMLTV格式的EPG数据"""
@@ -377,6 +375,9 @@ def generate_xmltv(channels, programs, output_file="litv.xml"):
                 
                 title = program.get('programName', '未知节目')
                 ET.SubElement(program_elem, "title", lang="zh").text = title
+                
+                if program.get('description'):
+                    ET.SubElement(program_elem, "desc", lang="zh").text = program['description']
                 
                 program_count += 1
             except Exception as e:
