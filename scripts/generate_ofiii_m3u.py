@@ -89,7 +89,7 @@ def ensure_output_dir():
 def main():
     # 確保輸出目錄存在
     output_dir = ensure_output_dir()
-    output_file = output_dir / 'playlist.m3u'
+    output_file = output_dir / 'ofiii.m3u'
     
     # 頻道ID列表
     channel_ids = [
