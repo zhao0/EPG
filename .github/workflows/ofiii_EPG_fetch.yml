@@ -5,6 +5,10 @@ on:
     - cron: '0 18 * * *'
   workflow_dispatch:
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   generate-epg:
     runs-on: ubuntu-latest
@@ -46,10 +50,8 @@ jobs:
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "GitHub Actions"
-        
-        # 檢查是否有變化
+        git pull --rebase
         git add output/ofiii.xml output/ofiii.json
-        
         if git diff-index --quiet HEAD --; then
           echo "沒有變化可提交"
         else
