@@ -1,0 +1,807 @@
+{
+  "daystar": [
+    "DayStar",
+    "https://p-cdnstatic.svc.litv.tv/pics/Daystar_128x72.png",
+    "DayStar"
+  ],
+  "ofiii13": [
+    "公視金獎台",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3068_ofiii13_tv_20230920.png",
+    "公視金獎台"
+  ],
+  "ofiii16": [
+    "空中英語教室HD頻道",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png",
+    "空中英語教室HD頻道"
+  ],
+  "ofiii22": [
+    "哆啦Ａ夢台",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png",
+    "哆啦Ａ夢台"
+  ],
+  "ofiii23": [
+    "新哆啦A夢(中文版)",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3386_ofiii23_tv_20240709.png",
+    "新哆啦A夢(中文版)"
+  ],
+  "ofiii24": [
+    "新哆啦A夢(中文版)2台",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3841_ofiii24_tv_20250827.png",
+    "新哆啦A夢(中文版)2台"
+  ],
+  "ofiii31": [
+    "TVBS食尚玩家",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2984_ofiii31_tv_20230720.png",
+    "TVBS食尚玩家"
+  ],
+  "ofiii32": [
+    "東森娛樂台",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2985_ofiii32_tv_20230720.png",
+    "東森娛樂台"
+  ],
+  "ofiii36": [
+    "中天亞洲精采台",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png",
+    "中天亞洲精采台"
+  ],
+  "ofiii38": [
+    "經典劇場",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png",
+    "經典劇場"
+  ],
+  "ofiii39": [
+    "短劇馬拉松",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3689_ofiii39_tv_20250328.png",
+    "短劇馬拉松"
+  ],
+  "ofiii1048": [
+    "Focus風采戲劇台",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png",
+    "Focus風采戲劇台"
+  ],
+  "ofiii50": [
+    "掏掏新聞",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png",
+    "掏掏新聞"
+  ],
+  "ofiii55": [
+    "國際大小事",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3560_ofiii55_tv_20241202.png",
+    "國際大小事"
+  ],
+  "ofiii64": [
+    "第1財經",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii64_tv_20221110.png",
+    "第1財經"
+  ],
+  "ofiii70": [
+    "Golden 強片台",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3562_ofiii70_tv_20241203.png",
+    "Golden 強片台"
+  ],
+  "ofiii73": [
+    "周星馳台",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3202_ofiii73_tv_20240105.png",
+    "周星馳台"
+  ],
+  "ofiii74": [
+    "歐飛電影台",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_tv_20240315.png",
+    "歐飛電影台"
+  ],
+  "ofiii75": [
+    "歐飛動作電影台",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_tv_20240315.png",
+    "歐飛動作電影台"
+  ],
+  "ofiii76": [
+    "Golden影迷台",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3880_ofiii76_tv_20250924.png",
+    "Golden影迷台"
+  ],
+  "ofiii81": [
+    "全民星攻略 知識開箱",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3719_ofiii81_tv_20250506.png",
+    "全民星攻略 知識開箱"
+  ],
+  "ofiii82": [
+    "Focus探索新知台",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii82_tv_20221213.png",
+    "Focus探索新知台"
+  ],
+  "ofiii83": [
+    "鄉民大學問",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20250221.png",
+    "鄉民大學問"
+  ],
+  "ofiii85": [
+    "社會NOW什麼",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20250221.png",
+    "社會NOW什麼"
+  ],
+  "ofiii88": [
+    "啦啦隊獨家專訪",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3690_ofiii88_tv_20250328.png",
+    "啦啦隊獨家專訪"
+  ],
+  "ofiii89": [
+    "泰可愛旋風",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3526_ofiii89_tv_20241114.png",
+    "泰可愛旋風"
+  ],
+  "ofiii91": [
+    "演唱會直擊",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3525_ofiii91_tv_20241108.png",
+    "演唱會直擊"
+  ],
+  "ofiii92": [
+    "健康問良醫",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3411_ofiii92_tv_20250221.png",
+    "健康問良醫"
+  ],
+  "ofiii94": [
+    "ASMR行車紀錄",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3691_ofiii94_tv_20250328.png",
+    "ASMR行車紀錄"
+  ],
+  "ofiii95": [
+    "Freeman @台灣",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3204_ofiii111_tv_20240105.png",
+    "Freeman @台灣"
+  ],
+  "ofiii96": [
+    "饕客揪愛吃",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2989_ofiii96_tv_20230906.png",
+    "饕客揪愛吃"
+  ],
+  "ofiii97": [
+    "人氣動漫預告",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2990_ofiii97_tv_20230814.png",
+    "人氣動漫預告"
+  ],
+  "ofiii99": [
+    "九九敬老頻道",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii99_tv_20221110.png",
+    "九九敬老頻道"
+  ],
+  "ofiii100": [
+    "長安十二時辰",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3808_ofiii100_tv_20250729.png",
+    "長安十二時辰"
+  ],
+  "ofiii101": [
+    "韶華若錦",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3778_ofiii101_tv_20250626.png",
+    "韶華若錦"
+  ],
+  "ofiii102": [
+    "白髮",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3881_ofiii102_tv_20250924.png",
+    "白髮"
+  ],
+  "ofiii103": [
+    "三國",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3383_ofiii103_tv_20250221.png",
+    "三國"
+  ],
+  "ofiii104": [
+    "武媚娘傳奇",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3412_ofiii104_tv_20250221.png",
+    "武媚娘傳奇"
+  ],
+  "ofiii105": [
+    "長樂曲",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3476_ofiii105_tv_20250221.png",
+    "長樂曲"
+  ],
+  "ofiii106": [
+    "軍師聯盟",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3070_ofiii106_tv_20250221.png",
+    "軍師聯盟"
+  ],
+  "ofiii107": [
+    "軍師聯盟2 虎嘯龍吟",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3071_ofiii107_tv_20250221.png",
+    "軍師聯盟2 虎嘯龍吟"
+  ],
+  "ofiii108": [
+    "國色芳華",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3692_ofiii108_tv_20250331.png",
+    "國色芳華"
+  ],
+  "ofiii109": [
+    "落花時節又逢君",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3779_ofiii109_tv_20250626.png",
+    "落花時節又逢君"
+  ],
+  "ofiii110": [
+    "楚喬傳",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3113_ofiii110_tv_20250221.png",
+    "楚喬傳"
+  ],
+  "ofiii111": [
+    "倚天屠龍記 2019",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3206_ofiii111_tv_20250221.png",
+    "倚天屠龍記 2019"
+  ],
+  "ofiii112": [
+    "鳳囚凰",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3721_ofiii112_tv_20250506.png",
+    "鳳囚凰"
+  ],
+  "ofiii113": [
+    "步步驚心",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3443_ofiii113_tv_20250221.png",
+    "步步驚心"
+  ],
+  "ofiii114": [
+    "九重紫",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3630_ofiii114_tv_20250221.png",
+    "九重紫"
+  ],
+  "ofiii115": [
+    "私藏浪漫",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3444_ofiii115_tv_20250221.png",
+    "私藏浪漫"
+  ],
+  "ofiii116": [
+    "去有風的地方",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2591_ofiii116_tv_20250221.png",
+    "去有風的地方"
+  ],
+  "ofiii117": [
+    "佔有姜西",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3780_ofiii117_tv_20250626.png",
+    "佔有姜西"
+  ],
+  "ofiii118": [
+    "向風而行《11/5即將下架》",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png",
+    "向風而行《11/5即將下架》"
+  ],
+  "ofiii119": [
+    "以家人之名",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3023_ofiii119_tv_20250221.png",
+    "以家人之名"
+  ],
+  "ofiii120": [
+    "有你的時光裡",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3722_ofiii120_tv_20250506.png",
+    "有你的時光裡"
+  ],
+  "ofiii121": [
+    "我的差評女友",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3781_ofiii121_tv_20250626.png",
+    "我的差評女友"
+  ],
+  "ofiii122": [
+    "請叫我總監《11/5即將下架》",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png",
+    "請叫我總監《11/5即將下架》"
+  ],
+  "ofiii123": [
+    "三十而已",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3748_ofiii123_tv_20250529.png",
+    "三十而已"
+  ],
+  "ofiii124": [
+    "月嫂先生",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3693_ofiii124_tv_20250331.png",
+    "月嫂先生"
+  ],
+  "ofiii125": [
+    "綜藝大集合",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3809_ofiii125_tv_20250729.png",
+    "綜藝大集合"
+  ],
+  "ofiii126": [
+    "豬哥壹級棒",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3356_ofiii126_tv_20250221.png",
+    "豬哥壹級棒"
+  ],
+  "ofiii127": [
+    "鬼話連篇",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3782_ofiii127_tv_20250626.png",
+    "鬼話連篇"
+  ],
+  "ofiii128": [
+    "醫師好辣",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3633_ofiii128_tv_20250221.png",
+    "醫師好辣"
+  ],
+  "ofiii129": [
+    "WTO姐妹會",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3301_ofiii129_tv_20250221.png",
+    "WTO姐妹會"
+  ],
+  "ofiii131": [
+    "全民星攻略",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2594_ofiii131_tv_20250221.png",
+    "全民星攻略"
+  ],
+  "ofiii132": [
+    "健康2.0",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3600_ofiii132_tv_20250221.png",
+    "健康2.0"
+  ],
+  "ofiii133": [
+    "台灣啟示錄",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2595_ofiii133_tv_20250221.png",
+    "台灣啟示錄"
+  ],
+  "ofiii134": [
+    "法眼黑與白",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2935_ofiii134_tv_20250221.png",
+    "法眼黑與白"
+  ],
+  "ofiii135": [
+    "天才衝衝衝",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2936_ofiii135_tv_20250221.png",
+    "天才衝衝衝"
+  ],
+  "ofiii136": [
+    "一步一腳印 發現新台灣",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3601_ofiii136_tv_20250221.png",
+    "一步一腳印 發現新台灣"
+  ],
+  "ofiii137": [
+    "女人我最大",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3571_ofiii137_tv_20250221.png",
+    "女人我最大"
+  ],
+  "ofiii139": [
+    "威廉沈歡樂送",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3603_ofiii139_tv_20250221.png",
+    "威廉沈歡樂送"
+  ],
+  "ofiii140": [
+    "木曜4超玩 一日系列",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3694_ofiii140_tv_20250331.png",
+    "木曜4超玩 一日系列"
+  ],
+  "ofiii141": [
+    "月曜1起玩",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3749_ofiii141_tv_20250529.png",
+    "月曜1起玩"
+  ],
+  "ofiii142": [
+    "一字千金",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3168_ofiii142_tv_20250221.png",
+    "一字千金"
+  ],
+  "ofiii143": [
+    "11點熱吵店",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3234_ofiii143_tv_20250221.png",
+    "11點熱吵店"
+  ],
+  "ofiii144": [
+    "麥卡貝網路電視",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3750_ofiii144_tv_20250529.png",
+    "麥卡貝網路電視"
+  ],
+  "ofiii145": [
+    "回到20歲",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3661_ofiii145_tv_20250305.png",
+    "回到20歲"
+  ],
+  "ofiii146": [
+    "白雪公主非死不可",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3515_ofiii146_tv_20250225.png",
+    "白雪公主非死不可"
+  ],
+  "ofiii147": [
+    "好搭檔",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3516_ofiii147_tv_20250225.png",
+    "好搭檔"
+  ],
+  "ofiii148": [
+    "月升之江",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3882_ofiii148_tv_20250924.png",
+    "月升之江"
+  ],
+  "ofiii150": [
+    "台灣靈異事件",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3385_ofiii150_tv_20250221.png",
+    "台灣靈異事件"
+  ],
+  "ofiii151": [
+    "包青天 1993版",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3235_ofiii151_tv_20250221.png",
+    "包青天 1993版"
+  ],
+  "ofiii152": [
+    "我的婆婆怎麼那麼可愛",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3027_ofiii152_tv_20250221.png",
+    "我的婆婆怎麼那麼可愛"
+  ],
+  "ofiii153": [
+    "村裡來了個暴走女外科",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3028_ofiii153_tv_20250221.png",
+    "村裡來了個暴走女外科"
+  ],
+  "ofiii154": [
+    "一把青",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3077_ofiii154_tv_20250221.png",
+    "一把青"
+  ],
+  "ofiii155": [
+    "茶金",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3119_ofiii155_tv_20250221.png",
+    "茶金"
+  ],
+  "ofiii156": [
+    "苦力",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3478_ofiii156_tv_20250221.png",
+    "苦力"
+  ],
+  "ofiii157": [
+    "俗女養成記",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3358_ofiii157_tv_20250221.png",
+    "俗女養成記"
+  ],
+  "ofiii158": [
+    "麻醉風暴",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3415_ofiii158_tv_20250221.png",
+    "麻醉風暴"
+  ],
+  "ofiii159": [
+    "雖然等級只有1級但固有技能是最強的",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3359_ofiii159_tv_20250221.png",
+    "雖然等級只有1級但固有技能是最強的"
+  ],
+  "ofiii160": [
+    "擁有超常技能的異世界流浪美食家",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3331_ofiii160_tv_20250221.png",
+    "擁有超常技能的異世界流浪美食家"
+  ],
+  "ofiii161": [
+    "離開A級隊伍的我，和從前的弟子往迷宮深處邁進",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3883_ofiii161_tv_20250924.png",
+    "離開A級隊伍的我，和從前的弟子往迷宮深處邁進"
+  ],
+  "ofiii162": [
+    "在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3303_ofiii162_tv_20250221.png",
+    "在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～"
+  ],
+  "ofiii163": [
+    "第一神拳",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3266_ofiii163_tv_20250221.png",
+    "第一神拳"
+  ],
+  "ofiii164": [
+    "刀劍神域(中文版)",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3267_ofiii164_tv_20250221.png",
+    "刀劍神域(中文版)"
+  ],
+  "ofiii165": [
+    "蠟筆小新(中文版)",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3079_ofiii165_tv_20250221.png",
+    "蠟筆小新(中文版)"
+  ],
+  "ofiii166": [
+    "我們這一家",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3121_ofiii166_tv_20250221.png",
+    "我們這一家"
+  ],
+  "ofiii167": [
+    "獵人(中文版)",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3122_ofiii167_tv_20250221.png",
+    "獵人(中文版)"
+  ],
+  "ofiii168": [
+    "中華一番(中文版)",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3124_ofiii168_tv_20250221.png",
+    "中華一番(中文版)"
+  ],
+  "ofiii169": [
+    "隊長小翼(中文版)",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3125_ofiii169_tv_20250221.png",
+    "隊長小翼(中文版)"
+  ],
+  "ofiii170": [
+    "SPY X FAMILY 間諜家家酒",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3304_ofiii170_tv_20250221.png",
+    "SPY X FAMILY 間諜家家酒"
+  ],
+  "ofiii171": [
+    "SPY X FAMILY 間諜家家酒(中文版)",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3127_ofiii171_tv_20250221.png",
+    "SPY X FAMILY 間諜家家酒(中文版)"
+  ],
+  "ofiii172": [
+    "無職轉生，到了異世界就拿出真本事",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3128_ofiii172_tv_20250221.png",
+    "無職轉生，到了異世界就拿出真本事"
+  ],
+  "ofiii173": [
+    "關於我轉生變成史萊姆這檔事(國)",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3170_ofiii173_tv_20250221.png",
+    "關於我轉生變成史萊姆這檔事(國)"
+  ],
+  "ofiii174": [
+    "夏目友人帳",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3171_ofiii174_tv_20250221.png",
+    "夏目友人帳"
+  ],
+  "ofiii175": [
+    "怪醫黑傑克TV(中文版)",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3811_ofiii175_tv_20250729.png",
+    "怪醫黑傑克TV(中文版)"
+  ],
+  "ofiii177": [
+    "鋼之鍊金術師",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3237_ofiii177_tv_20250221.png",
+    "鋼之鍊金術師"
+  ],
+  "ofiii178": [
+    "JOJO 的奇妙冒險",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3238_ofiii178_tv_20250221.png",
+    "JOJO 的奇妙冒險"
+  ],
+  "ofiii179": [
+    "葬送的芙莉蓮",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3268_ofiii179_tv_20250221.png",
+    "葬送的芙莉蓮"
+  ],
+  "ofiii180": [
+    "史上最強弟子兼一(中文版)",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3479_ofiii180_tv_20250221.png",
+    "史上最強弟子兼一(中文版)"
+  ],
+  "ofiii182": [
+    "忍者亂太郎(中文版)",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3572_ofiii182_tv_20250221.png",
+    "忍者亂太郎(中文版)"
+  ],
+  "ofiii183": [
+    "膽大黨",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3604_ofiii183_tv_20250221.png",
+    "膽大黨"
+  ],
+  "ofiii184": [
+    "新忍者哈特利",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3634_ofiii184_tv_20250221.png",
+    "新忍者哈特利"
+  ],
+  "ofiii185": [
+    "凡爾賽玫瑰《11/5即將下架》",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png",
+    "凡爾賽玫瑰《11/5即將下架》"
+  ],
+  "ofiii186": [
+    "城市獵人",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3751_ofiii186_tv_20250529.png",
+    "城市獵人"
+  ],
+  "ofiii187": [
+    "超人力霸王台",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3843_ofiii187_tv_20250827.png",
+    "超人力霸王台"
+  ],
+  "ofiii192": [
+    "生命的贏家",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii192_tv_20230329.png",
+    "生命的贏家"
+  ],
+  "ofiii195": [
+    "海派甜心",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3605_ofiii195_tv_20250225.png",
+    "海派甜心"
+  ],
+  "ofiii196": [
+    "不良笑花",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3631_ofiii196_tv_20250225.png",
+    "不良笑花"
+  ],
+  "ofiii198": [
+    "王子看見二公主《11/5即將下架》",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png",
+    "王子看見二公主《11/5即將下架》"
+  ],
+  "ofiii200": [
+    "劣人傳之詭計",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3783_ofiii200_tv_20250626.png",
+    "劣人傳之詭計"
+  ],
+  "ofiii201": [
+    "大新聞大爆卦",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2939_ofiii201_tv_20250221.png",
+    "大新聞大爆卦"
+  ],
+  "ofiii202": [
+    "新聞大白話",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3239_ofiii202_tv_20250221.png",
+    "新聞大白話"
+  ],
+  "ofiii203": [
+    "文茜的世界周報",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3269_ofiii203_tv_20250221.png",
+    "文茜的世界周報"
+  ],
+  "ofiii204": [
+    "寰宇全視界",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2942_ofiii204_tv_20250221.png",
+    "寰宇全視界"
+  ],
+  "ofiii205": [
+    "文茜的世界財經周報",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3480_ofiii205_tv_20250221.png",
+    "文茜的世界財經周報"
+  ],
+  "ofiii206": [
+    "環球大戰線《11/5即將下架》",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png",
+    "環球大戰線《11/5即將下架》"
+  ],
+  "ofiii207": [
+    "少康戰情室",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3520_ofiii207_tv_20250221.png",
+    "少康戰情室"
+  ],
+  "ofiii208": [
+    "國民大會",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3573_ofiii208_tv_20250221.png",
+    "國民大會"
+  ],
+  "ofiii209": [
+    "台灣最前線",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3844_ofiii209_tv_20250827.png",
+    "台灣最前線"
+  ],
+  "ofiii210": [
+    "台灣向前行",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3845_ofiii210_tv_20250827.png",
+    "台灣向前行"
+  ],
+  "ofiii211": [
+    "民視異言堂",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3884_ofiii211_tv_20250924.png",
+    "民視異言堂"
+  ],
+  "ofiii212": [
+    "新聞觀測站",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3885_ofiii212_tv_20250924.png",
+    "新聞觀測站"
+  ],
+  "ofiii215": [
+    "電動車時代",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3475_ofiii215_tv_20240930.png",
+    "電動車時代"
+  ],
+  "ofiii216": [
+    "SiCAR愛車酷",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3521_ofiii216_tv_20241104.png",
+    "SiCAR愛車酷"
+  ],
+  "ofiii217": [
+    "狂人日誌",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3522_ofiii217_tv_20241104.png",
+    "狂人日誌"
+  ],
+  "ofiii218": [
+    "脖子解說 Mr. Neck",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3523_ofiii218_tv_20250220.png",
+    "脖子解說 Mr. Neck"
+  ],
+  "ofiii225": [
+    "食尚玩家-Hello腹餓代",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3574_ofiii225_tv_20250221.png",
+    "食尚玩家-Hello腹餓代"
+  ],
+  "ofiii226": [
+    "食尚玩家-天菜就醬吃",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3575_ofiii226_tv_20250221.png",
+    "食尚玩家-天菜就醬吃"
+  ],
+  "ofiii227": [
+    "食尚玩家-2天1夜go",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3554_ofiii227_tv_20250221.png",
+    "食尚玩家-2天1夜go"
+  ],
+  "ofiii228": [
+    "食尚玩家-熱血48小時",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3558_ofiii228_tv_20250221.png",
+    "食尚玩家-熱血48小時"
+  ],
+  "ofiii234": [
+    "非凡大探索",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3553_ofiii234_tv_20250221.png",
+    "非凡大探索"
+  ],
+  "ofiii235": [
+    "台灣1001個故事",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3555_ofiii235_tv_20250221.png",
+    "台灣1001個故事"
+  ],
+  "ofiii236": [
+    "詹姆士出走料理",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3566_ofiii236_tv_20250221.png",
+    "詹姆士出走料理"
+  ],
+  "ofiii237": [
+    "進擊的台灣",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3568_ofiii237_tv_20250221.png",
+    "進擊的台灣"
+  ],
+  "ofiii238": [
+    "世界第一等",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3567_ofiii238_tv_20250221.png",
+    "世界第一等"
+  ],
+  "ofiii239": [
+    "台灣第一等",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3569_ofiii239_tv_20250221.png",
+    "台灣第一等"
+  ],
+  "ofiii240": [
+    "溢遊未盡",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3570_ofiii240_tv_20250221.png",
+    "溢遊未盡"
+  ],
+  "ofiii241": [
+    "台灣真善美",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3635_ofiii241_tv_20250221.png",
+    "台灣真善美"
+  ],
+  "ofiii242": [
+    "請問今晚住誰家",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3636_ofiii242_tv_20250221.png",
+    "請問今晚住誰家"
+  ],
+  "ofiii243": [
+    "早餐中國",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3664_ofiii243_tv_20250305.png",
+    "早餐中國"
+  ],
+  "ofiii244": [
+    "溢起趣打卡",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3665_ofiii244_tv_20250305.png",
+    "溢起趣打卡"
+  ],
+  "ofiii245": [
+    "台灣壹百種味道",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3666_ofiii245_tv_20250305.png",
+    "台灣壹百種味道"
+  ],
+  "ofiii246": [
+    "中國美食大探索",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3784_ofiii246_tv_20250626.png",
+    "中國美食大探索"
+  ],
+  "ofiii247": [
+    "中國旅遊大探索",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3813_ofiii247_tv_20250729.png",
+    "中國旅遊大探索"
+  ],
+  "ofiii248": [
+    "秘境不思溢",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3812_ofiii248_tv_20250729.png",
+    "秘境不思溢"
+  ],
+  "ofiii250": [
+    "紓壓雷雨聲",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3437_ofiii250_tv_20250305.png",
+    "紓壓雷雨聲"
+  ],
+  "ofiii251": [
+    "療癒下雨聲",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20250305.png",
+    "療癒下雨聲"
+  ],
+  "ofiii252": [
+    "放鬆的爵士午後",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3439_ofiii252_tv_20250305.png",
+    "放鬆的爵士午後"
+  ],
+  "ofiii254": [
+    "夏日陽光海浪聲",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3441_ofiii254_tv_20250305.png",
+    "夏日陽光海浪聲"
+  ],
+  "ofiii255": [
+    "大自然流水聲",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3785_ofiii255_tv_20250703.png",
+    "大自然流水聲"
+  ]
+}
