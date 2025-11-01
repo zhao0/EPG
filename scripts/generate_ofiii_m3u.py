@@ -80,6 +80,27 @@ def generate_m3u_content(channel_data, channel_id):
     
     return m3u_lines
 
+def get_channel_info(channel_data, channel_id):
+    """獲取頻道基本資訊"""
+    try:
+        page_props = channel_data.get('pageProps', {})
+        channel_info = page_props.get('channel', {})
+        
+        if not channel_info:
+            return None
+        
+        name = channel_info.get('title', 'Unknown')
+        picture = channel_info.get('picture', '')
+        
+        return {
+            'name': name,
+            'picture': f'https://p-cdnstatic.svc.litv.tv/{picture}',
+            'group_title': name
+        }
+    except Exception as e:
+        print(f"❌ 獲取頻道 {channel_id} 資訊時發生錯誤: {e}")
+        return None
+
 def ensure_output_dir():
     """確保輸出目錄存在"""
     output_dir = Path('../output')
@@ -89,7 +110,8 @@ def ensure_output_dir():
 def main():
     # 確保輸出目錄存在
     output_dir = ensure_output_dir()
-    output_file = output_dir / 'ofiii.m3u'
+    m3u_file = output_dir / 'ofiii.m3u'
+    channel_json_file = output_dir / 'channel.json'
     
     # 頻道ID列表
     channel_ids = [
@@ -120,6 +142,7 @@ def main():
     
     # M3U文件頭
     m3u_content = ['#EXTM3U x-tvg-url=""']
+    channel_data = {}
     
     print("🚀 開始獲取頻道資料...")
     successful_channels = 0
@@ -132,11 +155,22 @@ def main():
         print(f"\n📋 處理頻道 {i}/{len(channel_ids)}: {channel_id}")
         
         # 獲取頻道資料
-        channel_data = get_channel_data(channel_id)
+        channel_json = get_channel_data(channel_id)
         
-        if channel_data:
+        if channel_json:
+            # 獲取頻道基本資訊
+            channel_info = get_channel_info(channel_json, channel_id)
+            
+            if channel_info:
+                # 添加到channel.json資料
+                channel_data[channel_id] = [
+                    channel_info['name'],
+                    channel_info['picture'],
+                    channel_info['group_title']
+                ]
+            
             # 生成M3U內容
-            channel_lines = generate_m3u_content(channel_data, channel_id)
+            channel_lines = generate_m3u_content(channel_json, channel_id)
             
             if channel_lines:
                 m3u_content.extend(channel_lines)
@@ -153,16 +187,22 @@ def main():
         time.sleep(0.5)
     
     # 寫入M3U文件
-    with open(output_file, 'w', encoding='utf-8') as f:
+    with open(m3u_file, 'w', encoding='utf-8') as f:
         f.write('\n'.join(m3u_content))
     
-    print(f"\n🎉 M3U文件生成完成！")
+    # 寫入channel.json文件
+    with open(channel_json_file, 'w', encoding='utf-8') as f:
+        json.dump(channel_data, f, ensure_ascii=False, indent=2)
+    
+    print(f"\n🎉 檔案生成完成！")
     print(f"📊 統計資訊:")
     print(f"   ✅ 成功處理: {successful_channels} 個頻道")
     print(f"   ⚠️  跳過處理: {skipped_channels} 個頻道 (無節目)")
     print(f"   ❌ 處理失敗: {failed_channels} 個頻道")
     print(f"   📺 總節目數: {total_programs} 個節目")
-    print(f"   📁 輸出位置: {output_file}")
+    print(f"   📁 輸出檔案:")
+    print(f"      - {m3u_file}")
+    print(f"      - {channel_json_file}")
 
 if __name__ == "__main__":
     main()
