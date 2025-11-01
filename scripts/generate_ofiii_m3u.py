@@ -30,9 +30,11 @@ def get_display_name(title, subtitle):
     else:
         return "未知節目"
 
-def generate_m3u_content(channel_data, channel_id):
-    """生成M3U內容"""
+def generate_m3u_content(channel_data, channel_id, asset_seen):
+    """生成M3U內容，並去除重複的asset_id"""
     m3u_lines = []
+    added_programs = 0
+    duplicate_assets = 0
     
     try:
         page_props = channel_data.get('pageProps', {})
@@ -40,7 +42,7 @@ def generate_m3u_content(channel_data, channel_id):
         
         if not channel_info:
             print(f"⚠️  頻道 {channel_id} 沒有channel資訊")
-            return m3u_lines
+            return m3u_lines, added_programs, duplicate_assets
         
         # 基本頻道資訊
         name = channel_info.get('title', 'Unknown')
@@ -53,7 +55,7 @@ def generate_m3u_content(channel_data, channel_id):
         
         if not programs:
             print(f"ℹ️  頻道 {name} 沒有節目列表，跳過")
-            return m3u_lines
+            return m3u_lines, added_programs, duplicate_assets
         
         print(f"📺 處理頻道: {name} ({channel_id}) - 找到 {len(programs)} 個節目")
         
@@ -65,6 +67,14 @@ def generate_m3u_content(channel_data, channel_id):
             if not asset_id:
                 continue
                 
+            # 檢查asset_id是否已經存在
+            if asset_id in asset_seen:
+                duplicate_assets += 1
+                continue
+                
+            # 標記asset_id為已使用
+            asset_seen.add(asset_id)
+                
             # 生成顯示名稱
             display_name = get_display_name(title, subtitle)
             
@@ -74,11 +84,12 @@ def generate_m3u_content(channel_data, channel_id):
             
             m3u_lines.append(extinf_line)
             m3u_lines.append(url_line)
+            added_programs += 1
             
     except Exception as e:
         print(f"❌ 處理頻道 {channel_id} 資料時發生錯誤: {e}")
     
-    return m3u_lines
+    return m3u_lines, added_programs, duplicate_assets
 
 def get_channel_info(channel_data, channel_id):
     """獲取頻道基本資訊"""
@@ -106,6 +117,31 @@ def ensure_output_dir():
     output_dir = Path('../output')
     output_dir.mkdir(exist_ok=True)
     return output_dir
+
+def remove_duplicate_channels(channel_data):
+    """去除重複的頻道資料"""
+    unique_channels = {}
+    duplicates_removed = 0
+    
+    for channel_id, channel_info in channel_data.items():
+        # 使用頻道名稱作為唯一標識
+        channel_name = channel_info[0]
+        
+        # 如果這個頻道名稱還不存在，則添加
+        if channel_name not in unique_channels:
+            unique_channels[channel_name] = (channel_id, channel_info)
+        else:
+            # 如果已經存在，保留第一個找到的，移除重複的
+            duplicates_removed += 1
+            print(f"🔄 移除重複頻道: {channel_name} (ID: {channel_id})")
+    
+    # 重建不重複的頻道字典
+    result = {channel_id: channel_info for channel_id, channel_info in unique_channels.values()}
+    
+    if duplicates_removed > 0:
+        print(f"🔄 總共移除了 {duplicates_removed} 個重複頻道")
+    
+    return result
 
 def main():
     # 確保輸出目錄存在
@@ -144,11 +180,15 @@ def main():
     m3u_content = ['#EXTM3U x-tvg-url=""']
     channel_data = {}
     
+    # 用於追蹤已使用的asset_id
+    asset_seen = set()
+    
     print("🚀 開始獲取頻道資料...")
     successful_channels = 0
     failed_channels = 0
     skipped_channels = 0
     total_programs = 0
+    total_duplicate_assets = 0
     
     # 遍歷所有頻道ID
     for i, channel_id in enumerate(channel_ids, 1):
@@ -170,14 +210,18 @@ def main():
                 ]
             
             # 生成M3U內容
-            channel_lines = generate_m3u_content(channel_json, channel_id)
+            channel_lines, added_programs, duplicate_assets = generate_m3u_content(channel_json, channel_id, asset_seen)
+            total_duplicate_assets += duplicate_assets
             
             if channel_lines:
                 m3u_content.extend(channel_lines)
                 successful_channels += 1
-                program_count = len(channel_lines) // 2  # 每2行一個節目
-                total_programs += program_count
-                print(f"✅ 成功添加頻道 {channel_id} ({program_count} 個節目)")
+                total_programs += added_programs
+                
+                if duplicate_assets > 0:
+                    print(f"✅ 成功添加頻道 {channel_id} ({added_programs} 個節目, 跳過 {duplicate_assets} 個重複asset_id)")
+                else:
+                    print(f"✅ 成功添加頻道 {channel_id} ({added_programs} 個節目)")
             else:
                 skipped_channels += 1
         else:
@@ -186,13 +230,17 @@ def main():
         # 添加延遲避免請求過快
         time.sleep(0.5)
     
+    # 去除重複的頻道資料
+    print("\n🔄 檢查並移除重複頻道...")
+    unique_channel_data = remove_duplicate_channels(channel_data)
+    
     # 寫入M3U文件
     with open(m3u_file, 'w', encoding='utf-8') as f:
         f.write('\n'.join(m3u_content))
     
     # 寫入channel.json文件
     with open(channel_json_file, 'w', encoding='utf-8') as f:
-        json.dump(channel_data, f, ensure_ascii=False, indent=2)
+        json.dump(unique_channel_data, f, ensure_ascii=False, indent=2)
     
     print(f"\n🎉 檔案生成完成！")
     print(f"📊 統計資訊:")
@@ -200,6 +248,8 @@ def main():
     print(f"   ⚠️  跳過處理: {skipped_channels} 個頻道 (無節目)")
     print(f"   ❌ 處理失敗: {failed_channels} 個頻道")
     print(f"   📺 總節目數: {total_programs} 個節目")
+    print(f"   🔄 唯一頻道數: {len(unique_channel_data)} 個頻道")
+    print(f"   🔄 跳過重複asset_id: {total_duplicate_assets} 個")
     print(f"   📁 輸出檔案:")
     print(f"      - {m3u_file}")
     print(f"      - {channel_json_file}")
