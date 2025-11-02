@@ -80,7 +80,7 @@ def generate_m3u_content(channel_data, channel_id, asset_seen):
             
             # 生成M3U條目
             extinf_line = f'#EXTINF:-1 tvg-id="{name}" tvg-name="{name}" tvg-logo="https://p-cdnstatic.svc.litv.tv/{picture}" group-title="{name}",{display_name}'
-            url_line = f'http://localhost:5050/play/{content_id}&{asset_id}/index.m3u8'
+            url_line = f'http://localhost:5050/play/{content_id}/index.m3u8?episode_id={asset_id}'
             
             m3u_lines.append(extinf_line)
             m3u_lines.append(url_line)
