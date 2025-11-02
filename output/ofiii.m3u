@@ -39,30 +39,22 @@ http://localhost:5050/play/ofiii13&vod64651-000009M001/index.m3u8
 http://localhost:5050/play/ofiii13&vod64650-000010M001/index.m3u8
 #EXTINF:-1 tvg-id="公視金獎台" tvg-name="公視金獎台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3068_ofiii13_tv_20230920.png" group-title="公視金獎台",你的孩子不是你的孩子-第10集 必須過動
 http://localhost:5050/play/ofiii13&vod64651-000010M001/index.m3u8
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",空中英語教室-From Smoke Signals to Global Mail   郵政大事記（上）
-http://localhost:5050/play/ofiii16&vod34440-251030M001/index.m3u8
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Calendar Phrase
-http://localhost:5050/play/ofiii16&vod34548-181205M001/index.m3u8
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",大家說英語-Less Screen Time, More Free Time  減少螢幕時間的小撇步（上）
-http://localhost:5050/play/ofiii16&vod34441-251030M001/index.m3u8
 #EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",空中英語教室-From Smoke Signals to Global Mail   郵政大事記（下）
 http://localhost:5050/play/ofiii16&vod34440-251031M001/index.m3u8
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Info Cloud
-http://localhost:5050/play/ofiii16&vod34558-230808M001/index.m3u8
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",大家說英語-Less Screen Time, More Free Time  減少螢幕時間的小撇步（下）
-http://localhost:5050/play/ofiii16&vod34441-251031M001/index.m3u8
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",空中英語教室-Riding the Wave of Purpose  向著標竿 乘浪前行（下）
-http://localhost:5050/play/ofiii16&vod34440-251029M001/index.m3u8
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",大家說英語-Useful Apps  實用的應用程式
-http://localhost:5050/play/ofiii16&vod34441-251029M001/index.m3u8
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",空中英語教室-In Honor of the Humble Sandwich  三明治萬歲！
-http://localhost:5050/play/ofiii16&vod34440-251101M001/index.m3u8
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Info Cloud
-http://localhost:5050/play/ofiii16&vod34558-230809M001/index.m3u8
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",大家說英語-Saturday Review本週課程複習
-http://localhost:5050/play/ofiii16&vod34441-251101M001/index.m3u8
 #EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Calendar Phrase
 http://localhost:5050/play/ofiii16&vod34548-181206M001/index.m3u8
+#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",空中英語教室-In Honor of the Humble Sandwich  三明治萬歲！
+http://localhost:5050/play/ofiii16&vod34440-251101M001/index.m3u8
+#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",空中英語教室-From Smoke Signals to Global Mail   郵政大事記（上）
+http://localhost:5050/play/ofiii16&vod34440-251030M001/index.m3u8
+#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",大家說英語-Less Screen Time, More Free Time  減少螢幕時間的小撇步（上）
+http://localhost:5050/play/ofiii16&vod34441-251030M001/index.m3u8
+#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Info Cloud
+http://localhost:5050/play/ofiii16&vod34558-230809M001/index.m3u8
+#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",大家說英語-Less Screen Time, More Free Time  減少螢幕時間的小撇步（下）
+http://localhost:5050/play/ofiii16&vod34441-251031M001/index.m3u8
+#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",大家說英語-Saturday Review本週課程複習
+http://localhost:5050/play/ofiii16&vod34441-251101M001/index.m3u8
 #EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Info Cloud
 http://localhost:5050/play/ofiii16&vod34558-230810M001/index.m3u8
 #EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Calendar Phrase
@@ -91,6 +83,14 @@ http://localhost:5050/play/ofiii16&vod34558-230814M001/index.m3u8
 http://localhost:5050/play/ofiii16&vod34441-251105M001/index.m3u8
 #EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Calendar Phrase
 http://localhost:5050/play/ofiii16&vod34548-181212M001/index.m3u8
+#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",空中英語教室-Pippi Longstocking Turns 80!  長襪皮皮80歲了！（下）
+http://localhost:5050/play/ofiii16&vod34440-251106M001/index.m3u8
+#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Info Cloud
+http://localhost:5050/play/ofiii16&vod34558-230815M001/index.m3u8
+#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",大家說英語-Amazing Owls  令人驚嘆的貓頭鷹（上）
+http://localhost:5050/play/ofiii16&vod34441-251106M001/index.m3u8
+#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Calendar Phrase
+http://localhost:5050/play/ofiii16&vod34548-181213M001/index.m3u8
 #EXTINF:-1 tvg-id="哆啦Ａ夢台" tvg-name="哆啦Ａ夢台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png" group-title="哆啦Ａ夢台",電影哆啦A夢：大雄與惑星之迷(國)-Doraemon the Movie: Nobita and the Animal Planet
 http://localhost:5050/play/ofiii22&vod75705-000000M001/index.m3u8
 #EXTINF:-1 tvg-id="哆啦Ａ夢台" tvg-name="哆啦Ａ夢台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png" group-title="哆啦Ａ夢台",電影哆啦A夢：大雄與迷宮之旅(國)-Doraemon the Movie: Nobita and the Tin Labyrinth
@@ -723,218 +723,206 @@ http://localhost:5050/play/ofiii32&vod38540-000334M001/index.m3u8
 http://localhost:5050/play/ofiii32&vod11022-001392M001/index.m3u8
 #EXTINF:-1 tvg-id="東森娛樂台" tvg-name="東森娛樂台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2985_ofiii32_tv_20230720.png" group-title="東森娛樂台",醫師好辣-第1660集 說好的男女平等呢？專挑女性騷擾的一些臭疾病！
 http://localhost:5050/play/ofiii32&vod11069-001660M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-數位人民幣海嘯直撲白宮！習近平APEC前出大招！美軍頭大集合！美國佬憂心開戰！
-http://localhost:5050/play/ofiii36&vod44006-001273M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第34集 貴州畢節：桿桿酒+八卦雞
-http://localhost:5050/play/ofiii36&vod57169-000034M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2055集 差一點就要失傳了！代代相傳的掌門接班人
-http://localhost:5050/play/ofiii36&vod38131-002055M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第64集 在禁區游泳只有他玩過 國父玩水鼎湖山慶雲寺藏孫文軼事 2000年龍母祖廟預知未來 中國最早天主教堂利瑪竇僊花寺 絕版皇帝貢品端硯細滑如肌
-http://localhost:5050/play/ofiii36&vod57166-000064M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-習近平10月平壤閱兵？趙立堅白鷺歸來了！台獨真的辦不到！川普施壓民進黨重回扁時代？
 http://localhost:5050/play/ofiii36&vod44006-001274M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第35集 江蘇泰州：泰州台菜及小吃
-http://localhost:5050/play/ofiii36&vod57169-000035M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第34集 貴州畢節：桿桿酒+八卦雞
+http://localhost:5050/play/ofiii36&vod57169-000034M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2056集 小心說話！這些女藝人看起來像幾歲？
 http://localhost:5050/play/ofiii36&vod38131-002056M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第65集 嘉義大林地標 1968年萬國戲院沉淪又從良，放映機多功能兼烤便當，黑膠始祖留聲機，周董御用大師電影看板，DIY水杯版留聲機，戲院黑店
-http://localhost:5050/play/ofiii36&vod57166-000065M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第64集 在禁區游泳只有他玩過 國父玩水鼎湖山慶雲寺藏孫文軼事 2000年龍母祖廟預知未來 中國最早天主教堂利瑪竇僊花寺 絕版皇帝貢品端硯細滑如肌
+http://localhost:5050/play/ofiii36&vod57166-000064M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-到底有多怕習近平？川普APEC不敢入中國主場！面子大戰！美B21打空戰？對抗殲50？想不到吧川普助攻中國電影！
 http://localhost:5050/play/ofiii36&vod44006-001275M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第36集 貴州威寧：麻辣小糍糍+蕎酥+土豆麵包饅頭
-http://localhost:5050/play/ofiii36&vod57169-000036M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第35集 江蘇泰州：泰州台菜及小吃
+http://localhost:5050/play/ofiii36&vod57169-000035M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2058集 算命師說什麼你就信什麼？！怪不得你被騙！
 http://localhost:5050/play/ofiii36&vod38131-002058M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第66集 艾森農場 台版最大澳洲茶樹農場 來餵茶樹羊 DIY防菌精油霜 綠建築黃金級 不俗氣超奢華白色城堡
-http://localhost:5050/play/ofiii36&vod57166-000066M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第65集 嘉義大林地標 1968年萬國戲院沉淪又從良，放映機多功能兼烤便當，黑膠始祖留聲機，周董御用大師電影看板，DIY水杯版留聲機，戲院黑店
+http://localhost:5050/play/ofiii36&vod57166-000065M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-習近平再次警告川普！通關密語是反台獨！被打怕了！美國準時祝賀中國10/1！戰列艦回魂？川普想打外星人？
 http://localhost:5050/play/ofiii36&vod44006-001276M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第37集 山西洪洞：八八席+麻托(女媧餅)
-http://localhost:5050/play/ofiii36&vod57169-000037M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第36集 貴州威寧：麻辣小糍糍+蕎酥+土豆麵包饅頭
+http://localhost:5050/play/ofiii36&vod57169-000036M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2059集 我們結婚了！你是合格老公嗎？！老婆的這些事你知道多少？
 http://localhost:5050/play/ofiii36&vod38131-002059M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第67集 甌江蓬萊「江心嶼」湖中小島古蹟 東西二塔環肥燕瘦 宋狀元超強對聯考倒人，微3D古雕塑 濃濃出魂感， 甌塑獨門魔法棒砑蹄兒
-http://localhost:5050/play/ofiii36&vod57166-000067M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第66集 艾森農場 台版最大澳洲茶樹農場 來餵茶樹羊 DIY防菌精油霜 綠建築黃金級 不俗氣超奢華白色城堡
+http://localhost:5050/play/ofiii36&vod57166-000066M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-中國大馬合作稀土震撼彈！川普賣慘要習近平多買大豆！華為的大復仇！西方電訊在中國團滅！
 http://localhost:5050/play/ofiii36&vod44006-001277M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第38集 浙江龍泉：安仁魚頭+貴州印江：有機金豆腐
-http://localhost:5050/play/ofiii36&vod57169-000038M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第37集 山西洪洞：八八席+麻托(女媧餅)
+http://localhost:5050/play/ofiii36&vod57169-000037M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2060集 奇怪！條件明明這麼好為什麼總是單身中？！
 http://localhost:5050/play/ofiii36&vod38131-002060M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第68集 花蓮地標新天堂樂園 2大金氏紀錄：75公尺雙螺旋滑梯，馬賽克牆 緒食一鍋小麻辣 招牌青花滷，純白貨櫃星巴克， 開心農場騎馬餵馬 飆嘟嘟車
-http://localhost:5050/play/ofiii36&vod57166-000068M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第67集 甌江蓬萊「江心嶼」湖中小島古蹟 東西二塔環肥燕瘦 宋狀元超強對聯考倒人，微3D古雕塑 濃濃出魂感， 甌塑獨門魔法棒砑蹄兒
+http://localhost:5050/play/ofiii36&vod57166-000067M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-不想見你！APEC習川會砸鍋！美國大豆團滅中！ 伊朗遷都中國基建出招
 http://localhost:5050/play/ofiii36&vod44006-001278M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第39集 廣東肇慶：金字塔形狀粽子+溫州蒼南：抗倭成功的繼光餅
-http://localhost:5050/play/ofiii36&vod57169-000039M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第38集 浙江龍泉：安仁魚頭+貴州印江：有機金豆腐
+http://localhost:5050/play/ofiii36&vod57169-000038M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2061集 忍無可忍無需再忍！演藝圈好好先生/小姐爆氣事件簿
 http://localhost:5050/play/ofiii36&vod38131-002061M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第69集 嘉義中藥小旅行 私藏怪型生物系列，爸壯媽幸福-豪幸福乒乓館? 蒲林庄小哥手擀麵皮肉夾饃鮮香內夾饃 茴香水餃，黑豆茶DIY
-http://localhost:5050/play/ofiii36&vod57166-000069M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第68集 花蓮地標新天堂樂園 2大金氏紀錄：75公尺雙螺旋滑梯，馬賽克牆 緒食一鍋小麻辣 招牌青花滷，純白貨櫃星巴克， 開心農場騎馬餵馬 飆嘟嘟車
+http://localhost:5050/play/ofiii36&vod57166-000068M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-你敢來就打爆你！川普海軍節臉綠！APEC川普羞辱李在明！中國鋼鐵巨拳打爆美元計價！
 http://localhost:5050/play/ofiii36&vod44006-001279M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第40集 浙江遂昌：魚頭一條街
-http://localhost:5050/play/ofiii36&vod57169-000040M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第39集 廣東肇慶：金字塔形狀粽子+溫州蒼南：抗倭成功的繼光餅
+http://localhost:5050/play/ofiii36&vod57169-000039M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2065集 戲棚下站久就是你的 這些人好不容易熬出頭！
 http://localhost:5050/play/ofiii36&vod38131-002065M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第70集 平民硬起來抗海盜 保存最好-溫州龍灣永昌堡 生出13進士， 北宋營造法式 國安寺千佛塔，鹽鹼地轉蓮花園 溫州蓮情文化園 異國風馬鞭草花海 雅林現代農業園
-http://localhost:5050/play/ofiii36&vod57166-000070M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第69集 嘉義中藥小旅行 私藏怪型生物系列，爸壯媽幸福-豪幸福乒乓館? 蒲林庄小哥手擀麵皮肉夾饃鮮香內夾饃 茴香水餃，黑豆茶DIY
+http://localhost:5050/play/ofiii36&vod57166-000069M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-中國儲油槽大增！要開戰了？兩岸最大跌爆戰密使一號來了！中國盛世開鑿運河計畫！川普全球奔走賣大豆！
 http://localhost:5050/play/ofiii36&vod44006-001280M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第41集 惠州：粵菜體系之下的惠州客家菜 釀三寶
-http://localhost:5050/play/ofiii36&vod57169-000041M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第40集 浙江遂昌：魚頭一條街
+http://localhost:5050/play/ofiii36&vod57169-000040M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2066集 你不尷尬，尷尬的就是別人 最讓人受不了的社牛行為
 http://localhost:5050/play/ofiii36&vod38131-002066M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第71集 最強人類始祖伏羲 十八大名陵-太昊陵，清朝武财神關帝廟 古富商百年完工，吉祥物泥泥狗，汝陽毛筆 女書蚊形字，袁世凱故居帝王寶穴，千年逍遙胡辣湯
-http://localhost:5050/play/ofiii36&vod57166-000071M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第70集 平民硬起來抗海盜 保存最好-溫州龍灣永昌堡 生出13進士， 北宋營造法式 國安寺千佛塔，鹽鹼地轉蓮花園 溫州蓮情文化園 異國風馬鞭草花海 雅林現代農業園
+http://localhost:5050/play/ofiii36&vod57166-000070M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-中國興建跨太平洋鐵路！美國使館不玩了！宣告沒錢關門！中國央行眼光犀利！打造黃金帝國！
 http://localhost:5050/play/ofiii36&vod44006-001281M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第42集 惠州：著名四大菜系中之-川菜
-http://localhost:5050/play/ofiii36&vod57169-000042M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第41集 惠州：粵菜體系之下的惠州客家菜 釀三寶
+http://localhost:5050/play/ofiii36&vod57169-000041M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2068集 小孩子在你手上真危險！！天兵爸媽的出包事件簿
 http://localhost:5050/play/ofiii36&vod38131-002068M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第72集  淡水新地標：貫穿清朝日據豪宅大園-巫登益當代藝術園區， 當代彩墨大師巫登益 一甲子國畫藝術功底
-http://localhost:5050/play/ofiii36&vod57166-000072M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第71集 最強人類始祖伏羲 十八大名陵-太昊陵，清朝武财神關帝廟 古富商百年完工，吉祥物泥泥狗，汝陽毛筆 女書蚊形字，袁世凱故居帝王寶穴，千年逍遙胡辣湯
+http://localhost:5050/play/ofiii36&vod57166-000071M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-沒出息硬要見習！只剩20天川普急了！川普梭哈這把！賭和平獎落袋！川普跌倒南美農牧吃飽！
 http://localhost:5050/play/ofiii36&vod44006-001282M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第43集 福州海絲：街頭美食肉燕+肉包肉
-http://localhost:5050/play/ofiii36&vod57169-000043M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第42集 惠州：著名四大菜系中之-川菜
+http://localhost:5050/play/ofiii36&vod57169-000042M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2069集 你不理財財不理你 股票市場的水真的有夠深！！
 http://localhost:5050/play/ofiii36&vod38131-002069M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第73集 2023耶誕來臨！最美的「樹」在哪裡呢？精選雙北精選打卡地3+1
-http://localhost:5050/play/ofiii36&vod57166-000073M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第72集  淡水新地標：貫穿清朝日據豪宅大園-巫登益當代藝術園區， 當代彩墨大師巫登益 一甲子國畫藝術功底
+http://localhost:5050/play/ofiii36&vod57166-000072M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-禮尚往來！習近平下重手 對掛美船舶收費！對高通反壟斷調查！川普諾獎夢碎 以色列頒一個！
 http://localhost:5050/play/ofiii36&vod44006-001283M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第44集 吉林：朝顯族打糕+泡菜
-http://localhost:5050/play/ofiii36&vod57169-000044M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第43集 福州海絲：街頭美食肉燕+肉包肉
+http://localhost:5050/play/ofiii36&vod57169-000043M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2070集 頂尖對決魔術秀！究竟會是誰技高一籌？！
 http://localhost:5050/play/ofiii36&vod38131-002070M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第74集 大砲基地眷村 轉職文創美食村-空軍三重一村， 地洞9轉18彎 鑽地下甬道彈藥庫， 空軍三重一村玩透日夜:書店+餐酒+民宿+市集+偉忠班表演
-http://localhost:5050/play/ofiii36&vod57166-000074M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第73集 2023耶誕來臨！最美的「樹」在哪裡呢？精選雙北精選打卡地3+1
+http://localhost:5050/play/ofiii36&vod57166-000073M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-觸怒中國！川普無路可逃撒錢求生！稀土全完啦！北京摘了美國AI的心臟！中國電網全面輾壓美國？
 http://localhost:5050/play/ofiii36&vod44006-001284M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第45集 江蘇常州：「太湖三白」之外 風格獨具的蘇味
-http://localhost:5050/play/ofiii36&vod57169-000045M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第44集 吉林：朝顯族打糕+泡菜
+http://localhost:5050/play/ofiii36&vod57169-000044M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2071集 神人級收藏家來了！超稀有絕版珍藏品全公開
 http://localhost:5050/play/ofiii36&vod38131-002071M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第75集 台版獨家！三代心好暖神旺酒店+驚喜旺仔主題房+伯品廊超萌旺仔美食+銅盤雙吃；明代先進腦 徐光啟紀念館；徐家匯地標:天主教堂+光元素徐家匯書院
-http://localhost:5050/play/ofiii36&vod57166-000075M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第74集 大砲基地眷村 轉職文創美食村-空軍三重一村， 地洞9轉18彎 鑽地下甬道彈藥庫， 空軍三重一村玩透日夜:書店+餐酒+民宿+市集+偉忠班表演
+http://localhost:5050/play/ofiii36&vod57166-000074M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-習近平輾壓川普！去你的港口費！北極航線抵達！波蘭自取其辱！完蛋！美國船破洞兵缺糧！
 http://localhost:5050/play/ofiii36&vod44006-001285M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第46集 山西：非遺八珍羊肉配+土水爐烤月餅
-http://localhost:5050/play/ofiii36&vod57169-000046M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第45集 江蘇常州：「太湖三白」之外 風格獨具的蘇味
+http://localhost:5050/play/ofiii36&vod57169-000045M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2073集 社區主委不是人幹的！這些大小事都是我要管？！
 http://localhost:5050/play/ofiii36&vod38131-002073M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第76集 KITTY 50周年「與未來做朋友吧」 宇宙光未來版KITTY超閃！復古到可愛時尚 凱蒂小故事；互動「七大展區」 發現巨型凱蒂 多主題玩+拍凱蒂美照
-http://localhost:5050/play/ofiii36&vod57166-000076M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第75集 台版獨家！三代心好暖神旺酒店+驚喜旺仔主題房+伯品廊超萌旺仔美食+銅盤雙吃；明代先進腦 徐光啟紀念館；徐家匯地標:天主教堂+光元素徐家匯書院
+http://localhost:5050/play/ofiii36&vod57166-000075M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-習近平硬氣功！痛毆川普美式霸凌！北京AI分析驚曝川普罩門！不買中國食用油！川普反制鬧劇一場！
 http://localhost:5050/play/ofiii36&vod44006-001286M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第47集 江蘇：無錫桃膠蹄膀+玉錫黃酒
-http://localhost:5050/play/ofiii36&vod57169-000047M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第46集 山西：非遺八珍羊肉配+土水爐烤月餅
+http://localhost:5050/play/ofiii36&vod57169-000046M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2074集 確定不是複製人？！多才多藝雙胞胎來了！！
 http://localhost:5050/play/ofiii36&vod38131-002074M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第77集 市中心的161座綠島：溫州甌海 「三垟濕地」；仙岩梅雨潭：摩崖題刻及文人筆歎；古法造紙活化石：澤雅四連碓造紙作坊；朱自清的少女瀑布
-http://localhost:5050/play/ofiii36&vod57166-000077M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第76集 KITTY 50周年「與未來做朋友吧」 宇宙光未來版KITTY超閃！復古到可愛時尚 凱蒂小故事；互動「七大展區」 發現巨型凱蒂 多主題玩+拍凱蒂美照
+http://localhost:5050/play/ofiii36&vod57166-000076M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-中國稀土退讓換關稅休戰延長！習近平看穿川普空手套白狼！翻臉了！馬克宏握力激鬥川普！
 http://localhost:5050/play/ofiii36&vod44006-001287M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第48集 廣東豐順：捆粄+牛肉粄湯
-http://localhost:5050/play/ofiii36&vod57169-000048M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第47集 江蘇：無錫桃膠蹄膀+玉錫黃酒
+http://localhost:5050/play/ofiii36&vod57169-000047M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2075集 8週年特別企劃 我在小大的第一次！
 http://localhost:5050/play/ofiii36&vod38131-002075M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第78集 黃埔建校100年 承載中國近代戰爭史；建川博物館；黃埔軍領軍對日抗戰 成都成抗日重鎮
-http://localhost:5050/play/ofiii36&vod57166-000078M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第77集 市中心的161座綠島：溫州甌海 「三垟濕地」；仙岩梅雨潭：摩崖題刻及文人筆歎；古法造紙活化石：澤雅四連碓造紙作坊；朱自清的少女瀑布
+http://localhost:5050/play/ofiii36&vod57166-000077M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-習近平重拳奏效！驚天一崩！川普神話垮台！打造美版鹿台？川普暴君化？習川真涼了？韓國:別問我！我真的不知道！
 http://localhost:5050/play/ofiii36&vod44006-001288M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第49集 江蘇：十三香龍蝦一年就能吃掉30萬公噸的小龍蝦
-http://localhost:5050/play/ofiii36&vod57169-000049M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第48集 廣東豐順：捆粄+牛肉粄湯
+http://localhost:5050/play/ofiii36&vod57169-000048M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2076集 好想被逮捕？！全台最正美女警察來了
 http://localhost:5050/play/ofiii36&vod38131-002076M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第79集 陸聯廳轉世民國官邸 被批鬥的清秀將軍；和洋風古宅 浪漫玻璃屋+雅鴿書院；獨家將軍私房菜
-http://localhost:5050/play/ofiii36&vod57166-000079M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第78集 黃埔建校100年 承載中國近代戰爭史；建川博物館；黃埔軍領軍對日抗戰 成都成抗日重鎮
+http://localhost:5050/play/ofiii36&vod57166-000078M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-中國大勝凱旋歸！川普關稅退讓崩盤！中國隱晦同意重回談判桌！習鄭致意道賀！美台焦急鍋都炸了！
 http://localhost:5050/play/ofiii36&vod44006-001289M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第50集 江蘇：辣炒大閘蟹
-http://localhost:5050/play/ofiii36&vod57169-000050M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第49集 江蘇：十三香龍蝦一年就能吃掉30萬公噸的小龍蝦
+http://localhost:5050/play/ofiii36&vod57169-000049M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2078集 好好說話有這麼難嗎？！失言藝人告解大會
 http://localhost:5050/play/ofiii36&vod38131-002078M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第80集 九一八事變 日軍血染中國；七三一細菌部隊 人體試驗惡行；南京大屠殺 侵華日軍泯滅人性
-http://localhost:5050/play/ofiii36&vod57166-000080M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第79集 陸聯廳轉世民國官邸 被批鬥的清秀將軍；和洋風古宅 浪漫玻璃屋+雅鴿書院；獨家將軍私房菜
+http://localhost:5050/play/ofiii36&vod57166-000079M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-你別來！習近平洗臉川普訪中說！美國蠢蛋說！拋棄美元擁抱人民幣！非洲貨幣風暴捲起！
 http://localhost:5050/play/ofiii36&vod44006-001290M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第51集 乾隆皇帝最愛的四大菜系之一-淮揚菜
-http://localhost:5050/play/ofiii36&vod57169-000051M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第50集 江蘇：辣炒大閘蟹
+http://localhost:5050/play/ofiii36&vod57169-000050M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2079集 雞同鴨講！有聽沒有懂？！到底哪裡的語言最難學？！
 http://localhost:5050/play/ofiii36&vod38131-002079M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第81集 福州上下杭 古河道富商雲集 絕妙古建-不對稱版永德會館 老福州鍋邊 烟台山 閩江夜遊
-http://localhost:5050/play/ofiii36&vod57166-000081M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第80集 九一八事變 日軍血染中國；七三一細菌部隊 人體試驗惡行；南京大屠殺 侵華日軍泯滅人性
+http://localhost:5050/play/ofiii36&vod57166-000080M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-川習會又沒了？中國無所謂！美國400億挑撥阿根廷！澳洲稀土取代中國？CNN打臉：給你十年都做不到！
 http://localhost:5050/play/ofiii36&vod44006-001291M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第52集 漢代開始的豆豉文化 濃郁入菜皆美味
-http://localhost:5050/play/ofiii36&vod57169-000052M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第51集 乾隆皇帝最愛的四大菜系之一-淮揚菜
+http://localhost:5050/play/ofiii36&vod57169-000051M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2080集 空姐帶你去旅行這一些私房景點行家才知道！！
 http://localhost:5050/play/ofiii36&vod38131-002080M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第82集 經典表演超吸睛 千里江山青綠腰 陳妍希唱思念 海峽影視季最受歡迎《慶餘年》《新白娘子傳奇》
-http://localhost:5050/play/ofiii36&vod57166-000082M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第81集 福州上下杭 古河道富商雲集 絕妙古建-不對稱版永德會館 老福州鍋邊 烟台山 閩江夜遊
+http://localhost:5050/play/ofiii36&vod57166-000081M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-雙重核武夾殺！普丁習近平痛打川普！華大九天獨鬥白宮！美國牛用種的？川普:牧場多開就有！高空間諜氣球來了！他放的！
 http://localhost:5050/play/ofiii36&vod44006-001292M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第53集 隱身在夜市旁的VIP極致鐵板燒
-http://localhost:5050/play/ofiii36&vod57169-000053M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第52集 漢代開始的豆豉文化 濃郁入菜皆美味
+http://localhost:5050/play/ofiii36&vod57169-000052M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2081集 匿名者黑函公審大會不吐不快！這些事我早就想說了(大學生了沒篇)
 http://localhost:5050/play/ofiii36&vod38131-002081M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第83集 另類全民偶像 豬堅強不放棄的精神 建川地震紀念館 團結抗震 文化示範基地
-http://localhost:5050/play/ofiii36&vod57166-000083M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第82集 經典表演超吸睛 千里江山青綠腰 陳妍希唱思念 海峽影視季最受歡迎《慶餘年》《新白娘子傳奇》
+http://localhost:5050/play/ofiii36&vod57166-000082M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-台灣光復統一！習近平出大招！確定出席APEC！習近平普丁四招殺敗川普！搶見習！多國搶搭排隊列車！卡尼棄美投中
 http://localhost:5050/play/ofiii36&vod44006-001293M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第54集 哪尼！VIP級的日本老師傅手感壽司
-http://localhost:5050/play/ofiii36&vod57169-000054M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第53集 隱身在夜市旁的VIP極致鐵板燒
+http://localhost:5050/play/ofiii36&vod57169-000053M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2083集 為了生小孩這些媽媽吃盡了苦頭
 http://localhost:5050/play/ofiii36&vod38131-002083M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第84集 華陽湖濕地:臭水溝變身大花園 東莞八景-旗峰公園黃旗山 明清古厝東莞下壩村 10頭身木偶戲
-http://localhost:5050/play/ofiii36&vod57166-000084M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第83集 另類全民偶像 豬堅強不放棄的精神 建川地震紀念館 團結抗震 文化示範基地
+http://localhost:5050/play/ofiii36&vod57166-000083M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-渡海攻台！習近平四招終結川普！李成鋼激鬥美國大地主？美跪求習川會！炸藥屋炸爛川普金穹謊言
 http://localhost:5050/play/ofiii36&vod44006-001294M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第55集 韭菜花海/豬腳鴛鴦鍋/夜郎八卦雞
-http://localhost:5050/play/ofiii36&vod57169-000055M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第54集 哪尼！VIP級的日本老師傅手感壽司
+http://localhost:5050/play/ofiii36&vod57169-000054M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2084集 同名美食PK賽 今晚你要吃哪一道？！
 http://localhost:5050/play/ofiii36&vod38131-002084M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第85集 大中華文化肇始-黃帝陵祭  穿越古今-西安大唐不夜城 西安地標-大慈恩寺 大雁塔
-http://localhost:5050/play/ofiii36&vod57166-000085M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第84集 華陽湖濕地:臭水溝變身大花園 東莞八景-旗峰公園黃旗山 明清古厝東莞下壩村 10頭身木偶戲
+http://localhost:5050/play/ofiii36&vod57166-000084M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-十五五加速衝擊！孫立人要落葉歸根！川普亂槍炮打中國！蒸汽彈射宇宙無敵！高市舔美全球看傻眼！
 http://localhost:5050/play/ofiii36&vod44006-001295M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第56集 草海/木船遊魔幻感水下草原 苦蕎美食與坨坨肉超配酒
-http://localhost:5050/play/ofiii36&vod57169-000056M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第55集 韭菜花海/豬腳鴛鴦鍋/夜郎八卦雞
+http://localhost:5050/play/ofiii36&vod57169-000055M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2088集 黑函公審大會 不忍了！！這些事我憋在心裡很久了
 http://localhost:5050/play/ofiii36&vod38131-002088M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第86集 秦始皇帝陵博物館 世界八大奇蹟之一 陕西省考古博物館 致敬百年考古史
-http://localhost:5050/play/ofiii36&vod57166-000086M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第85集 大中華文化肇始-黃帝陵祭  穿越古今-西安大唐不夜城 西安地標-大慈恩寺 大雁塔
+http://localhost:5050/play/ofiii36&vod57166-000085M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-大陸官宣！習川會釜山登場 中國贏了！美主動調降對華關稅 李在明為川普加冕 拍馬屁無極限？
 http://localhost:5050/play/ofiii36&vod44006-001296M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第57集 被炸過的糧倉藏美食，在彈孔下吃必比登！掃射過的糧倉變健康
-http://localhost:5050/play/ofiii36&vod57169-000057M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第56集 草海/木船遊魔幻感水下草原 苦蕎美食與坨坨肉超配酒
+http://localhost:5050/play/ofiii36&vod57169-000056M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2089集 租屋族真的心好累 無殼蝸牛最怕遇到這些事
 http://localhost:5050/play/ofiii36&vod38131-002089M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第87集 科教館Minecraft題材多，8K沉浸劇場，人體區很「睛」嚇，懸空橋美拍 ，標本區清新多樣，兒童科技+生技課程超先進
-http://localhost:5050/play/ofiii36&vod57166-000087M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第86集 秦始皇帝陵博物館 世界八大奇蹟之一 陕西省考古博物館 致敬百年考古史
+http://localhost:5050/play/ofiii36&vod57166-000086M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-打贏了！中國揚眉吐氣！習近平達拉崩吧！勇者戰勝惡龍！川普化身米萊？親送習上下車！川普女神卡卡上身！撲克臉為哪樁？
 http://localhost:5050/play/ofiii36&vod44006-001297M001/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第58集 台灣第一家正式西餐：在百年日式庭院饗美食，沾美藝術庭苑 溫暖饗宴結合藝術，外酥內嫩的德式烤豬腳+大理石油花牛排
-http://localhost:5050/play/ofiii36&vod57169-000058M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第57集 被炸過的糧倉藏美食，在彈孔下吃必比登！掃射過的糧倉變健康
+http://localhost:5050/play/ofiii36&vod57169-000057M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2090集 真的是嚇死我了！！不怕不怕 明星的人生跑馬燈！
 http://localhost:5050/play/ofiii36&vod38131-002090M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第87集 科教館Minecraft題材多，8K沉浸劇場，人體區很「睛」嚇，懸空橋美拍 ，標本區清新多樣，兒童科技+生技課程超先進
+http://localhost:5050/play/ofiii36&vod57166-000087M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",頭條開講-第1298集
+http://localhost:5050/play/ofiii36&vod44006-001298M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",今天吃什麼-第58集 台灣第一家正式西餐：在百年日式庭院饗美食，沾美藝術庭苑 溫暖饗宴結合藝術，外酥內嫩的德式烤豬腳+大理石油花牛排
+http://localhost:5050/play/ofiii36&vod57169-000058M001/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",小明星大跟班-第2091集 看你的髮型就來氣！髮型對了！講起話來都大聲
+http://localhost:5050/play/ofiii36&vod38131-002091M001/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第88集 2024台北人氣最旺耶誕打卡地：寶麗廣場白雪聖誕秘境+統一時代 英倫風聖誕+新光三越耶誕精靈之森：會動的20米主樹 +水晶心願球
 http://localhost:5050/play/ofiii36&vod57166-000088M001/index.m3u8
-#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",一代大商孟洛川-第33集
-http://localhost:5050/play/ofiii38&vod60261-000033M001/index.m3u8
-#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",一代大商孟洛川-第34集
-http://localhost:5050/play/ofiii38&vod60261-000034M001/index.m3u8
-#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",歲月如金-第17集
-http://localhost:5050/play/ofiii38&vod37442-000017M001/index.m3u8
-#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",歲月如金-第18集
-http://localhost:5050/play/ofiii38&vod37442-000018M001/index.m3u8
-#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",白色城堡-第35集
-http://localhost:5050/play/ofiii38&vod70238-000035M001/index.m3u8
-#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",白色城堡-第36集
-http://localhost:5050/play/ofiii38&vod70238-000036M001/index.m3u8
 #EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",一代大商孟洛川-第35集
 http://localhost:5050/play/ofiii38&vod60261-000035M001/index.m3u8
 #EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",一代大商孟洛川-第36集
@@ -995,6 +983,18 @@ http://localhost:5050/play/ofiii38&vod37442-000028M001/index.m3u8
 http://localhost:5050/play/ofiii38&vod54018-000005M001/index.m3u8
 #EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",傳奇大掌櫃-第6集
 http://localhost:5050/play/ofiii38&vod54018-000006M001/index.m3u8
+#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",女人不哭-第7集
+http://localhost:5050/play/ofiii38&vod61757-000007M001/index.m3u8
+#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",女人不哭-第8集
+http://localhost:5050/play/ofiii38&vod61757-000008M001/index.m3u8
+#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",歲月如金-第29集
+http://localhost:5050/play/ofiii38&vod37442-000029M001/index.m3u8
+#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",歲月如金-第30集
+http://localhost:5050/play/ofiii38&vod37442-000030M001/index.m3u8
+#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",傳奇大掌櫃-第7集
+http://localhost:5050/play/ofiii38&vod54018-000007M001/index.m3u8
+#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",傳奇大掌櫃-第8集
+http://localhost:5050/play/ofiii38&vod54018-000008M001/index.m3u8
 #EXTINF:-1 tvg-id="短劇馬拉松" tvg-name="短劇馬拉松" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3689_ofiii39_tv_20250328.png" group-title="短劇馬拉松",佔有姜西-第1集
 http://localhost:5050/play/ofiii39&vod76555-000001M001/index.m3u8
 #EXTINF:-1 tvg-id="短劇馬拉松" tvg-name="短劇馬拉松" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3689_ofiii39_tv_20250328.png" group-title="短劇馬拉松",佔有姜西-第2集
@@ -1195,26 +1195,6 @@ http://localhost:5050/play/ofiii39&vod76268-000008M001/index.m3u8
 http://localhost:5050/play/ofiii39&vod76268-000009M001/index.m3u8
 #EXTINF:-1 tvg-id="短劇馬拉松" tvg-name="短劇馬拉松" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3689_ofiii39_tv_20250328.png" group-title="短劇馬拉松",了不起的女俠-第10集
 http://localhost:5050/play/ofiii39&vod76268-000010M001/index.m3u8
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",明眸-第20集
-http://localhost:5050/play/ofiii1048&vod78297-000020M001/index.m3u8
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",明眸-第21集
-http://localhost:5050/play/ofiii1048&vod78297-000021M001/index.m3u8
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",明眸-第22集
-http://localhost:5050/play/ofiii1048&vod78297-000022M001/index.m3u8
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",明眸-第23集
-http://localhost:5050/play/ofiii1048&vod78297-000023M001/index.m3u8
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",明眸-第24集
-http://localhost:5050/play/ofiii1048&vod78297-000024M001/index.m3u8
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",藏藥令(30分鐘版)-第1集
-http://localhost:5050/play/ofiii1048&vod72948-000001M001/index.m3u8
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",國色芳華-第31集
-http://localhost:5050/play/ofiii1048&vod76293-000031M001/index.m3u8
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",國色芳華-第32集
-http://localhost:5050/play/ofiii1048&vod76293-000032M001/index.m3u8
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第10集
-http://localhost:5050/play/ofiii1048&vod51834-000010M001/index.m3u8
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第11集
-http://localhost:5050/play/ofiii1048&vod51834-000011M001/index.m3u8
 #EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第1集
 http://localhost:5050/play/ofiii1048&vod79263-000001M001/index.m3u8
 #EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第2集
@@ -1305,18 +1285,30 @@ http://localhost:5050/play/ofiii1048&vod79007-000010M001/index.m3u8
 http://localhost:5050/play/ofiii1048&vod51834-000020M001/index.m3u8
 #EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第21集
 http://localhost:5050/play/ofiii1048&vod51834-000021M001/index.m3u8
-#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",政治琳龍SAY-雙十國慶 賴清德心情不錯 啊普發1萬什麼時候可以發？國防預算浮編一堆有的沒的 不如幫軍人加薪？
-http://localhost:5050/play/ofiii50&vod70083-000055M001/index.m3u8
-#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",台灣啟示錄-第六集-桃色陷阱竟是她
-http://localhost:5050/play/ofiii50&vod64374-000006M001/index.m3u8
-#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",大大平評理-川普最怕股市.民調崩！中國拿捏美國 贏定了？
-http://localhost:5050/play/ofiii50&vod69896-000296M001/index.m3u8
-#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",健康大錢線-洗腦防失智+失智症+阿茲海默新藥
-http://localhost:5050/play/ofiii50&vod79599-000007M001/index.m3u8
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第21集
+http://localhost:5050/play/ofiii1048&vod79263-000021M001/index.m3u8
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第22集
+http://localhost:5050/play/ofiii1048&vod79263-000022M001/index.m3u8
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第23集
+http://localhost:5050/play/ofiii1048&vod79263-000023M001/index.m3u8
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第24集
+http://localhost:5050/play/ofiii1048&vod79263-000024M001/index.m3u8
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",藏藥令(30分鐘版)-第7集
+http://localhost:5050/play/ofiii1048&vod72948-000007M001/index.m3u8
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第11集
+http://localhost:5050/play/ofiii1048&vod79007-000011M001/index.m3u8
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第12集
+http://localhost:5050/play/ofiii1048&vod79007-000012M001/index.m3u8
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第22集
+http://localhost:5050/play/ofiii1048&vod51834-000022M001/index.m3u8
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第23集
+http://localhost:5050/play/ofiii1048&vod51834-000023M001/index.m3u8
 #EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",大大平評理-中國用魔法打敗魔法！關稅帝君難跨稀土高牆？
 http://localhost:5050/play/ofiii50&vod69896-000298M001/index.m3u8
 #EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",幸福空間-第八十一集
 http://localhost:5050/play/ofiii50&vod70063-000086M001/index.m3u8
+#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",政治琳龍SAY-雙十國慶 賴清德心情不錯 啊普發1萬什麼時候可以發？國防預算浮編一堆有的沒的 不如幫軍人加薪？
+http://localhost:5050/play/ofiii50&vod70083-000055M001/index.m3u8
 #EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",大雲時堂-謝謝你留下來陪我林靜芸
 http://localhost:5050/play/ofiii50&vod51575-000310M001/index.m3u8
 #EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",大大平評理-高市交易 熱錢外溢亞洲！日韓股飆 台股3萬再等等？
@@ -1347,6 +1339,12 @@ http://localhost:5050/play/ofiii50&vod69896-000304M001/index.m3u8
 http://localhost:5050/play/ofiii50&vod79599-000004M001/index.m3u8
 #EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",台灣百大景點系列-第6集 台灣最偏遠的部落
 http://localhost:5050/play/ofiii50&vod65402-000006M001/index.m3u8
+#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",健康大錢線-褪黑激素與白內障
+http://localhost:5050/play/ofiii50&vod79599-000005M001/index.m3u8
+#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",【52直播間｜歷史哥】-第82集
+http://localhost:5050/play/ofiii50&vod69643-020082M001/index.m3u8
+#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",大雲時堂-第311集
+http://localhost:5050/play/ofiii50&vod51575-000311M001/index.m3u8
 #EXTINF:-1 tvg-id="國際大小事" tvg-name="國際大小事" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3560_ofiii55_tv_20241202.png" group-title="國際大小事",寰宇新聞-尼泊爾示威演變警民衝突傳傷亡！社群媒體禁令急轉彎總理請辭
 http://localhost:5050/play/ofiii55&vod48446-005486M001/index.m3u8
 #EXTINF:-1 tvg-id="國際大小事" tvg-name="國際大小事" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3560_ofiii55_tv_20241202.png" group-title="國際大小事",寰宇新聞-石破茂辭總裁自民黨改選！前首相之子.安倍愛徒呼聲高
@@ -11169,6 +11167,8 @@ http://localhost:5050/play/ofiii170&vod54820-040039M001/index.m3u8
 http://localhost:5050/play/ofiii170&vod54820-040040M001/index.m3u8
 #EXTINF:-1 tvg-id="SPY X FAMILY 間諜家家酒" tvg-name="SPY X FAMILY 間諜家家酒" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3304_ofiii170_tv_20250221.png" group-title="SPY X FAMILY 間諜家家酒",第4季第41集 緋聞的內幕/通往皇帝的學徒的道路
 http://localhost:5050/play/ofiii170&vod54820-040041M001/index.m3u8
+#EXTINF:-1 tvg-id="SPY X FAMILY 間諜家家酒" tvg-name="SPY X FAMILY 間諜家家酒" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3304_ofiii170_tv_20250221.png" group-title="SPY X FAMILY 間諜家家酒",第4季第42集 
+http://localhost:5050/play/ofiii170&vod54820-040042M001/index.m3u8
 #EXTINF:-1 tvg-id="SPY X FAMILY 間諜家家酒(中文版)" tvg-name="SPY X FAMILY 間諜家家酒(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3127_ofiii171_tv_20250221.png" group-title="SPY X FAMILY 間諜家家酒(中文版)",第1季第1集 行動代號〈梟〉
 http://localhost:5050/play/ofiii171&vod57664-010001M001/index.m3u8
 #EXTINF:-1 tvg-id="SPY X FAMILY 間諜家家酒(中文版)" tvg-name="SPY X FAMILY 間諜家家酒(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3127_ofiii171_tv_20250221.png" group-title="SPY X FAMILY 間諜家家酒(中文版)",第1季第2集 找好扮演妻子的人吧
