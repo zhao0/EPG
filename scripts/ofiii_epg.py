@@ -459,77 +459,52 @@ def generate_xmltv(channels_info, programs, output_file="ofiii.xml"):
     """生成XMLTV格式的EPG數據"""
     print(f"\n生成XMLTV檔案: {output_file}")
     
-    # 使用參考代碼的屬性設置
-    root = ET.Element("tv", attrib={
-        "info-name": "歐飛線上電子節目表單",
-        "info-url": "https://www.ofiii.com"
-    })
+    root = ET.Element("tv", generator="OFIII-EPG-Generator", source="www.ofiii.com")
     
-    # 按頻道名稱分組節目
-    programs_by_channel = {}
-    for program in programs:
-        channel_name = program["channelName"]
-        if channel_name not in programs_by_channel:
-            programs_by_channel[channel_name] = []
-        programs_by_channel[channel_name].append(program)
-    
-    # 對頻道進行排序（按照原始頻道列表的順序）
-    original_channel_order = parse_channel_list()
-    sorted_channels_info = sorted(
-        channels_info,
-        key=lambda x: original_channel_order.index(x['id']) if x['id'] in original_channel_order else len(original_channel_order)
-    )
-    
-    # 添加頻道和節目信息 - 按照頻道1（所有節目）、頻道2（所有節目）的順序
-    for channel in sorted_channels_info:
+    # 添加頻道定義
+    for channel in channels_info:
         channel_id = channel['id']
         channel_name = channel['channelName']
         
-        # 添加頻道定義
-        channel_elem = ET.SubElement(root, "channel", id=channel_name)
-        display_name = ET.SubElement(channel_elem, "display-name", lang="zh")
-        display_name.text = channel_name
+        channel_elem = ET.SubElement(root, "channel", id=channel_id)
+        ET.SubElement(channel_elem, "display-name", lang="zh").text = channel_name
         
-        # 添加頻道描述
-        if channel.get('description'):
-            channel_desc = ET.SubElement(channel_elem, "desc", lang="zh")
-            channel_desc.text = channel['description']
-        
-        # 添加頻道圖標
         if channel.get('logo'):
-            icon = ET.SubElement(channel_elem, "icon", src=channel['logo'])
+            ET.SubElement(channel_elem, "icon", src=channel['logo'])
         
-        # 緊接著添加該頻道的所有節目
-        if channel_name in programs_by_channel:
-            # 節目按開始時間排序
-            sorted_programs = sorted(programs_by_channel[channel_name], key=lambda x: x["start"])
+        # 添加頻道描述到XMLTV
+        if channel.get('description'):
+            ET.SubElement(channel_elem, "desc", lang="zh").text = channel['description']
+    
+    # 添加節目
+    program_count = 0
+    for program in programs:
+        try:
+            channel_id = program['channelName']
+            start_time = program['start'].strftime('%Y%m%d%H%M%S %z')
+            end_time = program['end'].strftime('%Y%m%d%H%M%S %z')
             
-            for program in sorted_programs:
-                try:
-                    # 使用原來的時間格式
-                    start_str = program["start"].strftime('%Y%m%d%H%M%S %z')
-                    end_str = program["end"].strftime('%Y%m%d%H%M%S %z')
-                    
-                    # 添加節目元素
-                    programme = ET.SubElement(root, "programme")
-                    programme.set("channel", channel_name)
-                    programme.set("start", start_str)
-                    programme.set("stop", end_str)
-                    
-                    title = ET.SubElement(programme, "title", lang="zh")
-                    title.text = program["programName"]
-                    
-                    if program.get("subtitle"):
-                        sub_title = ET.SubElement(programme, "sub-title", lang="zh")
-                        sub_title.text = program["subtitle"]
-                    
-                    if program.get("description"):
-                        desc = ET.SubElement(programme, "desc", lang="zh")
-                        desc.text = program["description"]
-                        
-                except Exception as e:
-                    print(f"⚠️ 生成節目 {program.get('programName', '未知節目')} XML 失敗: {str(e)}")
-                    continue
+            program_elem = ET.SubElement(
+                root, 
+                "programme", 
+                channel=channel_id,
+                start=start_time, 
+                stop=end_time
+            )
+            
+            title = program.get('programName', '未知節目')
+            ET.SubElement(program_elem, "title", lang="zh").text = title
+            
+            if program.get('subtitle'):
+                ET.SubElement(program_elem, "sub-title", lang="zh").text = program['subtitle']
+            
+            if program.get('description'):
+                ET.SubElement(program_elem, "desc", lang="zh").text = program['description']
+            
+            program_count += 1
+        except Exception as e:
+            print(f"⚠️ 跳過無效的節目數據: {str(e)}")
+            continue
     
     # 生成XML
     xml_str = ET.tostring(root, encoding='utf-8').decode('utf-8')
@@ -547,7 +522,7 @@ def generate_xmltv(channels_info, programs, output_file="ofiii.xml"):
         
         print(f"✅ XMLTV檔案已生成: {output_file}")
         print(f"📺 頻道數: {len(channels_info)}")
-        print(f"📺 節目數: {len(programs)}")
+        print(f"📺 節目數: {program_count}")
         print(f"💾 檔案大小: {os.path.getsize(output_file) / 1024:.2f} KB")
         return True
     except Exception as e:
