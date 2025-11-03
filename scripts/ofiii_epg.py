@@ -478,8 +478,8 @@ def generate_xmltv(channels_info, programs, output_file="ofiii.xml"):
         channel_id = channel['id']
         channel_name = channel['channelName']
         
-        # 使用參考代碼的頻道定義方式
-        channel_elem = ET.SubElement(root, "channel", id=channel_id)
+        # 使用channelName作為id
+        channel_elem = ET.SubElement(root, "channel", id=channel_name)
         display_name = ET.SubElement(channel_elem, "display-name", lang="zh")
         display_name.text = channel_name
         
@@ -493,19 +493,19 @@ def generate_xmltv(channels_info, programs, output_file="ofiii.xml"):
             icon = ET.SubElement(channel_elem, "icon", src=channel['logo'])
         
         # 添加該頻道的節目
-        if channel_id in programs_by_channel:
+        if channel_name in programs_by_channel:
             # 節目按開始時間排序
-            sorted_programs = sorted(programs_by_channel[channel_id], key=lambda x: x["start"])
+            sorted_programs = sorted(programs_by_channel[channel_name], key=lambda x: x["start"])
             
             for program in sorted_programs:
                 try:
-                    # 格式化時區信息，使用參考代碼的格式（去掉空格）
-                    start_str = program["start"].strftime("%Y%m%d%H%M%S %z").replace(" ", "")
-                    end_str = program["end"].strftime("%Y%m%d%H%M%S %z").replace(" ", "")
                     
-                    # 使用參考代碼的programme元素結構
+                    start_str = program["start"].strftime('%Y%m%d%H%M%S %z')
+                    end_str = program["end"].strftime('%Y%m%d%H%M%S %z')
+                    
+                    
                     programme = ET.SubElement(root, "programme")
-                    programme.set("channel", channel_id)
+                    programme.set("channel", channel_name)  # 使用頻道名稱作為ID
                     programme.set("start", start_str)
                     programme.set("stop", end_str)
                     
