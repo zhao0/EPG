@@ -429,9 +429,6 @@ def get_ofiii_epg():
         
         # 解析節目數據
         programs = parse_epg_data(json_data, channel_id)
-        
-        # 對每個頻道的節目按開始時間排序
-        programs.sort(key=lambda x: x['start'])
         all_programs.extend(programs)
             
         # 隨機延遲
@@ -464,13 +461,13 @@ def generate_xmltv(channels_info, programs, output_file="ofiii.xml"):
     
     root = ET.Element("tv", generator="OFIII-EPG-Generator", source="www.ofiii.com")
     
-    # 添加頻道定義 - 修改：display-name使用channel id
+    # 添加頻道定義
     for channel in channels_info:
         channel_id = channel['id']
+        channel_name = channel['channelName']
         
         channel_elem = ET.SubElement(root, "channel", id=channel_id)
-        # 修改：使用channel id作為display-name
-        ET.SubElement(channel_elem, "display-name", lang="zh").text = channel_id
+        ET.SubElement(channel_elem, "display-name", lang="zh").text = channel_name
         
         if channel.get('logo'):
             ET.SubElement(channel_elem, "icon", src=channel['logo'])
@@ -479,55 +476,35 @@ def generate_xmltv(channels_info, programs, output_file="ofiii.xml"):
         if channel.get('description'):
             ET.SubElement(channel_elem, "desc", lang="zh").text = channel['description']
     
-    # 修改：按照原始頻道順序添加節目
-    # 首先按頻道分組
-    programs_by_channel = {}
-    for program in programs:
-        channel_id = program['channelName']
-        if channel_id not in programs_by_channel:
-            programs_by_channel[channel_id] = []
-        programs_by_channel[channel_id].append(program)
-    
-    # 對每個頻道的節目按開始時間排序
-    for channel_id in programs_by_channel:
-        programs_by_channel[channel_id].sort(key=lambda x: x['start'])
-    
-    # 按照原始頻道列表順序添加節目
+    # 添加節目
     program_count = 0
-    channel_list = parse_channel_list()
-    
-    for channel_id in channel_list:
-        if channel_id not in programs_by_channel:
-            continue
+    for program in programs:
+        try:
+            channel_id = program['channelName']
+            start_time = program['start'].strftime('%Y%m%d%H%M%S %z')
+            end_time = program['end'].strftime('%Y%m%d%H%M%S %z')
             
-        channel_programs = programs_by_channel[channel_id]
-        
-        for program in channel_programs:
-            try:
-                start_time = program['start'].strftime('%Y%m%d%H%M%S %z')
-                end_time = program['end'].strftime('%Y%m%d%H%M%S %z')
-                
-                program_elem = ET.SubElement(
-                    root, 
-                    "programme", 
-                    channel=channel_id,
-                    start=start_time, 
-                    stop=end_time
-                )
-                
-                title = program.get('programName', '未知節目')
-                ET.SubElement(program_elem, "title", lang="zh").text = title
-                
-                if program.get('subtitle'):
-                    ET.SubElement(program_elem, "sub-title", lang="zh").text = program['subtitle']
-                
-                if program.get('description'):
-                    ET.SubElement(program_elem, "desc", lang="zh").text = program['description']
-                
-                program_count += 1
-            except Exception as e:
-                print(f"⚠️ 跳過無效的節目數據: {str(e)}")
-                continue
+            program_elem = ET.SubElement(
+                root, 
+                "programme", 
+                channel=channel_id,
+                start=start_time, 
+                stop=end_time
+            )
+            
+            title = program.get('programName', '未知節目')
+            ET.SubElement(program_elem, "title", lang="zh").text = title
+            
+            if program.get('subtitle'):
+                ET.SubElement(program_elem, "sub-title", lang="zh").text = program['subtitle']
+            
+            if program.get('description'):
+                ET.SubElement(program_elem, "desc", lang="zh").text = program['description']
+            
+            program_count += 1
+        except Exception as e:
+            print(f"⚠️ 跳過無效的節目數據: {str(e)}")
+            continue
     
     # 生成XML
     xml_str = ET.tostring(root, encoding='utf-8').decode('utf-8')
