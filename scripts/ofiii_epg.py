@@ -473,12 +473,19 @@ def generate_xmltv(channels_info, programs, output_file="ofiii.xml"):
             programs_by_channel[channel_name] = []
         programs_by_channel[channel_name].append(program)
     
-    # 添加頻道和節目信息
-    for channel in channels_info:
+    # 對頻道進行排序（按照原始頻道列表的順序）
+    original_channel_order = parse_channel_list()
+    sorted_channels_info = sorted(
+        channels_info,
+        key=lambda x: original_channel_order.index(x['id']) if x['id'] in original_channel_order else len(original_channel_order)
+    )
+    
+    # 添加頻道和節目信息 - 按照頻道1（所有節目）、頻道2（所有節目）的順序
+    for channel in sorted_channels_info:
         channel_id = channel['id']
         channel_name = channel['channelName']
         
-        # 使用channelName作為id
+        # 添加頻道定義
         channel_elem = ET.SubElement(root, "channel", id=channel_name)
         display_name = ET.SubElement(channel_elem, "display-name", lang="zh")
         display_name.text = channel_name
@@ -492,20 +499,20 @@ def generate_xmltv(channels_info, programs, output_file="ofiii.xml"):
         if channel.get('logo'):
             icon = ET.SubElement(channel_elem, "icon", src=channel['logo'])
         
-        # 添加該頻道的節目
+        # 緊接著添加該頻道的所有節目
         if channel_name in programs_by_channel:
             # 節目按開始時間排序
             sorted_programs = sorted(programs_by_channel[channel_name], key=lambda x: x["start"])
             
             for program in sorted_programs:
                 try:
-                    
+                    # 使用原來的時間格式
                     start_str = program["start"].strftime('%Y%m%d%H%M%S %z')
                     end_str = program["end"].strftime('%Y%m%d%H%M%S %z')
                     
-                    
+                    # 添加節目元素
                     programme = ET.SubElement(root, "programme")
-                    programme.set("channel", channel_name)  # 使用頻道名稱作為ID
+                    programme.set("channel", channel_name)
                     programme.set("start", start_str)
                     programme.set("stop", end_str)
                     
