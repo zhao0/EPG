@@ -429,6 +429,9 @@ def get_ofiii_epg():
         
         # 解析節目數據
         programs = parse_epg_data(json_data, channel_id)
+        
+        # 對每個頻道的節目按開始時間排序
+        programs.sort(key=lambda x: x['start'])
         all_programs.extend(programs)
             
         # 隨機延遲
@@ -476,7 +479,7 @@ def generate_xmltv(channels_info, programs, output_file="ofiii.xml"):
         if channel.get('description'):
             ET.SubElement(channel_elem, "desc", lang="zh").text = channel['description']
     
-    # 修改：按照頻道和時間排序節目
+    # 修改：按照原始頻道順序添加節目
     # 首先按頻道分組
     programs_by_channel = {}
     for program in programs:
@@ -489,12 +492,14 @@ def generate_xmltv(channels_info, programs, output_file="ofiii.xml"):
     for channel_id in programs_by_channel:
         programs_by_channel[channel_id].sort(key=lambda x: x['start'])
     
-    # 按頻道ID排序，確保輸出順序一致
-    sorted_channels = sorted(programs_by_channel.keys())
-    
-    # 添加節目 - 修改：按照頻道順序添加，每個頻道內按時間排序
+    # 按照原始頻道列表順序添加節目
     program_count = 0
-    for channel_id in sorted_channels:
+    channel_list = parse_channel_list()
+    
+    for channel_id in channel_list:
+        if channel_id not in programs_by_channel:
+            continue
+            
         channel_programs = programs_by_channel[channel_id]
         
         for program in channel_programs:
