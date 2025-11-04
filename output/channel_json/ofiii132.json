@@ -1,0 +1,1813 @@
+{
+  "pageProps": {
+    "contentId": "ofiii132",
+    "channel": {
+      "title": "健康2.0",
+      "no": 132,
+      "charge_mode": "F",
+      "content_id": "ofiii132",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        18
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3600_ofiii132_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "TVBS 純拆",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6534",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1735888722.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 132,
+        "cdn_code": "ofiii132",
+        "start_time": 1762002600000,
+        "programs": [
+          {
+            "content_id": "VOD00369019",
+            "time_codes": [
+              1001000,
+              1935000,
+              2442000
+            ],
+            "timecode_duration": [],
+            "length": 2879000,
+            "asset_id": "vod11188-002976M001",
+            "title": "",
+            "subtitle": "第2976集 102歲人瑞沒三高 愛吃鮮魚喝甜咖啡！2招活腦防退化改善健忘症 長壽保健祕訣大公開！",
+            "ep_number": 2976,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762002600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00369020",
+            "time_codes": [
+              918000,
+              1930000,
+              2536000
+            ],
+            "timecode_duration": [],
+            "length": 2878000,
+            "asset_id": "vod11188-002978M001",
+            "title": "",
+            "subtitle": "第2978集 北原山貓腎結石釀心梗險送命！腰背痠脹.血尿恐腎積水！腎水腫退水這樣做！1功法強腎氣幫助逆轉腎！",
+            "ep_number": 2978,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762005600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00369021",
+            "time_codes": [
+              962000,
+              1800000,
+              2530000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod11188-002979M001",
+            "title": "",
+            "subtitle": "第2979集 林葉亭父失智症走失11天不幸溺亡！10大失智警訊注意！日綜天王患巴金森病噎到昏迷！3運動緩解失智症+巴金森病",
+            "ep_number": 2979,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762008600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372725",
+            "time_codes": [
+              876000,
+              1947000,
+              2418000
+            ],
+            "timecode_duration": [],
+            "length": 2880000,
+            "asset_id": "vod11188-002980M001",
+            "title": "",
+            "subtitle": "第2980集 香港議員肚痛竟胃癌病逝！6大胃癌症狀 當心胃輕癱影響消化！87歲癌症名醫沒生過大病 靠3類長壽食物！",
+            "ep_number": 2980,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762011600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372726",
+            "time_codes": [
+              926000,
+              1958000,
+              2487000
+            ],
+            "timecode_duration": [],
+            "length": 2879000,
+            "asset_id": "vod11188-002981M001",
+            "title": "",
+            "subtitle": "第2981集 瓊瑤輕生倡尊嚴死 掌握5老活出獨立老年！ 8疾病引發憂鬱惡循環！7大指標測「失志症候群」比憂鬱更可怕！",
+            "ep_number": 2981,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762014600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372727",
+            "time_codes": [
+              870000,
+              1629000,
+              2430000
+            ],
+            "timecode_duration": [],
+            "length": 2879000,
+            "asset_id": "vod11188-002982M001",
+            "title": "",
+            "subtitle": "第2982集 背痛難忍竟是肌肉感染化膿！女星病入膏肓 背凹大洞痛到快窒息！8分鐘重塑零贅肉美背！",
+            "ep_number": 2982,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762017600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372728",
+            "time_codes": [
+              771000,
+              1844000,
+              2451000
+            ],
+            "timecode_duration": [],
+            "length": 2879000,
+            "asset_id": "vod11188-002983M001",
+            "title": "",
+            "subtitle": "第2983集 康康尿酸過高痛到無法走路！高尿酸恐引三高共病！痛風發作增心梗.中風風險！6大高磷食物傷腎",
+            "ep_number": 2983,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762020600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372729",
+            "time_codes": [
+              966000,
+              1895000,
+              2482000
+            ],
+            "timecode_duration": [],
+            "length": 2879000,
+            "asset_id": "vod11188-002984M001",
+            "title": "",
+            "subtitle": "第2984集 南韓女星高血糖急症猝逝！血糖失控恐短命！這些超級食物助穩血糖！",
+            "ep_number": 2984,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762023600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372730",
+            "time_codes": [
+              922000,
+              1903000,
+              2400000
+            ],
+            "timecode_duration": [],
+            "length": 2878000,
+            "asset_id": "vod11188-002985M001",
+            "title": "",
+            "subtitle": "第2985集 羅志祥膝痛軟腳 膝蓋卡卡無力恐半月板撕裂警訊 胃酸逆流竟是烏龜頸惹禍！2穴位+茶飲防晨僵！",
+            "ep_number": 2985,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762026600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372731",
+            "time_codes": [
+              937000,
+              1942000,
+              2480000
+            ],
+            "timecode_duration": [],
+            "length": 2879000,
+            "asset_id": "vod11188-002986M001",
+            "title": "",
+            "subtitle": "第2986集 黃越綏耳鳴右耳失聰！耳鳴.悶塞當心突發性耳聾！手機下載APP可測聽力指數 中醫聰耳茶飲保護聽力！",
+            "ep_number": 2986,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762029600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372732",
+            "time_codes": [
+              877000,
+              1947000,
+              2429000
+            ],
+            "timecode_duration": [],
+            "length": 2879000,
+            "asset_id": "vod11188-002987M001",
+            "title": "",
+            "subtitle": "第2987集 13公分食道癌腫瘤猝逝！食道癌又稱短命癌從出血顏色看內臟傷口！2氣功1茶飲保健消化道",
+            "ep_number": 2987,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762032600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372733",
+            "time_codes": [
+              855000,
+              1803000,
+              2499000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod11188-002988M001",
+            "title": "",
+            "subtitle": "第2988集 柯爸癌症肺積水病逝2症狀如溺水般難呼吸！拍打肺經3穴護肺氣！累喘腫3症狀恐心臟衰竭！紅色食物助養心！",
+            "ep_number": 2988,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762035600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372734",
+            "time_codes": [
+              964000,
+              2036000,
+              2550000
+            ],
+            "timecode_duration": [],
+            "length": 2878000,
+            "asset_id": "vod11188-002989M001",
+            "title": "",
+            "subtitle": "第2989集 女星愛運動患子宮內膜癌 摘除子宮卵巢！女性5大營養素 更年期雙補雌激素.黃體素！",
+            "ep_number": 2989,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762038600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00371036",
+            "time_codes": [
+              1001000,
+              2040000,
+              2587000
+            ],
+            "timecode_duration": [],
+            "length": 2878000,
+            "asset_id": "vod11188-003001M001",
+            "title": "",
+            "subtitle": "第3001集 4月媽祖遶境小心足底筋膜炎！8種NG走姿脊椎恐歪掉 1招防圓肩駝背！",
+            "ep_number": 3001,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762041600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00371037",
+            "time_codes": [
+              871000,
+              1820000,
+              2431000
+            ],
+            "timecode_duration": [],
+            "length": 2880000,
+            "asset_id": "vod11188-003002M001",
+            "title": "",
+            "subtitle": "第3002集 周天成罹大腸癌！糞便帶血變細是警訊！糖尿病恐增大腸癌風險？2穴位+1茶飲助排毒護腸！",
+            "ep_number": 3002,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762044600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00371038",
+            "time_codes": [
+              841000,
+              1881000,
+              2423000
+            ],
+            "timecode_duration": [],
+            "length": 2878000,
+            "asset_id": "vod11188-003003M001",
+            "title": "",
+            "subtitle": "第3003集 IU罹不治之症皮膚壞死沒知覺！蚊蟲叮咬2症狀恐斯基特症候群！婦脖子冒肉芽竟罹癌！",
+            "ep_number": 3003,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762047600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00371039",
+            "time_codes": [
+              840000,
+              1812000,
+              2456000
+            ],
+            "timecode_duration": [],
+            "length": 2881000,
+            "asset_id": "vod11188-003004M001",
+            "title": "",
+            "subtitle": "第3004集 女歌手異常打鼾猝逝！腦動脈瘤破裂釀頭痛，6大血管痙攣警訊！頸動脈增厚血管老10歲！",
+            "ep_number": 3004,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762050600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00371040",
+            "time_codes": [
+              973000,
+              1936000,
+              2473000
+            ],
+            "timecode_duration": [],
+            "length": 2875000,
+            "asset_id": "vod11188-003005M001",
+            "title": "",
+            "subtitle": "第3005集 劉亮佐暴瘦19kg逆轉糖尿病危機！糖尿病合併腎病壽命減15年？糖尿病足潰瘍5年死亡率高達30%！",
+            "ep_number": 3005,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762053600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00371041",
+            "time_codes": [
+              908000,
+              1909000,
+              2479000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003006M001",
+            "title": "",
+            "subtitle": "第3006集 探祕日本最長壽村…少鹽高纖吃出健康！少林武僧菜單大揭密！無毒教母譚敦慈一日三餐公開！自製蒜油超養生！",
+            "ep_number": 3006,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762056600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00371042",
+            "time_codes": [
+              1134000,
+              1879000,
+              2693000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003007M001",
+            "title": "",
+            "subtitle": "第3007集 王思佳為愛犬花費逾百萬！狗狗「這舉動」藏病因！寵物過胖危機看「這裡」！萌寵搜奇 柯爾鴨與緬因貓現身！",
+            "ep_number": 3007,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762059600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00371043",
+            "time_codes": [
+              851000,
+              1896000,
+              2413000
+            ],
+            "timecode_duration": [],
+            "length": 2875000,
+            "asset_id": "vod11188-003009M001",
+            "title": "",
+            "subtitle": "第3009集 陳文茜黑色素瘤擴散靠免疫療法滅癌！小彤扛12次化療戰胰癌3種體質藏危機！長壽湯可抗炎防癌！",
+            "ep_number": 3009,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762062600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00371044",
+            "time_codes": [
+              1108000,
+              2182000,
+              2660000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003011M001",
+            "title": "",
+            "subtitle": "第3011集 陳筱蕾腦瘤開顱面癱狗狗陪伴解憂鬱！研究指出摸貓狗分泌激素可降4成失智風險！遛狗不崩潰牽繩這樣挑！",
+            "ep_number": 3011,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762065600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00371045",
+            "time_codes": [
+              972000,
+              1870000,
+              2434000
+            ],
+            "timecode_duration": [],
+            "length": 2871000,
+            "asset_id": "vod11188-003016M001",
+            "title": "",
+            "subtitle": "第3016集 日韓正妹不節食狠甩50kg 2飲食法成易瘦體質！體重溜溜球效應死亡風險高達124%！",
+            "ep_number": 3016,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762068600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00371046",
+            "time_codes": [
+              868000,
+              2067000,
+              2692000
+            ],
+            "timecode_duration": [],
+            "length": 2875000,
+            "asset_id": "vod11188-003018M001",
+            "title": "",
+            "subtitle": "第3018集 狗狗「這行為」恐罹卵巢癌！狗竟能感知癌症、巴金森氏症？萌犬變惡犬真相大公開！狗狗才藝多是生活好幫手！",
+            "ep_number": 3018,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762071600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00371047",
+            "time_codes": [
+              941000,
+              1893000,
+              2420000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003019M001",
+            "title": "",
+            "subtitle": "第3019集 羅志祥母罹阿茲海默症！飲食改變恐患失智症！ 失智風險倍增跟睡眠有關！4大營養素養護大腦神經！",
+            "ep_number": 3019,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762074600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00371048",
+            "time_codes": [
+              823000,
+              1814000,
+              2415000
+            ],
+            "timecode_duration": [],
+            "length": 2871000,
+            "asset_id": "vod11188-003020M001",
+            "title": "",
+            "subtitle": "第3020集 蝙蝠俠病逝肺炎評估關鍵曝光？長者肺炎重症高風險！從鼻涕判斷3鼻塞類型！咳嗽不停「這樣吃」超有感！",
+            "ep_number": 3020,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762077600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00371049",
+            "time_codes": [
+              992000,
+              2099000,
+              2668000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003022M001",
+            "title": "",
+            "subtitle": "第3022集 4件喵星人都市傳說真相曝光！中醫五行揭密毛孩性格密碼！笑笑羊及草泥馬攝影棚大暴走！",
+            "ep_number": 3022,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762080600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00371050",
+            "time_codes": [
+              915000,
+              1715000,
+              2544000
+            ],
+            "timecode_duration": [],
+            "length": 2875000,
+            "asset_id": "vod11188-003023M001",
+            "title": "",
+            "subtitle": "第3023集 延緩失智6秘訣 「五老」相伴退休生活！突發失憶恐暫時性腦缺血！抓住黃金治療期假性失智可治癒！",
+            "ep_number": 3023,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762083600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372796",
+            "time_codes": [
+              854000,
+              1939000,
+              2416000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003024M001",
+            "title": "",
+            "subtitle": "第3024集 印度男星吃全素甩15種致命病！吃素4營養不能缺！幸福國家芬蘭3漿果護血管！奇異博士52斷食擁性感身材！",
+            "ep_number": 3024,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762086600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372797",
+            "time_codes": [
+              938000,
+              1798000,
+              2195000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003026M001",
+            "title": "",
+            "subtitle": "第3026集 寵物有第六感？狗吠異常媽媽驚嬰兒沒呼吸！孩子與狗作伴降精神病風險！達人傳授倉鼠、蜜袋鼯照護祕訣！海洋前三毒觸碰恐致命！",
+            "ep_number": 3026,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762089600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372798",
+            "time_codes": [
+              921000,
+              1901000,
+              2429000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003028M001",
+            "title": "",
+            "subtitle": "第3028集 楊貴媚皮蛇纏身竟無藥醫！把握72小時黃金治療期！耳朵長皮蛇恐顏麻 2穴道搞定！2營養救臉歪嘴斜、難閉眼！",
+            "ep_number": 3028,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762092600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372799",
+            "time_codes": [
+              1058000,
+              1824000,
+              2436000
+            ],
+            "timecode_duration": [],
+            "length": 2875000,
+            "asset_id": "vod11188-003029M001",
+            "title": "",
+            "subtitle": "第3029集 川普愛吃速食竟沒糖尿病！全靠服用降膽固醇藥及阿斯匹靈！單腳站立測生理年齡 血管年齡看2指標！控三高就靠4營養素！",
+            "ep_number": 3029,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762095600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372800",
+            "time_codes": [
+              846000,
+              1864000,
+              2354000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003030M001",
+            "title": "",
+            "subtitle": "第3030集 古天樂飛蚊症惡化視網膜破2洞！1狀況恐視網膜剝離前兆！3種眼屎藏危機！眼皮浮腫恐6疾病！護眼靠五色蔬果！",
+            "ep_number": 3030,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762098600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372801",
+            "time_codes": [
+              1082000,
+              2028000,
+              2415000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003031M001",
+            "title": "",
+            "subtitle": "第3031集 名醫靠半醣飲食瘦18公斤四高竟消失！2秘技剷除體脂肪！王必勝減肥不吃藥逆轉高血壓！醫師教2運動減重不卡關！",
+            "ep_number": 3031,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762101600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372802",
+            "time_codes": [
+              855000,
+              1821000,
+              2473000
+            ],
+            "timecode_duration": [],
+            "length": 2872000,
+            "asset_id": "vod11188-003032M001",
+            "title": "",
+            "subtitle": "第3032集 90後恐將癌症年輕化！血便、腹脹、放臭屁是大腸癌警訊！肝癌難發現 疲倦、暴瘦恐已晚期！中醫教清腸養肝秘方！",
+            "ep_number": 3032,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762104600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372803",
+            "time_codes": [
+              1020000,
+              1973000,
+              2514000
+            ],
+            "timecode_duration": [],
+            "length": 2875000,
+            "asset_id": "vod11188-003033M001",
+            "title": "",
+            "subtitle": "第3033集 世壯運傳奇！羽球老頑童長壽祕訣是刷牙！5大延壽運動！金牌阿嬤膝關節退化用運動取代手術！彥老師奪蝶式銀銅牌2招強心肺！",
+            "ep_number": 3033,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762107600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372804",
+            "time_codes": [
+              1199000,
+              2314000,
+              2692000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003034M001",
+            "title": "",
+            "subtitle": "第3034集 杜詩梅愛犬生命交關靠寵物溝通師求解！貓狗3疾病恐建議安寧！狗界GPS 3招練出神級方向感！鱷龜vs竹節蟲冷知識大公開！",
+            "ep_number": 3034,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762110600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372805",
+            "time_codes": [
+              940000,
+              1957000,
+              2427000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003035M001",
+            "title": "",
+            "subtitle": "第3035集 拜登攝護腺癌已骨轉移！2數值測攝護腺癌 頻尿、夜尿是警訊！8NG行為恐傷攝護腺增罹癌風險！中醫保養2祕訣必收藏！",
+            "ep_number": 3035,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762113600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372806",
+            "time_codes": [
+              874000,
+              1961000,
+              2466000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003036M001",
+            "title": "",
+            "subtitle": "第3036集 女星髮際線危機老10歲！金賽綸因壓力24歲竟冒白髮！車銀優發福臉腫！中醫2招救頭皮、瘦臉！郭富城凍齡秘訣公開！",
+            "ep_number": 3036,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762116600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372807",
+            "time_codes": [
+              912000,
+              1836000,
+              2476000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod11188-003037M001",
+            "title": "",
+            "subtitle": "第3037集 新冠夏季高峰恐百萬人感染！症狀為刀片嗓、腸胃炎！愷樂兒子染疫燒2天變菸酒嗓！中醫預防秘方公開！過期快篩C線是關鍵！",
+            "ep_number": 3037,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762119600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372808",
+            "time_codes": [
+              830000,
+              1943000,
+              2505000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003038M001",
+            "title": "",
+            "subtitle": "第3038集 男星因心臟疾病免役 惡性心律不整恐奪命！歌手心臟驟停猝逝 4部位看異樣！心跳突然加速、冒冷汗是警訊！",
+            "ep_number": 3038,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762122600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00372809",
+            "time_codes": [
+              932000,
+              1902000,
+              2411000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003039M001",
+            "title": "",
+            "subtitle": "第3039集 50歲女歌手脖子長3顆甲狀腺結節 3種結節易惡化！超音波、穿刺揪惡性腫瘤！手術後補充維生素D、鋅、硒平衡甲狀腺！",
+            "ep_number": 3039,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762125600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374593",
+            "time_codes": [
+              894000,
+              2020000,
+              2453000
+            ],
+            "timecode_duration": [],
+            "length": 2872000,
+            "asset_id": "vod11188-003040M001",
+            "title": "",
+            "subtitle": "第3040集 女星飯後心悸醫警告隨時猝死！火燒心、心律不整恐胃酸逆流！夏宇童吐血竟胃潰瘍險穿孔！吃太鹹恐致癌 胃潰瘍2警訊！",
+            "ep_number": 3040,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762128600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374594",
+            "time_codes": [
+              898000,
+              1869000,
+              2459000
+            ],
+            "timecode_duration": [],
+            "length": 2871000,
+            "asset_id": "vod11188-003041M001",
+            "title": "",
+            "subtitle": "第3041集 85歲沈富雄搭捷運竟心梗 1症狀快速自救！持續胸痛、悶堵、呼吸困難恐心肌梗塞！心臟術後復健5要素！",
+            "ep_number": 3041,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762131600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374595",
+            "time_codes": [
+              1002000,
+              2054000,
+              2600000
+            ],
+            "timecode_duration": [],
+            "length": 2870000,
+            "asset_id": "vod11188-003042M001",
+            "title": "",
+            "subtitle": "第3042集 夏宇童愛犬膽小曾被丟包！毛髮觀察汪星人健康！4主因揭狗狗剩食習慣！毛孩美容：剃毛、剪指甲、清耳朵技巧公開！",
+            "ep_number": 3042,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762134600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374596",
+            "time_codes": [
+              826000,
+              1749000,
+              2400000
+            ],
+            "timecode_duration": [],
+            "length": 2872000,
+            "asset_id": "vod11188-003043M001",
+            "title": "",
+            "subtitle": "第3043集 85歲阿嬤創雲霄飛車療法緩解背痛！重複勞損恐脊椎歪斜 3招鍛鍊頸椎肌肉！脊慢跑活化脊椎肌群告別腰痛、改善側彎、長短腳！",
+            "ep_number": 3043,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762137600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374597",
+            "time_codes": [
+              908000,
+              1987000,
+              2467000
+            ],
+            "timecode_duration": [],
+            "length": 2872000,
+            "asset_id": "vod11188-003044M001",
+            "title": "",
+            "subtitle": "第3044集 教授1年工作319天腦溢血病逝 身體過勞5大警訊！壓力大恐致胃酸逆流引發腸道發炎！藏傳太極＋殭屍操全身減壓！",
+            "ep_number": 3044,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762140600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374598",
+            "time_codes": [
+              1015000,
+              1914000,
+              2454000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003045M001",
+            "title": "",
+            "subtitle": "第3045集 41歲許藍方常暈倒竟罹腦動脈瘤！5大常破裂位置 當心壓迫視野缺損、癲癇！名模腦動靜脈畸形病逝肢體無力是前兆！",
+            "ep_number": 3045,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762143600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374599",
+            "time_codes": [
+              860000,
+              1976000,
+              2440000
+            ],
+            "timecode_duration": [],
+            "length": 2871000,
+            "asset_id": "vod11188-003046M001",
+            "title": "",
+            "subtitle": "第3046集 藍心湄缺門牙挖肉補牙齦！假牙不合及嘴破恐口腔癌！植牙植體、牙冠材質挑選秘訣公開！牙周病不治恐發心血管疾病！",
+            "ep_number": 3046,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762146600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374600",
+            "time_codes": [
+              953000,
+              1919000,
+              2417000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003048M001",
+            "title": "",
+            "subtitle": "第3048集 越南女生僅3%胖子 打破喝湯易胖迷思！日本肥胖率低飲食習慣公開 多患胃癌、胰臟癌！新加坡登長壽藍區 鐵腕打糖抗疾病！",
+            "ep_number": 3048,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762149600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374601",
+            "time_codes": [
+              1028000,
+              1987000,
+              2479000
+            ],
+            "timecode_duration": [],
+            "length": 2870000,
+            "asset_id": "vod11188-003049M001",
+            "title": "",
+            "subtitle": "第3049集 陳水扁連續血便一次切8顆息肉！25歲網紅千千胃癌離世 年輕人胃癌病程快！保護消化道攝取維生素A、C、D、植化素！",
+            "ep_number": 3049,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762152600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374602",
+            "time_codes": [
+              779000,
+              1817000,
+              2471000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003050M001",
+            "title": "",
+            "subtitle": "第3050集 網紅直播頭痛動脈瘤破裂猝逝！3種頭痛恐致命！耳鳴藏耳中風危機 4種頭暈恐神經病變！耳機戴整天竟耳朵發霉！",
+            "ep_number": 3050,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762155600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374603",
+            "time_codes": [
+              854000,
+              1828000,
+              2485000
+            ],
+            "timecode_duration": [],
+            "length": 2869000,
+            "asset_id": "vod11188-003051M001",
+            "title": "",
+            "subtitle": "第3051集 男星拍戲竟血尿罹膀胱癌開刀3次！無痛血尿恐得尿路腫瘤 從形狀看腎臟、膀胱問題！夏季好發泌尿道炎 3款蔬果水助排尿！",
+            "ep_number": 3051,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762158600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374912",
+            "time_codes": [
+              901000,
+              2033000,
+              2668000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003052M001",
+            "title": "",
+            "subtitle": "第3052集 狗狗伸懶腰竟是腸胃生病警訊！主人出國狗竟不吃不喝過世！狗狗懂人語能記1000個詞！酷暑毛孩皮膚病大發！",
+            "ep_number": 3052,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762161600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374913",
+            "time_codes": [
+              903000,
+              2001000,
+              2482000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003053M001",
+            "title": "",
+            "subtitle": "第3053集 口腔冒酸腐爛味恐食道癌、胃癌！英女全身飄魚腥味罹患罕見疾病！腳臭洗不掉竟是肝癌警訊！7種異味當心代謝障礙！",
+            "ep_number": 3053,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762164600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374914",
+            "time_codes": [
+              1125000,
+              1832000,
+              2578000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003054M001",
+            "title": "",
+            "subtitle": "第3054集 心臟權威林芳郁對抗失智症5年 跌倒後易焦慮緊張！手環、指紋、GPS防走失！失智者易便祕、譫忘、記憶紊亂！",
+            "ep_number": 3054,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762167600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374915",
+            "time_codes": [
+              835000,
+              1939000,
+              2508000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003055M001",
+            "title": "",
+            "subtitle": "第3055集 李洪基屁股因化膿性汗腺炎爆膿漿！痣消失疤痕增生藏癌變風險！觀察5種指甲揪身體疾病！被恙蟲咬致死率60%！",
+            "ep_number": 3055,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762170600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374916",
+            "time_codes": [
+              1014000,
+              1764000,
+              2507000
+            ],
+            "timecode_duration": [],
+            "length": 2875000,
+            "asset_id": "vod11188-003056M001",
+            "title": "",
+            "subtitle": "第3056集 千萬台灣人肥胖 減醣料理穩血糖！海鮮飯竟沒飯！松葉蟹驚豔全場！鯛魚蝦肉配香料油無敵！",
+            "ep_number": 3056,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762173600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374917",
+            "time_codes": [
+              999000,
+              1745000,
+              2441000
+            ],
+            "timecode_duration": [],
+            "length": 2875000,
+            "asset_id": "vod11188-003057M001",
+            "title": "",
+            "subtitle": "第3057集 百萬人糖尿病低醣料理開吃！花椰菜米高纖低脂！完美青醬比例公開！主廚私傳雞胸肉鮮嫩祕訣！",
+            "ep_number": 3057,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762176600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374918",
+            "time_codes": [
+              837000,
+              1887000,
+              2409000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003058M001",
+            "title": "",
+            "subtitle": "第3058集 楊月娥女兒17歲罹血癌 歷經5階段化療、6次骨髓穿刺勝癌症！5大營養素防貧血！血小板增多症 恐增心梗、中風風險！",
+            "ep_number": 3058,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762179600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374919",
+            "time_codes": [
+              821000,
+              1908000,
+              2501000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003059M001",
+            "title": "",
+            "subtitle": "第3059集 百歲人瑞養生秘訣必喝1茶飲！濟州島海女超人基因靠2食物！西班牙人瑞3杯優格打造零癌體質！少林武僧教延壽功法！",
+            "ep_number": 3059,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762182600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374920",
+            "time_codes": [
+              838000,
+              1929000,
+              2467000
+            ],
+            "timecode_duration": [],
+            "length": 2872000,
+            "asset_id": "vod11188-003060M001",
+            "title": "",
+            "subtitle": "第3060集 馬景濤直播低血糖竟暈倒！血糖低於50恐昏迷！許冠文糖尿病27年 3共病超傷心臟！穴道按摩、深蹲控糖超簡單！",
+            "ep_number": 3060,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762185600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374921",
+            "time_codes": [
+              938000,
+              1942000,
+              2470000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003061M001",
+            "title": "",
+            "subtitle": "第3061集 做惡夢少睡44小時增失智風險！睡不好恐傷害淋巴系統！睡前3分鐘舒緩肌筋膜！美國爆紅321入睡法改善睡眠品質！",
+            "ep_number": 3061,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762188600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374922",
+            "time_codes": [
+              969000,
+              1929000,
+              2643000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003062M001",
+            "title": "",
+            "subtitle": "第3062集 阿本愛犬罹乳癌年花13萬 5種常見狗癌症！狗狗攻擊8等級先看安定訊號！搜救犬現身攝影棚 專門營救蹲趴傷者！",
+            "ep_number": 3062,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762191600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374923",
+            "time_codes": [
+              906000,
+              1927000,
+              2437000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003063M001",
+            "title": "",
+            "subtitle": "第3063集 癌王胰臟癌元凶是高糖 糖尿病恐是前兆！胰臟炎2年內患癌風險達19倍！5大防癌營養素！膽道癌3症狀易誤認肝炎！",
+            "ep_number": 3063,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762194600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00374924",
+            "time_codes": [
+              1027000,
+              1879000,
+              2435000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003064M001",
+            "title": "",
+            "subtitle": "第3064集 金鐘主持人王浩一車上驟逝！急性心梗症狀：胸痛如象踩、流汗濕黏冷！氣溫每上升1度心梗風險增12%！中醫師教消暑妙招！",
+            "ep_number": 3064,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762197600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00376245",
+            "time_codes": [
+              671000,
+              1853000,
+              2438000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003065M001",
+            "title": "",
+            "subtitle": "第3065集 男星罹鼻咽癌末期！鼻咽癌6症狀 鼻涕帶血、單側耳鳴！2歲童感染EB病毒罹淋巴癌！喉嚨痛、莫名耳痛恐扁桃腺癌！",
+            "ep_number": 3065,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762200600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00376246",
+            "time_codes": [
+              920000,
+              1952000,
+              2491000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003066M001",
+            "title": "",
+            "subtitle": "第3066集 武打傳奇李小飛罹肝癌半年病逝 7大併發症超凶險！B型肝炎患癌風險高150倍！老鷹先生猛爆性肝炎過世！",
+            "ep_number": 3066,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762203600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00376247",
+            "time_codes": [
+              953000,
+              1843000,
+              2471000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003067M001",
+            "title": "",
+            "subtitle": "第3067集 川普腿腫被診斷慢性靜脈功能不全！抽血揪雙腿水腫3情況恐心肝腎衰竭！解婕翎抽血扎針4次瘀青 頻繁抽血防貧血、低血壓！",
+            "ep_number": 3067,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762206600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00376248",
+            "time_codes": [
+              924000,
+              1927000,
+              2475000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003068M001",
+            "title": "",
+            "subtitle": "第3068集 徐亨長腦瘤右耳失聰 水腦症易誤認為失智 3症狀警訊！中醫刮痧緩巴金森氏症疼痛！馬西屏傳失憶 心臟手術是肇因！",
+            "ep_number": 3068,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762209600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00376249",
+            "time_codes": [
+              996000,
+              1754000,
+              2516000
+            ],
+            "timecode_duration": [],
+            "length": 2875000,
+            "asset_id": "vod11188-003069M001",
+            "title": "",
+            "subtitle": "第3069集 六百萬人關節炎 保骨料理救骨力！櫻花蝦粉強健骨骼！牡蠣乾強化關節！吻仔魚補鈣第一！",
+            "ep_number": 3069,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762212600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00376250",
+            "time_codes": [
+              1051000,
+              1749000,
+              2507000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003070M001",
+            "title": "",
+            "subtitle": "第3070集 全台四百萬人失眠 料理助好眠！百合蓮子改善睡眠！胚芽米緩解壓力！小魚乾穩情緒！",
+            "ep_number": 3070,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762215600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00376251",
+            "time_codes": [
+              859000,
+              1675000,
+              2363000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003071M001",
+            "title": "",
+            "subtitle": "第3071集 蔣偉文父親抱孫子竟腹膜破裂！譚敦慈父親糖尿病40年靠自律腎功能正常！無毒教母簡單3招控制膽固醇！不良姿勢恐加重頸椎壓力！",
+            "ep_number": 3071,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762218600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00376808",
+            "time_codes": [
+              935000,
+              1931000,
+              2490000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003073M001",
+            "title": "",
+            "subtitle": "第3073集 沈玉琳罹血癌2個月暴瘦10公斤！莫名發燒合併6症狀恐急性白血病！譚敦慈弟健檢血色素低確診血癌！白血病治療6大難關！",
+            "ep_number": 3073,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762221600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00376809",
+            "time_codes": [
+              926000,
+              2016000,
+              2482000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003076M001",
+            "title": "",
+            "subtitle": "第3076集 沈玉琳超慢跑+168斷食甩17kg！詹惟中瘦身逆轉糖尿病前期！3大飲食法PK！女星下午5點後不吃減15kg！",
+            "ep_number": 3076,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762224600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00376810",
+            "time_codes": [
+              866000,
+              1886000,
+              2441000
+            ],
+            "timecode_duration": [],
+            "length": 2871000,
+            "asset_id": "vod11188-003077M001",
+            "title": "",
+            "subtitle": "第3077集 女星林茉晶罹卵巢癌化療6次暴肥 5大徵狀警示！3種子宮肌瘤位置症狀不同！異常分泌物、下腹痛恐子宮頸癌前兆！",
+            "ep_number": 3077,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762227600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00376811",
+            "time_codes": [
+              871000,
+              1864000,
+              2484000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003079M001",
+            "title": "",
+            "subtitle": "第3079集 91歲日本上皇心衰竭死亡率達50%！林俊傑心臟病臉色發青摀胸 4種心律不整恐猝死！過勞增加猝死風險？",
+            "ep_number": 3079,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762230600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00376812",
+            "time_codes": [
+              1087000,
+              1864000,
+              2430000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003081M001",
+            "title": "",
+            "subtitle": "第3081集 男星江俊翰擠膿包竟開刀？痘痘、粉瘤亂擠恐致蜂窩性組織炎！皮膚紅腫癢治不好 當心內臟病變警訊！刮痧美顏法大公開！",
+            "ep_number": 3081,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762233600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00376813",
+            "time_codes": [
+              829000,
+              1871000,
+              2472000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003082M001",
+            "title": "",
+            "subtitle": "第3082集 乳癌患者塑化劑超標32倍！鄰苯二甲酸酯超標恐性早熟、哮喘、過敏！譚敦慈：加熱容器錯誤恐失智！2部位出汗促毒素代謝！",
+            "ep_number": 3082,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762236600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00378476",
+            "time_codes": [
+              944000,
+              1860000,
+              2509000
+            ],
+            "timecode_duration": [],
+            "length": 2871000,
+            "asset_id": "vod11188-003083M001",
+            "title": "",
+            "subtitle": "第3083集 醫院鬼月禁忌 勿開刀、看病、住院？普渡說錯話 手術莫名大出血！小心幻影恐藏疾病警訊！迴光返照 84%在1周內死亡！",
+            "ep_number": 3083,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762239600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00378477",
+            "time_codes": [
+              894000,
+              1822000,
+              2356000
+            ],
+            "timecode_duration": [],
+            "length": 2872000,
+            "asset_id": "vod11188-003084M001",
+            "title": "",
+            "subtitle": "第3084集 糖尿病、骨鬆、失眠3危機！3高糖食物恐讓血糖飆高！肌少肥胖症伴隨骨鬆危機！",
+            "ep_number": 3084,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762242600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00378478",
+            "time_codes": [
+              855000,
+              1877000,
+              2455000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003085M001",
+            "title": "",
+            "subtitle": "第3085集 吳淑珍昏倒一度無生命跡象！低血壓增昏厥風險 恐致呼吸心跳停止！秦楊眼前一片黑突失明藏中風危機！",
+            "ep_number": 3085,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762245600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00378479",
+            "time_codes": [
+              982000,
+              1941000,
+              2418000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003086M001",
+            "title": "",
+            "subtitle": "第3086集 唐綺陽13個月甩肉26公斤！更年期好難瘦 388減肥法不復胖！揭密藍心湄、陳美鳳維持身材方法！明星瘋喝西芹汁降血壓！",
+            "ep_number": 3086,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762248600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00378813",
+            "time_codes": [
+              1053000,
+              1838000,
+              2527000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003087M001",
+            "title": "",
+            "subtitle": "第3087集 孫德榮花200萬動刀治七節脊椎！敲膝反射檢查看脊髓壓迫！2招放鬆頸因性壓迫！世運法拉利裁判爆紅不駝背關鍵公開！",
+            "ep_number": 3087,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762251600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00378814",
+            "time_codes": [
+              763000,
+              1887000,
+              2482000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003089M001",
+            "title": "",
+            "subtitle": "第3089集 郭台銘為健康不染髮！焦慮、憂鬱增白髮達2.5倍！血管阻塞42%黑髮變白恐4疾病警訊！蔡依林保養祕訣9點半睡！",
+            "ep_number": 3089,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762254600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00378815",
+            "time_codes": [
+              849000,
+              1713000,
+              2411000
+            ],
+            "timecode_duration": [],
+            "length": 2872000,
+            "asset_id": "vod11188-003090M001",
+            "title": "",
+            "subtitle": "第3090集 女星金昀產後罹肺動脈高壓！肺動脈高壓5症狀！5種肺高壓篩檢法 6分鐘行走測試！劉宇寧曾患氣胸 好發於高瘦年輕男性！",
+            "ep_number": 3090,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762257600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00379950",
+            "time_codes": [
+              866000,
+              1857000,
+              2440000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003091M001",
+            "title": "",
+            "subtitle": "第3091集 柯文哲腰痛竟輸尿管結石釀水腎！腎積水恐致腎衰竭！狂喝可樂養出35顆結石 檸檬酸防結石！護腎4大營養素！",
+            "ep_number": 3091,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762260600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00379951",
+            "time_codes": [
+              820000,
+              1894000,
+              2443000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003093M001",
+            "title": "",
+            "subtitle": "第3093集 33%有頸動脈斑塊 視線模糊小心腦梗致命! 日本男星左眼爆血絲竟腦梗塞2天猝逝! 粗脖子中風風險高3倍!",
+            "ep_number": 3093,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762263600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00379952",
+            "time_codes": [
+              976000,
+              1908000,
+              2479000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003094M001",
+            "title": "",
+            "subtitle": "第3094集 僅剩1年生命？彭皓鋒大腸癌第3期！早發性大腸癌增加30% 腸癌位置不同症狀不同！夏季飲食3地雷大腸癌風險增！",
+            "ep_number": 3094,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762266600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00381164",
+            "time_codes": [
+              1077000,
+              1866000,
+              2499000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003095M001",
+            "title": "",
+            "subtitle": "第3095集 62歲千百惠超健康摔跤竟驟逝！布蘭妮滑倒髖關節骨折！頭部撞擊、髖部骨折致命！5招強化髖關節改善疼痛！骨鬆自我檢測法！",
+            "ep_number": 3095,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762269600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00381165",
+            "time_codes": [
+              918000,
+              1972000,
+              2562000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003096M001",
+            "title": "",
+            "subtitle": "第3096集 70歲呂良偉生理年齡僅39歲！練腿+飲控3祕訣幫凍齡！59歲陳傳多逆齡密技早上吃6顆蛋養肌肉！DIY黑蒜抗老降脂！",
+            "ep_number": 3096,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762272600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00381166",
+            "time_codes": [
+              833000,
+              1858000,
+              2474000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003097M001",
+            "title": "",
+            "subtitle": "第3097集 80歲像50歲靠魚素飲食永保青春！海鮮素4好處 護心、降低骨鬆！吃螃蟹4禁忌 中醫茶飲舒胃止癢！蝦子5營養！",
+            "ep_number": 3097,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762275600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00381167",
+            "time_codes": [
+              859000,
+              1910000,
+              2483000
+            ],
+            "timecode_duration": [],
+            "length": 2874000,
+            "asset_id": "vod11188-003098M001",
+            "title": "",
+            "subtitle": "第3098集 卵巢癌婦女癌症死亡率第1名！知名經紀人卵巢腫瘤癌逝！子宮內膜異位增卵巢癌風險高4倍！手掌2部位看婦科健康！",
+            "ep_number": 3098,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762278600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00381853",
+            "time_codes": [
+              832000,
+              1858000,
+              2476000
+            ],
+            "timecode_duration": [],
+            "length": 2873000,
+            "asset_id": "vod11188-003099M001",
+            "title": "",
+            "subtitle": "第3099集 楊千霈摘除扁桃腺味覺喪失！4情況恐切除扁桃腺！BTS成員Jin喉嚨腫痛竟會厭炎！4症狀封喉恐致命！",
+            "ep_number": 3099,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762281600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00381854",
+            "time_codes": [
+              868000,
+              1772000,
+              2481000
+            ],
+            "timecode_duration": [],
+            "length": 2871000,
+            "asset_id": "vod11188-003101M001",
+            "title": "",
+            "subtitle": "第3101集 關穎更年期體重飆10kg 4症狀超崩潰！20%更年期婦女三高偏高！停經異常出血恐癌變！診斷更年期看2數值！",
+            "ep_number": 3101,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762284600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          },
+          {
+            "content_id": "VOD00381855",
+            "time_codes": [
+              1125000,
+              1919000,
+              2522000
+            ],
+            "timecode_duration": [],
+            "length": 2872000,
+            "asset_id": "vod11188-003102M001",
+            "title": "",
+            "subtitle": "第3102集 不吸菸罹肺腺癌？空汙、飲食不當恐肺癌！防腐劑、燒烤成肺癌因子！肺阻塞年死逾5千人吸管呼吸助肺泡擴張！吃梨降低肺損傷！",
+            "ep_number": 3102,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762287600000,
+            "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+          }
+        ],
+        "total_length": 275922000,
+        "focus_index": 81,
+        "next_index": 82,
+        "time": 1940275,
+        "focus_program": {
+          "content_id": "VOD00378478",
+          "time_codes": [
+            855000,
+            1877000,
+            2455000
+          ],
+          "timecode_duration": [],
+          "length": 2873000,
+          "asset_id": "vod11188-003085M001",
+          "title": "",
+          "subtitle": "第3085集 吳淑珍昏倒一度無生命跡象！低血壓增昏厥風險 恐致呼吸心跳停止！秦楊眼前一片黑突失明藏中風危機！",
+          "ep_number": 3085,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762245600000,
+          "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜藝",
+          "EngName": "Entertainment",
+          "MenuOrder": 8
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3600_ofiii132_mobile_20250103.png",
+      "description": "綜藝大哥大胡瓜領軍，不一樣的白色旋風登場！只要你想聽，我們就敢問！沒有不能聊，就怕不夠辣！挑戰醫界麻辣話題，《醫師好辣》絕對讓您耳目一新！當綜藝天王胡瓜，對上帥哥美女「好辣醫師團」，會激盪出什麼樣的麻辣火花？打破傳統，跳脫框架！綜藝天王胡瓜為您挖掘不為人知的麻辣秘辛！",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

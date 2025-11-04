@@ -1,0 +1,1724 @@
+{
+  "pageProps": {
+    "contentId": "ofiii136",
+    "channel": {
+      "title": "一步一腳印 發現新台灣",
+      "no": 136,
+      "charge_mode": "F",
+      "content_id": "ofiii136",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        18
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3601_ofiii136_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "TVBS 純拆",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6535",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1735888732.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 136,
+        "cdn_code": "ofiii136",
+        "start_time": 1762018800000,
+        "programs": [
+          {
+            "content_id": "VOD00296028",
+            "time_codes": [
+              890000,
+              1553000,
+              2294000
+            ],
+            "timecode_duration": [],
+            "length": 2926000,
+            "asset_id": "vod38256-000785M001",
+            "title": "",
+            "subtitle": "第785集 中寮共好教官種香蕉/翻轉老廠彩色日曬麵/30年耐心澎湖的早療/阿里山下玫瑰的療癒",
+            "ep_number": 785,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762018800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296029",
+            "time_codes": [
+              884000,
+              1575000,
+              2332000
+            ],
+            "timecode_duration": [],
+            "length": 2926000,
+            "asset_id": "vod38256-000786M001",
+            "title": "",
+            "subtitle": "第786集 美髮阿姨的幸福使命/一甲子堅持餅乾阿公/奶奶煙燻臘肉改良版/主廚的真心黃金雞湯",
+            "ep_number": 786,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762021800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296030",
+            "time_codes": [
+              899000,
+              1673000,
+              2484000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000787M001",
+            "title": "",
+            "subtitle": "第787集 我想當好人種樹番茄/家的力量柑橘園/內門鄉的火鶴花福氣/地震後守護南投長者",
+            "ep_number": 787,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762024800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296031",
+            "time_codes": [
+              948000,
+              1775000,
+              2880000
+            ],
+            "timecode_duration": [],
+            "length": 2926000,
+            "asset_id": "vod38256-000788M001",
+            "title": "",
+            "subtitle": "第788集 療癒一家人的香草園/二兒子的木作奮鬥/勤奮人生溪湖胡椒餅",
+            "ep_number": 788,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762027800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296032",
+            "time_codes": [
+              705000,
+              1540000,
+              2268000
+            ],
+            "timecode_duration": [],
+            "length": 2928000,
+            "asset_id": "vod38256-000789M001",
+            "title": "",
+            "subtitle": "第789集 孝子為癌父佃煮秋刀魚/造景老闆的無價投資/退出江湖有機番茄園/夜來香的美味轉型",
+            "ep_number": 789,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762030800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296033",
+            "time_codes": [
+              769000,
+              1474000,
+              2178000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000790M001",
+            "title": "",
+            "subtitle": "第790集 小農一起共好東勢咖啡/小果苦茶油傳承突圍/肯納農場媽媽的承擔/畫糖師的人生選擇",
+            "ep_number": 790,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762033800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296034",
+            "time_codes": [
+              798000,
+              1694000,
+              2483000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000791M001",
+            "title": "",
+            "subtitle": "第791集 雪花餅開始的善事業/爸爸的土地與理想/讓他們有一口好牙/南迴路上醫院十年路",
+            "ep_number": 791,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762036800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296035",
+            "time_codes": [
+              705000,
+              1468000,
+              2235000
+            ],
+            "timecode_duration": [],
+            "length": 2926000,
+            "asset_id": "vod38256-000792M001",
+            "title": "",
+            "subtitle": "第792集 溫室番茄新農業大夢/60年肉乾老店爺爺的期望/洗車冠軍老闆待用餐/讓雙方開心家廚計畫",
+            "ep_number": 792,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762039800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296036",
+            "time_codes": [
+              751000,
+              1616000,
+              2180000
+            ],
+            "timecode_duration": [],
+            "length": 2924000,
+            "asset_id": "vod38256-000793M001",
+            "title": "",
+            "subtitle": "第793集 菇場小兒子的成長擔當/開朗媽為肌萎愛女撐住溫暖的家/回鄉女兒的有機茭白筍堅持/第三代獨子醬油責任",
+            "ep_number": 793,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762042800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296037",
+            "time_codes": [
+              749000,
+              1540000,
+              2207000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000794M001",
+            "title": "",
+            "subtitle": "第794集 921被活埋後的重生巧克力/名利之外的甘蔗人生/谷底重生米糕媽媽/守護生態茭白筍夫妻",
+            "ep_number": 794,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762045800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296038",
+            "time_codes": [
+              1077000,
+              1827000,
+              2874000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000795M001",
+            "title": "",
+            "subtitle": "第795集 彰化一家人齊心羊奶堅持/基隆鍋燒麵裡的人生故事/身障棒球隊的熱血生命啟示",
+            "ep_number": 795,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762048800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296039",
+            "time_codes": [
+              800000,
+              1630000,
+              2274000
+            ],
+            "timecode_duration": [],
+            "length": 2926000,
+            "asset_id": "vod38256-000796M001",
+            "title": "",
+            "subtitle": "第796集 亞斯兒媽媽意外人生/守住爸爸心血咖哩餅/一杯咖啡的人生故事/老丈人的客家米苔目",
+            "ep_number": 796,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762051800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296040",
+            "time_codes": [
+              786000,
+              1536000,
+              2237000
+            ],
+            "timecode_duration": [],
+            "length": 2926000,
+            "asset_id": "vod38256-000797M001",
+            "title": "",
+            "subtitle": "第797集 豬肉財醫生的義診熱血大計/農家兄弟有機合鴨米/回傳統市場賣包子/意外後的主廚蛋捲餅",
+            "ep_number": 797,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762054800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296041",
+            "time_codes": [
+              752000,
+              1486000,
+              2224000
+            ],
+            "timecode_duration": [],
+            "length": 2917000,
+            "asset_id": "vod38256-000798M001",
+            "title": "",
+            "subtitle": "第798集 爭一口氣藍莓挑戰/山葵阿伯的復育大計/越挫越勇抄手翻身/愛無限",
+            "ep_number": 798,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762057800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296042",
+            "time_codes": [
+              707000,
+              1433000,
+              2145000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000799M001",
+            "title": "",
+            "subtitle": "第799集 他們的交通安全大夢/給我一個家秘魯菜/魚菜共生拚搏的勇氣/他讓蚯蚓做的大事",
+            "ep_number": 799,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762060800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296043",
+            "time_codes": [
+              834000,
+              1437000,
+              2072000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000800M001",
+            "title": "",
+            "subtitle": "第800集 災後重生鱘龍女王/愛的承擔夫妻的小店/水蜜桃媽揮淚從農路/梅園姊妹我家的堅持",
+            "ep_number": 800,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762063800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296044",
+            "time_codes": [
+              879000,
+              1497000,
+              2195000
+            ],
+            "timecode_duration": [],
+            "length": 2928000,
+            "asset_id": "vod38256-000801M001",
+            "title": "",
+            "subtitle": "第801集 陪風箏少年搞花樣/爸爸的心血手工鴨賞/孫子的努力阿嬤的碗粿/在家鄉陪孩子改變生命",
+            "ep_number": 801,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762066800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296045",
+            "time_codes": [
+              758000,
+              1427000,
+              2185000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000802M001",
+            "title": "",
+            "subtitle": "第802集 印加果小農摘金路/樂觀活力火龍果女農/生活的選擇柴燒麵包/單親爸爸感恩行動餐車",
+            "ep_number": 802,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762069800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296046",
+            "time_codes": [
+              717000,
+              1471000,
+              2257000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000803M001",
+            "title": "",
+            "subtitle": "第803集 放不下的堅持基隆蛋腸/麵店小女兒愛的承擔/玫瑰花園裡重啟人生/餐桌上的友善環境使命",
+            "ep_number": 803,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762072800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296048",
+            "time_codes": [
+              744000,
+              1503000,
+              2214000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000805M001",
+            "title": "",
+            "subtitle": "第805集 為夫扛起肉圓老店/為兒堅毅活蝦料理/父親的榜樣仙楂農場/幫百香果園找新出路",
+            "ep_number": 805,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762075800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00296049",
+            "time_codes": [
+              655000,
+              1358000,
+              2197000
+            ],
+            "timecode_duration": [],
+            "length": 2936000,
+            "asset_id": "vod38256-000806M001",
+            "title": "",
+            "subtitle": "第806集 大林爺孫的鳳梨夢/父親的土地丹蔘園/一輩子的投入水草伯/當年那個便當的影響",
+            "ep_number": 806,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762078800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00310560",
+            "time_codes": [
+              766000,
+              1466000,
+              2199000
+            ],
+            "timecode_duration": [],
+            "length": 2924000,
+            "asset_id": "vod38256-000807M001",
+            "title": "",
+            "subtitle": "第807集 攝影師眼中的台灣/新住民打拼鹽焗雞/香港網紅的台式生活/新住民女婿東北料理",
+            "ep_number": 807,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762081800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00310561",
+            "time_codes": [
+              739000,
+              1475000,
+              2206000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000808M001",
+            "title": "",
+            "subtitle": "第808集 鱟殼炒麵重生使命/說不出口的愛烤鴨傳承/臭豆腐店裡新人生/家合事興有機文蛤",
+            "ep_number": 808,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762084800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00310562",
+            "time_codes": [
+              883000,
+              1612000,
+              2288000
+            ],
+            "timecode_duration": [],
+            "length": 2924000,
+            "asset_id": "vod38256-000809M001",
+            "title": "",
+            "subtitle": "第809集 小農挑戰復耕古種米/不怕難士官長火龍果/艾草園裡站立重生/翻轉逆局的金山小店",
+            "ep_number": 809,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762087800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00310563",
+            "time_codes": [
+              744000,
+              1414000,
+              2172000
+            ],
+            "timecode_duration": [],
+            "length": 2926000,
+            "asset_id": "vod38256-000810M001",
+            "title": "",
+            "subtitle": "第810集 他們的養蜂助農大計/填補缺陷圓夢咖啡車/冠軍筍阿公教我的事/堅持初衷純米製粿",
+            "ep_number": 810,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762090800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00310564",
+            "time_codes": [
+              878000,
+              1547000,
+              2129000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000811M001",
+            "title": "",
+            "subtitle": "第811集 特教老師也是星星媽/意料之外芝麻油人生/踏實的夢想東山鴨頭/讓竹筍與樹蛙共存",
+            "ep_number": 811,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762093800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00310565",
+            "time_codes": [
+              774000,
+              1594000,
+              2260000
+            ],
+            "timecode_duration": [],
+            "length": 2926000,
+            "asset_id": "vod38256-000812M001",
+            "title": "",
+            "subtitle": "第812集 阿嬤的吃到飽餐廳/風雨中的米其林烤鴨/絕處求生單親媽扯麵/城市農夫有機小菜園",
+            "ep_number": 812,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762096800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00310566",
+            "time_codes": [
+              710000,
+              1501000,
+              2268000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000813M001",
+            "title": "",
+            "subtitle": "第813集 那場翻車意外之後/我們的幸福時光/母子齊心手工魚露/客家女孩的家鄉味",
+            "ep_number": 813,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762099800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00310567",
+            "time_codes": [
+              708000,
+              1523000,
+              2230000
+            ],
+            "timecode_duration": [],
+            "length": 2926000,
+            "asset_id": "vod38256-000814M001",
+            "title": "",
+            "subtitle": "第814集 山林裡會烤雞的里長/友善愛玉拚家鄉出路/為家鄉做的特色麵包/多做一點愛心送餐",
+            "ep_number": 814,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762102800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00310568",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000
+            ],
+            "timecode_duration": [],
+            "length": 2926000,
+            "asset_id": "vod38256-000815M001",
+            "title": "",
+            "subtitle": "第815集 接手挑戰最愛的肉圓/傳承80年柴燒粄條/竹田兄弟客家炒飯/媽媽的田裡種出彩虹",
+            "ep_number": 815,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762105800000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00310569",
+            "time_codes": [
+              788000,
+              1499000,
+              2189000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000816M001",
+            "title": "",
+            "subtitle": "第816集 永不放棄小小人兒/大難重生甜不辣/回家守護五十年老欉/地震後的重生巧克力",
+            "ep_number": 816,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762109100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00310570",
+            "time_codes": [
+              863000,
+              1540000,
+              2205000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000817M001",
+            "title": "",
+            "subtitle": "第817集 那麼好牧師鶴岡文旦/到府烤肉魯蛇翻身記/小夫妻的偏鄉打拼路/為有機金棗找亮點",
+            "ep_number": 817,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762112100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00310571",
+            "time_codes": [
+              757000,
+              1472000,
+              2169000
+            ],
+            "timecode_duration": [],
+            "length": 2926000,
+            "asset_id": "vod38256-000818M001",
+            "title": "",
+            "subtitle": "第818集 三姊妹找回家的味道/特殊員工的米饅頭/一碗豆花開始的改變/中年主廚披薩拚奪牌",
+            "ep_number": 818,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762115100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00310572",
+            "time_codes": [
+              705000,
+              1412000,
+              2148000
+            ],
+            "timecode_duration": [],
+            "length": 2926000,
+            "asset_id": "vod38256-000819M001",
+            "title": "",
+            "subtitle": "第819集 茶樹森林的生命功課/台灣的奇異果大挑戰/有機黃豆風土實驗/螢火蟲爸爸的堅持",
+            "ep_number": 819,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762118100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00310573",
+            "time_codes": [
+              707000,
+              1512000,
+              2192000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000820M001",
+            "title": "",
+            "subtitle": "第820集 燒包爸愛的選擇題/拔絲地瓜全家脫貧夢/漢堡早餐幸福任務/媽媽的記憶虱目魚早點",
+            "ep_number": 820,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762121100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00315810",
+            "time_codes": [
+              823000,
+              1548000,
+              2269000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000821M001",
+            "title": "",
+            "subtitle": "第821集 橄欖父子拚家鄉出路/石斑搏魚新轉型/小丑魚教會我的事/媽媽的重心檸檬園",
+            "ep_number": 821,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762124100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00315811",
+            "time_codes": [
+              699000,
+              1464000,
+              2147000
+            ],
+            "timecode_duration": [],
+            "length": 2926000,
+            "asset_id": "vod38256-000822M001",
+            "title": "",
+            "subtitle": "第822集 傻瓜復耕搶救生態/一家齊心羊奶堅持/門外漢執著精品梨",
+            "ep_number": 822,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762127100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00315812",
+            "time_codes": [
+              804000,
+              1484000,
+              2136000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000823M001",
+            "title": "",
+            "subtitle": "第823集 美味餘生環島米香哥/回鄉的主廚東山小吃/必比登主廚奮起台菜/奮鬥的決心爺孫無花果",
+            "ep_number": 823,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762130100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00315813",
+            "time_codes": [
+              741000,
+              1558000,
+              2262000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000824M001",
+            "title": "",
+            "subtitle": "第824集 女婿的那碗鱸魚湯/拚他的夢想苦茶油/中藥房的漢方甜點//米糕媽轉念新人生",
+            "ep_number": 824,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762133100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00315814",
+            "time_codes": [
+              823000,
+              1483000,
+              2227000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000825M001",
+            "title": "",
+            "subtitle": "第825集 化悲為樂市場霸氣姐/懂柿長的發言人人生/突破自我在地海鮮/用愛料理熟食小攤",
+            "ep_number": 825,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762136100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00315815",
+            "time_codes": [
+              704000,
+              1503000,
+              2187000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000826M001",
+            "title": "",
+            "subtitle": "第826集 我帶你回家海洋行動/小食堂裡的環保大夢/一杯果汁的使命感/藝文潮-運將畫家",
+            "ep_number": 826,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762139100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00315816",
+            "time_codes": [
+              735000,
+              1492000,
+              2183000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000827M001",
+            "title": "",
+            "subtitle": "第827集 羊肉湯裡的人生學習/說菜主廚的永續主張/就是要打響苗栗芋頭/樂觀活力火龍果女農",
+            "ep_number": 827,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762142100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00315817",
+            "time_codes": [
+              794000,
+              1465000,
+              2114000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000828M001",
+            "title": "",
+            "subtitle": "第828集 特別的幸福生命課題/失去之後重生鱘龍魚/媽 讓我來吧滷味麵攤",
+            "ep_number": 828,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762145100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00315818",
+            "time_codes": [
+              737000,
+              1476000,
+              2177000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000829M001",
+            "title": "",
+            "subtitle": "第829集 兄弟的私房菜創業路/老師的烏魚子選擇/反璞歸真創意麵線攤/執著父女手工花生糖",
+            "ep_number": 829,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762148100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00315819",
+            "time_codes": [
+              724000,
+              1421000,
+              2175000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000830M001",
+            "title": "",
+            "subtitle": "第830集 我和我的博士弟弟/認命不認輸湯圓阿嬤/進來吃飯喔阿母食堂",
+            "ep_number": 830,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762151100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328655",
+            "time_codes": [
+              733000,
+              1397000,
+              2159000
+            ],
+            "timecode_duration": [],
+            "length": 2926000,
+            "asset_id": "vod38256-000831M001",
+            "title": "",
+            "subtitle": "第831集 勤奮滋味柴燒蘿蔔糕/逆境翻身地瓜球啟示/小農共好有機山苦瓜/柔情鐵漢的包餡雞排",
+            "ep_number": 831,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762154100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328656",
+            "time_codes": [
+              727000,
+              1493000,
+              2230000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000832M001",
+            "title": "",
+            "subtitle": "第832集 麵店媽媽的溫暖成就/老家酸柑茶傳承挑戰/回鄉拚翻身養蛤挑戰/說銅鑼故事小鎮書店",
+            "ep_number": 832,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762157100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328657",
+            "time_codes": [
+              699000,
+              1467000,
+              2135000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000833M001",
+            "title": "",
+            "subtitle": "第833集 山林裡會烤雞的里長/拔絲地瓜全家脫貧夢/竹日兄弟客家炒飯/風雨中的米其林烤鴨",
+            "ep_number": 833,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762160100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328658",
+            "time_codes": [
+              715000,
+              1448000,
+              2194000
+            ],
+            "timecode_duration": [],
+            "length": 2923000,
+            "asset_id": "vod38256-000834M001",
+            "title": "",
+            "subtitle": "第834集 綠竹筍孫女的心願/三姊妹老家新風貌/活蝦餐廳父子新開始/前進帕運羽球國手",
+            "ep_number": 834,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762163100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328659",
+            "time_codes": [
+              674000,
+              1358000,
+              2165000
+            ],
+            "timecode_duration": [],
+            "length": 2926000,
+            "asset_id": "vod38256-000835M001",
+            "title": "",
+            "subtitle": "第835集 到府烤肉魯蛇翻身記/回鄉的主廚東山小吃/挺過挫折創新龍鬚糖/溫室番茄新農業大夢",
+            "ep_number": 835,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762166100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328660",
+            "time_codes": [
+              740000,
+              1535000,
+              2233000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000836M001",
+            "title": "",
+            "subtitle": "第836集 碗粿老爸人生學堂/榻榻米逆孫的成長/暖媽的正能量家庭料理/堅持風味醃酸白菜",
+            "ep_number": 836,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762169100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328661",
+            "time_codes": [
+              828000,
+              1536000,
+              2230000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000837M001",
+            "title": "",
+            "subtitle": "第837集 抗癌媽媽的健力挑戰/種豆得豆的堅持之路/逃過一劫蓮霧園的幸福/老派小西點老派智慧",
+            "ep_number": 837,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762172100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328662",
+            "time_codes": [
+              761000,
+              1564000,
+              2195000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000838M001",
+            "title": "",
+            "subtitle": "第838集 失去摯愛後的重生路/從操盤手到城市農夫/執著勇氣拼出黃金莓/有機草莓回家的挑戰",
+            "ep_number": 838,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762175100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328663",
+            "time_codes": [
+              855000,
+              1676000,
+              2223000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000839M001",
+            "title": "",
+            "subtitle": "第839集 開戰之後烏克蘭餐廳/從酸種麵包找回自己/當廚師養了蜜蜂之後",
+            "ep_number": 839,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762178100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328665",
+            "time_codes": [
+              704000,
+              1407000,
+              2213000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000841M001",
+            "title": "",
+            "subtitle": "第841集 禁得起磨練軍人拉麵/鑽研無毒草莓善回報/北投火山有機咖啡農/用心說服長輩新青農",
+            "ep_number": 841,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762181100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328666",
+            "time_codes": [
+              832000,
+              1387000,
+              2115000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000842M001",
+            "title": "",
+            "subtitle": "第842集 父親老台味麵包傳承/拿筆讀詩傲骨齊邦媛/手工湯圓媳婦的突圍/花生醬裡找到新人生",
+            "ep_number": 842,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762184100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328667",
+            "time_codes": [
+              712000,
+              1296000,
+              2010000
+            ],
+            "timecode_duration": [],
+            "length": 2904000,
+            "asset_id": "vod38256-000843M001",
+            "title": "",
+            "subtitle": "第843集 主廚夫妻改造老宅餐館/不認輸的草莓女孩/家的味道花生油三姊弟/翻轉家鄉桑椹銀行",
+            "ep_number": 843,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762187100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328668",
+            "time_codes": [
+              746000,
+              1495000,
+              2206000
+            ],
+            "timecode_duration": [],
+            "length": 2919000,
+            "asset_id": "vod38256-000844M001",
+            "title": "",
+            "subtitle": "第844集 地瓜球的堅持/水草伯的投入/馬路安全的願景/農村舊衣改造",
+            "ep_number": 844,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762190100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328669",
+            "time_codes": [
+              829000,
+              1322000,
+              2146000
+            ],
+            "timecode_duration": [],
+            "length": 2924000,
+            "asset_id": "vod38256-000845M001",
+            "title": "",
+            "subtitle": "第845集 小鎮巷弄主廚的選擇/包子詩人的酸甜苦辣/宜蘭海邊的家庭主婦/破釜沉舟夫妻手工皂",
+            "ep_number": 845,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762193100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328670",
+            "time_codes": [
+              830000,
+              1453000,
+              2177000
+            ],
+            "timecode_duration": [],
+            "length": 2923000,
+            "asset_id": "vod38256-000846M001",
+            "title": "",
+            "subtitle": "第846集 這就是人生眷村煎包/城市媳婦拚精品芒果/人生七十新蘋果芭樂/看見台灣後的造林夢",
+            "ep_number": 846,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762196100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328671",
+            "time_codes": [
+              754000,
+              1436000,
+              2179000
+            ],
+            "timecode_duration": [],
+            "length": 2926000,
+            "asset_id": "vod38256-000847M001",
+            "title": "",
+            "subtitle": "第847集 找回自我媽媽車輪餅/聽不見開心唱合唱團/漁港邊老冰店新氣象/小生意的秘訣東山鴨頭",
+            "ep_number": 847,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762199100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328672",
+            "time_codes": [
+              759000,
+              1465000,
+              2206000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000848M001",
+            "title": "",
+            "subtitle": "第848集 海洋公民的永續大計/叛逆兒子學會踏實包子/美麗的誤會有機梅園/有機丹蔘土地的感情",
+            "ep_number": 848,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762202100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328673",
+            "time_codes": [
+              760000,
+              1372000,
+              2134000
+            ],
+            "timecode_duration": [],
+            "length": 2922000,
+            "asset_id": "vod38256-000849M001",
+            "title": "",
+            "subtitle": "第849集 懷念保師傅廚藝傳承/五星主廚熱情餐車/炭火掛爐烤鴨的傳承",
+            "ep_number": 849,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762205100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00328674",
+            "time_codes": [
+              754000,
+              1468000,
+              2326000
+            ],
+            "timecode_duration": [],
+            "length": 2924000,
+            "asset_id": "vod38256-000850M001",
+            "title": "",
+            "subtitle": "第850集 操勞的韌性蘿蔔糕/碗粿攤爸爸的身教/抗癌媽媽的重訓課/怕考試的老師農夫樂",
+            "ep_number": 850,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762208100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00345496",
+            "time_codes": [
+              755000,
+              1531000,
+              2344000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000851M001",
+            "title": "",
+            "subtitle": "第851集 返家的承擔五月桃/務實蔥農的山中修練/小漁村的海藻新出路/兩箱蜜蜂開始的改變",
+            "ep_number": 851,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762211100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00345497",
+            "time_codes": [
+              767000,
+              1490000,
+              2194000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000852M001",
+            "title": "",
+            "subtitle": "第852集 從零開始市場炸雞/50年堅持愛書推銷員/改變的勇氣更生滷味/法國女婿的用心可頌",
+            "ep_number": 852,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762214100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00345498",
+            "time_codes": [
+              800000,
+              1551000,
+              2160000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000853M001",
+            "title": "",
+            "subtitle": "第853集 南方澳海產創生夢/陽光的味道有機日曬米/母女扛起碗粿的時尚/清蒸肉圓接手的考驗",
+            "ep_number": 853,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762217100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00345499",
+            "time_codes": [
+              719000,
+              1479000,
+              2234000
+            ],
+            "timecode_duration": [],
+            "length": 2928000,
+            "asset_id": "vod38256-000854M001",
+            "title": "",
+            "subtitle": "第854集 孤注一擲霸王洋菇/踏實的幸福洋香瓜/紅龜粿女兒的成長/鐵板燒店裡的施與受",
+            "ep_number": 854,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762220100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00345500",
+            "time_codes": [
+              790000,
+              1552000,
+              2224000
+            ],
+            "timecode_duration": [],
+            "length": 2927000,
+            "asset_id": "vod38256-000855M001",
+            "title": "",
+            "subtitle": "第855集 筍村女兒的熱血傳承/築夢踏實屏東的可可/葡萄園兒子的堅持/大林的孫子金鑽鳳梨",
+            "ep_number": 855,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762223100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00345501",
+            "time_codes": [
+              753000,
+              1482000,
+              2225000
+            ],
+            "timecode_duration": [],
+            "length": 2927000,
+            "asset_id": "vod38256-000856M001",
+            "title": "",
+            "subtitle": "第856集 包出彩色水餃新人生/思念媽媽天使蛋糕/長孫和阿公的白蝦池/有機循環養菇的堅持",
+            "ep_number": 856,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762226100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00345502",
+            "time_codes": [
+              804000,
+              1590000,
+              2261000
+            ],
+            "timecode_duration": [],
+            "length": 2927000,
+            "asset_id": "vod38256-000857M001",
+            "title": "",
+            "subtitle": "第857集 有機堅持冠軍火龍果/為了爸媽的笑容玫瑰園/木訥么兒的鴨賞家業/水蜜桃農婦的苦與樂",
+            "ep_number": 857,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762229100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00345503",
+            "time_codes": [
+              741000,
+              1490000,
+              2147000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000859M001",
+            "title": "",
+            "subtitle": "第859集 扭轉命運木耳露創業/風雨傳承功夫蜜麻花/創造價值的果汁創業/八卦山種藍莓的堅持",
+            "ep_number": 859,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762232100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00345504",
+            "time_codes": [
+              705000,
+              1437000,
+              2200000
+            ],
+            "timecode_duration": [],
+            "length": 2924000,
+            "asset_id": "vod38256-000860M001",
+            "title": "",
+            "subtitle": "第860集 人生的價值教堂披薩/鳳梨田裡找回自信人生/回家真好療心蛋糕/挑戰自我有機蓮藕",
+            "ep_number": 860,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762235100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00345505",
+            "time_codes": [
+              841000,
+              1711000,
+              2353000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000861M001",
+            "title": "",
+            "subtitle": "第861集 我就在偏鄉陪著你/生命的醒悟風味小炒/回家的幸福兄弟手捲麵/我要撐住善化滷味小吃",
+            "ep_number": 861,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762238100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00376255",
+            "time_codes": [
+              858000,
+              1646000,
+              2278000
+            ],
+            "timecode_duration": [],
+            "length": 2926000,
+            "asset_id": "vod38256-000862M001",
+            "title": "",
+            "subtitle": "第862集 工程師白蝦翻轉家鄉/山上的學校我的夢/土城農夫的有機菜園/善待土地有機柚子園",
+            "ep_number": 862,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762241100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00376256",
+            "time_codes": [
+              683000,
+              1507000,
+              2259000
+            ],
+            "timecode_duration": [],
+            "length": 2919000,
+            "asset_id": "vod38256-000863M001",
+            "title": "",
+            "subtitle": "第863集 認份夫婦的老實米粉/麻糬媳婦的堅強承擔/白柚樹下的逆境勇氣/市場裡的踏實糕點",
+            "ep_number": 863,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762244100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00376257",
+            "time_codes": [
+              656000,
+              1392000,
+              2185000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000864M001",
+            "title": "",
+            "subtitle": "第864集 有機種菜學會的三堂課/ 新屋石滬傻傻的堅持/小金門老社區的改造/不怕難士官長火龍果",
+            "ep_number": 864,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762247100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00376258",
+            "time_codes": [
+              807000,
+              1514000,
+              2193000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000865M001",
+            "title": "",
+            "subtitle": "第865集 科技主管的古法醬油/不放棄的精釀實踐者/媽媽有故事手工麵店/解憂甜點療癒的過程",
+            "ep_number": 865,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762250100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00376259",
+            "time_codes": [
+              702000,
+              1498000,
+              2237000
+            ],
+            "timecode_duration": [],
+            "length": 2923000,
+            "asset_id": "vod38256-000866M001",
+            "title": "",
+            "subtitle": "第866集 老宅裡的摘星炊粿/養羊女兒的轉型挑戰/奮鬥的決心爺孫無花果/生活的選擇柴燒麵包",
+            "ep_number": 866,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762253100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00376260",
+            "time_codes": [
+              771000,
+              1517000,
+              2188000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000867M001",
+            "title": "",
+            "subtitle": "第867集 夫妻的返老創生食堂/傘外的奮鬥海鮮餐盒/小夫妻的偏鄉打拼路/有機黃豆風土實驗",
+            "ep_number": 867,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762256100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00374539",
+            "time_codes": [
+              708000,
+              1379000,
+              2214000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000899M001",
+            "title": "",
+            "subtitle": "第899集 單車賣油飯騎進國宴/騎樓下的麵包主廚/一定要漂亮海鮮叫賣/40年的青春蔥油餅攤",
+            "ep_number": 899,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762259100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00376261",
+            "time_codes": [
+              765000,
+              1510000,
+              2187000
+            ],
+            "timecode_duration": [],
+            "length": 2922000,
+            "asset_id": "vod38256-000900M001",
+            "title": "",
+            "subtitle": "第900集 土地的價值零廢老師/家庭主婦的放牧雞蛋/苦盡回甘媽媽暖心菜/守護女兒的茶樹森林",
+            "ep_number": 900,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762262100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00374540",
+            "time_codes": [
+              737000,
+              1478000,
+              2162000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000901M001",
+            "title": "",
+            "subtitle": "第901集 自然田農夫育種作戰/守護部落的暖心料理/回鄉接手寶石魚挑戰/兩代磨合功夫蜜麻花",
+            "ep_number": 901,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762265100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00374541",
+            "time_codes": [
+              770000,
+              1503000,
+              2128000
+            ],
+            "timecode_duration": [],
+            "length": 2922000,
+            "asset_id": "vod38256-000902M001",
+            "title": "",
+            "subtitle": "第902集 孵出新使命豆芽菜/把愛變大特教媽媽/歸零再起花蓮小魚乾/熱血班長拚愛玉出路",
+            "ep_number": 902,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762268100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00374542",
+            "time_codes": [
+              714000,
+              1439000,
+              2220000
+            ],
+            "timecode_duration": [],
+            "length": 2923000,
+            "asset_id": "vod38256-000903M001",
+            "title": "",
+            "subtitle": "第903集 遵從己心追夢沙雕師/部落媽媽的第二人生/客家粄食的傳承使命/圓一個夢兄弟刨冰店",
+            "ep_number": 903,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762271100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00374543",
+            "time_codes": [
+              777000,
+              1491000,
+              2204000
+            ],
+            "timecode_duration": [],
+            "length": 2925000,
+            "asset_id": "vod38256-000904M001",
+            "title": "",
+            "subtitle": "第904集 為媽媽種棵可可樹/手工粄條古法的堅持/迷途知返勇氣蔥肉包/復耕宜蘭黑豆醬油",
+            "ep_number": 904,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762274100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00381172",
+            "time_codes": [
+              741000,
+              1414000,
+              2183000
+            ],
+            "timecode_duration": [],
+            "length": 2921000,
+            "asset_id": "vod38256-000906M001",
+            "title": "",
+            "subtitle": "第906集 追愛工程師洋菇挑戰/追夢製偶師國際發光/老實農夫的蘋果芭樂/長孫接班阿公白蝦池",
+            "ep_number": 906,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762277100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00379955",
+            "time_codes": [
+              748000,
+              1442000,
+              2183000
+            ],
+            "timecode_duration": [],
+            "length": 2919000,
+            "asset_id": "vod38256-000907M001",
+            "title": "",
+            "subtitle": "第907集 走過風霜阿嬤荔枝雞/翻轉廚房團膳工程師/主廚的人生大反攻/手工湯圓媳婦的突圍",
+            "ep_number": 907,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762280100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00379956",
+            "time_codes": [
+              730000,
+              1513000,
+              2231000
+            ],
+            "timecode_duration": [],
+            "length": 2914000,
+            "asset_id": "vod38256-000908M001",
+            "title": "",
+            "subtitle": "第908集 葡萄成熟時媳婦使命/撐起一片天神桌女將/從零做起繽紛真豆花/洗心革面更生滷味香",
+            "ep_number": 908,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762283100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00379957",
+            "time_codes": [
+              787000,
+              1488000,
+              2203000
+            ],
+            "timecode_duration": [],
+            "length": 2912000,
+            "asset_id": "vod38256-000909M001",
+            "title": "",
+            "subtitle": "第909集 玉翡翠檸檬永續之路/回家翻轉宜蘭老茶廠/勇敢轉身義大利麵/無添加純米粿奮鬥路",
+            "ep_number": 909,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762286100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          },
+          {
+            "content_id": "VOD00379958",
+            "time_codes": [
+              744000,
+              1456000,
+              2174000
+            ],
+            "timecode_duration": [],
+            "length": 2920000,
+            "asset_id": "vod38256-000910M001",
+            "title": "",
+            "subtitle": "第910集 牧場女兒拚百年傳承/陪你更健康小鎮醫生/阿里山山葵種植大計/想家的味道祕魯烤雞",
+            "ep_number": 910,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762289100000,
+            "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+          }
+        ],
+        "total_length": 266115000,
+        "focus_index": 74,
+        "next_index": 75,
+        "time": 2132648,
+        "focus_program": {
+          "content_id": "VOD00376255",
+          "time_codes": [
+            858000,
+            1646000,
+            2278000
+          ],
+          "timecode_duration": [],
+          "length": 2926000,
+          "asset_id": "vod38256-000862M001",
+          "title": "",
+          "subtitle": "第862集 工程師白蝦翻轉家鄉/山上的學校我的夢/土城農夫的有機菜園/善待土地有機柚子園",
+          "ep_number": 862,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762241100000,
+          "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜藝",
+          "EngName": "Entertainment",
+          "MenuOrder": 8
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3601_ofiii136_mobile_20250103.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

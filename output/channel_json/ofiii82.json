@@ -1,0 +1,1745 @@
+{
+  "pageProps": {
+    "contentId": "ofiii82",
+    "channel": {
+      "title": "Focus探索新知台",
+      "no": 82,
+      "charge_mode": "F",
+      "content_id": "ofiii82",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        1
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_ofiii82_tv_20221213.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station5617",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1679044624.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 82,
+        "cdn_code": "ofiii82",
+        "start_time": 1762077900000,
+        "programs": [
+          {
+            "content_id": "VOD00252176",
+            "time_codes": [
+              712000,
+              1401000
+            ],
+            "timecode_duration": [],
+            "length": 1762000,
+            "asset_id": "vod55205-000001M001",
+            "title": "煙火拾味",
+            "subtitle": "第1集",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762077900000,
+            "vod_channel_description": "《煙火拾味》立足上海本土老字型大小美食，以美食帶出人和食物、人和人、人和城市的生動故事，體現上海人精緻、實惠的生活方式和包容創新的人文精神，這是一個味與情高度融合的人文紀錄片。"
+          },
+          {
+            "content_id": "VOD00252177",
+            "time_codes": [
+              743000,
+              1496000
+            ],
+            "timecode_duration": [],
+            "length": 1765000,
+            "asset_id": "vod55205-000002M001",
+            "title": "煙火拾味",
+            "subtitle": "第2集",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762080000000,
+            "vod_channel_description": "《煙火拾味》立足上海本土老字型大小美食，以美食帶出人和食物、人和人、人和城市的生動故事，體現上海人精緻、實惠的生活方式和包容創新的人文精神，這是一個味與情高度融合的人文紀錄片。"
+          },
+          {
+            "content_id": "VOD00252178",
+            "time_codes": [
+              686000,
+              1412000
+            ],
+            "timecode_duration": [],
+            "length": 1728000,
+            "asset_id": "vod55205-000003M001",
+            "title": "煙火拾味",
+            "subtitle": "第3集",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762082100000,
+            "vod_channel_description": "《煙火拾味》立足上海本土老字型大小美食，以美食帶出人和食物、人和人、人和城市的生動故事，體現上海人精緻、實惠的生活方式和包容創新的人文精神，這是一個味與情高度融合的人文紀錄片。"
+          },
+          {
+            "content_id": "VOD00252179",
+            "time_codes": [
+              723000,
+              1470000
+            ],
+            "timecode_duration": [],
+            "length": 1765000,
+            "asset_id": "vod55205-000004M001",
+            "title": "煙火拾味",
+            "subtitle": "第4集",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762083900000,
+            "vod_channel_description": "《煙火拾味》立足上海本土老字型大小美食，以美食帶出人和食物、人和人、人和城市的生動故事，體現上海人精緻、實惠的生活方式和包容創新的人文精神，這是一個味與情高度融合的人文紀錄片。"
+          },
+          {
+            "content_id": "VOD00252180",
+            "time_codes": [
+              724000,
+              1404000
+            ],
+            "timecode_duration": [],
+            "length": 1763000,
+            "asset_id": "vod55205-000005M001",
+            "title": "煙火拾味",
+            "subtitle": "第5集",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762086000000,
+            "vod_channel_description": "《煙火拾味》立足上海本土老字型大小美食，以美食帶出人和食物、人和人、人和城市的生動故事，體現上海人精緻、實惠的生活方式和包容創新的人文精神，這是一個味與情高度融合的人文紀錄片。"
+          },
+          {
+            "content_id": "VOD00252181",
+            "time_codes": [
+              677000,
+              1402000
+            ],
+            "timecode_duration": [],
+            "length": 1761000,
+            "asset_id": "vod55205-000006M001",
+            "title": "煙火拾味",
+            "subtitle": "第6集",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762088100000,
+            "vod_channel_description": "《煙火拾味》立足上海本土老字型大小美食，以美食帶出人和食物、人和人、人和城市的生動故事，體現上海人精緻、實惠的生活方式和包容創新的人文精神，這是一個味與情高度融合的人文紀錄片。"
+          },
+          {
+            "content_id": "VOD00252182",
+            "time_codes": [
+              726000,
+              1444000
+            ],
+            "timecode_duration": [],
+            "length": 1769000,
+            "asset_id": "vod55205-000007M001",
+            "title": "煙火拾味",
+            "subtitle": "第7集",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762090200000,
+            "vod_channel_description": "《煙火拾味》立足上海本土老字型大小美食，以美食帶出人和食物、人和人、人和城市的生動故事，體現上海人精緻、實惠的生活方式和包容創新的人文精神，這是一個味與情高度融合的人文紀錄片。"
+          },
+          {
+            "content_id": "VOD00343403",
+            "time_codes": [
+              1034000,
+              1604000,
+              1955000
+            ],
+            "timecode_duration": [],
+            "length": 2400000,
+            "asset_id": "vod73388-000001M001",
+            "title": "兩岸家書",
+            "subtitle": "第1集 我從唐山攜夢來",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762092300000,
+            "vod_channel_description": "六集人文紀錄片《兩岸家書》透過跨越海峽兩岸的家族和家庭書信，展示兩岸的歲月滄桑，和無數普通人在時代巨變中的悲歡離合，重現斑駁字跡背後剪不斷、離不散的至真至情。"
+          },
+          {
+            "content_id": "VOD00343404",
+            "time_codes": [
+              1065000,
+              1450000,
+              2071000
+            ],
+            "timecode_duration": [],
+            "length": 2400000,
+            "asset_id": "vod73388-000002M001",
+            "title": "兩岸家書",
+            "subtitle": "第2集 迢遙漫漫回家路",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762095000000,
+            "vod_channel_description": "六集人文紀錄片《兩岸家書》透過跨越海峽兩岸的家族和家庭書信，展示兩岸的歲月滄桑，和無數普通人在時代巨變中的悲歡離合，重現斑駁字跡背後剪不斷、離不散的至真至情。"
+          },
+          {
+            "content_id": "VOD00343405",
+            "time_codes": [
+              953000,
+              1477000,
+              2193000
+            ],
+            "timecode_duration": [],
+            "length": 2400000,
+            "asset_id": "vod73388-000003M001",
+            "title": "兩岸家書",
+            "subtitle": "第3集 半百青春不留白",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762097700000,
+            "vod_channel_description": "六集人文紀錄片《兩岸家書》透過跨越海峽兩岸的家族和家庭書信，展示兩岸的歲月滄桑，和無數普通人在時代巨變中的悲歡離合，重現斑駁字跡背後剪不斷、離不散的至真至情。"
+          },
+          {
+            "content_id": "VOD00343406",
+            "time_codes": [
+              1077000,
+              1552000,
+              2213000
+            ],
+            "timecode_duration": [],
+            "length": 2400000,
+            "asset_id": "vod73388-000004M001",
+            "title": "兩岸家書",
+            "subtitle": "第4集 隔海相望且相惜",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762100400000,
+            "vod_channel_description": "六集人文紀錄片《兩岸家書》透過跨越海峽兩岸的家族和家庭書信，展示兩岸的歲月滄桑，和無數普通人在時代巨變中的悲歡離合，重現斑駁字跡背後剪不斷、離不散的至真至情。"
+          },
+          {
+            "content_id": "VOD00343407",
+            "time_codes": [
+              809000,
+              1472000,
+              2071000
+            ],
+            "timecode_duration": [],
+            "length": 2400000,
+            "asset_id": "vod73388-000005M001",
+            "title": "兩岸家書",
+            "subtitle": "第5集 倚窗猶識夢中人",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762103100000,
+            "vod_channel_description": "六集人文紀錄片《兩岸家書》透過跨越海峽兩岸的家族和家庭書信，展示兩岸的歲月滄桑，和無數普通人在時代巨變中的悲歡離合，重現斑駁字跡背後剪不斷、離不散的至真至情。"
+          },
+          {
+            "content_id": "VOD00343408",
+            "time_codes": [
+              1015000,
+              1478000,
+              2082000
+            ],
+            "timecode_duration": [],
+            "length": 2400000,
+            "asset_id": "vod73388-000006M001",
+            "title": "兩岸家書",
+            "subtitle": "第6集 情深義重是為家",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762105800000,
+            "vod_channel_description": "六集人文紀錄片《兩岸家書》透過跨越海峽兩岸的家族和家庭書信，展示兩岸的歲月滄桑，和無數普通人在時代巨變中的悲歡離合，重現斑駁字跡背後剪不斷、離不散的至真至情。"
+          },
+          {
+            "content_id": "VOD00162633",
+            "time_codes": [
+              622000,
+              1223000
+            ],
+            "timecode_duration": [],
+            "length": 1434000,
+            "asset_id": "vod40471-000001M001",
+            "title": "台灣原住民部落",
+            "subtitle": "第1集 台灣的原住民",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762108500000,
+            "vod_channel_description": "歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。"
+          },
+          {
+            "content_id": "VOD00162634",
+            "time_codes": [
+              619000,
+              1219000
+            ],
+            "timecode_duration": [],
+            "length": 1452000,
+            "asset_id": "vod40471-000002M001",
+            "title": "台灣原住民部落",
+            "subtitle": "第2集 阿美族",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762110000000,
+            "vod_channel_description": "歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。"
+          },
+          {
+            "content_id": "VOD00162635",
+            "time_codes": [
+              629000,
+              1236000
+            ],
+            "timecode_duration": [],
+            "length": 1457000,
+            "asset_id": "vod40471-000003M001",
+            "title": "台灣原住民部落",
+            "subtitle": "第3集 排灣族",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762111800000,
+            "vod_channel_description": "歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。"
+          },
+          {
+            "content_id": "VOD00162636",
+            "time_codes": [
+              664000,
+              1214000
+            ],
+            "timecode_duration": [],
+            "length": 1492000,
+            "asset_id": "vod40471-000004M001",
+            "title": "台灣原住民部落",
+            "subtitle": "第4集 泰雅族",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762113600000,
+            "vod_channel_description": "歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。"
+          },
+          {
+            "content_id": "VOD00162637",
+            "time_codes": [
+              638000,
+              1230000
+            ],
+            "timecode_duration": [],
+            "length": 1459000,
+            "asset_id": "vod40471-000005M001",
+            "title": "台灣原住民部落",
+            "subtitle": "第5集 布農族",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762115400000,
+            "vod_channel_description": "歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。"
+          },
+          {
+            "content_id": "VOD00162638",
+            "time_codes": [
+              620000,
+              1239000
+            ],
+            "timecode_duration": [],
+            "length": 1468000,
+            "asset_id": "vod40471-000006M001",
+            "title": "台灣原住民部落",
+            "subtitle": "第6集 卑南族",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762117200000,
+            "vod_channel_description": "歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。"
+          },
+          {
+            "content_id": "VOD00162639",
+            "time_codes": [
+              630000,
+              1246000
+            ],
+            "timecode_duration": [],
+            "length": 1432000,
+            "asset_id": "vod40471-000007M001",
+            "title": "台灣原住民部落",
+            "subtitle": "第7集 魯凱族",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762119000000,
+            "vod_channel_description": "歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。"
+          },
+          {
+            "content_id": "VOD00162640",
+            "time_codes": [
+              659000,
+              1225000
+            ],
+            "timecode_duration": [],
+            "length": 1492000,
+            "asset_id": "vod40471-000008M001",
+            "title": "台灣原住民部落",
+            "subtitle": "第8集 鄒族",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762120500000,
+            "vod_channel_description": "歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。"
+          },
+          {
+            "content_id": "VOD00162641",
+            "time_codes": [
+              611000,
+              1207000
+            ],
+            "timecode_duration": [],
+            "length": 1499000,
+            "asset_id": "vod40471-000009M001",
+            "title": "台灣原住民部落",
+            "subtitle": "第9集 賽夏族",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762122300000,
+            "vod_channel_description": "歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。"
+          },
+          {
+            "content_id": "VOD00162642",
+            "time_codes": [
+              713000,
+              1234000
+            ],
+            "timecode_duration": [],
+            "length": 1536000,
+            "asset_id": "vod40471-000010M001",
+            "title": "台灣原住民部落",
+            "subtitle": "第10集 雅美族",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762124100000,
+            "vod_channel_description": "歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。"
+          },
+          {
+            "content_id": "VOD00162643",
+            "time_codes": [
+              623000,
+              1228000
+            ],
+            "timecode_duration": [],
+            "length": 1453000,
+            "asset_id": "vod40471-000011M001",
+            "title": "台灣原住民部落",
+            "subtitle": "第11集 邵族、太魯閣族、拉阿魯哇族",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762125900000,
+            "vod_channel_description": "歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。"
+          },
+          {
+            "content_id": "VOD00162644",
+            "time_codes": [
+              622000,
+              1227000
+            ],
+            "timecode_duration": [],
+            "length": 1482000,
+            "asset_id": "vod40471-000012M001",
+            "title": "台灣原住民部落",
+            "subtitle": "第12集 賽德克族、撒奇萊雅族、卡那卡那富族、噶瑪蘭族",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762127700000,
+            "vod_channel_description": "歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。"
+          },
+          {
+            "content_id": "VOD00112105",
+            "time_codes": [
+              718000,
+              1217000
+            ],
+            "timecode_duration": [],
+            "length": 1432000,
+            "asset_id": "vod34561-000001M001",
+            "title": "台灣國家風景區",
+            "subtitle": "第1集 認識台灣的國家風景區",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762129500000,
+            "vod_channel_description": "13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。"
+          },
+          {
+            "content_id": "VOD00112106",
+            "time_codes": [
+              643000,
+              1188000
+            ],
+            "timecode_duration": [],
+            "length": 1487000,
+            "asset_id": "vod34561-000002M001",
+            "title": "台灣國家風景區",
+            "subtitle": "第2集 東北角暨宜蘭海岸國家風景區",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762131000000,
+            "vod_channel_description": "13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。"
+          },
+          {
+            "content_id": "VOD00112107",
+            "time_codes": [
+              553000,
+              1186000
+            ],
+            "timecode_duration": [],
+            "length": 1464000,
+            "asset_id": "vod34561-000003M001",
+            "title": "台灣國家風景區",
+            "subtitle": "第3集 北海岸及觀音山國家風景區",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762132800000,
+            "vod_channel_description": "13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。"
+          },
+          {
+            "content_id": "VOD00112108",
+            "time_codes": [
+              672000,
+              1173000
+            ],
+            "timecode_duration": [],
+            "length": 1456000,
+            "asset_id": "vod34561-000004M001",
+            "title": "台灣國家風景區",
+            "subtitle": "第4集 參山國家風景區",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762134600000,
+            "vod_channel_description": "13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。"
+          },
+          {
+            "content_id": "VOD00112109",
+            "time_codes": [
+              551000,
+              1158000
+            ],
+            "timecode_duration": [],
+            "length": 1394000,
+            "asset_id": "vod34561-000005M001",
+            "title": "台灣國家風景區",
+            "subtitle": "第5集 日月潭國家風景區",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762136400000,
+            "vod_channel_description": "13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。"
+          },
+          {
+            "content_id": "VOD00112110",
+            "time_codes": [
+              563000,
+              1217000
+            ],
+            "timecode_duration": [],
+            "length": 1469000,
+            "asset_id": "vod34561-000006M001",
+            "title": "台灣國家風景區",
+            "subtitle": "第6集 阿里山國家風景區",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762137900000,
+            "vod_channel_description": "13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。"
+          },
+          {
+            "content_id": "VOD00112111",
+            "time_codes": [
+              546000,
+              1117000
+            ],
+            "timecode_duration": [],
+            "length": 1525000,
+            "asset_id": "vod34561-000007M001",
+            "title": "台灣國家風景區",
+            "subtitle": "第7集 雲嘉南濱海國家風景區",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762139700000,
+            "vod_channel_description": "13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。"
+          },
+          {
+            "content_id": "VOD00112112",
+            "time_codes": [
+              592000,
+              1187000
+            ],
+            "timecode_duration": [],
+            "length": 1416000,
+            "asset_id": "vod34561-000008M001",
+            "title": "台灣國家風景區",
+            "subtitle": "第8集 西拉雅國家風景區",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762141500000,
+            "vod_channel_description": "13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。"
+          },
+          {
+            "content_id": "VOD00112113",
+            "time_codes": [
+              594000,
+              1191000
+            ],
+            "timecode_duration": [],
+            "length": 1465000,
+            "asset_id": "vod34561-000009M001",
+            "title": "台灣國家風景區",
+            "subtitle": "第9集 茂林國家風景區",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762143000000,
+            "vod_channel_description": "13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。"
+          },
+          {
+            "content_id": "VOD00112114",
+            "time_codes": [
+              573000,
+              1182000
+            ],
+            "timecode_duration": [],
+            "length": 1474000,
+            "asset_id": "vod34561-000010M001",
+            "title": "台灣國家風景區",
+            "subtitle": "第10集 大鵬灣國家風景區",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762144800000,
+            "vod_channel_description": "13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。"
+          },
+          {
+            "content_id": "VOD00112115",
+            "time_codes": [
+              586000,
+              1162000
+            ],
+            "timecode_duration": [],
+            "length": 1410000,
+            "asset_id": "vod34561-000011M001",
+            "title": "台灣國家風景區",
+            "subtitle": "第11集 花東縱谷國家風景區",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762146600000,
+            "vod_channel_description": "13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。"
+          },
+          {
+            "content_id": "VOD00112116",
+            "time_codes": [
+              573000,
+              1176000
+            ],
+            "timecode_duration": [],
+            "length": 1471000,
+            "asset_id": "vod34561-000012M001",
+            "title": "台灣國家風景區",
+            "subtitle": "第12集 東部海岸國家風景區",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762148100000,
+            "vod_channel_description": "13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。"
+          },
+          {
+            "content_id": "VOD00112117",
+            "time_codes": [
+              564000,
+              1196000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod34561-000013M001",
+            "title": "台灣國家風景區",
+            "subtitle": "第13集 澎湖國家風景區",
+            "ep_number": 13,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762149900000,
+            "vod_channel_description": "13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。"
+          },
+          {
+            "content_id": "VOD00112118",
+            "time_codes": [
+              622000,
+              1119000
+            ],
+            "timecode_duration": [],
+            "length": 1487000,
+            "asset_id": "vod34561-000014M001",
+            "title": "台灣國家風景區",
+            "subtitle": "第14集 馬祖國家風景區",
+            "ep_number": 14,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762151700000,
+            "vod_channel_description": "13處國家風景區，讓我們充分感受到台灣的多元文化之美，以及由不同的環境所構成的自然景觀，成為民眾在旅遊台灣時最好的選擇。本節目將台灣的13處國家風景區，做一完整的記錄與報導，讓民眾在家也能輕鬆暢遊台灣各地美麗風光。"
+          },
+          {
+            "content_id": "VOD00313204",
+            "time_codes": [
+              546000
+            ],
+            "timecode_duration": [],
+            "length": 1204000,
+            "asset_id": "vod67364-000001M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第1集 龍飛鳳舞",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762153500000,
+            "vod_channel_description": "從遠古的原始人類到漁獵和農耕時代的文明發展，從龍和鳳的傳說到古代帝王的象徵，展示中國文明的多樣性和連續性。從洪山文化到黃帝陵，從盤古開天到皇帝的葬禮，我們將揭示中國古代文化的根源和傳承。龍和鳳的形象在神話和藝術中與中國的起源和統一相結合，展現了華夏民族的凝聚力和智慧。"
+          },
+          {
+            "content_id": "VOD00313205",
+            "time_codes": [
+              433000
+            ],
+            "timecode_duration": [],
+            "length": 1231000,
+            "asset_id": "vod67364-000002M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第2集 春秋戰國",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762155000000,
+            "vod_channel_description": "隨著周朝衰敗，進入春秋戰國時代，這是一個動盪不安、國家分裂的時期。各諸侯國紛爭不斷，並出現了五霸、百家爭鳴的局面。在這個時期，鐵器的使用和推廣、農業生產的發展、思想文化的蓬勃興起等都對中國社會產生了深遠的影響。"
+          },
+          {
+            "content_id": "VOD00313206",
+            "time_codes": [
+              624000
+            ],
+            "timecode_duration": [],
+            "length": 1208000,
+            "asset_id": "vod67364-000003M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第3集 周易八卦",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762156500000,
+            "vod_channel_description": "《周易》不僅是一部占卜試卦的書籍，更是蘊含豐富思維方式和哲學內涵的典籍。卦象和解釋詞語的組合形成了周易的系統符號，幾千年來，人們對周易抱持著特殊的心理，相信它具有預測未來的能力。雖然有這麼多人研究周易，至今仍保留著一定的神秘感。"
+          },
+          {
+            "content_id": "VOD00313207",
+            "time_codes": [
+              584000
+            ],
+            "timecode_duration": [],
+            "length": 1218000,
+            "asset_id": "vod67364-000004M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第4集 孔孟儒家",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762158000000,
+            "vod_channel_description": "孔子和孟子在不同時期對中國文化和社會產生了巨大的影響，他們的思想經久不衰。孔子提出的儒家思想強調仁愛之心、克己復禮和道德規範，將人放在核心位置。孟子則進一步發揚了儒家思想，特別關注民本思想，主張仁政和尊重人民的權益。"
+          },
+          {
+            "content_id": "VOD00313208",
+            "time_codes": [
+              540000
+            ],
+            "timecode_duration": [],
+            "length": 1214000,
+            "asset_id": "vod67364-000005M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第5集 老莊道學",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762159500000,
+            "vod_channel_description": "老子被孔子尊稱為禮的專家。老子認為道是宇宙的根源，並提出無為而治的觀念，反對虛偽的禮教和嚴刑峻法。莊子是道家的關鍵人物，他進一步發展了老子的思想，主張追求自然和超脫現實。玄學則將儒家和道家思想結合，追求精神上的快樂和超越，為動盪時期的人們提供一種避世的精神寄託。"
+          },
+          {
+            "content_id": "VOD00313209",
+            "time_codes": [
+              550000
+            ],
+            "timecode_duration": [],
+            "length": 1211000,
+            "asset_id": "vod67364-000006M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第6集 秦皇漢武",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762161000000,
+            "vod_channel_description": "秦始皇常被視為暴君的代名詞，他的焚書坑儒行為和對儒家思想的打壓受到後世的批評。然而，他實行了一整套以皇帝為核心的專制政治體制，其中包括郡縣制度，成為後世封建王朝所沿用的制度。此外，在秦漢時期，中國取得了重要的文化成就，如造紙術的發明對世界文化發展做出了重要貢獻。"
+          },
+          {
+            "content_id": "VOD00313210",
+            "time_codes": [
+              571000
+            ],
+            "timecode_duration": [],
+            "length": 1222000,
+            "asset_id": "vod67364-000007M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第7集 貞觀之治",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762162500000,
+            "vod_channel_description": "探索中國封建社會中最鼎盛的時期─唐朝。唐太宗李世民實施了一系列開明政策和措施，使得貞觀之治取得了顯著的成就。唐朝推行科舉制度，在全國範圍內發展了教育事業，提供文人世子入學和升官的機會，同時吸納外國留學生並培養他們。科舉考試和進士制度展現了大唐帝國開放包容的精神。"
+          },
+          {
+            "content_id": "VOD00313211",
+            "time_codes": [
+              518000
+            ],
+            "timecode_duration": [],
+            "length": 1210000,
+            "asset_id": "vod67364-000008M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第8集 中土佛陀",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762164000000,
+            "vod_channel_description": "《西遊記》是中國文學中最著名的作品。故事描述了唐朝時期的一場取經之旅，主角是唐朝名僧玄奘。儘管孫悟空、豬八戒、沙僧等角色是虛構的，但取經的故事有歷史基礎。玄奘是唐代一位卓越的高僧，為了尋求真理和取得更多佛經，他踏上了危險而艱苦的印度之旅，最終成功取得大量佛經並帶回中國。"
+          },
+          {
+            "content_id": "VOD00313212",
+            "time_codes": [
+              668000
+            ],
+            "timecode_duration": [],
+            "length": 1274000,
+            "asset_id": "vod67364-000009M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第9集 白紙黑字",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762165500000,
+            "vod_channel_description": "中國文字與印刷術的故事令人驚嘆。從結繩記事到岩畫，再到甲骨文和金文，每一個階段都為人類文明的發展作出了重要貢獻。秦始皇統一文字，確立小篆為標準字體，加速了文字的規範化和統一。而紙的發明更是中國獨特的貢獻。蔡倫對紙的製作工藝進行改進，使其成為一種方便書寫的材料，取代了竹簡和絲帛。"
+          },
+          {
+            "content_id": "VOD00313213",
+            "time_codes": [
+              546000
+            ],
+            "timecode_duration": [],
+            "length": 1231000,
+            "asset_id": "vod67364-000010M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第10集 科舉考試",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762167000000,
+            "vod_channel_description": "從漢朝的察舉制，依據品德和行為推薦人才，到兩晉南北朝時期的科舉制度出現問題，產生了社會上品無寒門、下品無世族的局面。唐代的科舉制度逐漸完善，開展科舉考試，允許普通世子參加，根據考試成績選拔人才授予官職。然而，隨著時間推移，這一制度出現了一系列弊端，無法滿足社會需求。"
+          },
+          {
+            "content_id": "VOD00313214",
+            "time_codes": [
+              613000
+            ],
+            "timecode_duration": [],
+            "length": 1188000,
+            "asset_id": "vod67364-000011M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第11集 日月經天",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762168500000,
+            "vod_channel_description": "從古代的觀測台到不同朝代的曆法制定，以及科學家如張衡和郭守敬的貢獻，中國古代天文學豐富了人類的知識和技術。本集將引領你穿越時空，深入探索中國古代天文學的傳承，展示觀測和曆法制定的重要性，並介紹古代科學家的貢獻。"
+          },
+          {
+            "content_id": "VOD00313215",
+            "time_codes": [
+              609000
+            ],
+            "timecode_duration": [],
+            "length": 1190000,
+            "asset_id": "vod67364-000012M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第12集 江河行地",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762170000000,
+            "vod_channel_description": "古代中國人對大地的敬畏和尊重，以及對自然環境的關注，對地理學的起源和發展起到了重要影響。本集將帶領你穿越時空，深入探索中國古代地理學的獨特特色和成就。從古代的地理著作到地圖製作，我們將揭開古代中國人對地理的探索和瞭解。"
+          },
+          {
+            "content_id": "VOD00313216",
+            "time_codes": [
+              563000
+            ],
+            "timecode_duration": [],
+            "length": 1202000,
+            "asset_id": "vod67364-000013M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第13集 神農醫藥",
+            "ep_number": 13,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762171500000,
+            "vod_channel_description": "探索古代中國對疾病的觀念和醫藥學的發展。在古代，人們普遍認為疾病是由鬼魂作怪，並通過敬神拜鬼和巫術來驅除病魔和祈求健康。隨著時間的推移，中國古代醫藥學經歷了漫長的演進過程。從最早的使用火和酒，到辨識草藥和器具的應用，再到更完整的醫療體系的建立，醫藥學取得了長足的進步。"
+          },
+          {
+            "content_id": "VOD00313217",
+            "time_codes": [
+              557000
+            ],
+            "timecode_duration": [],
+            "length": 1215000,
+            "asset_id": "vod67364-000014M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第14集 以農為本",
+            "ep_number": 14,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762173000000,
+            "vod_channel_description": "從古代神農傳授耕種技術的傳說，到歷代帝王對農業的重視，農業一直在中國社會中佔據著重要地位。本集將深入探索古代中國農業的起源和發展。從農家思想的出現，到商鞅變法和秦漢時期以農為本的政策，農業在中國的政治和經濟發展中扮演著關鍵角色。"
+          },
+          {
+            "content_id": "VOD00313218",
+            "time_codes": [
+              519000
+            ],
+            "timecode_duration": [],
+            "length": 1197000,
+            "asset_id": "vod67364-000015M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第15集 商業貨幣",
+            "ep_number": 15,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762174500000,
+            "vod_channel_description": "從最早的以物易物的集市起源，到商朝的銅貝貨幣的出現。但封建統治者實行重農抑商的政策，限制商業發展，將商業與農業對立起來。直到唐朝時期，商業繁榮達到了巔峰，各種商業活動蓬勃發展，商品流通四通八達。"
+          },
+          {
+            "content_id": "VOD00313219",
+            "time_codes": [
+              552000
+            ],
+            "timecode_duration": [],
+            "length": 1212000,
+            "asset_id": "vod67364-000016M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第16集 絲綢之路",
+            "ep_number": 16,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762176000000,
+            "vod_channel_description": "本集將深入探討絲綢之路的重要性和影響。它不僅促進了商品的流通和經濟的繁榮，還促進了各國之間的文化交流和相互瞭解。透過豐富的故事和史料，觀眾將穿越時空，感受絲綢之路的魅力，並瞭解它對於人類文明發展的巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00313220",
+            "time_codes": [
+              616000
+            ],
+            "timecode_duration": [],
+            "length": 1141000,
+            "asset_id": "vod67364-000017M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第17集 青銅陶瓷",
+            "ep_number": 17,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762177500000,
+            "vod_channel_description": "自唐代以來，景德鎮的瓷器工藝日趨成熟，宋代時期更達到了巔峰。當時生產的青瓷、白瓷、黑瓷等品種以及精湛的繪畫技術和創新的釉色處理，使景德鎮瓷器成為當時最具價值和欣賞價值的瓷器之一。宋代出現和發展的五大著名瓷窯推動了中國古代瓷器工藝的進步和創新，並成為中國瓷器藝術的重要代表之一。"
+          },
+          {
+            "content_id": "VOD00313221",
+            "time_codes": [
+              668000
+            ],
+            "timecode_duration": [],
+            "length": 1207000,
+            "asset_id": "vod67364-000018M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第18集 天工開物",
+            "ep_number": 18,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762179000000,
+            "vod_channel_description": "傳說中，黃帝的妻子嫘祖開始養蠶取絲的技術，這項技術至今在中國得到傳承。絲綢不僅是中國的特產，也是中國古代文明的象徵。從商湯時代開始，絲綢生產逐漸發展，成為貴族和王侯必不可少的物品，甚至成為外交禮物。本集將深入探討養蠶、絲織和染色等技術，並介紹各個時代的工藝精品，如金銀玉器和織錦。"
+          },
+          {
+            "content_id": "VOD00313222",
+            "time_codes": [
+              635000
+            ],
+            "timecode_duration": [],
+            "length": 1204000,
+            "asset_id": "vod67364-000019M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第19集 古代建築",
+            "ep_number": 19,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762180500000,
+            "vod_channel_description": "中國的建築發展經歷了多個時期和風格，從秦漢時期的雄渾樸直，到隋唐時期的壯麗風格，再到明清時期的宮殿式建築。受到儒家和法家思想的影響，儒家注重藝術性和尊卑秩序，法家則側重實用性。建築按照官府、私宅、宗教和園林等方面進行規劃，體現了不同的價值觀。"
+          },
+          {
+            "content_id": "VOD00313223",
+            "time_codes": [
+              714000
+            ],
+            "timecode_duration": [],
+            "length": 1215000,
+            "asset_id": "vod67364-000020M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第20集 塔寺園林",
+            "ep_number": 20,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762182000000,
+            "vod_channel_description": "中國古代的建築多樣而豐富，包括官府、民宅、橋樑、寺塔和園林等。值得一提的是，趙州橋（又稱安濟橋）是世界上現存最古老的大跨度單孔石拱橋，讓人驚嘆其建造的巧妙和堅固。另外，佛教寺塔是中國古代建築中的瑰寶，寺廟以其平面對稱的佈局和宮殿式的建築風格而著名。"
+          },
+          {
+            "content_id": "VOD00313224",
+            "time_codes": [
+              555000
+            ],
+            "timecode_duration": [],
+            "length": 1293000,
+            "asset_id": "vod67364-000021M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第21集 古窟藝術",
+            "ep_number": 21,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762183500000,
+            "vod_channel_description": "本集我們將進入中國的石窟藝術寶庫！這些石窟不僅是佛教和本土文化融合的結晶，也是真正的時間旅行者。讓我們開始這段奇妙的旅程吧！在古代，中國石窟藝術發展蓬勃，它不僅數量多，而且跨度長，就像是個世界級的寶藏。在魏晉南北朝時期，佛教和當地玄學相互交融，成為時尚潮流。"
+          },
+          {
+            "content_id": "VOD00313225",
+            "time_codes": [
+              673000
+            ],
+            "timecode_duration": [],
+            "length": 1234000,
+            "asset_id": "vod67364-000022M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第22集 帝王陵寢",
+            "ep_number": 22,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762185000000,
+            "vod_channel_description": "讓我們一同踏上一場穿越時空的奇幻之旅，去探索中國古代帝王陵墓的神秘世界！這些陵寢不僅是研究中國古代歷史和文化的重要資料，更是一座座承載著五千年文明歷史記憶的寶庫。"
+          },
+          {
+            "content_id": "VOD00313226",
+            "time_codes": [
+              631000
+            ],
+            "timecode_duration": [],
+            "length": 1211000,
+            "asset_id": "vod67364-000023M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第23集 水墨丹青",
+            "ep_number": 23,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762186500000,
+            "vod_channel_description": "從漢代起，丹青成為繪畫的代名詞。中國的繪畫起源悠久，最早在彩陶上表現，而後發展至岩石、青銅器、壁畫等形式。敦煌莫高窟作為世界上最長的畫廊，保存了豐富的佛教壁畫。中國傳統繪畫注重留白，將詩、書、畫、印結合成一體，表現藝術家的情感和思想。"
+          },
+          {
+            "content_id": "VOD00313227",
+            "time_codes": [
+              624000
+            ],
+            "timecode_duration": [],
+            "length": 1209000,
+            "asset_id": "vod67364-000024M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第24集 書法瑰寶",
+            "ep_number": 24,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762188000000,
+            "vod_channel_description": "本集我們將帶你探索中國書法的神奇世界，揭開書法家們的影響力！從漢字的象形創造開始，我們將看到書法的起源和它如何演變成一種藝術形式。毛筆、墨和宣紙的變化，加上各種書體的發展，像是隸書、草書、楷書等，展現了書法的多樣性和變革。"
+          },
+          {
+            "content_id": "VOD00313228",
+            "time_codes": [
+              568000
+            ],
+            "timecode_duration": [],
+            "length": 1212000,
+            "asset_id": "vod67364-000025M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第25集 各領風騷",
+            "ep_number": 25,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762189500000,
+            "vod_channel_description": "探索中國古代文學的神奇世界，我們將遊歷在神話、詩歌、散文、小說和戲曲等不同形式的文學大陸上！這裡是中國人民的智慧和情感的寶庫。從詩歌開始，詩經是最早的詩歌總集，記錄了古人對世界和人生的感悟。然後是詩歌的黃金時代，唐詩！李白和杜甫是代表詩人，他們的作品讓我們為之陶醉。"
+          },
+          {
+            "content_id": "VOD00313229",
+            "time_codes": [
+              548000
+            ],
+            "timecode_duration": [],
+            "length": 1199000,
+            "asset_id": "vod67364-000026M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第26集 梨園戲曲",
+            "ep_number": 26,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762191000000,
+            "vod_channel_description": "唐明皇李隆基不僅是個天子，還是個熱愛音樂與舞蹈的狂熱者。他親自指導梨園的藝人和宮女，從此戲曲界被稱為梨園界。然而，梨園只是中國戲曲史上的開端。真正的先驅是元代戲劇家關漢卿！他的劇本《竇娥淵望江亭》等作品贏得廣泛讚譽，結構完整、情節生動，對抗社會黑暗的精神深深觸動人心。"
+          },
+          {
+            "content_id": "VOD00313230",
+            "time_codes": [
+              594000
+            ],
+            "timecode_duration": [],
+            "length": 1172000,
+            "asset_id": "vod67364-000027M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第27集 變法圖強",
+            "ep_number": 27,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762192500000,
+            "vod_channel_description": "歷史上的變法，就像拔河比賽一樣，是帝王們和明臣們力爭國家興盛的重要手段。他們通過改革舉措來清除弊端，重振國家的生機，這可不是小事情！商鞅變法和王安石的變法是最著名的例子。商鞅的改革讓秦國如虎添翼，為秦始皇的統一做好了準備。而王安石的變法則為北宋朝廷注入了新的活力，救了國家的危機。"
+          },
+          {
+            "content_id": "VOD00313231",
+            "time_codes": [
+              705000
+            ],
+            "timecode_duration": [],
+            "length": 1159000,
+            "asset_id": "vod67364-000028M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第28集 通古鑑今",
+            "ep_number": 28,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762194000000,
+            "vod_channel_description": "歷史，從口耳相傳，蛻變成了文字的結晶。從孔子整理的春秋到後來的史記和資治通鑑，歷史記錄開始了它精彩的旅程。而這一路上，司馬遷和司馬光等編修者用他們的筆觸展現了他們對歷史的熱愛和真相的追尋。本集將帶你深入瞭解中國歷史的發展，揭示修史的重要性。"
+          },
+          {
+            "content_id": "VOD00313232",
+            "time_codes": [
+              526000
+            ],
+            "timecode_duration": [],
+            "length": 1165000,
+            "asset_id": "vod67364-000029M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第29集 康乾盛世",
+            "ep_number": 29,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762195500000,
+            "vod_channel_description": "康熙皇帝，八歲登基！年幼的他不想被困在紫禁城，於是決心扛起歷史重擔。但他面對的問題可不輕鬆，四面八方的反清勢力，內外分裂，康熙得果斷對抗，統一國家。不僅武功了得，他還是一位卓越的政治家和文化學者。康熙可不只重視打拼，他也重視文化發展，恢復科舉制度，重視教育，推動國學的繁榮。"
+          },
+          {
+            "content_id": "VOD00313233",
+            "time_codes": [
+              694000
+            ],
+            "timecode_duration": [],
+            "length": 1241000,
+            "asset_id": "vod67364-000030M001",
+            "title": "跨越時空的文明",
+            "subtitle": "第30集 跨越時空",
+            "ep_number": 30,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762197000000,
+            "vod_channel_description": "別以為中國古代歷史平淡無奇，這個古國歷經數千年，卻始終沒有文化斷層。我們將追溯遠古的猿人足跡，感受北京猿人的存在，還有中國農耕文明的形成。跟著時間的脈動，我們將探索古代的奴隸社會、封建社會，還有多民族的交融。中國傳統文化以家庭、宗法制度和禮義道德為核心，凝聚力十足，包容性無限。"
+          },
+          {
+            "content_id": "VOD00075934",
+            "time_codes": [
+              592000,
+              1089000
+            ],
+            "timecode_duration": [],
+            "length": 1422000,
+            "asset_id": "vod23433-000001M001",
+            "title": "國家步道系列",
+            "subtitle": "第1集 認識國家步道系統",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762198500000,
+            "vod_channel_description": "帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！"
+          },
+          {
+            "content_id": "VOD00075935",
+            "time_codes": [
+              630000,
+              1132000
+            ],
+            "timecode_duration": [],
+            "length": 1389000,
+            "asset_id": "vod23433-000002M001",
+            "title": "國家步道系列",
+            "subtitle": "第2集 陽明山",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762200000000,
+            "vod_channel_description": "帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！"
+          },
+          {
+            "content_id": "VOD00075936",
+            "time_codes": [
+              544000,
+              1076000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod23433-000003M001",
+            "title": "國家步道系列",
+            "subtitle": "第3集 南台灣",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762201500000,
+            "vod_channel_description": "帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！"
+          },
+          {
+            "content_id": "VOD00075937",
+            "time_codes": [
+              581000,
+              1102000
+            ],
+            "timecode_duration": [],
+            "length": 1445000,
+            "asset_id": "vod23433-000004M001",
+            "title": "國家步道系列",
+            "subtitle": "第4集 淡蘭到東北角",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762203000000,
+            "vod_channel_description": "帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！"
+          },
+          {
+            "content_id": "VOD00075938",
+            "time_codes": [
+              543000,
+              1163000
+            ],
+            "timecode_duration": [],
+            "length": 1392000,
+            "asset_id": "vod23433-000005M001",
+            "title": "國家步道系列",
+            "subtitle": "第5集 插天山",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762204800000,
+            "vod_channel_description": "帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！"
+          },
+          {
+            "content_id": "VOD00075939",
+            "time_codes": [
+              582000,
+              1104000
+            ],
+            "timecode_duration": [],
+            "length": 1442000,
+            "asset_id": "vod23433-000006M001",
+            "title": "國家步道系列",
+            "subtitle": "第6集 霞喀羅 鹿場連嶺",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762206300000,
+            "vod_channel_description": "帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！"
+          },
+          {
+            "content_id": "VOD00075940",
+            "time_codes": [
+              612000,
+              1094000
+            ],
+            "timecode_duration": [],
+            "length": 1332000,
+            "asset_id": "vod23433-000007M001",
+            "title": "國家步道系列",
+            "subtitle": "第7集 蘇花到比亞毫",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762208100000,
+            "vod_channel_description": "帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！"
+          },
+          {
+            "content_id": "VOD00075941",
+            "time_codes": [
+              635000,
+              1119000
+            ],
+            "timecode_duration": [],
+            "length": 1378000,
+            "asset_id": "vod23433-000008M001",
+            "title": "國家步道系列",
+            "subtitle": "第8集 雪山羣峰",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762209600000,
+            "vod_channel_description": "帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！"
+          },
+          {
+            "content_id": "VOD00075942",
+            "time_codes": [
+              625000,
+              1106000
+            ],
+            "timecode_duration": [],
+            "length": 1418000,
+            "asset_id": "vod23433-000009M001",
+            "title": "國家步道系列",
+            "subtitle": "第9集 合歡 能高越嶺",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762211100000,
+            "vod_channel_description": "帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！"
+          },
+          {
+            "content_id": "VOD00075943",
+            "time_codes": [
+              547000,
+              1100000
+            ],
+            "timecode_duration": [],
+            "length": 1437000,
+            "asset_id": "vod23433-000010M001",
+            "title": "國家步道系列",
+            "subtitle": "第10集 中央山脈脊樑",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762212600000,
+            "vod_channel_description": "帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！"
+          },
+          {
+            "content_id": "VOD00075944",
+            "time_codes": [
+              610000,
+              1118000
+            ],
+            "timecode_duration": [],
+            "length": 1320000,
+            "asset_id": "vod23433-000011M001",
+            "title": "國家步道系列",
+            "subtitle": "第11集 關門",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762214100000,
+            "vod_channel_description": "帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！"
+          },
+          {
+            "content_id": "VOD00075945",
+            "time_codes": [
+              549000,
+              1078000
+            ],
+            "timecode_duration": [],
+            "length": 1379000,
+            "asset_id": "vod23433-000012M001",
+            "title": "國家步道系列",
+            "subtitle": "第12集 海岸山脈",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762215600000,
+            "vod_channel_description": "帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！"
+          },
+          {
+            "content_id": "VOD00075946",
+            "time_codes": [
+              591000,
+              1102000
+            ],
+            "timecode_duration": [],
+            "length": 1394000,
+            "asset_id": "vod23433-000013M001",
+            "title": "國家步道系列",
+            "subtitle": "第13集 阿里山",
+            "ep_number": 13,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762217100000,
+            "vod_channel_description": "帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！"
+          },
+          {
+            "content_id": "VOD00075947",
+            "time_codes": [
+              544000,
+              1110000
+            ],
+            "timecode_duration": [],
+            "length": 1427000,
+            "asset_id": "vod23433-000014M001",
+            "title": "國家步道系列",
+            "subtitle": "第14集 玉山橫斷",
+            "ep_number": 14,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762218600000,
+            "vod_channel_description": "帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！"
+          },
+          {
+            "content_id": "VOD00075948",
+            "time_codes": [
+              560000,
+              1076000
+            ],
+            "timecode_duration": [],
+            "length": 1378000,
+            "asset_id": "vod23433-000015M001",
+            "title": "國家步道系列",
+            "subtitle": "第15集 關山到內本鹿越嶺",
+            "ep_number": 15,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762220100000,
+            "vod_channel_description": "帶領觀眾認識國家步道系統，悠閒健行享受台灣山林之美！"
+          },
+          {
+            "content_id": "VOD00322873",
+            "time_codes": [
+              817000,
+              1516000,
+              2126000
+            ],
+            "timecode_duration": [],
+            "length": 2588000,
+            "asset_id": "vod69486-000001M001",
+            "title": "探索發現—孫子兵法",
+            "subtitle": "第1集 「根」（上篇）",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762221600000,
+            "vod_channel_description": "追溯中華文明史上智慧型文化的根源，黃帝首次開創了在戰爭中運用智慧的先河。探討《孫子兵法》作者孫武當時生活的歷史背景。東西方文化的對比。為什麼東方人具有好動腦筋善於思索的性格特徵？俗話說：「兩軍相逢，勇者勝」。神秘的八卦圖至今讓專家學者們絞盡腦汁。"
+          },
+          {
+            "content_id": "VOD00322874",
+            "time_codes": [
+              767000,
+              1477000,
+              2190000
+            ],
+            "timecode_duration": [],
+            "length": 2598000,
+            "asset_id": "vod69486-000002M001",
+            "title": "探索發現—孫子兵法",
+            "subtitle": "第2集 「根」（下篇）",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762224300000,
+            "vod_channel_description": "姜太公創建了齊國，實行了開明的政策富國強兵，使齊很快崛起成為春秋五霸之首。廣開言論創「稷下學宮」，「百家爭鳴」由此而來，各方學派應運而生，創造了孫子兵法產生的溫床。當時山東同時出現了三個對中華文化有突出貢獻的偉人—孔子、老子、孫子，決不是偶然的，他們的思想奠定了中華文化的基礎。"
+          },
+          {
+            "content_id": "VOD00322875",
+            "time_codes": [
+              797000,
+              1464000,
+              2170000
+            ],
+            "timecode_duration": [],
+            "length": 2593000,
+            "asset_id": "vod69486-000003M001",
+            "title": "探索發現—孫子兵法",
+            "subtitle": "第3集 「策」（上篇）",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762227000000,
+            "vod_channel_description": "西元前512年，年輕的孫武為避內亂離開故鄉來到當時的沿海新興國家吳國，尋求施展才華的用武之地。結識伍子胥後以兵書「十三篇」進獻吳王，並訓練宮女，力斬吳王寵姬終被任為將軍。當時吳國要向內陸發展的主要對手是春秋五霸之一楚國。楚國雄厚的物力和人力，軍隊強大不可一世，要戰勝楚軍並非易事。"
+          },
+          {
+            "content_id": "VOD00322876",
+            "time_codes": [
+              770000,
+              1456000,
+              2135000
+            ],
+            "timecode_duration": [],
+            "length": 2596000,
+            "asset_id": "vod69486-000004M001",
+            "title": "探索發現—孫子兵法",
+            "subtitle": "第4集 「策」（下篇）",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762229700000,
+            "vod_channel_description": "中國武術源遠流長，歷史上有數不清的武門豪傑。而武術的傳授有其特有的神秘性。自古以來「武為文用」，講「練拳歸道」，即追求真理的最高境界。原楚國武將伍子胥即是這樣的忠臣。其父兄為主持正義被楚王殺害，子胥被迫逃到吳國，同孫武一起扶佐吳王，興國強兵。"
+          },
+          {
+            "content_id": "VOD00322877",
+            "time_codes": [
+              767000,
+              1546000,
+              2170000
+            ],
+            "timecode_duration": [],
+            "length": 2597000,
+            "asset_id": "vod69486-000005M001",
+            "title": "探索發現—孫子兵法",
+            "subtitle": "第5集 「謀」",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762232400000,
+            "vod_channel_description": "歐洲近代軍事理論家克勞塞維茨因著《戰爭論》一書而被人們稱為「戰爭之父」。而早在他二千三百年的孫子在所著兵書中卻已經精闢地闡明了戰爭的理論，令後人不得不嘆服。諸葛亮一生謹慎，卻也難免不犯錯誤。"
+          },
+          {
+            "content_id": "VOD00322878",
+            "time_codes": [
+              748000,
+              1522000,
+              2138000
+            ],
+            "timecode_duration": [],
+            "length": 2594000,
+            "asset_id": "vod69486-000006M001",
+            "title": "探索發現—孫子兵法",
+            "subtitle": "第6集 「爭」（上篇）",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762235100000,
+            "vod_channel_description": "兵法的核心原則，包括攻其不備、兵不厭詐、和智慧的運用，以及這些原則在中國歷史中的實際應用。孫武率吳軍在攻楚時，採用了「攻其不備」的策略，繞道楚國的背後，出其不意地打擊了對手。這次行動突顯了孫武的計謀才智，並引出了「兵不厭詐」的概念。"
+          },
+          {
+            "content_id": "VOD00322879",
+            "time_codes": [
+              787000,
+              1466000,
+              1921000
+            ],
+            "timecode_duration": [],
+            "length": 2134000,
+            "asset_id": "vod69486-000007M001",
+            "title": "探索發現—孫子兵法",
+            "subtitle": "第7集 「爭」（下篇）",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762237800000,
+            "vod_channel_description": "西元前260年，秦將白起坑殺趙降兵四十萬人的慘劇，由於中了秦國的「反間計」，葬送了趙國四十萬軍隊。由此可瞭解「用間」這篇兵法的重要性。西元前506年，吳軍柏舉戰勝楚莊王，並以佔領楚都結束了長達六年的戰爭。這史事突顯了孫武作為一名優秀的將軍，成功應用兵法中的策略和軍事智慧。"
+          },
+          {
+            "content_id": "VOD00322880",
+            "time_codes": [
+              743000,
+              1527000,
+              2212000
+            ],
+            "timecode_duration": [],
+            "length": 2592000,
+            "asset_id": "vod69486-000008M001",
+            "title": "探索發現—孫子兵法",
+            "subtitle": "第8集 「融」",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762240200000,
+            "vod_channel_description": "在寧夏首府銀川市的郊外，是七百多年前曾在這片土地上興旺發展的西夏國的王陵區。三十年代，一支俄羅斯探險隊在內蒙額濟納旗西夏黑水城遺址中發現了大量的西夏文物，其中就有翻譯成西夏文的《孫子兵法》。"
+          },
+          {
+            "content_id": "VOD00230758",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 299000,
+            "asset_id": "vod45210-020001M001",
+            "title": "早餐中國2",
+            "subtitle": "第2季第1集 新疆吐魯番《烤包子》",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762242900000,
+            "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
+          },
+          {
+            "content_id": "VOD00230759",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 299000,
+            "asset_id": "vod45210-020002M001",
+            "title": "早餐中國2",
+            "subtitle": "第2季第2集 重慶《小麵》",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762243500000,
+            "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
+          },
+          {
+            "content_id": "VOD00230760",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 299000,
+            "asset_id": "vod45210-020003M001",
+            "title": "早餐中國2",
+            "subtitle": "第2季第3集 內蒙古赤峰《對夾》",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762244100000,
+            "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
+          },
+          {
+            "content_id": "VOD00230761",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 299000,
+            "asset_id": "vod45210-020004M001",
+            "title": "早餐中國2",
+            "subtitle": "第2季第4集 浙江寧波《麵結麵》",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762244700000,
+            "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
+          },
+          {
+            "content_id": "VOD00230762",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 299000,
+            "asset_id": "vod45210-020005M001",
+            "title": "早餐中國2",
+            "subtitle": "第2季第5集 寧夏銀川《羊雜碎》",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762245300000,
+            "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
+          },
+          {
+            "content_id": "VOD00230763",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 299000,
+            "asset_id": "vod45210-020006M001",
+            "title": "早餐中國2",
+            "subtitle": "第2季第6集 山東濰坊《火燒》",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762245900000,
+            "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
+          },
+          {
+            "content_id": "VOD00230764",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 299000,
+            "asset_id": "vod45210-020007M001",
+            "title": "早餐中國2",
+            "subtitle": "第2季第7集 北京《豆汁》",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762246500000,
+            "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
+          },
+          {
+            "content_id": "VOD00230765",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 299000,
+            "asset_id": "vod45210-020008M001",
+            "title": "早餐中國2",
+            "subtitle": "第2季第8集 江西南昌《拌粉 瓦罐湯》",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762247100000,
+            "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
+          }
+        ],
+        "total_length": 144749000,
+        "focus_index": 7,
+        "next_index": 8,
+        "time": 2276639,
+        "focus_program": {
+          "content_id": "VOD00343403",
+          "time_codes": [
+            1034000,
+            1604000,
+            1955000
+          ],
+          "timecode_duration": [],
+          "length": 2400000,
+          "asset_id": "vod73388-000001M001",
+          "title": "兩岸家書",
+          "subtitle": "第1集 我從唐山攜夢來",
+          "ep_number": 1,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762092300000,
+          "vod_channel_description": "六集人文紀錄片《兩岸家書》透過跨越海峽兩岸的家族和家庭書信，展示兩岸的歲月滄桑，和無數普通人在時代巨變中的悲歡離合，重現斑駁字跡背後剪不斷、離不散的至真至情。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜合",
+          "EngName": "Variety",
+          "MenuOrder": 4
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii82_mobile_20221213.png",
+      "description": "網搜最有質感的科學、新知節目，從各種多元面向讓你增廣見聞！從各國文化、歷史，到旅遊、美食紀實，跟著我們的腳步一起解密無窮無盡的世界奇觀吧！",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

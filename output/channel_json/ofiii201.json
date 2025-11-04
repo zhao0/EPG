@@ -1,0 +1,282 @@
+{
+  "pageProps": {
+    "contentId": "ofiii201",
+    "channel": {
+      "title": "大新聞大爆卦",
+      "no": 201,
+      "charge_mode": "F",
+      "content_id": "ofiii201",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        5
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_2939_ofiii201_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "中天亞洲台",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station5873",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 201,
+        "cdn_code": "ofiii201",
+        "start_time": 1762181700000,
+        "programs": [
+          {
+            "content_id": "VOD00378854",
+            "time_codes": [
+              1130000,
+              2042000,
+              3105000,
+              4036000,
+              5066000
+            ],
+            "timecode_duration": [],
+            "length": 6025000,
+            "asset_id": "vod48369-001097M001",
+            "title": "",
+            "subtitle": "習近平賀鄭麗文綠大崩潰？郭正亮震撼解析！綠一路輸到2028？蔡正元炸了轟趙少康！",
+            "ep_number": 1097,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762181700000,
+            "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
+          },
+          {
+            "content_id": "VOD00378855",
+            "time_codes": [
+              1139000,
+              2163000,
+              3119000,
+              4160000,
+              5184000
+            ],
+            "timecode_duration": [],
+            "length": 6088000,
+            "asset_id": "vod48369-001098M001",
+            "title": "",
+            "subtitle": "鄭麗文收拾綠從賴清德開始！韓國瑜.白蔥哥獲最強友軍了！蔣萬安咕嚕咕嚕淹死吳思瑤了？修杰楷.陳柏霖閃兵！",
+            "ep_number": 1098,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762188000000,
+            "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
+          },
+          {
+            "content_id": "VOD00378856",
+            "time_codes": [
+              1139000,
+              2163000,
+              3157000,
+              4255000,
+              5279000
+            ],
+            "timecode_duration": [],
+            "length": 6176000,
+            "asset_id": "vod48369-001099M001",
+            "title": "",
+            "subtitle": "鄭麗文瞄準2026賴清德慘了！郭正亮爆她不會被抹紅的沒這麼蠢！新壽要退了！蔣萬安聯手黃仁勳綠笑不出來了！",
+            "ep_number": 1099,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762194300000,
+            "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
+          },
+          {
+            "content_id": "VOD00378857",
+            "time_codes": [
+              1139000,
+              2164000,
+              3158000,
+              4119000,
+              5143000
+            ],
+            "timecode_duration": [],
+            "length": 6038000,
+            "asset_id": "vod48369-001100M001",
+            "title": "",
+            "subtitle": "郭正亮鐵口直斷！賴民調回升虛的！綠大老示警鄭麗文恐是女版韓國瑜！小笠原揭藍白黃金三角陣形拉下民進黨！",
+            "ep_number": 1100,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762200600000,
+            "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
+          },
+          {
+            "content_id": "VOD00381403",
+            "time_codes": [
+              1143000,
+              2096000,
+              3162000,
+              4084000,
+              5037000
+            ],
+            "timecode_duration": [],
+            "length": 5961000,
+            "asset_id": "vod48369-001101M001",
+            "title": "",
+            "subtitle": "鄭麗文嗆藍獅群咬綠不只一口！卓籲吃光廚餘最蠢笑話！普發一萬綠搶功被藍戰狼嗆爆！",
+            "ep_number": 1101,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762206900000,
+            "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
+          },
+          {
+            "content_id": "VOD00381404",
+            "time_codes": [
+              1137000,
+              2166000,
+              3183000,
+              4158000,
+              5178000
+            ],
+            "timecode_duration": [],
+            "length": 6004000,
+            "asset_id": "vod48369-001102M001",
+            "title": "",
+            "subtitle": "郭正亮揭賴清德政府完蛋了！吳子嘉爆鄭麗文收拾綠絕招賴清德就投降！陳以信挑戰謝龍介藍好兆頭！游盈隆看壞綠2026！",
+            "ep_number": 1102,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762213200000,
+            "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
+          },
+          {
+            "content_id": "VOD00381405",
+            "time_codes": [
+              1144000,
+              2097000,
+              3091000,
+              4104000,
+              5133000
+            ],
+            "timecode_duration": [],
+            "length": 5986000,
+            "asset_id": "vod48369-001103M001",
+            "title": "",
+            "subtitle": "郭正亮笑DPP全黨都被批賴魯莽搞瘋了？綠想打鄭麗文中國黨反而中計了！柯志恩親兵上陣了要拿下對手的頭了！",
+            "ep_number": 1103,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762219500000,
+            "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
+          },
+          {
+            "content_id": "VOD00381406",
+            "time_codes": [
+              1139000,
+              2164000
+            ],
+            "timecode_duration": [],
+            "length": 3158000,
+            "asset_id": "vod48369-001104M001",
+            "title": "",
+            "subtitle": "黃仁勳的輝達助蔣萬安打爆綠營詭計了！鄭麗文殺向南投斷賴續命龍脈！周玉蔻嗆王世堅又髒又醜是提拔他？",
+            "ep_number": 1104,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762225800000,
+            "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
+          },
+          {
+            "content_id": "VOD00381407",
+            "time_codes": [
+              1139000,
+              2164000,
+              3340000,
+              4214000,
+              5238000
+            ],
+            "timecode_duration": [],
+            "length": 6134000,
+            "asset_id": "vod48369-001105M001",
+            "title": "",
+            "subtitle": "郭正亮爆習川會談這個賴要慘了！鄭麗文率藍政黨輪替百年機遇來了！林佳龍挺林岱樺綠本命區要內亂了？",
+            "ep_number": 1105,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762229100000,
+            "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
+          },
+          {
+            "content_id": "VOD00381408",
+            "time_codes": [
+              1140000,
+              2170000,
+              4009000,
+              4965000
+            ],
+            "timecode_duration": [],
+            "length": 5840000,
+            "asset_id": "vod48369-001106M001",
+            "title": "",
+            "subtitle": "郭正亮爆美這天要跟賴算大帳？鄭麗文出奇招綠全上當了？綠大咖看衰威廉2026完蛋了？",
+            "ep_number": 1106,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762235400000,
+            "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
+          }
+        ],
+        "total_length": 57410000,
+        "focus_index": 9,
+        "next_index": 0,
+        "time": 4257541,
+        "focus_program": {
+          "content_id": "VOD00381408",
+          "time_codes": [
+            1140000,
+            2170000,
+            4009000,
+            4965000
+          ],
+          "timecode_duration": [],
+          "length": 5840000,
+          "asset_id": "vod48369-001106M001",
+          "title": "",
+          "subtitle": "郭正亮爆美這天要跟賴算大帳？鄭麗文出奇招綠全上當了？綠大咖看衰威廉2026完蛋了？",
+          "ep_number": 1106,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762235400000,
+          "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "新聞‧財經",
+          "EngName": "News & Finance",
+          "MenuOrder": 3
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii201_mobile_20230707.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

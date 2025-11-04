@@ -1,0 +1,553 @@
+{
+  "pageProps": {
+    "contentId": "ofiii240",
+    "channel": {
+      "title": "溢遊未盡",
+      "no": 240,
+      "charge_mode": "F",
+      "content_id": "ofiii240",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        18
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3570_ofiii240_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "亞旅",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6504",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1733898741.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 240,
+        "cdn_code": "ofiii240",
+        "start_time": 1762167300000,
+        "programs": [
+          {
+            "content_id": "VOD00230372",
+            "time_codes": [
+              726000,
+              1446000,
+              2199000
+            ],
+            "timecode_duration": [],
+            "length": 2759000,
+            "asset_id": "vod51282-010001M001",
+            "title": "",
+            "subtitle": "第1季第1集 自駕遊遍中美洲 廖科溢全新系列 啟動新旅程",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762167300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00230373",
+            "time_codes": [
+              747000,
+              1387000,
+              2169000
+            ],
+            "timecode_duration": [],
+            "length": 2850000,
+            "asset_id": "vod51282-010002M001",
+            "title": "",
+            "subtitle": "第1季第2集 瓜地馬拉：發現瓜地馬拉魅力 朝聖馬雅文明遺跡",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762170300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00230374",
+            "time_codes": [
+              764000,
+              1491000,
+              2128000
+            ],
+            "timecode_duration": [],
+            "length": 2850000,
+            "asset_id": "vod51282-010003M001",
+            "title": "",
+            "subtitle": "第1季第3集 尼加拉瓜：熔岩崩裂的危機 最後的海龜天堂",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762173300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00230375",
+            "time_codes": [
+              767000,
+              1464000,
+              2123000
+            ],
+            "timecode_duration": [],
+            "length": 2840000,
+            "asset_id": "vod51282-010004M001",
+            "title": "",
+            "subtitle": "第1季第4集 宏都拉斯：探訪科潘王朝 象形文字記載的秘密",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762176300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00230376",
+            "time_codes": [
+              776000,
+              1429000,
+              2147000
+            ],
+            "timecode_duration": [],
+            "length": 2746000,
+            "asset_id": "vod51282-010005M001",
+            "title": "",
+            "subtitle": "第1季第5集 澳洲：自駕遊即刻出發 布里斯本一路向南",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762179300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00230377",
+            "time_codes": [
+              690000,
+              1484000,
+              2136000
+            ],
+            "timecode_duration": [],
+            "length": 2731000,
+            "asset_id": "vod51282-010006M001",
+            "title": "",
+            "subtitle": "第1季第6集 澳洲：科夫斯港香蕉樂園 與袋鼠的甜蜜悸動",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762182300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00230378",
+            "time_codes": [
+              1128000,
+              1440000,
+              2210000
+            ],
+            "timecode_duration": [],
+            "length": 2749000,
+            "asset_id": "vod51282-010007M001",
+            "title": "",
+            "subtitle": "第1季第7集 澳洲：前進M1公路 世界自然遺產藍山國家公園",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762185300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00230379",
+            "time_codes": [
+              752000,
+              1393000,
+              2234000
+            ],
+            "timecode_duration": [],
+            "length": 2729000,
+            "asset_id": "vod51282-010008M001",
+            "title": "",
+            "subtitle": "第1季第8集 澳洲：自駕者的天堂 藍色海洋路",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762188300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00230380",
+            "time_codes": [
+              710000,
+              1405000,
+              2145000
+            ],
+            "timecode_duration": [],
+            "length": 2730000,
+            "asset_id": "vod51282-010009M001",
+            "title": "",
+            "subtitle": "第1季第9集 澳洲：墨爾本大洋路 澳洲最美公路",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762191300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00230381",
+            "time_codes": [
+              665000,
+              1400000,
+              2235000
+            ],
+            "timecode_duration": [],
+            "length": 2750000,
+            "asset_id": "vod51282-010010M001",
+            "title": "",
+            "subtitle": "第1季第10集 澳洲：穿越澳洲中部 荒漠探險之旅",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762194300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00230382",
+            "time_codes": [
+              740000,
+              1479000,
+              2197000
+            ],
+            "timecode_duration": [],
+            "length": 2787000,
+            "asset_id": "vod51282-010011M001",
+            "title": "",
+            "subtitle": "第1季第11集 帛琉：通往彩虹盡頭的帛琉主要公路",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762197300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00230383",
+            "time_codes": [
+              661000,
+              1401000,
+              2227000
+            ],
+            "timecode_duration": [],
+            "length": 2785000,
+            "asset_id": "vod51282-010012M001",
+            "title": "",
+            "subtitle": "第1季第12集 帛琉：乘坐海上法拉利 勇闖野性天堂島國",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762200300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00233780",
+            "time_codes": [
+              602000,
+              1615000,
+              2425000
+            ],
+            "timecode_duration": [],
+            "length": 2909000,
+            "asset_id": "vod51282-020001M001",
+            "title": "",
+            "subtitle": "第2季第1集 甘南 人間伊甸園之路 桑科草原、三泡台、扎尕那",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762203300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00233781",
+            "time_codes": [
+              845000,
+              1465000,
+              2180000
+            ],
+            "timecode_duration": [],
+            "length": 2869000,
+            "asset_id": "vod51282-020002M001",
+            "title": "",
+            "subtitle": "第2季第2集 川西 天神後花園之路 蓮寶葉則、扎尕爾措",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762206300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00233782",
+            "time_codes": [
+              757000,
+              1538000,
+              2274000
+            ],
+            "timecode_duration": [],
+            "length": 2879000,
+            "asset_id": "vod51282-020003M001",
+            "title": "",
+            "subtitle": "第2季第3集 青海 遼闊的荒漠公路 大柴旦湖、翡翠湖、水上雅丹",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762209300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00233783",
+            "time_codes": [
+              807000,
+              1480000,
+              2393000
+            ],
+            "timecode_duration": [],
+            "length": 2906000,
+            "asset_id": "vod51282-020004M001",
+            "title": "",
+            "subtitle": "第2季第4集 全羅南道 韓流來襲鮮味之路 谷城郡、世界玫瑰節",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762212300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00233784",
+            "time_codes": [
+              776000,
+              1363000,
+              2130000
+            ],
+            "timecode_duration": [],
+            "length": 2910000,
+            "asset_id": "vod51282-020005M001",
+            "title": "",
+            "subtitle": "第2季第5集 全羅南道 穿越時空探險之旅 樂安邑城、一級方程式賽車場",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762215300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00233785",
+            "time_codes": [
+              810000,
+              1269000,
+              2033000
+            ],
+            "timecode_duration": [],
+            "length": 2866000,
+            "asset_id": "vod51282-020006M001",
+            "title": "",
+            "subtitle": "第2季第6集 蘇格蘭 鹿之谷中的威士忌朝聖之旅 克里夫高地運動會、威士忌首都達夫鎮",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762218300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00233786",
+            "time_codes": [
+              924000,
+              1536000,
+              2206000
+            ],
+            "timecode_duration": [],
+            "length": 2905000,
+            "asset_id": "vod51282-020007M001",
+            "title": "",
+            "subtitle": "第2季第7集 愛丁堡 天才誕生之路 暗箱與幻想世界博物館、迪恩村、皇家哩大道",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762221300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00233787",
+            "time_codes": [
+              605000,
+              1259000,
+              2147000
+            ],
+            "timecode_duration": [],
+            "length": 2908000,
+            "asset_id": "vod51282-020008M001",
+            "title": "",
+            "subtitle": "第2季第8集 英國中部 尋根之旅 都鐸式建築、布里斯托街頭塗鴉、披頭四音樂節",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762224300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00233788",
+            "time_codes": [
+              789000,
+              1382000,
+              2127000
+            ],
+            "timecode_duration": [],
+            "length": 2854000,
+            "asset_id": "vod51282-020009M001",
+            "title": "",
+            "subtitle": "第2季第9集 英國 全球頂尖名校的爭霸之路 劍橋大學、牛津大學、霍格華茲",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762227300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00233789",
+            "time_codes": [
+              636000,
+              1313000,
+              2076000
+            ],
+            "timecode_duration": [],
+            "length": 2871000,
+            "asset_id": "vod51282-020010M001",
+            "title": "",
+            "subtitle": "第2季第10集 英國倫敦 霧都的甦醒 時代疊層之路 倫敦塔橋、利德賀市場、皇家郵政金色郵筒",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762230300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00233790",
+            "time_codes": [
+              770000,
+              1645000,
+              2207000
+            ],
+            "timecode_duration": [],
+            "length": 2879000,
+            "asset_id": "vod51282-020011M001",
+            "title": "",
+            "subtitle": "第2季第11集 英國倫敦 黃金日不落，邁向未來之路 金牌特務電影場景、紅磚巷市集、肯頓市集",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762233300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00233791",
+            "time_codes": [
+              660000,
+              1635000,
+              2260000
+            ],
+            "timecode_duration": [],
+            "length": 2909000,
+            "asset_id": "vod51282-020012M001",
+            "title": "",
+            "subtitle": "第2季第12集 卡達、亞美尼亞探索之路 獵鷹買賣中心、亞拉拉山、字母紀念碑",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762236300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00235070",
+            "time_codes": [
+              783000,
+              1570000,
+              2250000
+            ],
+            "timecode_duration": [],
+            "length": 2909000,
+            "asset_id": "vod51282-020013M001",
+            "title": "",
+            "subtitle": "第2季第13集 找尋亞美尼亞的世界之最！世界最長纜車、史前巨石陣、諾亞方舟的碎片",
+            "ep_number": 13,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762239300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          },
+          {
+            "content_id": "VOD00235071",
+            "time_codes": [
+              808000,
+              1625000,
+              2131000
+            ],
+            "timecode_duration": [],
+            "length": 2883000,
+            "asset_id": "vod51282-020014M001",
+            "title": "",
+            "subtitle": "第2季第14集 亞美尼亞浪漫秋色之路！加尼神廟、諾拉杜茲公墓、維尼沙手工市集",
+            "ep_number": 14,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762242300000,
+            "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+          }
+        ],
+        "total_length": 73763000,
+        "focus_index": 24,
+        "next_index": 25,
+        "time": 2329616,
+        "focus_program": {
+          "content_id": "VOD00235070",
+          "time_codes": [
+            783000,
+            1570000,
+            2250000
+          ],
+          "timecode_duration": [],
+          "length": 2909000,
+          "asset_id": "vod51282-020013M001",
+          "title": "",
+          "subtitle": "第2季第13集 找尋亞美尼亞的世界之最！世界最長纜車、史前巨石陣、諾亞方舟的碎片",
+          "ep_number": 13,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762239300000,
+          "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜藝",
+          "EngName": "Entertainment",
+          "MenuOrder": 8
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3570_ofiii240_mobile_20241211.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

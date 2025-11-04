@@ -1,0 +1,291 @@
+{
+  "pageProps": {
+    "contentId": "ofiii162",
+    "channel": {
+      "title": "在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～",
+      "no": 162,
+      "charge_mode": "F",
+      "content_id": "ofiii162",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        109
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWCHILDOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3303_ofiii162_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "木棉花",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6237",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1711522398.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 162,
+        "cdn_code": "ofiii162",
+        "start_time": 1762183200000,
+        "programs": [
+          {
+            "content_id": "VOD00287202",
+            "time_codes": [
+              660000
+            ],
+            "timecode_duration": [],
+            "length": 1439000,
+            "asset_id": "vod62481-010001M001",
+            "title": "",
+            "subtitle": "第1季第1集 前往異世界",
+            "ep_number": 1,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762183200000,
+            "vod_channel_description": "天上優夜是個從小就遭受殘忍虐待的少年，他在絕望之中發現到了一扇「通往異世界的大門」。犯規等級的武器與兇惡的魔物，宛如奇幻遊戲般的狀況令優夜感到困惑，但回到現實世界後，他在異世界提升的等級開始造成了影響……逆轉人生的奇幻故事，就此拉開序幕！"
+          },
+          {
+            "content_id": "VOD00287203",
+            "time_codes": [
+              641000
+            ],
+            "timecode_duration": [],
+            "length": 1440000,
+            "asset_id": "vod62481-010002M001",
+            "title": "",
+            "subtitle": "第1季第2集 王星學園",
+            "ep_number": 2,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762184700000,
+            "vod_channel_description": "優夜藉由在異世界提升等級，脫胎換骨成為了有著驚人體能的人。然後他與之前在街上解圍的少女──寶城佳織再次相遇，並受到她邀請前往超級名校──王星學園。優夜懷疑著自己有沒有資格就讀這間盡是菁英與天才的學校，結果事情發展成了一日校園體驗……"
+          },
+          {
+            "content_id": "VOD00287204",
+            "time_codes": [
+              605000
+            ],
+            "timecode_duration": [],
+            "length": 1440000,
+            "asset_id": "vod62481-010003M001",
+            "title": "",
+            "subtitle": "第1季第3集 人生的變化",
+            "ep_number": 3,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762186200000,
+            "vod_channel_description": "優夜注意到身體變化之後沒有幾件衣服能穿，便出門去購物中心買衣服，卻因為意想不到的緣故而代替了時尚雜誌的模特兒協助拍攝。他扮演超高人氣的時尚名模──御堂美羽的男朋友，展開一場心跳加速的模特兒初體驗！攝影在他無法適應之下仍順利進行著，但是……"
+          },
+          {
+            "content_id": "VOD00287205",
+            "time_codes": [
+              729000
+            ],
+            "timecode_duration": [],
+            "length": 1440000,
+            "asset_id": "vod62481-010004M001",
+            "title": "",
+            "subtitle": "第1季第4集 勇氣的一步",
+            "ep_number": 4,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762187700000,
+            "vod_channel_description": "蕾克希雅──優夜在異世界第一個遇見的少女，其實是亞爾塞里亞王國的公主。她突然大喊「請跟我結婚吧！」的求婚方式，令優夜感到不知所措。另一方面，優夜在現實世界中正式轉入王星學園，展開了全新的學園生活。然而，以前虐待優夜的不良分子、弟弟陽太和妹妹空等人，卻在背地裡計畫著要向他復仇。"
+          },
+          {
+            "content_id": "VOD00287206",
+            "time_codes": [
+              800000
+            ],
+            "timecode_duration": [],
+            "length": 1440000,
+            "asset_id": "vod62481-010005M001",
+            "title": "",
+            "subtitle": "第1季第5集 新的家人",
+            "ep_number": 5,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762189200000,
+            "vod_channel_description": "打算更加提升等級的優夜，在異世界的【大魔境】中遇見了有著漆黑毛皮的傳說魔獸──【黑芬里爾】的小孩。優夜將牠馴服之後取名為「奈特」，並把牠當成家人與牠一起生活。優夜與奈特一起探索【大魔境】，卻在偶然找到的洞窟裡，發現了意外的東西！"
+          },
+          {
+            "content_id": "VOD00287207",
+            "time_codes": [
+              745000
+            ],
+            "timecode_duration": [],
+            "length": 1440000,
+            "asset_id": "vod62481-010006M001",
+            "title": "",
+            "subtitle": "第1季第6集 賢者與魔法",
+            "ep_number": 6,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762190700000,
+            "vod_channel_description": "優夜發現了「賢者之書」，多虧了從賢者繼承而來的魔力迴路，他變得能使用魔法，便與奈特一起埋頭修行魔法。另一方面，在現實世界的校外教學日子逐漸接近，優夜便和佳織以及同班同學一起去百貨公司，採買校外教學要用的東西。然而，在那裡卻發生了意想不到的麻煩……"
+          },
+          {
+            "content_id": "VOD00287208",
+            "time_codes": [
+              771000
+            ],
+            "timecode_duration": [],
+            "length": 1440000,
+            "asset_id": "vod62481-010007M001",
+            "title": "",
+            "subtitle": "第1季第7集 森林中的邂逅",
+            "ep_number": 7,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762192200000,
+            "vod_channel_description": "優夜在【大魔境】遇到了與魔物戰鬥的少女，他與那位名叫路娜的少女日復一日流著汗修行。路娜對於優夜帶著的稀有道具「攜帶式露天溫泉組」相當激動，還大喊：「這世上原來有這麼舒服的東西嗎！」另一方面，王星學園的校外教學，在現實世界的深山露營場裡正式開始了。"
+          },
+          {
+            "content_id": "VOD00287209",
+            "time_codes": [
+              770000
+            ],
+            "timecode_duration": [],
+            "length": 1440000,
+            "asset_id": "vod62481-010008M001",
+            "title": "",
+            "subtitle": "第1季第8集 校外教學",
+            "ep_number": 8,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762193700000,
+            "vod_channel_description": "名字叫校外教學，但實際上是野外求生露營。現場採集糧食、澤田老師冷不防的求婚，優夜一個個跨越突如其來的威脅。另一方面，在異世界這邊，優夜為了覲見亞爾塞里亞王國的國王，出發前往王都。原本他與領路的蕾克希雅等人要在【大魔境】的入口會合，但是……"
+          },
+          {
+            "content_id": "VOD00287210",
+            "time_codes": [
+              783000
+            ],
+            "timecode_duration": [],
+            "length": 1440000,
+            "asset_id": "vod62481-010009M001",
+            "title": "",
+            "subtitle": "第1季第9集 公主與暗殺者",
+            "ep_number": 9,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762195200000,
+            "vod_channel_description": "襲擊蕾克希雅的是至今與優夜一同修行的少女──路娜。暗殺公主即便是未遂仍是死罪，但路娜卻表示自己「註定死路一條」……另一方面，優夜在【大魔境】中遇到了有著鮮紅毛皮的魔獸，並成功馴服了牠。優夜將牠取名為「阿卡茲基」，將牠視為繼奈特之後的新家人接納。"
+          },
+          {
+            "content_id": "VOD00287211",
+            "time_codes": [
+              765000
+            ],
+            "timecode_duration": [],
+            "length": 1440000,
+            "asset_id": "vod62481-010010M001",
+            "title": "",
+            "subtitle": "第1季第10集 師父與弟子",
+            "ep_number": 10,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762196700000,
+            "vod_channel_description": "優夜踏入了【大魔境】深處──「黑堅樹」的森林裡。就在他受到未曾見過的猙獰魔物襲擊，陷入九死一生的危機時！隨著一道「我來救你吧」的聲音，拯救了優夜性命的是……一隻可愛的兔子。另一方面在現實世界，王星學園激烈的球技大會正式開幕！究竟優夜以及佳織等人會如何大顯身手呢！？"
+          },
+          {
+            "content_id": "VOD00287212",
+            "time_codes": [
+              687000
+            ],
+            "timecode_duration": [],
+            "length": 1440000,
+            "asset_id": "vod62481-010011M001",
+            "title": "",
+            "subtitle": "第1季第11集 朝王都出發",
+            "ep_number": 11,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762198200000,
+            "vod_channel_description": "王星學園的期中考逐漸接近，在佳織的提案之下，兩人決定到優夜家中一起準備考試，結果佳織偶然間發現了「通往異世界的大門」。優夜做好心理準備，招待佳織前往異世界，但是……與此同時，一樁險惡陰謀已經在亞爾塞里亞王國將蕾克希雅等王族捲入了其中！"
+          },
+          {
+            "content_id": "VOD00287213",
+            "time_codes": [
+              750000
+            ],
+            "timecode_duration": [],
+            "length": 1440000,
+            "asset_id": "vod62481-010012M001",
+            "title": "",
+            "subtitle": "第1季第12集 神祕的襲擊者",
+            "ep_number": 12,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762199700000,
+            "vod_channel_description": "企圖暗殺國王的是蕾克希雅的哥哥──雷根王子。在王城陷入混亂的時候，優夜被蕾克希雅與路娜帶去參觀王都，還繞去冒險者公會登錄成為了冒險者！？然後，王國終於查出了雷根王子的所在地，優夜受到歐文請託，一同前往逮捕雷根王子，但是……"
+          },
+          {
+            "content_id": "VOD00287214",
+            "time_codes": [
+              683000
+            ],
+            "timecode_duration": [],
+            "length": 1440000,
+            "asset_id": "vod62481-010013M001",
+            "title": "",
+            "subtitle": "第1季第13集 優夜與佳織",
+            "ep_number": 13,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762201200000,
+            "vod_channel_description": "雷根王子以暗殺國王與公主的主謀身分遭到逮捕。優夜在那得知了埃諾國王、蕾克希雅與雷根王子三人之間的複雜內情。在優夜的提案之下，事情卻朝著意外的方向進行了……？然後一位有著壓倒性強大實力的神祕少女無預警來襲，優夜與佳織那夾在異世界與現實之間，搖擺不定的命運究竟會──"
+          }
+        ],
+        "total_length": 18719000,
+        "focus_index": 11,
+        "next_index": 12,
+        "time": 967784,
+        "focus_program": {
+          "content_id": "VOD00287213",
+          "time_codes": [
+            750000
+          ],
+          "timecode_duration": [],
+          "length": 1440000,
+          "asset_id": "vod62481-010012M001",
+          "title": "",
+          "subtitle": "第1季第12集 神祕的襲擊者",
+          "ep_number": 12,
+          "rating": 2,
+          "content_type": "comic",
+          "p_start": 1762199700000,
+          "vod_channel_description": "企圖暗殺國王的是蕾克希雅的哥哥──雷根王子。在王城陷入混亂的時候，優夜被蕾克希雅與路娜帶去參觀王都，還繞去冒險者公會登錄成為了冒險者！？然後，王國終於查出了雷根王子的所在地，優夜受到歐文請託，一同前往逮捕雷根王子，但是……"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "動漫",
+          "EngName": "Animate",
+          "MenuOrder": 109
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_mobile_20230802.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

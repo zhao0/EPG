@@ -1,0 +1,1328 @@
+{
+  "pageProps": {
+    "contentId": "ofiii89",
+    "channel": {
+      "title": "泰可愛旋風",
+      "no": 89,
+      "charge_mode": "F",
+      "content_id": "ofiii89",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        1
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWSPECIALOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3526_ofiii89_tv_20241114.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6460",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 89,
+        "cdn_code": "ofiii89",
+        "start_time": 1762107900000,
+        "programs": [
+          {
+            "content_id": "VOD00381002",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1106000,
+            "asset_id": "vod39966-001095M001",
+            "title": "",
+            "subtitle": "泰劇《美少爺之戀I｀m the Most Beautiful Count》PingNut、Pop、Lee、Atun專訪",
+            "ep_number": 1095,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762107900000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00377692",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 889000,
+            "asset_id": "vod39966-001085M001",
+            "title": "",
+            "subtitle": "泰劇《老闆我可以追你嗎 Dating Game》JudoFluke專訪",
+            "ep_number": 1085,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762109400000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00376781",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 694000,
+            "asset_id": "vod39966-001076M001",
+            "title": "",
+            "subtitle": "Thailand Y Content Awards 2024",
+            "ep_number": 1076,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762110600000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00376780",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 510000,
+            "asset_id": "vod39966-001075M001",
+            "title": "",
+            "subtitle": "泰劇《照耀之光 Shine》MileApo專訪",
+            "ep_number": 1075,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762111500000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00373752",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 746000,
+            "asset_id": "vod39966-001065M001",
+            "title": "",
+            "subtitle": "《歡迎來到索卡皮瓦特之家》AJJJ專訪",
+            "ep_number": 1065,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762112100000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00373745",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 943000,
+            "asset_id": "vod39966-001058M001",
+            "title": "",
+            "subtitle": "泰劇《心口不一 MyStubborn》BoatOat 專訪",
+            "ep_number": 1058,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762113000000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00373743",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1777000,
+            "asset_id": "vod39966-001056M001",
+            "title": "",
+            "subtitle": "泰劇《明星的重生 Reset》PeterpanPond 汪彬張錦琦專訪",
+            "ep_number": 1056,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762114200000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00371176",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1035000,
+            "asset_id": "vod39966-001036M001",
+            "title": "",
+            "subtitle": "泰劇《愛情詭計》LookmheeSonya (LMSY) 專訪",
+            "ep_number": 1036,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762116300000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00371172",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 312000,
+            "asset_id": "vod39966-001032M001",
+            "title": "",
+            "subtitle": "AsiaTopAwards頒獎典禮 - 得獎者感言",
+            "ep_number": 1032,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762117500000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00371171",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1736000,
+            "asset_id": "vod39966-001031M001",
+            "title": "",
+            "subtitle": "BEST Nutdanai 專訪",
+            "ep_number": 1031,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762118100000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00370351",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2131000,
+            "asset_id": "vod39966-001030M001",
+            "title": "",
+            "subtitle": "泰劇《噬血欲情》JossGawin媒體聯訪",
+            "ep_number": 1030,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762120200000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00370350",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1168000,
+            "asset_id": "vod39966-001029M001",
+            "title": "",
+            "subtitle": "泰劇《Delete Your Past》MeenBabe專訪",
+            "ep_number": 1029,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762122600000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00368617",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 469000,
+            "asset_id": "vod39966-001004M001",
+            "title": "",
+            "subtitle": "泰劇《SWING KICK 拳擊手》Team于希恒專訪",
+            "ep_number": 1004,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762124100000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00368616",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 798000,
+            "asset_id": "vod39966-001003M001",
+            "title": "",
+            "subtitle": "泰劇《天使先生的使命》Judo專訪",
+            "ep_number": 1003,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762124700000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00367379",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 794000,
+            "asset_id": "vod39966-000987M001",
+            "title": "",
+            "subtitle": "泰劇《勇敢說愛你》BENJAY專訪",
+            "ep_number": 987,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762125900000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00367378",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1043000,
+            "asset_id": "vod39966-000986M001",
+            "title": "",
+            "subtitle": "泰劇《隔壁的怪獸》《我和誰》BigPark專訪",
+            "ep_number": 986,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762127100000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00366639",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1132000,
+            "asset_id": "vod39966-000977M001",
+            "title": "",
+            "subtitle": "泰劇《難以自拔》MarkOhm專訪",
+            "ep_number": 977,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762128300000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00366638",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 790000,
+            "asset_id": "vod39966-000976M001",
+            "title": "",
+            "subtitle": "泰劇《鐵銹味的雨滴》Englot-Engfa,Charlotte專訪",
+            "ep_number": 976,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762129800000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00364580",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2324000,
+            "asset_id": "vod39966-000946M001",
+            "title": "",
+            "subtitle": "GMMTV FANDAY - JuniorMark&BounPrem聯訪完整版",
+            "ep_number": 946,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762131000000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00363909",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 812000,
+            "asset_id": "vod39966-000943M001",
+            "title": "",
+            "subtitle": "泰國喜劇《冥婚鬧泰大》BKPP台北媒體聯訪全紀錄",
+            "ep_number": 943,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762133700000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00363908",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000
+            ],
+            "timecode_duration": [],
+            "length": 2785000,
+            "asset_id": "vod39966-000942M001",
+            "title": "",
+            "subtitle": "泰國喜劇《冥婚鬧泰大》BKPP台北記者會直擊",
+            "ep_number": 942,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762134900000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00363907",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 784000,
+            "asset_id": "vod39966-000941M001",
+            "title": "",
+            "subtitle": "《愛情與直播》Hearth Chindanai",
+            "ep_number": 941,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762138200000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00363904",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000
+            ],
+            "timecode_duration": [],
+            "length": 2465000,
+            "asset_id": "vod39966-000938M001",
+            "title": "",
+            "subtitle": "泰國新生代男團 LYKN 聯訪完整版",
+            "ep_number": 938,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762139400000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00361523",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1125000,
+            "asset_id": "vod39966-000932M001",
+            "title": "",
+            "subtitle": "泰版《大叔的愛》EarthMix專訪",
+            "ep_number": 932,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762142400000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00361519",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1187000,
+            "asset_id": "vod39966-000928M001",
+            "title": "",
+            "subtitle": "泰國BL劇《ONLY BOO!》SeaKeen專訪",
+            "ep_number": 928,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762143900000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00358145",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1329000,
+            "asset_id": "vod39966-000920M001",
+            "title": "",
+            "subtitle": "《愛情羅勒香》SAILUB PON & BENZ GARFIELD 粉絲見面會",
+            "ep_number": 920,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762145400000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00358141",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 863000,
+            "asset_id": "vod39966-000916M001",
+            "title": "",
+            "subtitle": "泰劇《世界傾斜23.5度》專訪 -  MilkLove",
+            "ep_number": 916,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762147200000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00358135",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1651000,
+            "asset_id": "vod39966-000910M001",
+            "title": "",
+            "subtitle": "泰版《大叔的愛》EarthMix記者會聯訪",
+            "ep_number": 910,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762148400000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00358131",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1018000,
+            "asset_id": "vod39966-000906M001",
+            "title": "",
+            "subtitle": "泰版《鬼家人》《The Red Envelop》BKPP記者會直擊",
+            "ep_number": 906,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762150500000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00358130",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1598000,
+            "asset_id": "vod39966-000905M001",
+            "title": "",
+            "subtitle": "泰劇《B.Friend》專訪 -  FAYFAY,NAM,SAND,小馬, IZE,NEWNY",
+            "ep_number": 905,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762151700000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00350130",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 857000,
+            "asset_id": "vod39966-000873M001",
+            "title": "",
+            "subtitle": "泰劇《上癮》NewyearJur專訪",
+            "ep_number": 873,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762153500000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00350128",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 852000,
+            "asset_id": "vod39966-000871M001",
+            "title": "",
+            "subtitle": "《慕海情深》MosBank & The Dragon",
+            "ep_number": 871,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762154700000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00350124",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 520000,
+            "asset_id": "vod39966-000867M001",
+            "title": "",
+            "subtitle": "泰劇《奶香愛戀》NoonPraewa 專訪",
+            "ep_number": 867,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762155900000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00350123",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 863000,
+            "asset_id": "vod39966-000866M001",
+            "title": "",
+            "subtitle": "泰國人氣男團 PERSES 專訪",
+            "ep_number": 866,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762156500000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00350122",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 152000,
+            "asset_id": "vod39966-000865M001",
+            "title": "",
+            "subtitle": "人氣泰星小九 - Nine Naphat",
+            "ep_number": 865,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762157700000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00348866",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1257000,
+            "asset_id": "vod39966-000830M001",
+            "title": "",
+            "subtitle": "泰劇《我們的秘密》LingOrm專訪",
+            "ep_number": 830,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762158000000,
+            "vod_channel_description": "獨家專訪泰國GL天花板LingOrm，分享台前幕後不為人知的精彩故事！"
+          },
+          {
+            "content_id": "VOD00348860",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 652000,
+            "asset_id": "vod39966-000824M001",
+            "title": "",
+            "subtitle": "泰劇《球愛神助攻》MeenPing專訪",
+            "ep_number": 824,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762159500000,
+            "vod_channel_description": "「茶瓶CP」MeenPing繼《親愛的黑幫歐巴》和《愛龍奈》後甜蜜三搭！"
+          },
+          {
+            "content_id": "VOD00348859",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 782000,
+            "asset_id": "vod39966-000823M001",
+            "title": "",
+            "subtitle": "泰劇《佳期如許》 GreatInn專訪",
+            "ep_number": 823,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762160400000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00345227",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1111000,
+            "asset_id": "vod39966-000819M001",
+            "title": "",
+            "subtitle": "泰劇《暮海情深》 MosBank專訪",
+            "ep_number": 819,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762161600000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00345226",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 824000,
+            "asset_id": "vod39966-000818M001",
+            "title": "",
+            "subtitle": "泰劇《B.Friend》主演專訪 - SAND,CHICHA,NAM",
+            "ep_number": 818,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762163100000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00345224",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1224000,
+            "asset_id": "vod39966-000816M001",
+            "title": "",
+            "subtitle": "泰劇《上癮》 MacAugust專訪",
+            "ep_number": 816,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762164300000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00345218",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 1967000,
+            "asset_id": "vod39966-000810M001",
+            "title": "",
+            "subtitle": "泰劇《佳期如許》 Great、Inn聯訪",
+            "ep_number": 810,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762165800000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00345217",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 733000,
+            "asset_id": "vod39966-000809M001",
+            "title": "",
+            "subtitle": "泰國新生代搖滾樂團Tilly Birds專訪",
+            "ep_number": 809,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762168200000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00333190",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 646000,
+            "asset_id": "vod39966-000789M001",
+            "title": "",
+            "subtitle": "泰劇《B.Friend》主演專訪 - SAND,CHICHA,GAIL,NAM",
+            "ep_number": 789,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762169100000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00332564",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 833000,
+            "asset_id": "vod39966-000732M001",
+            "title": "",
+            "subtitle": "泰劇《職業替身》Up、Poom小專訪",
+            "ep_number": 732,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762170000000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00333179",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 772000,
+            "asset_id": "vod39966-000778M001",
+            "title": "",
+            "subtitle": "泰劇《未完待續》Junior&Fluke專訪",
+            "ep_number": 778,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762171200000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00333178",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 371000,
+            "asset_id": "vod39966-000777M001",
+            "title": "",
+            "subtitle": "泰劇《暮海情深》 MosBank聯訪",
+            "ep_number": 777,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762172100000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00333156",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 1837000,
+            "asset_id": "vod39966-000755M001",
+            "title": "",
+            "subtitle": "泰劇《極速戀人》PIT BABE專訪",
+            "ep_number": 755,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762172700000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00333154",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 755000,
+            "asset_id": "vod39966-000753M001",
+            "title": "",
+            "subtitle": "泰國歌手Nont Tanont小專訪",
+            "ep_number": 753,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762174800000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00332947",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 811000,
+            "asset_id": "vod39966-000750M001",
+            "title": "",
+            "subtitle": "泰劇《學姐可以愛我嗎》專訪",
+            "ep_number": 750,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762175700000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00325354",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1505000,
+            "asset_id": "vod39966-000697M001",
+            "title": "",
+            "subtitle": "泰劇《危險羅曼史》CP來啦",
+            "ep_number": 697,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762176900000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00322516",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 542000,
+            "asset_id": "vod39966-000681M001",
+            "title": "",
+            "subtitle": "泰國天團 Slot Machine",
+            "ep_number": 681,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762178700000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00321102",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1524000,
+            "asset_id": "vod39966-000679M001",
+            "title": "",
+            "subtitle": "泰國演員「塔球CP」",
+            "ep_number": 679,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762179600000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00321101",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 464000,
+            "asset_id": "vod39966-000678M001",
+            "title": "",
+            "subtitle": "泰國命運探索者CP",
+            "ep_number": 678,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762181400000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00317670",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 690000,
+            "asset_id": "vod39966-000670M001",
+            "title": "",
+            "subtitle": "泰劇《不曾遺忘的暮色》CP專訪",
+            "ep_number": 670,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762182000000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00317669",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1545000,
+            "asset_id": "vod39966-000669M001",
+            "title": "",
+            "subtitle": "泰劇《不曾遺忘的暮色》CP來啦",
+            "ep_number": 669,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762182900000,
+            "vod_channel_description": "泰星Jimmy、Sea因合演BL劇《反之亦愛》深受喜愛，二度搭檔的新戲《不曾遺忘的暮色》（Last Twilight Series）現正熱播中，2人也合體展開首次巡迴見面會，海外首站「Jimmy Sea 1st Fan Meeting In Taipei」也在Legacy Taipei登場。"
+          },
+          {
+            "content_id": "VOD00317663",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 489000,
+            "asset_id": "vod39966-000663M001",
+            "title": "",
+            "subtitle": "泰國俏管家龍卡CP",
+            "ep_number": 663,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762184700000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00315657",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1592000,
+            "asset_id": "vod39966-000656M001",
+            "title": "",
+            "subtitle": "泰國樂團Getsunova-聯訪",
+            "ep_number": 656,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762185300000,
+            "vod_channel_description": "泰國樂團「Getsunova」由Name、Noth、Natee、Prite共4人組成，出道16年擁有多首膾炙人口的歌曲，在YouTube觀看人數破億，素有「泰國五月天」之稱。為感謝台灣歌迷一路以來支持，今年第4度來台也帶著專場造訪寶島，並於12月10日在花漾展演空間開唱。"
+          },
+          {
+            "content_id": "VOD00313648",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 1896000,
+            "asset_id": "vod39966-000647M001",
+            "title": "",
+            "subtitle": "泰國「天然系甜膩CP」JoongDunk來台",
+            "ep_number": 647,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762187100000,
+            "vod_channel_description": "以泰國BL劇《Star In My Mind》走紅的Joong-Dunk，以渾然天成的CP感獲得廣大支持，這對戲裡戲外都相親相愛的甜膩CP，是粉絲眼中的天生絕配，在粉絲們許願期待之下，Joong-Dunk也宣佈將第一次踏上寶島，於11月11日舉辦「Joong Dunk 1st Fan Meeting In Taipei」見面會活動。"
+          },
+          {
+            "content_id": "VOD00310435",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1426000,
+            "asset_id": "vod39966-000635M001",
+            "title": "",
+            "subtitle": "泰國BL雙帥「竹馬CP」專訪",
+            "ep_number": 635,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762189500000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00310431",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 441000,
+            "asset_id": "vod39966-000631M001",
+            "title": "",
+            "subtitle": "泰國BL劇-斷袖CP專訪",
+            "ep_number": 631,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762191300000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00304417",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1122000,
+            "asset_id": "vod39966-000629M001",
+            "title": "",
+            "subtitle": "泰國BL劇《斷袖之戀：深宅紳士》CP見面會",
+            "ep_number": 629,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762191900000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00304396",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 776000,
+            "asset_id": "vod39966-000608M001",
+            "title": "",
+            "subtitle": "泰國日蝕FKCP來了",
+            "ep_number": 608,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762193400000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00277337",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1153000,
+            "asset_id": "vod39966-000592M001",
+            "title": "",
+            "subtitle": "泰國校園BL喜劇《我的會長大人》專訪",
+            "ep_number": 592,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762194300000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00277305",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2338000,
+            "asset_id": "vod39966-000560M001",
+            "title": "",
+            "subtitle": "泰國校園BL喜劇《我的會長大人》聯訪",
+            "ep_number": 560,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762195800000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00277293",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1560000,
+            "asset_id": "vod39966-000548M001",
+            "title": "",
+            "subtitle": "泰國人氣男神Gulf",
+            "ep_number": 548,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762198500000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00277292",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1469000,
+            "asset_id": "vod39966-000547M001",
+            "title": "",
+            "subtitle": "泰劇《深藍之吻》人氣CP",
+            "ep_number": 547,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762200300000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00277261",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1041000,
+            "asset_id": "vod39966-000516M001",
+            "title": "",
+            "subtitle": "泰國BL劇《我們之間》麻繩CP專訪",
+            "ep_number": 516,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762202100000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00277260",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1568000,
+            "asset_id": "vod39966-000515M001",
+            "title": "",
+            "subtitle": "泰國BL劇《我們之間》麻繩CP聯訪",
+            "ep_number": 515,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762203300000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00277259",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 824000,
+            "asset_id": "vod39966-000514M001",
+            "title": "",
+            "subtitle": "泰國BL劇《千星傳說》CP專訪",
+            "ep_number": 514,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762205100000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00277258",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2083000,
+            "asset_id": "vod39966-000513M001",
+            "title": "",
+            "subtitle": "泰國BL劇《千星傳說》CP聯訪",
+            "ep_number": 513,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762206300000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00277244",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1506000,
+            "asset_id": "vod39966-000499M001",
+            "title": "",
+            "subtitle": "YinWar雙帥CP Kiss泰害羞！",
+            "ep_number": 499,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762208700000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00277243",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 372000,
+            "asset_id": "vod39966-000498M001",
+            "title": "",
+            "subtitle": "YinWar訪台記者會 餵食秀泰甜蜜～",
+            "ep_number": 498,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762210500000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00277205",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 133000,
+            "asset_id": "vod39966-000460M001",
+            "title": "",
+            "subtitle": "泰國OHM-祝NANON生日快樂!",
+            "ep_number": 460,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762211100000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00277204",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 839000,
+            "asset_id": "vod39966-000459M001",
+            "title": "",
+            "subtitle": "泰國OHM深情獻唱",
+            "ep_number": 459,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762211400000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00277250",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2029000,
+            "asset_id": "vod39966-000505M001",
+            "title": "",
+            "subtitle": "OFFGUN-記者會",
+            "ep_number": 505,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762212600000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          },
+          {
+            "content_id": "VOD00277249",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 461000,
+            "asset_id": "vod39966-000504M001",
+            "title": "",
+            "subtitle": "泰國人氣演員Off Gun粉絲見面會",
+            "ep_number": 504,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762215000000,
+            "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+          }
+        ],
+        "total_length": 85221000,
+        "focus_index": 40,
+        "next_index": 41,
+        "time": 245730,
+        "focus_program": {
+          "content_id": "VOD00345224",
+          "time_codes": [
+            600000,
+            1200000
+          ],
+          "timecode_duration": [],
+          "length": 1224000,
+          "asset_id": "vod39966-000816M001",
+          "title": "",
+          "subtitle": "泰劇《上癮》 MacAugust專訪",
+          "ep_number": 816,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762164300000,
+          "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜合",
+          "EngName": "Variety",
+          "MenuOrder": 4
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3526_ofiii89_mobile_20241114.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

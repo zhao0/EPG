@@ -1,0 +1,151 @@
+{
+  "pageProps": {
+    "contentId": "ofiii254",
+    "channel": {
+      "title": "夏日陽光海浪聲",
+      "no": 254,
+      "charge_mode": "F",
+      "content_id": "ofiii254",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        1
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWNOADOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3441_ofiii254_tv_20250305.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6375",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1723794721.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 254,
+        "cdn_code": "ofiii254",
+        "start_time": 1762176300000,
+        "programs": [
+          {
+            "content_id": "VOD00340734",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000,
+              3600000
+            ],
+            "timecode_duration": [],
+            "length": 3660000,
+            "asset_id": "vod73051-000001M001",
+            "title": "",
+            "subtitle": "【白噪音系列，海浪聲】",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "others",
+            "p_start": 1762176300000,
+            "vod_channel_description": "大自然的聲音-海浪聲無間斷，療癒系助眠紓壓「白噪音」\r\n潮水拍打的海岸沙灘，洗刷身心靈的壓力與疲憊\r\n#海洋 #大海的聲音 #重度失眠必聽 #深度睡眠音樂 #助眠音樂 #伴讀專注"
+          },
+          {
+            "content_id": "VOD00347838",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000,
+              3600000
+            ],
+            "timecode_duration": [],
+            "length": 3743000,
+            "asset_id": "vod73051-000002M001",
+            "title": "",
+            "subtitle": "【白噪音系列，海浪聲】",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "others",
+            "p_start": 1762180500000,
+            "vod_channel_description": "大自然的聲音-海浪聲無間斷，療癒系助眠紓壓「白噪音」\n潮水拍打的海岸沙灘，洗刷身心靈的壓力與疲憊\n#海洋 #大海的聲音 #重度失眠必聽 #深度睡眠音樂 #助眠音樂 #伴讀專注"
+          },
+          {
+            "content_id": "VOD00369783",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000,
+              3600000
+            ],
+            "timecode_duration": [],
+            "length": 3749000,
+            "asset_id": "vod73051-000003M001",
+            "title": "",
+            "subtitle": "【白噪音系列，海浪聲】",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "others",
+            "p_start": 1762184700000,
+            "vod_channel_description": "大自然的聲音-海浪聲無間斷，療癒系助眠紓壓「白噪音」\r\n潮水拍打的海岸沙灘，洗刷身心靈的壓力與疲憊\r\n#海洋 #大海的聲音 #重度失眠必聽 #深度睡眠音樂 #助眠音樂 #伴讀專注"
+          }
+        ],
+        "total_length": 11152000,
+        "focus_index": 1,
+        "next_index": 2,
+        "time": 1916095,
+        "focus_program": {
+          "content_id": "VOD00347838",
+          "time_codes": [
+            600000,
+            1200000,
+            1800000,
+            2400000,
+            3000000,
+            3600000
+          ],
+          "timecode_duration": [],
+          "length": 3743000,
+          "asset_id": "vod73051-000002M001",
+          "title": "",
+          "subtitle": "【白噪音系列，海浪聲】",
+          "ep_number": 2,
+          "rating": 1,
+          "content_type": "others",
+          "p_start": 1762180500000,
+          "vod_channel_description": "大自然的聲音-海浪聲無間斷，療癒系助眠紓壓「白噪音」\n潮水拍打的海岸沙灘，洗刷身心靈的壓力與疲憊\n#海洋 #大海的聲音 #重度失眠必聽 #深度睡眠音樂 #助眠音樂 #伴讀專注"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜合",
+          "EngName": "Variety",
+          "MenuOrder": 4
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3441_ofiii254_mobile_20240816.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

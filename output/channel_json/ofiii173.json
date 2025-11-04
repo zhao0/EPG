@@ -1,0 +1,467 @@
+{
+  "pageProps": {
+    "contentId": "ofiii173",
+    "channel": {
+      "title": "關於我轉生變成史萊姆這檔事(國)",
+      "no": 173,
+      "charge_mode": "F",
+      "content_id": "ofiii173",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        109
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3170_ofiii173_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "木棉花",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6104",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1702433657.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 173,
+        "cdn_code": "ofiii173",
+        "start_time": 1762178400000,
+        "programs": [
+          {
+            "content_id": "VOD00157426",
+            "time_codes": [
+              717000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010001M001",
+            "title": "",
+            "subtitle": "第1季第1集 暴風龍維爾德拉",
+            "ep_number": 1,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762178400000,
+            "vod_channel_description": "上班族三上悟遭到隨機殺人魔刺殺身亡。然而當三上恢復意識後，他竟然轉生成史萊姆了!而且被封印三百年的暴風龍維爾德拉還向他搭話，史萊姆三上的命運究竟會……"
+          },
+          {
+            "content_id": "VOD00157427",
+            "time_codes": [
+              681000
+            ],
+            "timecode_duration": [],
+            "length": 1422000,
+            "asset_id": "vod39860-010002M001",
+            "title": "",
+            "subtitle": "第1季第2集 與哥布林們的相遇",
+            "ep_number": 2,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762179900000,
+            "vod_channel_description": "史萊姆三上和暴風龍成為了朋友，並且為彼此取了名字。就這樣，史萊姆三上得到了「利姆路」這個名字。利姆路試著將維爾德拉從封印中解放，而最後的結果卻帶給了周邊的諸國巨大的衝擊。"
+          },
+          {
+            "content_id": "VOD00157428",
+            "time_codes": [
+              678000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010003M001",
+            "title": "",
+            "subtitle": "第1季第3集 哥布林村的戰鬥",
+            "ep_number": 3,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762181400000,
+            "vod_channel_description": "利姆路在離開洞窟後，遇見了遭受牙狼族的襲擊而被逼到走投無路的哥布林們。利姆路順理成章地決定協助哥布林們戰鬥。到了當晚，企圖成為朱拉森林支配者的牙狼族開始展開襲擊！"
+          },
+          {
+            "content_id": "VOD00157429",
+            "time_codes": [
+              694000
+            ],
+            "timecode_duration": [],
+            "length": 1419000,
+            "asset_id": "vod39860-010004M001",
+            "title": "",
+            "subtitle": "第1季第4集 在矮人王國",
+            "ep_number": 4,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762182900000,
+            "vod_channel_description": "為了找尋能夠支援村中衣食住的技術人員，利姆路等人造訪了矮人的王國．武裝國家德瓦崗。然而因為入境時發生的意外導致利姆路等人被關到牢房中。而這個時候，傳來了礦山中鎧龍正在大鬧的報告！"
+          },
+          {
+            "content_id": "VOD00157430",
+            "time_codes": [
+              750000
+            ],
+            "timecode_duration": [],
+            "length": 1419000,
+            "asset_id": "vod39860-010005M001",
+            "title": "",
+            "subtitle": "第1季第5集 英雄王蓋札•德瓦崗",
+            "ep_number": 5,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762184400000,
+            "vod_channel_description": "拯救了鍛造師凱金的危機，利姆路一行人在精靈的店中舉杯慶祝。而這個時候敵視凱金的培斯塔大臣現身了。因為大臣瞧不起利姆路的舉動，忍無可忍的凱金一拳將培斯塔狠狠打飛了出去。"
+          },
+          {
+            "content_id": "VOD00157431",
+            "time_codes": [
+              749000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010006M001",
+            "title": "",
+            "subtitle": "第1季第6集 靜",
+            "ep_number": 6,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762185900000,
+            "vod_channel_description": "隨著鄰近村子的哥布林們的加入，村子變得越來越熱鬧。在有一天，利姆路遇見了公會的冒險者卡巴爾、愛蓮與基多。此外，他們身邊還有和利姆路一樣，從日本被召喚過來的召喚者靜。"
+          },
+          {
+            "content_id": "VOD00157432",
+            "time_codes": [
+              779000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010007M001",
+            "title": "",
+            "subtitle": "第1季第7集 爆炎支配者",
+            "ep_number": 7,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762187400000,
+            "vod_channel_description": "靜在魔王雷昂‧克羅姆威爾的召喚之下，從遭受空襲而熊熊燃燒的東京來到了異世界。雷昂讓高階精靈伊弗利特附身到她身上。伊弗利特奪取了靜的身體，並開始失控。"
+          },
+          {
+            "content_id": "VOD00157433",
+            "time_codes": [
+              739000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010008M001",
+            "title": "",
+            "subtitle": "第1季第8集 被繼承的意志",
+            "ep_number": 8,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762188900000,
+            "vod_channel_description": "勇者將靜從魔王雷昂的手中拯救了出來。靜將那位勇者的模樣長存於心中，在漫長的歲月中為了拯救人們而不斷奮鬥著。如今，靜即將迎向人生的最後一刻。然後，靜向利姆路說出了自己最後的心願。"
+          },
+          {
+            "content_id": "VOD00157434",
+            "time_codes": [
+              737000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010009M001",
+            "title": "",
+            "subtitle": "第1季第9集 食人魔的襲擊",
+            "ep_number": 9,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762190400000,
+            "vod_channel_description": "利姆路等人的村莊開發正一步一步順利進行。正當利姆路獨自一人在洞窟中嚐試使用新技能時，突然收到了求救的呼叫。當他趕到時，出現在他眼前的是六名食人魔。食人魔對他開口說道「露出真面目吧，邪惡的魔人。」"
+          },
+          {
+            "content_id": "VOD00157435",
+            "time_codes": [
+              778000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010010M001",
+            "title": "",
+            "subtitle": "第1季第10集 半獸人君主",
+            "ep_number": 10,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762191900000,
+            "vod_channel_description": "食人魔一行人是遭遇半獸人大軍襲擊的倖存者。據說半獸人全副武裝，與戴著小丑面具的魔人聯手。於是利姆路向大鬼族的一行人提出了成為自己部下的建議。"
+          },
+          {
+            "content_id": "VOD00157436",
+            "time_codes": [
+              727000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010011M001",
+            "title": "",
+            "subtitle": "第1季第11集 戈畢爾參上！",
+            "ep_number": 11,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762193400000,
+            "vod_channel_description": "食人魔族的紅丸一行人加入後，利姆路的村子裡頭的同伴數量又變得更多了。這個時候，企圖讓畏懼半獸人侵略的哥布林們成為部下的蜥人戈畢爾來到了利姆路的村子裡頭。"
+          },
+          {
+            "content_id": "VOD00157437",
+            "time_codes": [
+              730000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010012M001",
+            "title": "",
+            "subtitle": "第1季第12集 失序",
+            "ep_number": 12,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762194900000,
+            "vod_channel_description": "災厄的魔物半獸人君主與半獸人大軍席捲了朱拉大森林。這次的危機使得大森林的管理者．樹妖精托蕾妮開始展開行動。她看上了開始在森林中嶄露頭角的利姆路，並拜託他討伐半獸人君主。"
+          },
+          {
+            "content_id": "VOD00157438",
+            "time_codes": [
+              676000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010013M001",
+            "title": "",
+            "subtitle": "第1季第13集 激鬥",
+            "ep_number": 13,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762196400000,
+            "vod_channel_description": "為了與蜥人族締結同盟，利姆路等人開始朝向濕地地帶移動。半路上，利姆路等人拯救了遭遇半獸人襲擊的蜥人族，而那位蜥人正是戈畢爾的妹妹。戈畢爾的妹妹向利姆路請求，希望他能拯救貿然行事的哥哥。"
+          },
+          {
+            "content_id": "VOD00157439",
+            "time_codes": [
+              732000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010014M001",
+            "title": "",
+            "subtitle": "第1季第14集 吞噬萬物者",
+            "ep_number": 14,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762197900000,
+            "vod_channel_description": "魔人喀爾謬德終於現身。喀爾謬德的目的是讓半獸人君主進化為「災厄半獸人，並且支配整座朱拉森林。在明白喀爾謬德的真正目的後，半獸人君主展開了某項行動。"
+          },
+          {
+            "content_id": "VOD00157440",
+            "time_codes": [
+              778000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010015M001",
+            "title": "",
+            "subtitle": "第1季第15集 朱拉森林大同盟",
+            "ep_number": 15,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762199400000,
+            "vod_channel_description": "與半獸人的戰鬥結束後，眾人開始討論戰後的處理事宜。這時，利姆路向大家表明自己和災厄半獸人蓋德最後做下的「由利姆路背負半獸人的罪」的約定。在得知這件事後，蜥人和食人魔採取的行動是…。"
+          },
+          {
+            "content_id": "VOD00157441",
+            "time_codes": [
+              757000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010016M001",
+            "title": "",
+            "subtitle": "第1季第16集 魔王蜜莉姆來襲",
+            "ep_number": 16,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762200900000,
+            "vod_channel_description": "正當利姆路等人過著平穩和平的日常生活時，擁有「破壞的暴君」外號的魔王．蜜莉姆突然襲擊了中央都市利姆路。面對她的強大力量，蘭加跟紅丸等人都被她壓制住。蜜利姆的目標究竟是…"
+          },
+          {
+            "content_id": "VOD00157442",
+            "time_codes": [
+              742000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010017M001",
+            "title": "",
+            "subtitle": "第1季第17集 集結的人們",
+            "ep_number": 17,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762202400000,
+            "vod_channel_description": "魔王卡利翁底下的三獸士之一．魔人法比歐襲擊了中央都市利姆路。不過法比歐在蜜利姆的反擊下轉眼間被擊倒。接著，利姆路等人開始向法比歐詢問造訪這國家的目的。"
+          },
+          {
+            "content_id": "VOD00157443",
+            "time_codes": [
+              741000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010018M001",
+            "title": "",
+            "subtitle": "第1季第18集 悄悄逼近的惡意",
+            "ep_number": 18,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762203900000,
+            "vod_channel_description": "法比歐對於敗給了蜜莉姆感到忿忿不平。這時，中庸小丑幫的兩名小丑現身並唆使法比歐。他們告訴法比歐，只要他也成為魔王，就能夠和蜜莉姆對抗了。他們表示，只要利用「暴風大妖渦」的力量就能實現這個目的。"
+          },
+          {
+            "content_id": "VOD00157444",
+            "time_codes": [
+              728000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010019M001",
+            "title": "",
+            "subtitle": "第1季第19集 暴風大妖渦",
+            "ep_number": 19,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762205400000,
+            "vod_channel_description": "暴風大妖渦帶著泳空巨鯊朝向中央都市立母路前進。利姆路等人全體動員展開迎戰，然而暴風大妖渦的力量實在是太過強大…。"
+          },
+          {
+            "content_id": "VOD00157445",
+            "time_codes": [
+              753000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010020M001",
+            "title": "",
+            "subtitle": "第1季第20集 神樂坂優樹",
+            "ep_number": 20,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762206900000,
+            "vod_channel_description": "利姆路做了一個夢。他夢見了靜在英格拉西亞王國擔任老師、教育被召喚到這個世界來的孩子們時的夢。為了完成靜未竟的心願，利姆路決定動身前往英格拉西亞王國的王都。在那裡等待他的，是靜所教導過的那些學生們。"
+          },
+          {
+            "content_id": "VOD00157446",
+            "time_codes": [
+              738000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010021M001",
+            "title": "",
+            "subtitle": "第1季第21集 靜小姐的學生們",
+            "ep_number": 21,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762208400000,
+            "vod_channel_description": "利姆路成為了靜小姐的學生們的老師。然而，受到單方面召喚來到異世界、壽命所剩無幾的孩子們內心十分複雜，對利姆路採取反抗的態度。對此，利姆路向孩子們提出了進行模擬戰的要求。"
+          },
+          {
+            "content_id": "VOD00157447",
+            "time_codes": [
+              774000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010022M001",
+            "title": "",
+            "subtitle": "第1季第22集 迷宮攻略",
+            "ep_number": 22,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762209900000,
+            "vod_channel_description": "自由學園的孩子們在不久之後即將死去。但是，利姆路認為只要讓高階精靈附身在孩子們身上就能救他們一命。為此，利姆路帶著孩子開始動身前往傳說中高階精靈所在的「精靈神域」。"
+          },
+          {
+            "content_id": "VOD00157448",
+            "time_codes": [
+              767000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod39860-010023M001",
+            "title": "",
+            "subtitle": "第1季第23集 靈魂的救贖",
+            "ep_number": 23,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762211400000,
+            "vod_channel_description": "究竟能否順利召喚精靈出來呢？抵達精靈神域最深處的孩子們，依序來到光之台座，試著挑戰精靈召喚，而利姆路則在一旁守望著孩子們。然後，精靈們隨著孩子們的呼喚出現了…。"
+          },
+          {
+            "content_id": "VOD00157449",
+            "time_codes": [
+              774000
+            ],
+            "timecode_duration": [],
+            "length": 1424000,
+            "asset_id": "vod39860-010024M001",
+            "title": "",
+            "subtitle": "第1季第24集 外傳:黑與假面",
+            "ep_number": 24,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762212900000,
+            "vod_channel_description": "這是利姆路轉生前的故事。斐特烏德王國委託並召集了許多冒險者，希望他們能夠討伐復活的惡魔，在人群之中也有靜的身影。然而這起委託其實有著巨大的內幕。"
+          }
+        ],
+        "total_length": 34084000,
+        "focus_index": 17,
+        "next_index": 18,
+        "time": 851472,
+        "focus_program": {
+          "content_id": "VOD00157443",
+          "time_codes": [
+            741000
+          ],
+          "timecode_duration": [],
+          "length": 1420000,
+          "asset_id": "vod39860-010018M001",
+          "title": "",
+          "subtitle": "第1季第18集 悄悄逼近的惡意",
+          "ep_number": 18,
+          "rating": 2,
+          "content_type": "comic",
+          "p_start": 1762203900000,
+          "vod_channel_description": "法比歐對於敗給了蜜莉姆感到忿忿不平。這時，中庸小丑幫的兩名小丑現身並唆使法比歐。他們告訴法比歐，只要他也成為魔王，就能夠和蜜莉姆對抗了。他們表示，只要利用「暴風大妖渦」的力量就能實現這個目的。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "動漫",
+          "EngName": "Animate",
+          "MenuOrder": 109
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_mobile_20230802.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

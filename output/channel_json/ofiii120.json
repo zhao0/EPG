@@ -1,0 +1,658 @@
+{
+  "pageProps": {
+    "contentId": "ofiii120",
+    "channel": {
+      "title": "有你的時光裡",
+      "no": 120,
+      "charge_mode": "F",
+      "content_id": "ofiii120",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        4
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3722_ofiii120_tv_20250506.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "世詮_2倍",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6656",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1746526024.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 1,
+      "vod_channel_schedule": {
+        "channel_id": 120,
+        "cdn_code": "ofiii120",
+        "start_time": 1762184991000,
+        "programs": [
+          {
+            "content_id": "VOD00361550",
+            "time_codes": [
+              662000,
+              1430000,
+              2198000
+            ],
+            "timecode_duration": [],
+            "length": 2758000,
+            "asset_id": "vod77314-000001M001",
+            "title": "",
+            "subtitle": "第1集",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746579300000,
+            "vod_channel_description": "王靈均在姐姐王焱的房間裡準備藥師考試，卻被母親嚴芳責罵。王焱接到王靈均電話，拒絕她來深圳的請求。此時，王焱得知公司在菱悅競標中失利，並空降新總經理方勵。王焱懷疑此事與高謙有關，並決定挽回菱悅案。廖繁木關心王焱，卻被她敷衍。王焱讓同事周濛濛協助調查菱悅案，自己則前往環貿大廈。"
+          },
+          {
+            "content_id": "VOD00361551",
+            "time_codes": [
+              669000,
+              1409000,
+              2152000
+            ],
+            "timecode_duration": [],
+            "length": 2678000,
+            "asset_id": "vod77314-000002M001",
+            "title": "",
+            "subtitle": "第2集",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746582300000,
+            "vod_channel_description": "樊旭威脅王焱，王焱受傷前往醫院。周濛濛前來探望，王焱決定全力以赴準備新一輪比稿。王靈均與父母吵架後收拾行李準備前往深圳。王焱回到家中，廖繁木前來探望，兩人因工作和結婚問題發生爭執。王靈均來到深圳，投靠閨蜜曹坤坤，並想讓廖繁木幫她找工作。方勵得知王焱為菱悅案奔波，對她另眼相看。"
+          },
+          {
+            "content_id": "VOD00361552",
+            "time_codes": [
+              674000,
+              1472000,
+              2170000
+            ],
+            "timecode_duration": [],
+            "length": 2689000,
+            "asset_id": "vod77314-000003M001",
+            "title": "",
+            "subtitle": "第3集",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746585300000,
+            "vod_channel_description": "王焱因聯絡不上王靈均而焦慮。王家父母得知王靈均離家出走，打電話給王焱。姊妹兩人在車上大吵一架不歡而散。王焱回憶起童年往事，感到心塞。廖繁木將王靈均安置在醫院宿舍，高謙提醒王焱注意方勵。王焱和高謙在街心公園溜狗，高謙送王焱禮物，並提醒她提防方勵。黎菲向方勵推薦王焱，方勵卻另有打算。"
+          },
+          {
+            "content_id": "VOD00361553",
+            "time_codes": [
+              709000,
+              1386000,
+              2102000
+            ],
+            "timecode_duration": [],
+            "length": 2813000,
+            "asset_id": "vod77314-000004M001",
+            "title": "",
+            "subtitle": "第4集",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746588300000,
+            "vod_channel_description": "王焱被任命為新BD部門負責人，並得知遠洲集團的蓮酒店專案。王焱決定爭取該專案，但需放棄菱悅案。王靈均在王焱家隨意翻看，並穿著王焱的衣服去醫院見廖繁木。廖繁木給王靈均飯卡，並提醒她給父母報平安。王靈均結識新室友謝嬌，開始適應深圳生活。高謙與王焱吃飯，兩人商討如何應對方勵。"
+          },
+          {
+            "content_id": "VOD00361554",
+            "time_codes": [
+              739000,
+              1442000,
+              2123000
+            ],
+            "timecode_duration": [],
+            "length": 2722000,
+            "asset_id": "vod77314-000005M001",
+            "title": "",
+            "subtitle": "第5集",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746591300000,
+            "vod_channel_description": "王焱在蓮酒店體驗調研，並與好友文竹討論遠洲集團的項目。高謙不請自來，與王焱一同調研。廖繁木約王靈均出門，並拜託她通知王家父母來深圳。王家父母得知消息，火速前往深圳。廖繁木和王靈均在機場接雙方父母，並前往酒樓。廖繁木準備向王焱求婚，王靈均向曹坤坤傾訴，感到後悔。"
+          },
+          {
+            "content_id": "VOD00361555",
+            "time_codes": [
+              644000,
+              1432000,
+              2118000
+            ],
+            "timecode_duration": [],
+            "length": 2721000,
+            "asset_id": "vod77314-000006M001",
+            "title": "",
+            "subtitle": "第6集",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746594300000,
+            "vod_channel_description": "廖繁木策劃求婚驚喜，邀請雙方父母見證，卻遭王焱當眾拒絕。王焱直言自己無意結婚生子，早已提出分手。廖繁木試圖挽回，父母卻怒而離席。王焱的父親王開明因激動突發心臟病，被緊急送醫。王開明需手術，王靈均自責未了解姐姐分手的真相。王焱回家後遭母親嚴芳質問，試圖解釋卻無法獲得理解。"
+          },
+          {
+            "content_id": "VOD00361556",
+            "time_codes": [
+              757000,
+              1428000,
+              2179000
+            ],
+            "timecode_duration": [],
+            "length": 2786000,
+            "asset_id": "vod77314-000007M001",
+            "title": "",
+            "subtitle": "第7集",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746597300000,
+            "vod_channel_description": "王焱與母親嚴芳因購房問題爆發衝突，母親為她買房，她卻認為這加重家庭負擔，雙方不歡而散。王焱約廖繁木談清楚，強調自己無法回應感情，也不認可他利用妹妹達成目的。廖繁木受挫，喝醉倒在醫院院子，被王靈均發現並安慰。王靈均為他抱不平，質問王焱，卻被王焱戳破她對廖繁木的感情。"
+          },
+          {
+            "content_id": "VOD00361557",
+            "time_codes": [
+              678000,
+              1393000,
+              2133000
+            ],
+            "timecode_duration": [],
+            "length": 2634000,
+            "asset_id": "vod77314-000008M001",
+            "title": "",
+            "subtitle": "第8集",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746600300000,
+            "vod_channel_description": "王焱與王靈均激烈爭吵，直指妹妹一直暗戀廖繁木，並揭露他曾利用她影響自己。王靈均受傷，向好友曹坤坤傾訴，曹建議她放下執念，獨立生活。王焱父親即將出院，高謙親自接送王家人，令眾人困惑，王靈均暗中揣測姐姐與高謙的關係，偷拍高謙。"
+          },
+          {
+            "content_id": "VOD00361558",
+            "time_codes": [
+              771000,
+              1420000,
+              2158000
+            ],
+            "timecode_duration": [],
+            "length": 2601000,
+            "asset_id": "vod77314-000009M001",
+            "title": "",
+            "subtitle": "第9集",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746603000000,
+            "vod_channel_description": "王靈均偷拍高謙，引發王焱不滿。高謙安排王焱父母入住茶雲度假酒店，讓王開明安心養病。王靈均對高謙動機充滿疑問，並向曹坤坤討論。王靈均無意中透露王焱童年被送人的往事，讓嚴芳內疚，王焱表示並未懷恨在心，王靈均卻口無遮攔，激怒王焱，挨了一巴掌。"
+          },
+          {
+            "content_id": "VOD00361559",
+            "time_codes": [
+              720000,
+              1431000,
+              2175000
+            ],
+            "timecode_duration": [],
+            "length": 2580000,
+            "asset_id": "vod77314-000010M001",
+            "title": "",
+            "subtitle": "第10集",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746605700000,
+            "vod_channel_description": "王焱父母終於同意王靈均留在深圳。曹坤坤與男友魏大勝爭吵，因對方忽視家庭、承諾不兌現而失望。高謙與黎菲成功扭轉菱悅案件危機，王焱準備與葉蓁接洽。高謙提醒她，方勵正安插新人到公司，試圖動搖他的位置。王靈均正式擔任護工，開始思考前途。廖繁木請王焱幫忙安排賈長安侄女工作，王焱爽快答應。"
+          },
+          {
+            "content_id": "VOD00361560",
+            "time_codes": [
+              666000,
+              1420000,
+              2142000
+            ],
+            "timecode_duration": [],
+            "length": 2622000,
+            "asset_id": "vod77314-000011M001",
+            "title": "",
+            "subtitle": "第11集",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746608400000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361561",
+            "time_codes": [
+              716000,
+              1513000,
+              2167000
+            ],
+            "timecode_duration": [],
+            "length": 2601000,
+            "asset_id": "vod77314-000012M001",
+            "title": "",
+            "subtitle": "第12集",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746611100000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361562",
+            "time_codes": [
+              711000,
+              1499000,
+              2178000
+            ],
+            "timecode_duration": [],
+            "length": 2639000,
+            "asset_id": "vod77314-000013M001",
+            "title": "",
+            "subtitle": "第13集",
+            "ep_number": 13,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746613800000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361563",
+            "time_codes": [
+              704000,
+              1452000,
+              2188000
+            ],
+            "timecode_duration": [],
+            "length": 2639000,
+            "asset_id": "vod77314-000014M001",
+            "title": "",
+            "subtitle": "第14集",
+            "ep_number": 14,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746616500000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361564",
+            "time_codes": [
+              717000,
+              1463000,
+              2097000
+            ],
+            "timecode_duration": [],
+            "length": 2585000,
+            "asset_id": "vod77314-000015M001",
+            "title": "",
+            "subtitle": "第15集",
+            "ep_number": 15,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746619200000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361565",
+            "time_codes": [
+              704000,
+              1437000,
+              2188000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod77314-000016M001",
+            "title": "",
+            "subtitle": "第16集",
+            "ep_number": 16,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746621900000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361566",
+            "time_codes": [
+              645000,
+              1511000,
+              2199000
+            ],
+            "timecode_duration": [],
+            "length": 2638000,
+            "asset_id": "vod77314-000017M001",
+            "title": "",
+            "subtitle": "第17集",
+            "ep_number": 17,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746624900000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361567",
+            "time_codes": [
+              656000,
+              1469000,
+              2162000
+            ],
+            "timecode_duration": [],
+            "length": 2659000,
+            "asset_id": "vod77314-000018M001",
+            "title": "",
+            "subtitle": "第18集",
+            "ep_number": 18,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746627600000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361568",
+            "time_codes": [
+              648000,
+              1371000
+            ],
+            "timecode_duration": [],
+            "length": 2526000,
+            "asset_id": "vod77314-000019M001",
+            "title": "",
+            "subtitle": "第19集",
+            "ep_number": 19,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746630600000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361569",
+            "time_codes": [
+              785000,
+              1381000
+            ],
+            "timecode_duration": [],
+            "length": 2455000,
+            "asset_id": "vod77314-000020M001",
+            "title": "",
+            "subtitle": "第20集",
+            "ep_number": 20,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746633300000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361570",
+            "time_codes": [
+              730000,
+              1399000,
+              2079000
+            ],
+            "timecode_duration": [],
+            "length": 2682000,
+            "asset_id": "vod77314-000021M001",
+            "title": "",
+            "subtitle": "第21集",
+            "ep_number": 21,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746636000000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361571",
+            "time_codes": [
+              676000,
+              1390000,
+              2124000
+            ],
+            "timecode_duration": [],
+            "length": 2706000,
+            "asset_id": "vod77314-000022M001",
+            "title": "",
+            "subtitle": "第22集",
+            "ep_number": 22,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746639000000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361572",
+            "time_codes": [
+              697000,
+              1452000,
+              2131000
+            ],
+            "timecode_duration": [],
+            "length": 2687000,
+            "asset_id": "vod77314-000023M001",
+            "title": "",
+            "subtitle": "第23集",
+            "ep_number": 23,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746642000000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361573",
+            "time_codes": [
+              637000,
+              1453000,
+              2146000
+            ],
+            "timecode_duration": [],
+            "length": 2620000,
+            "asset_id": "vod77314-000024M001",
+            "title": "",
+            "subtitle": "第24集",
+            "ep_number": 24,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746645000000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361574",
+            "time_codes": [
+              708000,
+              1444000,
+              2106000
+            ],
+            "timecode_duration": [],
+            "length": 2653000,
+            "asset_id": "vod77314-000025M001",
+            "title": "",
+            "subtitle": "第25集",
+            "ep_number": 25,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746647700000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361575",
+            "time_codes": [
+              706000,
+              1423000,
+              2137000
+            ],
+            "timecode_duration": [],
+            "length": 2743000,
+            "asset_id": "vod77314-000026M001",
+            "title": "",
+            "subtitle": "第26集",
+            "ep_number": 26,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746650700000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361576",
+            "time_codes": [
+              740000,
+              1450000,
+              2116000
+            ],
+            "timecode_duration": [],
+            "length": 2730000,
+            "asset_id": "vod77314-000027M001",
+            "title": "",
+            "subtitle": "第27集",
+            "ep_number": 27,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746653700000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361577",
+            "time_codes": [
+              665000,
+              1381000,
+              2147000
+            ],
+            "timecode_duration": [],
+            "length": 2682000,
+            "asset_id": "vod77314-000028M001",
+            "title": "",
+            "subtitle": "第28集",
+            "ep_number": 28,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746656700000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361578",
+            "time_codes": [
+              680000,
+              1425000,
+              2196000
+            ],
+            "timecode_duration": [],
+            "length": 2639000,
+            "asset_id": "vod77314-000029M001",
+            "title": "",
+            "subtitle": "第29集",
+            "ep_number": 29,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746659700000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361579",
+            "time_codes": [
+              722000,
+              1444000,
+              2112000
+            ],
+            "timecode_duration": [],
+            "length": 2760000,
+            "asset_id": "vod77314-000030M001",
+            "title": "",
+            "subtitle": "第30集",
+            "ep_number": 30,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746662400000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361580",
+            "time_codes": [
+              689000,
+              1382000,
+              2109000
+            ],
+            "timecode_duration": [],
+            "length": 2624000,
+            "asset_id": "vod77314-000031M001",
+            "title": "",
+            "subtitle": "第31集",
+            "ep_number": 31,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746665400000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          },
+          {
+            "content_id": "VOD00361581",
+            "time_codes": [
+              656000,
+              1432000,
+              2161000
+            ],
+            "timecode_duration": [],
+            "length": 2707000,
+            "asset_id": "vod77314-000032M001",
+            "title": "",
+            "subtitle": "第32集",
+            "ep_number": 32,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1746668100000,
+            "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          }
+        ],
+        "total_length": 85277000,
+        "focus_index": 19,
+        "next_index": 20,
+        "time": 1755385,
+        "focus_program": {
+          "content_id": "VOD00361569",
+          "time_codes": [
+            785000,
+            1381000
+          ],
+          "timecode_duration": [],
+          "length": 2455000,
+          "asset_id": "vod77314-000020M001",
+          "title": "",
+          "subtitle": "第20集",
+          "ep_number": 20,
+          "rating": 1,
+          "content_type": "drama",
+          "p_start": 1746633300000,
+          "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "戲劇",
+          "EngName": "Drama",
+          "MenuOrder": 7
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3524_ofiii120_mobile_20241104.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

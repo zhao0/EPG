@@ -1,0 +1,1841 @@
+{
+  "pageProps": {
+    "contentId": "ofiii141",
+    "channel": {
+      "title": "月曜1起玩",
+      "no": 141,
+      "charge_mode": "F",
+      "content_id": "ofiii141",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        18
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3749_ofiii141_tv_20250529.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6683",
+      "trial": "CH_TRAIL",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1748484532.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 141,
+        "cdn_code": "ofiii141",
+        "start_time": 1762053900000,
+        "programs": [
+          {
+            "content_id": "VOD00365573",
+            "time_codes": [
+              796000,
+              1504000
+            ],
+            "timecode_duration": [],
+            "length": 2147000,
+            "asset_id": "vod78209-000001M001",
+            "title": "月曜1起玩 阿公逼露葛",
+            "subtitle": "第1集 阿公帶泱泱遊金門吃喝玩樂之阿公也有VLOG?-金門篇",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762053900000,
+            "vod_channel_description": "邰邰阿公帶泱泱去金門吃喝玩樂！"
+          },
+          {
+            "content_id": "VOD00365574",
+            "time_codes": [
+              675000
+            ],
+            "timecode_duration": [],
+            "length": 1202000,
+            "asset_id": "vod78209-000002M001",
+            "title": "月曜1起玩 阿公逼露葛",
+            "subtitle": "第2集 我誰!?我阿公啦~帶你去台東越山向海!!!-Hood To Coast",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762056300000,
+            "vod_channel_description": "邰哥帶你去台東參加越山向海人車接力賽！"
+          },
+          {
+            "content_id": "VOD00365575",
+            "time_codes": [
+              716000
+            ],
+            "timecode_duration": [],
+            "length": 864000,
+            "asset_id": "vod78209-000003M001",
+            "title": "月曜1起玩 阿公逼露葛",
+            "subtitle": "第3集 濃縮再濃縮!!一探白蘭氏鷄精的秘密 一瓶鷄精的誕生",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762057800000,
+            "vod_channel_description": "濃縮再濃縮！一探白蘭氏鷄精的秘密！"
+          },
+          {
+            "content_id": "VOD00365576",
+            "time_codes": [
+              886000,
+              1642000
+            ],
+            "timecode_duration": [],
+            "length": 2412000,
+            "asset_id": "vod78209-000004M001",
+            "title": "月曜1起玩 阿公逼露葛",
+            "subtitle": "第4集 秋遊嘉義市 邰哥和阿部瑪利亞探訪嘉義市好吃好玩的地方！",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762059000000,
+            "vod_channel_description": "邰哥和阿部瑪利亞探訪嘉義市好吃好玩的地方！"
+          },
+          {
+            "content_id": "VOD00365577",
+            "time_codes": [
+              663000
+            ],
+            "timecode_duration": [],
+            "length": 1341000,
+            "asset_id": "vod78209-000005M001",
+            "title": "月曜1起玩 阿公逼露葛",
+            "subtitle": "第5集 北台灣溫泉旅行 跟著邰邰阿公、瑪利亞桑進行北台灣溫泉旅行！",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762061700000,
+            "vod_channel_description": "跟著邰邰阿公、瑪利亞桑進行北台灣溫泉旅行！"
+          },
+          {
+            "content_id": "VOD00365578",
+            "time_codes": [
+              703000
+            ],
+            "timecode_duration": [],
+            "length": 1317000,
+            "asset_id": "vod78209-000006M001",
+            "title": "月曜1起玩 阿公逼露葛",
+            "subtitle": "第6集 台南篇 阿公帶著泱泱與瑪利亞，來到美食之都台南旅遊！",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762063200000,
+            "vod_channel_description": "阿公帶著泱泱與瑪利亞，來到美食之都台南旅遊！"
+          },
+          {
+            "content_id": "VOD00365579",
+            "time_codes": [
+              787000,
+              1579000
+            ],
+            "timecode_duration": [],
+            "length": 2611000,
+            "asset_id": "vod78209-000007M001",
+            "title": "月曜1起玩 阿公逼露葛",
+            "subtitle": "第7集 南投篇 邰哥、KID、泱泱和瑪利亞到南投挑戰登山！",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762064700000,
+            "vod_channel_description": "邰哥、KID、泱泱和瑪利亞到南投挑戰登山！\n"
+          },
+          {
+            "content_id": "VOD00365580",
+            "time_codes": [
+              806000
+            ],
+            "timecode_duration": [],
+            "length": 1348000,
+            "asset_id": "vod78209-000008M001",
+            "title": "月曜1起玩 阿公逼露葛",
+            "subtitle": "第8集 屏東海生館 小白鯨陪你睡覺！阿公帶你到屏東海生館感受夢幻的夜宿！",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762067400000,
+            "vod_channel_description": "小白鯨陪你睡覺！阿公帶你到屏東海生館感受夢幻的夜宿！"
+          },
+          {
+            "content_id": "VOD00365581",
+            "time_codes": [
+              673000,
+              1158000
+            ],
+            "timecode_duration": [],
+            "length": 1578000,
+            "asset_id": "vod78209-000009M001",
+            "title": "月曜1起玩 阿公逼露葛",
+            "subtitle": "第9集 新北市立淡水古蹟博物館 邰哥帶著木曜二傻到淡水旅遊！",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762068900000,
+            "vod_channel_description": "邰哥帶著木曜二傻到淡水旅遊！"
+          },
+          {
+            "content_id": "VOD00365582",
+            "time_codes": [
+              734000,
+              1366000
+            ],
+            "timecode_duration": [],
+            "length": 1809000,
+            "asset_id": "vod78209-000010M001",
+            "title": "月曜1起玩 阿公逼露葛",
+            "subtitle": "第10集 嘉義縣 比邰哥還資深的劉克襄老師來了！兩個長輩帶大家逛嘉義縣！",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762070700000,
+            "vod_channel_description": "比邰哥還資深的劉克襄老師來了！兩個長輩帶大家逛嘉義縣！"
+          },
+          {
+            "content_id": "VOD00365583",
+            "time_codes": [
+              882000,
+              1688000,
+              2495000
+            ],
+            "timecode_duration": [],
+            "length": 2820000,
+            "asset_id": "vod78209-000011M001",
+            "title": "月曜1起玩 阿公逼露葛",
+            "subtitle": "第11集 廣島篇 邰哥帶著泱泱、瑪利亞在廣島冒險！",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762072800000,
+            "vod_channel_description": "邰哥帶著泱泱、瑪利亞在廣島冒險！"
+          },
+          {
+            "content_id": "VOD00365584",
+            "time_codes": [
+              829000,
+              1805000,
+              2408000
+            ],
+            "timecode_duration": [],
+            "length": 2723000,
+            "asset_id": "vod78209-000012M001",
+            "title": "月曜1起玩 阿公逼露葛",
+            "subtitle": "第12集 檳城篇、橫濱&江之島篇 邰哥與泱泱到馬來西亞檳城吃美食，接著到日本橫濱與江之島旅遊！",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762075800000,
+            "vod_channel_description": "邰哥與泱泱到馬來西亞檳城吃美食，接著到日本橫濱與江之島旅遊！"
+          },
+          {
+            "content_id": "VOD00365586",
+            "time_codes": [
+              661000,
+              1344000
+            ],
+            "timecode_duration": [],
+            "length": 1945000,
+            "asset_id": "vod78210-000001M001",
+            "title": "月曜1起玩 野人Vlog",
+            "subtitle": "第1集 台東達魯瑪克生態區  KID與泱泱的野人生活，整座山都是泱泱的野味！",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762078800000,
+            "vod_channel_description": " KID與泱泱的野人生活，整座山都是泱泱的野味！"
+          },
+          {
+            "content_id": "VOD00365587",
+            "time_codes": [
+              734000,
+              1421000
+            ],
+            "timecode_duration": [],
+            "length": 2218000,
+            "asset_id": "vod78210-000002M001",
+            "title": "月曜1起玩 野人Vlog",
+            "subtitle": "第2集 小琉球篇 老闆Eric親自上陣，跟著KID一起到小琉球瘋跨年！",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762080900000,
+            "vod_channel_description": "老闆Eric親自上陣，跟著KID一起到小琉球瘋跨年！"
+          },
+          {
+            "content_id": "VOD00365588",
+            "time_codes": [
+              861000,
+              1595000,
+              2198000
+            ],
+            "timecode_duration": [],
+            "length": 2932000,
+            "asset_id": "vod78210-000003M001",
+            "title": "月曜1起玩 野人Vlog",
+            "subtitle": "第3集 嘎拉賀溫泉 野人KID帶你玩爆嘎拉賀野溪溫泉！",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762083300000,
+            "vod_channel_description": "野人KID帶你玩爆嘎拉賀野溪溫泉！"
+          },
+          {
+            "content_id": "VOD00365589",
+            "time_codes": [
+              824000,
+              1587000,
+              2270000
+            ],
+            "timecode_duration": [],
+            "length": 2582000,
+            "asset_id": "vod78210-000004M001",
+            "title": "月曜1起玩 野人Vlog",
+            "subtitle": "第4集 海釣篇 偶像坤達野一波！KID野人封號不保啦！",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762086300000,
+            "vod_channel_description": "偶像坤達野一波！KID野人封號不保啦！"
+          },
+          {
+            "content_id": "VOD00365590",
+            "time_codes": [
+              717000,
+              1512000,
+              1920000
+            ],
+            "timecode_duration": [],
+            "length": 2286000,
+            "asset_id": "vod78210-000005M001",
+            "title": "月曜1起玩 野人Vlog",
+            "subtitle": "第5集 金門篇 KID帶上泱泱與瑪利亞去金門當網美辣！",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762089000000,
+            "vod_channel_description": "KID帶上泱泱與瑪利亞去金門當網美辣！"
+          },
+          {
+            "content_id": "VOD00365591",
+            "time_codes": [
+              759000,
+              1660000,
+              2301000
+            ],
+            "timecode_duration": [],
+            "length": 2582000,
+            "asset_id": "vod78210-000006M001",
+            "title": "月曜1起玩 野人Vlog",
+            "subtitle": "第6集 嘉義茶山部落篇 跟著KID來去部落！帶坤達、溫妮深入山林野炊！",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762091400000,
+            "vod_channel_description": "跟著KID來去部落！帶坤達、溫妮深入山林野炊！"
+          },
+          {
+            "content_id": "VOD00365592",
+            "time_codes": [
+              775000,
+              1467000
+            ],
+            "timecode_duration": [],
+            "length": 2008000,
+            "asset_id": "vod78210-000007M001",
+            "title": "月曜1起玩 野人Vlog",
+            "subtitle": "第7集 里昂篇 KID來到法國當獵人了！真槍實彈打獵去！",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762094100000,
+            "vod_channel_description": "KID來到法國當獵人了！真槍實彈打獵去！"
+          },
+          {
+            "content_id": "VOD00365593",
+            "time_codes": [
+              729000,
+              1562000,
+              2199000
+            ],
+            "timecode_duration": [],
+            "length": 2329000,
+            "asset_id": "vod78210-000008M001",
+            "title": "月曜1起玩 野人Vlog",
+            "subtitle": "第8集 遊艇駕駛訓練課 海上男兒的圓夢計畫！KID菇變船長啦！",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762096200000,
+            "vod_channel_description": "海上男兒的圓夢計畫！KID菇變船長啦！"
+          },
+          {
+            "content_id": "VOD00360561",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 739000,
+            "asset_id": "vod77135-000001M001",
+            "title": "月曜1起玩 上班去吃飯",
+            "subtitle": "第1集 跟著照明阿公、蕾拉上班前先嗑個烤鴨全餐 FT.王品集團享鴨",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762098600000,
+            "vod_channel_description": "邰哥帶著工作人員翹班吃飯去，看看他們享用了哪些美食吧！"
+          },
+          {
+            "content_id": "VOD00360562",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 657000,
+            "asset_id": "vod77135-000002M001",
+            "title": "月曜1起玩 上班去吃飯",
+            "subtitle": "第2集 丐幫出動!邰哥帶三傻來麥當勞吃到飽啦!!!feat.麥當勞",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762099500000,
+            "vod_channel_description": "邰哥帶著工作人員翹班吃飯去，看看他們享用了哪些美食吧！"
+          },
+          {
+            "content_id": "VOD00360563",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1056000,
+            "asset_id": "vod77135-000003M001",
+            "title": "月曜1起玩 上班去吃飯",
+            "subtitle": "第3集 悶鍋同學會!!邰哥跟洪都拉斯和安心亞一起吃火鍋聊聊天~~",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762100400000,
+            "vod_channel_description": "邰哥帶著工作人員翹班吃飯去，看看他們享用了哪些美食吧！"
+          },
+          {
+            "content_id": "VOD00360564",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1005000,
+            "asset_id": "vod77135-000004M001",
+            "title": "月曜1起玩 上班去吃飯",
+            "subtitle": "第4集 丐幫又出動啦啦啦啦 到底要不要讓KID好好說話XDD feat. Chili｀s美式餐廳",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762101600000,
+            "vod_channel_description": "邰哥帶著工作人員翹班吃飯去，看看他們享用了哪些美食吧！"
+          },
+          {
+            "content_id": "VOD00360565",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 891000,
+            "asset_id": "vod77135-000005M001",
+            "title": "月曜1起玩 上班去吃飯",
+            "subtitle": "第5集 邰哥去餐酒館約會的對象是泱泱!? feat. Spice Cuisine",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762102800000,
+            "vod_channel_description": "邰哥帶著工作人員翹班吃飯去，看看他們享用了哪些美食吧！"
+          },
+          {
+            "content_id": "VOD00360566",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 895000,
+            "asset_id": "vod77135-000006M001",
+            "title": "月曜1起玩 上班去吃飯",
+            "subtitle": "第6集 丐幫丐到新竹啦！邰哥不藏私出團來去吃串燒 feat. 私嚐居酒屋",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762104000000,
+            "vod_channel_description": "邰哥帶著工作人員翹班吃飯去，看看他們享用了哪些美食吧！"
+          },
+          {
+            "content_id": "VOD00360567",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1164000,
+            "asset_id": "vod77135-000007M001",
+            "title": "月曜1起玩 上班去吃飯",
+            "subtitle": "第7集 丐一餐大的!老人吃到老菜就是特別興奮 feat. 老協珍",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762105200000,
+            "vod_channel_description": "邰哥帶著工作人員翹班吃飯去，看看他們享用了哪些美食吧！"
+          },
+          {
+            "content_id": "VOD00360568",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1020000,
+            "asset_id": "vod77135-000008M001",
+            "title": "月曜1起玩 上班去吃飯",
+            "subtitle": "第8集 天氣冷來看邰哥帶著泱泱、瑪利亞吃鍋喝酒暖心又暖胃~~ feat 享鍋酒館",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762106700000,
+            "vod_channel_description": "邰哥帶著工作人員翹班吃飯去，看看他們享用了哪些美食吧！"
+          },
+          {
+            "content_id": "VOD00360569",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 690000,
+            "asset_id": "vod77135-000009M001",
+            "title": "月曜1起玩 上班去吃飯",
+            "subtitle": "第9集 邰哥KID瑪利亞突襲麥當勞得來速！究竟店員的反應會是？！feat.麥當勞",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762107900000,
+            "vod_channel_description": "邰哥帶著工作人員翹班吃飯去，看看他們享用了哪些美食吧！"
+          },
+          {
+            "content_id": "VOD00360570",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 834000,
+            "asset_id": "vod77135-000010M001",
+            "title": "月曜1起玩 上班去吃飯",
+            "subtitle": "第10集 丐幫出動！邰哥帶上坤達泱泱享用超欠吃的頂級和牛吃到飽！feat.嚮辣",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762108800000,
+            "vod_channel_description": "邰哥帶著工作人員翹班吃飯去，看看他們享用了哪些美食吧！"
+          },
+          {
+            "content_id": "VOD00360571",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 928000,
+            "asset_id": "vod77135-000011M001",
+            "title": "月曜1起玩 上班去吃飯",
+            "subtitle": "第11集 這次丐到國宴大餐！？到底要點多少啦！ feat. 翰林茶館",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762110000000,
+            "vod_channel_description": "邰哥帶著工作人員翹班吃飯去，看看他們享用了哪些美食吧！"
+          },
+          {
+            "content_id": "VOD00360572",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1031000,
+            "asset_id": "vod77135-000012M001",
+            "title": "月曜1起玩 上班去吃飯",
+            "subtitle": "第12集 丐幫放暑假！日式A5和牛不準備個七八十盤～我們可是不走的哦！！feat. 和牛涮",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762111200000,
+            "vod_channel_description": "邰哥帶著工作人員翹班吃飯去，看看他們享用了哪些美食吧！"
+          },
+          {
+            "content_id": "VOD00360573",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 907000,
+            "asset_id": "vod77135-000013M001",
+            "title": "月曜1起玩 上班去吃飯",
+            "subtitle": "第13集 CP值爆表的石頭火鍋店來了!超巨大雞佛來襲!!木曜三女神是否能接下這招呢 feat. 萬客什鍋",
+            "ep_number": 13,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762112400000,
+            "vod_channel_description": "邰哥帶著工作人員翹班吃飯去，看看他們享用了哪些美食吧！"
+          },
+          {
+            "content_id": "VOD00360574",
+            "time_codes": [
+              1104000
+            ],
+            "timecode_duration": [],
+            "length": 1610000,
+            "asset_id": "vod77135-000014M001",
+            "title": "月曜1起玩 上班去吃飯",
+            "subtitle": "第14集 邰哥婉拒吳慷仁演戲邀約..？愛意濃烈吃飯去 feat.芝司樂",
+            "ep_number": 14,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762113600000,
+            "vod_channel_description": "邰哥帶著工作人員翹班吃飯去，看看他們享用了哪些美食吧！"
+          },
+          {
+            "content_id": "VOD00360575",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 949000,
+            "asset_id": "vod77135-000015M001",
+            "title": "月曜1起玩 上班去吃飯",
+            "subtitle": "第15集 王品把拔生日快樂！讓木曜丐幫一起吃飯～又度過一餐溫飽啦！feat. 王品",
+            "ep_number": 15,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762115400000,
+            "vod_channel_description": "邰哥帶著工作人員翹班吃飯去，看看他們享用了哪些美食吧！"
+          },
+          {
+            "content_id": "VOD00360576",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 936000,
+            "asset_id": "vod77135-000016M001",
+            "title": "月曜1起玩 上班去吃飯",
+            "subtitle": "第16集 這...太有水準了嘛！丐到新竹找到沙漠中的綠洲！feat. 私嚐小聚",
+            "ep_number": 16,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762116600000,
+            "vod_channel_description": "邰哥帶著工作人員翹班吃飯去，看看他們享用了哪些美食吧！"
+          },
+          {
+            "content_id": "VOD00360577",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 859000,
+            "asset_id": "vod77135-000017M001",
+            "title": "月曜1起玩 上班去吃飯",
+            "subtitle": "第17集 這個鍋有多狂？跟著阿公來吃一次就知道！ feat. 狂一鍋",
+            "ep_number": 17,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762117800000,
+            "vod_channel_description": "邰哥帶著工作人員翹班吃飯去，看看他們享用了哪些美食吧！"
+          },
+          {
+            "content_id": "VOD00365566",
+            "time_codes": [
+              680000,
+              1451000
+            ],
+            "timecode_duration": [],
+            "length": 2199000,
+            "asset_id": "vod78208-000001M001",
+            "title": "木曜塔庫希",
+            "subtitle": "第1集 山佳 沒有計畫的旅行！邰哥帶領旅伴江江，意外發掘七十年老店，重返小時候的記憶！",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762119000000,
+            "vod_channel_description": "沒有計畫的旅行！邰哥帶領旅伴江江，意外發掘七十年老店，重返小時候的記憶！"
+          },
+          {
+            "content_id": "VOD00365567",
+            "time_codes": [
+              755000,
+              1466000
+            ],
+            "timecode_duration": [],
+            "length": 2008000,
+            "asset_id": "vod78208-000002M001",
+            "title": "木曜塔庫希",
+            "subtitle": "第2集 大村 沒人一起下車的車站！邰哥能夠順利找到塔庫希嗎？在地人私藏宵夜首選及超隱秘店舖！",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762121400000,
+            "vod_channel_description": "沒人一起下車的車站！邰哥能夠順利找到塔庫希嗎？在地人私藏宵夜首選及超隱秘店舖！"
+          },
+          {
+            "content_id": "VOD00365568",
+            "time_codes": [
+              741000
+            ],
+            "timecode_duration": [],
+            "length": 1268000,
+            "asset_id": "vod78208-000003M001",
+            "title": "木曜塔庫希",
+            "subtitle": "第3集 雙溪 巧遇KID、明星臉帥司機伴遊！整集都是Set的？邰哥隨性旅遊到底還會碰到什麼驚喜？",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762123500000,
+            "vod_channel_description": "巧遇KID、明星臉帥司機伴遊！整集都是Set的？邰哥隨性旅遊到底還會碰到什麼驚喜？"
+          },
+          {
+            "content_id": "VOD00365569",
+            "time_codes": [
+              616000
+            ],
+            "timecode_duration": [],
+            "length": 1319000,
+            "asset_id": "vod78208-000004M001",
+            "title": "木曜塔庫希",
+            "subtitle": "第4集 石龜 節目再拍下去真的要選總統了啦！邰照明、邰智源傻傻分不清楚？",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762125000000,
+            "vod_channel_description": "節目再拍下去真的要選總統了啦！邰照明、邰智源傻傻分不清楚？"
+          },
+          {
+            "content_id": "VOD00365570",
+            "time_codes": [
+              681000
+            ],
+            "timecode_duration": [],
+            "length": 1271000,
+            "asset_id": "vod78208-000005M001",
+            "title": "木曜塔庫希",
+            "subtitle": "第5集 後壁 新團體2266出現？邰哥、江江去哪哪都沒開！節目還拍得下去嗎？",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762126500000,
+            "vod_channel_description": "新團體2266出現？邰哥、江江去哪哪都沒開！節目還拍得下去嗎？"
+          },
+          {
+            "content_id": "VOD00365571",
+            "time_codes": [
+              685000
+            ],
+            "timecode_duration": [],
+            "length": 1370000,
+            "asset_id": "vod78208-000006M001",
+            "title": "木曜塔庫希",
+            "subtitle": "第6集 嘉義 好吃好玩的車站登場！在地傳奇美食、五層樓高的盪鞦韆活動，邰哥會上場挑戰嗎？",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762128000000,
+            "vod_channel_description": "好吃好玩的車站登場！在地傳奇美食、五層樓高的盪鞦韆活動，邰哥會上場挑戰嗎？"
+          },
+          {
+            "content_id": "VOD00365605",
+            "time_codes": [
+              973000,
+              1630000
+            ],
+            "timecode_duration": [],
+            "length": 2027000,
+            "asset_id": "vod78212-000001M001",
+            "title": "木曜4超玩 躲藏吧明星",
+            "subtitle": "第1集 大馬女神何念茲、邰哥、Kid來到台北公館進行任務！",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762129500000,
+            "vod_channel_description": "大馬女神何念茲、邰哥、Kid來到台北公館進行任務！"
+          },
+          {
+            "content_id": "VOD00365606",
+            "time_codes": [
+              945000,
+              1443000,
+              2235000
+            ],
+            "timecode_duration": [],
+            "length": 2515000,
+            "asset_id": "vod78212-000003M001",
+            "title": "木曜4超玩 躲藏吧明星",
+            "subtitle": "第3集 經典再次回歸！邰哥、KID、泱泱、溫妮首度合體挑戰！他們會成功達成任務嗎？",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762131600000,
+            "vod_channel_description": "經典再次回歸！邰哥、KID、泱泱、溫妮首度合體挑戰！他們會成功達成任務嗎？"
+          },
+          {
+            "content_id": "VOD00365607",
+            "time_codes": [
+              1277000,
+              1781000,
+              2289000,
+              2823000,
+              3640000,
+              4091000
+            ],
+            "timecode_duration": [],
+            "length": 4768000,
+            "asset_id": "vod78212-000004M001",
+            "title": "木曜4超玩 躲藏吧明星",
+            "subtitle": "第4集 邰KID溫泱再次參戰！坤達竟然也來參一腳！KID飯碗將不保？",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762134300000,
+            "vod_channel_description": "邰KID溫泱再次參戰！坤達竟然也來參一腳！KID飯碗將不保？"
+          },
+          {
+            "content_id": "VOD00365608",
+            "time_codes": [
+              1129000,
+              1563000,
+              2029000,
+              2760000,
+              3380000,
+              3922000,
+              4675000,
+              5169000,
+              5692000
+            ],
+            "timecode_duration": [],
+            "length": 6106000,
+            "asset_id": "vod78212-000005M001",
+            "title": "木曜4超玩 躲藏吧明星",
+            "subtitle": "第5集 六大金剛已經夠難躲，蛇丸胡椒又來參戰，我看你們怎麼躲？",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762139400000,
+            "vod_channel_description": "六大金剛已經夠難躲，蛇丸胡椒又來參戰，我看你們怎麼躲？"
+          },
+          {
+            "content_id": "VOD00365551",
+            "time_codes": [
+              890000,
+              1362000,
+              2302000,
+              2759000,
+              3332000,
+              3776000,
+              4301000,
+              5383000
+            ],
+            "timecode_duration": [],
+            "length": 5977000,
+            "asset_id": "vod78205-000001M001",
+            "title": "木曜4超玩 一日料理大賽",
+            "subtitle": "第1集 食神降臨！木曜4超玩舉辦一日料理大賽！",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762145700000,
+            "vod_channel_description": "食神降臨！木曜4超玩舉辦一日料理大賽！"
+          },
+          {
+            "content_id": "VOD00365552",
+            "time_codes": [
+              1274000,
+              2048000,
+              2675000,
+              3247000,
+              3744000,
+              4441000,
+              4828000,
+              5290000,
+              5842000,
+              6490000
+            ],
+            "timecode_duration": [],
+            "length": 7075000,
+            "asset_id": "vod78205-000002M001",
+            "title": "木曜4超玩 一日料理大賽",
+            "subtitle": "第2集 恩怨先拋在一邊，這次我們一起完成愛的料理！",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762152000000,
+            "vod_channel_description": "恩怨先拋在一邊，這次我們一起完成愛的料理！"
+          },
+          {
+            "content_id": "VOD00365595",
+            "time_codes": [
+              1075000,
+              2095000,
+              3013000,
+              4087000,
+              4878000
+            ],
+            "timecode_duration": [],
+            "length": 5451000,
+            "asset_id": "vod78211-000001M001",
+            "title": "木曜4超玩 週刊少年",
+            "subtitle": "第1集 全新日本旅遊單元！木曜三組主持人帶你玩爆大阪京都！",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762159200000,
+            "vod_channel_description": "全新日本旅遊單元！木曜三組主持人帶你玩爆大阪京都！"
+          },
+          {
+            "content_id": "VOD00365596",
+            "time_codes": [
+              1050000,
+              2147000,
+              3107000,
+              4146000
+            ],
+            "timecode_duration": [],
+            "length": 4778000,
+            "asset_id": "vod78211-000002M001",
+            "title": "木曜4超玩 週刊少年",
+            "subtitle": "第2集 來去箱根大阪京都玩！一起看木曜主持人的成長之旅！",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762164900000,
+            "vod_channel_description": "來去箱根大阪京都玩！一起看木曜主持人的成長之旅！"
+          },
+          {
+            "content_id": "VOD00365597",
+            "time_codes": [
+              1104000,
+              2219000,
+              3066000,
+              4029000,
+              4944000
+            ],
+            "timecode_duration": [],
+            "length": 5465000,
+            "asset_id": "vod78211-000003M001",
+            "title": "木曜4超玩 週刊少年",
+            "subtitle": "第3集 木曜日本之旅！有人戀愛大吉、還有人遺失大件行李？",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762170000000,
+            "vod_channel_description": "木曜日本之旅！有人戀愛大吉、還有人遺失大件行李？"
+          },
+          {
+            "content_id": "VOD00365598",
+            "time_codes": [
+              1078000,
+              2219000,
+              3100000,
+              4175000,
+              5178000
+            ],
+            "timecode_duration": [],
+            "length": 6131000,
+            "asset_id": "vod78211-000004M001",
+            "title": "木曜4超玩 週刊少年",
+            "subtitle": "第4集 邰哥日本街頭大變身！這麼帥的阿公你肯定沒看過！",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762175700000,
+            "vod_channel_description": "邰哥日本街頭大變身！這麼帥的阿公你肯定沒看過！"
+          },
+          {
+            "content_id": "VOD00365599",
+            "time_codes": [
+              1032000,
+              2197000,
+              3199000,
+              4187000,
+              5106000,
+              6193000
+            ],
+            "timecode_duration": [],
+            "length": 7228000,
+            "asset_id": "vod78211-000005M001",
+            "title": "木曜4超玩 週刊少年",
+            "subtitle": "第5集 和木曜一起去環球影城玩超級任天堂世界、還有一年只有一天的鞍馬山火祭！",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762182000000,
+            "vod_channel_description": "和木曜一起去環球影城玩超級任天堂世界、還有一年只有一天的鞍馬山火祭！"
+          },
+          {
+            "content_id": "VOD00365600",
+            "time_codes": [
+              1030000,
+              2079000,
+              3067000,
+              4078000,
+              4982000,
+              5927000,
+              6829000,
+              7890000,
+              8698000,
+              9430000
+            ],
+            "timecode_duration": [],
+            "length": 10274000,
+            "asset_id": "vod78211-000006M001",
+            "title": "木曜4超玩 週刊少年",
+            "subtitle": "第6集 泱部帶你玩大阪開眼界！吃遍老店可樂餅、黃金神炒飯、摩登新懷石，還有神聖的火祭典必看！",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762189500000,
+            "vod_channel_description": "泱部帶你玩大阪開眼界！吃遍老店可樂餅、黃金神炒飯、摩登新懷石，還有神聖的火祭典必看！"
+          },
+          {
+            "content_id": "VOD00365601",
+            "time_codes": [
+              1099000,
+              2211000,
+              3191000,
+              4157000,
+              5099000,
+              6204000,
+              7255000,
+              8306000,
+              8921000
+            ],
+            "timecode_duration": [],
+            "length": 9503000,
+            "asset_id": "vod78211-000007M001",
+            "title": "木曜4超玩 週刊少年",
+            "subtitle": "第7集 達部兄妹帶你到清水寺參拜、夜訪高台寺、嵐山小火車，還有海鷗餵食紀錄！",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762200000000,
+            "vod_channel_description": "達部兄妹帶你到清水寺參拜、夜訪高台寺、嵐山小火車，還有海鷗餵食紀錄！"
+          },
+          {
+            "content_id": "VOD00365602",
+            "time_codes": [
+              1180000,
+              2137000,
+              3177000,
+              4163000,
+              5250000,
+              6289000,
+              7212000,
+              8284000,
+              9450000,
+              10461000
+            ],
+            "timecode_duration": [],
+            "length": 11445000,
+            "asset_id": "vod78211-000008M001",
+            "title": "木曜4超玩 週刊少年",
+            "subtitle": "第8集 木曜環球影城、上野公園、箱根大涌谷、平和鳥居、還有美國街採購紙娃娃套裝！",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762209600000,
+            "vod_channel_description": "木曜環球影城、上野公園、箱根大涌谷、平和鳥居、還有美國街採購紙娃娃套裝！"
+          },
+          {
+            "content_id": "VOD00365603",
+            "time_codes": [
+              1114000,
+              2105000,
+              3259000
+            ],
+            "timecode_duration": [],
+            "length": 3979000,
+            "asset_id": "vod78211-000009M001",
+            "title": "木曜4超玩 週刊少年",
+            "subtitle": "第9集 木曜的日本之旅花絮全都在這裡！",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762221300000,
+            "vod_channel_description": "木曜的日本之旅花絮全都在這裡！"
+          },
+          {
+            "content_id": "VOD00365554",
+            "time_codes": [
+              321000,
+              1275000,
+              1723000,
+              2276000,
+              2840000,
+              3337000,
+              3919000,
+              4937000,
+              5587000,
+              6109000
+            ],
+            "timecode_duration": [],
+            "length": 7149000,
+            "asset_id": "vod78206-000001M001",
+            "title": "木曜4超玩 一個屋簷下",
+            "subtitle": "第1集 新板巨星 當木曜成員住在一個屋簷下時，會產生什麼火花呢？",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762225500000,
+            "vod_channel_description": "當木曜成員住在一個屋簷下時，會產生什麼火花呢？"
+          },
+          {
+            "content_id": "VOD00365555",
+            "time_codes": [
+              825000,
+              1386000,
+              2114000,
+              2839000,
+              3591000,
+              4433000,
+              4973000,
+              5588000,
+              6033000,
+              6325000
+            ],
+            "timecode_duration": [],
+            "length": 6647000,
+            "asset_id": "vod78206-000002M001",
+            "title": "木曜4超玩 一個屋簷下",
+            "subtitle": "第2集 宜蘭冬山鄉 木曜再次住在一個屋簷下，一起探索宜蘭冬山鄉！",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762233000000,
+            "vod_channel_description": "木曜再次住在一個屋簷下，一起探索宜蘭冬山鄉！"
+          },
+          {
+            "content_id": "VOD00365556",
+            "time_codes": [
+              849000,
+              1298000,
+              1817000,
+              2275000,
+              2833000,
+              3807000,
+              4370000,
+              5062000,
+              5657000,
+              6939000,
+              7598000,
+              8459000,
+              9213000
+            ],
+            "timecode_duration": [],
+            "length": 9686000,
+            "asset_id": "vod78206-000003M001",
+            "title": "木曜4超玩 一個屋簷下",
+            "subtitle": "第3集 苗栗 木曜成員加上Youtuber羽球隊同住，會有什麼新鮮事？",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762239900000,
+            "vod_channel_description": "木曜成員加上Youtuber羽球隊同住，會有什麼新鮮事？"
+          },
+          {
+            "content_id": "VOD00365557",
+            "time_codes": [
+              1179000,
+              1869000,
+              2290000,
+              2842000,
+              3437000,
+              4328000
+            ],
+            "timecode_duration": [],
+            "length": 4656000,
+            "asset_id": "vod78206-000004M001",
+            "title": "木曜4超玩 一個屋簷下",
+            "subtitle": "第4集 峇里島(上) 木曜來到峇里島入住Club Med，為實習生舉辦畢業旅行！",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762249800000,
+            "vod_channel_description": "木曜來到峇里島入住Club Med，為實習生舉辦畢業旅行！"
+          },
+          {
+            "content_id": "VOD00365558",
+            "time_codes": [
+              860000,
+              1454000,
+              2199000,
+              2705000,
+              3403000,
+              3969000,
+              4740000
+            ],
+            "timecode_duration": [],
+            "length": 5361000,
+            "asset_id": "vod78206-000005M001",
+            "title": "木曜4超玩 一個屋簷下",
+            "subtitle": "第5集 峇里島(下) 木曜海島生存戰，夜晚的真心話大冒險逼哭了誰？！",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762254600000,
+            "vod_channel_description": "木曜海島生存戰，夜晚的真心話大冒險逼哭了誰？！"
+          },
+          {
+            "content_id": "VOD00360579",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 462000,
+            "asset_id": "vod76621-010001M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第1集 跟邰哥吃五之神沾麵",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762260300000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360580",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1096000,
+            "asset_id": "vod76621-010002M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第2集 跟著邰邰、阿ken一起吃創意料理 顛覆你的味蕾 feat. 阿Ken",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762260900000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360581",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1107000,
+            "asset_id": "vod76621-010003M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第3集 HOWHOW來啦!!究竟How ger下班會吃什麼呢!?邰哥帶你來揭曉!! feat. HowHow",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762262400000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360582",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 912000,
+            "asset_id": "vod76621-010004M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第4集 美食老人遇到美食廢人～準備開動啦！feat. 呱吉",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762263900000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360583",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 895000,
+            "asset_id": "vod76621-010005M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第5集 怕香菜陣容再現，這次不去收成香菜!!!準備美食大吃一頓!!! feat. 眼球中央電視台",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762265100000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360584",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1239000,
+            "asset_id": "vod76621-010006M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第6集 木柵男神與木曜老人～第一次飯局就要獻上奶頭？！feat.瘦子E.SO",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762266300000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360585",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 891000,
+            "asset_id": "vod76621-010007M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第7集 今晚我想來點…醬燒雙丸！首次帶著瑪利亞和達哥一起吃爆潮州！！！feat. 大蛇丸",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762267800000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360586",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 735000,
+            "asset_id": "vod76621-010008M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第8集 大阿的女神痴痴來了!!純吃飯黃標走開 feat.白癡公主",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762269000000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360587",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1143000,
+            "asset_id": "vod76621-010009M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第9集 國際巨星來跟邰哥一起吃飯了!! feat.劉以豪",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762269900000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360588",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 901000,
+            "asset_id": "vod76621-010010M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第10集 今天來點LOCAL的!!玖壹壹帶著邰哥酒足飯飽啦 feat.玖壹壹",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762271400000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360589",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1048000,
+            "asset_id": "vod76621-010011M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第11集 演唱會過後的激情！黃明志帶邰哥吃神級串燒！feat.黃明志",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762272600000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360590",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1083000,
+            "asset_id": "vod76621-010012M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第12集 到底～哪個東西才是可以吃的啦？！feat.動力火車",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762273800000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360591",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1054000,
+            "asset_id": "vod76621-010013M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第13集 練肖話的阿公搭上練太壯的博恩～這支播出去會被炎上嗎? feat.博恩",
+            "ep_number": 13,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762275300000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360592",
+            "time_codes": [
+              804000
+            ],
+            "timecode_duration": [],
+            "length": 1480000,
+            "asset_id": "vod76621-010014M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第14集 那隻魚仔終於游到木曜啦！！ feat. 盧廣仲 Crowd Lu",
+            "ep_number": 14,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762276500000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360593",
+            "time_codes": [
+              1054000
+            ],
+            "timecode_duration": [],
+            "length": 1510000,
+            "asset_id": "vod76621-010015M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第15集 肥男幫VS丐幫！兩大幫主大淵跟邰哥會擦出什麼火花！？ feat. 大淵",
+            "ep_number": 15,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762278300000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360594",
+            "time_codes": [
+              807000,
+              1272000,
+              2327000
+            ],
+            "timecode_duration": [],
+            "length": 2382000,
+            "asset_id": "vod76621-010016M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第16集 音樂才子ØZI重新定義星二代標籤，與木曜老人上演父與子？！feat. ØZI",
+            "ep_number": 16,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762280100000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360595",
+            "time_codes": [
+              879000,
+              1380000
+            ],
+            "timecode_duration": [],
+            "length": 1943000,
+            "asset_id": "vod76621-010017M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第17集 仔仔與哮天合體？！多年不見兄弟倆終於重逢啦！ feat. 周渝民",
+            "ep_number": 17,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762282800000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360596",
+            "time_codes": [
+              628000,
+              1376000
+            ],
+            "timecode_duration": [],
+            "length": 1873000,
+            "asset_id": "vod76621-010018M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第18集 這次不打球！熟悉的桌球界英雄們再次登場！feat. 莊智淵、陳思羽",
+            "ep_number": 18,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762284900000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360597",
+            "time_codes": [
+              1178000
+            ],
+            "timecode_duration": [],
+            "length": 1657000,
+            "asset_id": "vod76621-010019M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第19集 啥款?!!!智源你比我想的閣較偉大!!!愛吃茄子的茄子蛋來了 feat.茄子蛋",
+            "ep_number": 19,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762287000000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360598",
+            "time_codes": [
+              1298000
+            ],
+            "timecode_duration": [],
+            "length": 1800000,
+            "asset_id": "vod76621-010020M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第20集 他是偶像中的偶像，也是地質學家！炎P成長史！ feat.炎亞綸",
+            "ep_number": 20,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762288800000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360599",
+            "time_codes": [
+              966000
+            ],
+            "timecode_duration": [],
+            "length": 1276000,
+            "asset_id": "vod76621-010021M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第21集 讓心臟體驗撞擊的感覺!!八三夭來啦!!邰哥心臟承受得住嗎? feat. 八三夭",
+            "ep_number": 21,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762290900000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360600",
+            "time_codes": [
+              774000,
+              1456000
+            ],
+            "timecode_duration": [],
+            "length": 1904000,
+            "asset_id": "vod76621-010022M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第22集 今年最值得你認識的人！黃宣化身新朋友傑克！！狂到可能只有邰哥Hold得住！？feat. 黃宣 and 神準阿伯",
+            "ep_number": 22,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762292400000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360601",
+            "time_codes": [
+              833000,
+              1355000
+            ],
+            "timecode_duration": [],
+            "length": 1917000,
+            "asset_id": "vod76621-010023M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第23集 公主駕到！邰哥準備好被珊妮老師好好「調教」一番了嗎！？ feat. 陳珊妮",
+            "ep_number": 23,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762294500000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360602",
+            "time_codes": [
+              1027000
+            ],
+            "timecode_duration": [],
+            "length": 1615000,
+            "asset_id": "vod76621-010024M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第24集 邰哥想挑戰饒舌之路...但你得先跟上我的Flow！feat. 熊仔",
+            "ep_number": 24,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762296600000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360603",
+            "time_codes": [
+              714000
+            ],
+            "timecode_duration": [],
+            "length": 1519000,
+            "asset_id": "vod76621-010025M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第25集 模仿界的都這麼Real？！敏感話題連發～這支差點剩5分鐘 feat. 阿翰 aka 算命阿姨、阮月嬌",
+            "ep_number": 25,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762298400000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360604",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1210000,
+            "asset_id": "vod76621-010026M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第26集 今天想讓邰哥來點不一樣的！意外促成粉絲見面會！？ feat.陳柏霖、郭雪芙",
+            "ep_number": 26,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762300200000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360605",
+            "time_codes": [
+              945000
+            ],
+            "timecode_duration": [],
+            "length": 1473000,
+            "asset_id": "vod76621-010027M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第27集 不准剪！我都播！邰哥的霸氣發言讓高爾宣扛不住啦！ feat.高爾宣",
+            "ep_number": 27,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762301700000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360606",
+            "time_codes": [
+              840000
+            ],
+            "timecode_duration": [],
+            "length": 1288000,
+            "asset_id": "vod76621-010028M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第28集 邰哥想跟9m88一起唱台語爵士跟演電影,有機會成功嗎?! feat.9m88",
+            "ep_number": 28,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762303500000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360607",
+            "time_codes": [
+              990000,
+              1477000
+            ],
+            "timecode_duration": [],
+            "length": 1765000,
+            "asset_id": "vod76621-010029M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第29集 跟邰哥做伙直擊吳青峰家餐桌！吳馬麻颯爽登場 feat.吳青峰",
+            "ep_number": 29,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762305000000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360608",
+            "time_codes": [
+              848000
+            ],
+            "timecode_duration": [],
+            "length": 1593000,
+            "asset_id": "vod76621-010030M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第30集 粉絲遍佈全世界！落日飛車竟然邀請邰哥參與國際巡迴!? feat. 落日飛車 國國",
+            "ep_number": 30,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762307100000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360609",
+            "time_codes": [
+              1057000
+            ],
+            "timecode_duration": [],
+            "length": 1677000,
+            "asset_id": "vod76621-010031M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第31集 邰哥為了隋棠一秒接下賀歲片？！詐團圓今年過年準備炸起來！ feat.隋棠、葉天倫導演",
+            "ep_number": 31,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762308900000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360610",
+            "time_codes": [
+              983000
+            ],
+            "timecode_duration": [],
+            "length": 1354000,
+            "asset_id": "vod76621-010032M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第32集 一見面就搞得阿公癢癢的？！史上第一次不能曝光的餐廳！ feat.林柏宏",
+            "ep_number": 32,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762310700000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360611",
+            "time_codes": [
+              983000
+            ],
+            "timecode_duration": [],
+            "length": 1327000,
+            "asset_id": "vod76621-010033M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第33集 馬哥與邰哥情投意合！就像「鷹嘴豆泥」雖然軟爛但很有營養？！ feat.馬念先、程偉豪篇",
+            "ep_number": 33,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762312200000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360613",
+            "time_codes": [
+              1006000
+            ],
+            "timecode_duration": [],
+            "length": 1699000,
+            "asset_id": "vod76621-010034M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第34集 是什麼在閃閃發光？地表最強的辣個男人來啦！ feat. 羅蘭Roland",
+            "ep_number": 34,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762313700000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360614",
+            "time_codes": [
+              1063000,
+              1610000
+            ],
+            "timecode_duration": [],
+            "length": 2108000,
+            "asset_id": "vod76621-010035M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第35集 蛤～木曜鐵粉來了嘍！要跟邰哥合作一首大王魷魚？！ feat. HUSH",
+            "ep_number": 35,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762315500000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360615",
+            "time_codes": [
+              785000
+            ],
+            "timecode_duration": [],
+            "length": 1284000,
+            "asset_id": "vod76621-010036M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第36集 盈萱現場直接評論邰哥演技！老人禁得起劇場女神這樣ㄉㄧㄤ嗎...！？ feat. 謝盈萱",
+            "ep_number": 36,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762317900000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          },
+          {
+            "content_id": "VOD00360616",
+            "time_codes": [
+              725000,
+              1185000,
+              1847000,
+              2571000,
+              3079000
+            ],
+            "timecode_duration": [],
+            "length": 3545000,
+            "asset_id": "vod76621-010037M001",
+            "title": "木曜4超玩 下班去吃飯",
+            "subtitle": "第1季第37集 K董來了！航空業的疑問一次問～邰智源、泱泱一起飛到檳城盡情吃喝玩樂！feat. K董",
+            "ep_number": 37,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762319400000,
+            "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
+          }
+        ],
+        "total_length": 246646000,
+        "focus_index": 61,
+        "next_index": 62,
+        "time": 625074,
+        "focus_program": {
+          "content_id": "VOD00365557",
+          "time_codes": [
+            1179000,
+            1869000,
+            2290000,
+            2842000,
+            3437000,
+            4328000
+          ],
+          "timecode_duration": [],
+          "length": 4656000,
+          "asset_id": "vod78206-000004M001",
+          "title": "木曜4超玩 一個屋簷下",
+          "subtitle": "第4集 峇里島(上) 木曜來到峇里島入住Club Med，為實習生舉辦畢業旅行！",
+          "ep_number": 4,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762249800000,
+          "vod_channel_description": "木曜來到峇里島入住Club Med，為實習生舉辦畢業旅行！"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜藝",
+          "EngName": "Entertainment",
+          "MenuOrder": 8
+        }
+      ]
+    },
+    "introduction": null,
+    "recommends": null,
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

@@ -1,0 +1,383 @@
+{
+  "pageProps": {
+    "contentId": "ofiii74",
+    "channel": {
+      "title": "歐飛電影台",
+      "no": 74,
+      "charge_mode": "F",
+      "content_id": "ofiii74",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        19
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_2748_ofiii74_tv_20240315.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station5682",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1679019674.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 74,
+        "cdn_code": "ofiii74",
+        "start_time": 1762175700000,
+        "programs": [
+          {
+            "content_id": "VOD00351069",
+            "time_codes": [
+              934000,
+              1750000,
+              2680000,
+              3633000,
+              4527000
+            ],
+            "timecode_duration": [],
+            "length": 5128000,
+            "asset_id": "vod75174-000000M001",
+            "title": "回到未來",
+            "subtitle": "The House of Tomorrow",
+            "ep_number": 0,
+            "rating": 2,
+            "content_type": "movie",
+            "p_start": 1762175700000,
+            "vod_channel_description": "在美國的某個小鎮，塞巴斯蒂安（阿薩巴特菲爾德）與脾氣古怪的祖母一起生活。祖母十分崇拜未來主義哲學家巴克敏斯特富勒，甚至用盡全力將其學說與知識灌輸給塞巴斯蒂安。某天，祖母突然中風昏迷，塞巴斯蒂安不得不離開祖母身邊，獨自生活。在他認識了16歲的男孩傑瑞德後，生活發生了天翻地覆的變化…"
+          },
+          {
+            "content_id": "VOD00354226",
+            "time_codes": [
+              953000,
+              1804000,
+              2677000,
+              3646000,
+              4530000,
+              5422000,
+              6275000
+            ],
+            "timecode_duration": [],
+            "length": 7321000,
+            "asset_id": "vod75808-000000M001",
+            "title": "壞壞壞天使",
+            "subtitle": "Heavens Above",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762181100000,
+            "vod_channel_description": "大塊頭老好人史托揚（戈蘭納沃耶克）頭上突然冒出一個光環，在鄰里引起一陣騷動，大家將他視為天使再世。偏偏老婆一心只想讓史托揚回復正常，還聽從電視神棍的建議，精心策畫讓老公變成大壞蛋，迫使上帝收回光環。古怪的是，隨著史托揚越壞，頭上的光就越亮，還從底層工人絕地翻身，晉身上流！"
+          },
+          {
+            "content_id": "VOD00300567",
+            "time_codes": [
+              880000,
+              1812000,
+              2727000,
+              3659000,
+              4575000,
+              5350000,
+              6299000
+            ],
+            "timecode_duration": [],
+            "length": 7373000,
+            "asset_id": "vod65151-000000M001",
+            "title": "豪門心計",
+            "subtitle": "The Origin of Evil",
+            "ep_number": 0,
+            "rating": 5,
+            "content_type": "movie",
+            "p_start": 1762188600000,
+            "vod_channel_description": "某天，在魚罐頭工廠上班的史蒂芬，意外發現自己竟是富商瑟傑的親生女兒，還突然被介紹入住到瑟傑家中。然而包括瑟傑及其妻女在內，住在這座豪華海濱別墅中的家人們，並不歡迎他的突然到來。這當中有人滿口謊言、有人笑裡藏刀，在猜忌和謊言之間，一個巨大的謎團正在增長…"
+          },
+          {
+            "content_id": "VOD00300578",
+            "time_codes": [
+              893000,
+              1818000,
+              2724000,
+              3585000,
+              4545000,
+              5469000
+            ],
+            "timecode_duration": [],
+            "length": 6294000,
+            "asset_id": "vod65162-000000M001",
+            "title": "最後的別離",
+            "subtitle": "The Last Descent",
+            "ep_number": 0,
+            "rating": 1,
+            "content_type": "movie",
+            "p_start": 1762196100000,
+            "vod_channel_description": "2009年的某天，約翰瓊斯去探索著名堅果石灰洞尚未繪製地圖的部分，卻不慎墜入一個寬18英寸、深150英尺的洞中，卡在其中動彈不得。救援人員獲報後隨即前往搜救，想方設法對抗石灰洞穴複雜的地形，但約翰的體力也逐漸瀕臨極限…"
+          },
+          {
+            "content_id": "VOD00321589",
+            "time_codes": [
+              916000,
+              1744000,
+              2679000,
+              3657000,
+              4504000,
+              5422000
+            ],
+            "timecode_duration": [],
+            "length": 6029000,
+            "asset_id": "vod69088-000000M001",
+            "title": "天使寶貝法蘭絲",
+            "subtitle": "Saint Frances",
+            "ep_number": 0,
+            "rating": 5,
+            "content_type": "movie",
+            "p_start": 1762202700000,
+            "vod_channel_description": "年過30歲仍對人生充滿困惑的布萊姬決定接下保母工作，照顧一對拉子情侶的6歲女孩。在某晚派對上意亂情迷邂逅男大生，意外懷孕的布萊姬旋即決定墮胎。儘管布萊姬的生活一團亂，他卻在與古靈精怪女孩的朝夕相處中，逐漸建立起一段暖心的友誼，和這家人的羈絆也愈加深厚，讓他重新思考自己的人生命題…"
+          },
+          {
+            "content_id": "VOD00323705",
+            "time_codes": [
+              916000,
+              1817000,
+              2684000,
+              3635000,
+              4522000,
+              5408000
+            ],
+            "timecode_duration": [],
+            "length": 6430000,
+            "asset_id": "vod69596-000000M001",
+            "title": "科西嘉的那個夏天",
+            "subtitle": "Homecoming",
+            "ep_number": 0,
+            "rating": 5,
+            "content_type": "movie",
+            "p_start": 1762209000000,
+            "vod_channel_description": "15年前，嘉迪加母女三人因一段悲慘遭遇，黯然離開科西嘉島；15年後，嘉迪加為巴黎的一個富裕家庭所雇用並照顧他們的孩子，一家也有了再度登島的機會。然而，當兩個女兒還沉溺於情竇初開的滋味及意外邂逅的喜悅時，母親卻努力掙扎著面對遙遠的回憶。隨著時間過去，過去未解的神秘問題漸漸浮上檯面…"
+          },
+          {
+            "content_id": "VOD00178618",
+            "time_codes": [
+              865000,
+              1796000,
+              2683000,
+              3581000,
+              4530000
+            ],
+            "timecode_duration": [],
+            "length": 5603000,
+            "asset_id": "vod42487-000000M001",
+            "title": "402號房的靈家女孩",
+            "subtitle": "Scent of Ghost",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762215600000,
+            "vod_channel_description": "車東錫在出國留學前一個月，邂逅了女大生金智妍，並迅速墜入愛河。在出國前一天，東錫準備向智妍求婚，卻遲遲不見智妍的蹤影，失望的他只好黯然出國。六個月後，東錫回到韓國，卻發現金智妍所住的社區即將拆遷，已經空無一人。附近住戶卻告訴他，他的女朋友住在鬼屋，而且遲遲不肯搬走…"
+          },
+          {
+            "content_id": "VOD00294468",
+            "time_codes": [
+              906000,
+              1764000,
+              2699000,
+              3629000,
+              4516000,
+              5425000,
+              6284000
+            ],
+            "timecode_duration": [],
+            "length": 6643000,
+            "asset_id": "vod64409-000000M001",
+            "title": "神鬼聖戰",
+            "subtitle": "The Devil Conspiracy",
+            "ep_number": 0,
+            "rating": 5,
+            "content_type": "movie",
+            "p_start": 1762221300000,
+            "vod_channel_description": "一家強大的生物科技公司偷走了基督教的裹屍布，並成功從上面竊取了耶穌的DNA。過程中，藝術系學生蘿拉被綁架，目擊這一切的馬可尼神父則遭殺害，神父臨終前祈求大天使米迦勒降臨自己的體內打敗撒旦。此時，被米迦勒附身的神父要與時間賽跑，不僅要對抗教徒救出蘿拉，更要終結魔鬼復活的陰謀…"
+          },
+          {
+            "content_id": "VOD00311201",
+            "time_codes": [
+              903000,
+              1760000,
+              2738000,
+              3572000,
+              4540000,
+              5425000
+            ],
+            "timecode_duration": [],
+            "length": 5887000,
+            "asset_id": "vod66842-000000M001",
+            "title": "村裡來了個直播女神",
+            "subtitle": "Pickled Love Potion",
+            "ep_number": 0,
+            "rating": 1,
+            "content_type": "movie",
+            "p_start": 1762228200000,
+            "vod_channel_description": "一名網路直播女神受不了網路酸民的謾罵，獨自一人拖著行李來到一處偏遠小村莊。在那裡，他遇到了一群純樸且有趣的村民，也從他們身上感受到真實的人情溫暖。此時，村莊碰上前所未有的危機，這位直播女神必須聯合他和所有村民的力量，透過網路推銷當地生產的發酵魚露！"
+          },
+          {
+            "content_id": "VOD00024068",
+            "time_codes": [
+              862000,
+              1809000,
+              2673000,
+              3671000,
+              4489000,
+              5486000,
+              6393000
+            ],
+            "timecode_duration": [],
+            "length": 6411000,
+            "asset_id": "vod8960-000000M001",
+            "title": "龍飛鳳舞",
+            "subtitle": "Dragon Flies, Phoenix Dancing",
+            "ep_number": 0,
+            "rating": 2,
+            "content_type": "movie",
+            "p_start": 1762234200000,
+            "vod_channel_description": "歌仔戲老團主過世，浪子阿義（吳朋奉）無法承擔重任，台柱春梅（郭春美）又因車禍腿傷不能登台，戲班頓時陷入困境。春梅的丈夫志宏靈機一動，找來與她相貌神似的男子頂替演出，意外竟矇混過關，觀眾人人叫好。備感失落的春梅為治療腿疾於是出走印度，幸運受到一名智者開示，決定返台重振旗鼓…"
+          },
+          {
+            "content_id": "VOD00354271",
+            "time_codes": [
+              925000,
+              1805000,
+              2676000,
+              3567000,
+              4501000
+            ],
+            "timecode_duration": [],
+            "length": 4800000,
+            "asset_id": "vod75835-000000M001",
+            "title": "囚鳥",
+            "subtitle": "Caged",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762240800000,
+            "vod_channel_description": "因被判謀殺妻子，一位富裕的非裔美國精神科醫生進了聯邦監獄，隨後又被單獨禁閉。在孤立無援、奮力爭取上訴的過程中，他逐漸陷入瘋狂，加上遭受到一名看守員的虐待，更將他推向崩潰的邊緣。飽受煎熬的他，開始質疑自己的清白和理智，這段在監獄裡的日子也成了一場難以抹滅的噩夢…"
+          },
+          {
+            "content_id": "VOD00284758",
+            "time_codes": [
+              922000,
+              1838000,
+              2667000,
+              3584000,
+              4555000,
+              5416000
+            ],
+            "timecode_duration": [],
+            "length": 6254000,
+            "asset_id": "vod61919-000000M001",
+            "title": "這一刻，想見你",
+            "subtitle": "In My Heart",
+            "ep_number": 0,
+            "rating": 2,
+            "content_type": "movie",
+            "p_start": 1762245900000,
+            "vod_channel_description": "一次意外，造成弟弟阿原昏迷在院，哥哥阿樂（涂善存）深深自責，從此鬱鬱寡歡。直到上了大學，生活闖進了打扮另類的奇怪少女怪獸，以及無厘頭的室友牛車輪，三人一同經歷了許多荒謬有趣的事情，阿樂似乎能重拾長期壓抑在心裡的音樂夢想。奈何天意弄人，阿樂與怪獸剛萌芽的愛情，最後能否開花結果呢？"
+          },
+          {
+            "content_id": "VOD00184556",
+            "time_codes": [
+              882000,
+              1892000,
+              2712000,
+              3633000,
+              4521000
+            ],
+            "timecode_duration": [],
+            "length": 5368000,
+            "asset_id": "vod43241-000000M001",
+            "title": "我出去醫下",
+            "subtitle": "A Good Doctor",
+            "ep_number": 0,
+            "rating": 1,
+            "content_type": "movie",
+            "p_start": 1762252500000,
+            "vod_channel_description": "前無國界醫生賽吉（米歇爾布朗）是唯一一位會在聖誕夜出診的醫生，未料他跟美食外送員馬利克（哈基姆傑米利）發生了車禍。雖然被撞的是馬利克，卻引發了賽吉的坐骨神經痛，情急之下，馬利克只好代替賽吉登門看診。於是他戴上AirPods，透過賽吉的隔空電話指導，搖身一變成為超瞎醫生！"
+          },
+          {
+            "content_id": "VOD00339189",
+            "time_codes": [
+              898000,
+              1836000,
+              2698000,
+              3582000,
+              4547000,
+              5408000
+            ],
+            "timecode_duration": [],
+            "length": 5843000,
+            "asset_id": "vod72683-000000M001",
+            "title": "法庭遊戲",
+            "subtitle": "The Innocent Game",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762258200000,
+            "vod_channel_description": "立志步入法律界的法律系學生久我清義（永瀨廉）與織本美鈴（杉咲花），收到不明信件指出要告發他們隱藏的「過去」，接著周遭陸續發生遭到跟蹤、破壞等詭異的事件，清義決定尋求系上的天才結城馨（北村匠海）幫助，企圖找出犯人。豈料，三人追求真相的方向產生分歧，直到最後一刻都無法預測結局…"
+          }
+        ],
+        "total_length": 85384000,
+        "focus_index": 9,
+        "next_index": 10,
+        "time": 4557816,
+        "focus_program": {
+          "content_id": "VOD00024068",
+          "time_codes": [
+            862000,
+            1809000,
+            2673000,
+            3671000,
+            4489000,
+            5486000,
+            6393000
+          ],
+          "timecode_duration": [],
+          "length": 6411000,
+          "asset_id": "vod8960-000000M001",
+          "title": "龍飛鳳舞",
+          "subtitle": "Dragon Flies, Phoenix Dancing",
+          "ep_number": 0,
+          "rating": 2,
+          "content_type": "movie",
+          "p_start": 1762234200000,
+          "vod_channel_description": "歌仔戲老團主過世，浪子阿義（吳朋奉）無法承擔重任，台柱春梅（郭春美）又因車禍腿傷不能登台，戲班頓時陷入困境。春梅的丈夫志宏靈機一動，找來與她相貌神似的男子頂替演出，意外竟矇混過關，觀眾人人叫好。備感失落的春梅為治療腿疾於是出走印度，幸運受到一名智者開示，決定返台重振旗鼓…"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "電影",
+          "EngName": "Movie",
+          "MenuOrder": 5
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_mobile_20240315.png",
+      "description": "精選各國精采電影，內容囊括喜劇、愛情、動作、和驚悚懸疑，多元類型豐富您的觀影體驗！",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+  },
+  "__N_SSP": true
+}

@@ -1,0 +1,265 @@
+{
+  "pageProps": {
+    "contentId": "ofiii203",
+    "channel": {
+      "title": "文茜的世界周報",
+      "no": 203,
+      "charge_mode": "F",
+      "content_id": "ofiii203",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        5
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3269_ofiii203_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "TVBS 純拆",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6203",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 203,
+        "cdn_code": "ofiii203",
+        "start_time": 1762177500000,
+        "programs": [
+          {
+            "content_id": "VOD00376525",
+            "time_codes": [
+              1380000,
+              2120000,
+              2653000
+            ],
+            "timecode_duration": [],
+            "length": 3076000,
+            "asset_id": "vod64680-000344M001",
+            "title": "",
+            "subtitle": "中國政府經過三年的努力 是否逃過了日本式通縮？",
+            "ep_number": 344,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762177500000,
+            "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
+          },
+          {
+            "content_id": "VOD00376526",
+            "time_codes": [
+              1436000,
+              2036000,
+              2734000
+            ],
+            "timecode_duration": [],
+            "length": 2899000,
+            "asset_id": "vod64680-000345M001",
+            "title": "",
+            "subtitle": "美軍將領集合 川普開講語出驚人 要求軍隊｀槍口對內｀的戰略轉向",
+            "ep_number": 345,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762180800000,
+            "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
+          },
+          {
+            "content_id": "VOD00376527",
+            "time_codes": [
+              1492000,
+              2149000,
+              2826000
+            ],
+            "timecode_duration": [],
+            "length": 2894000,
+            "asset_id": "vod64680-000346M001",
+            "title": "",
+            "subtitle": "川普的加薩和平計畫 解決短期政治目標 而非長期衝突（歐洲版）",
+            "ep_number": 346,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762183800000,
+            "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
+          },
+          {
+            "content_id": "VOD00376528",
+            "time_codes": [
+              1528000,
+              2244000,
+              2618000
+            ],
+            "timecode_duration": [],
+            "length": 2898000,
+            "asset_id": "vod64680-000347M001",
+            "title": "",
+            "subtitle": "中國導彈威懾美軍協防台灣 習近平向川普攤牌要求｀反台獨｀",
+            "ep_number": 347,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762186800000,
+            "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
+          },
+          {
+            "content_id": "VOD00376529",
+            "time_codes": [
+              1665000,
+              2399000,
+              2805000
+            ],
+            "timecode_duration": [],
+            "length": 2898000,
+            "asset_id": "vod64680-000348M001",
+            "title": "",
+            "subtitle": "中國在習川會前鷹派全面抬頭 中稀土戰如美晶片戰",
+            "ep_number": 348,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762189800000,
+            "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
+          },
+          {
+            "content_id": "VOD00376530",
+            "time_codes": [
+              1219000,
+              1866000,
+              2448000
+            ],
+            "timecode_duration": [],
+            "length": 2893000,
+            "asset_id": "vod64680-000349M001",
+            "title": "",
+            "subtitle": "大到不能倒！法國控制不住預算赤字 政府組閣變成民主鬧劇（歐洲版）",
+            "ep_number": 349,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762192800000,
+            "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
+          },
+          {
+            "content_id": "VOD00376531",
+            "time_codes": [
+              1483000,
+              1913000,
+              2545000
+            ],
+            "timecode_duration": [],
+            "length": 2897000,
+            "asset_id": "vod64680-000350M001",
+            "title": "",
+            "subtitle": "誰是拋售美元最多的國家？",
+            "ep_number": 350,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762195800000,
+            "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
+          },
+          {
+            "content_id": "VOD00380005",
+            "time_codes": [
+              1482000,
+              1904000,
+              2535000
+            ],
+            "timecode_duration": [],
+            "length": 2898000,
+            "asset_id": "vod64680-000351M001",
+            "title": "",
+            "subtitle": "渴望諾貝爾和平獎 川普拚了 轉向俄烏戰爭（歐洲版）",
+            "ep_number": 351,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762198800000,
+            "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
+          },
+          {
+            "content_id": "VOD00380006",
+            "time_codes": [
+              1268000,
+              1792000,
+              2234000
+            ],
+            "timecode_duration": [],
+            "length": 2893000,
+            "asset_id": "vod64680-000352M001",
+            "title": "",
+            "subtitle": "習寸土不讓！美中貿易戰再升級 從晶片.稀土.大豆打到造船",
+            "ep_number": 352,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762201800000,
+            "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
+          },
+          {
+            "content_id": "VOD00380007",
+            "time_codes": [
+              1388000,
+              2049000,
+              2720000
+            ],
+            "timecode_duration": [],
+            "length": 2897000,
+            "asset_id": "vod64680-000353M001",
+            "title": "",
+            "subtitle": "美股快崩盤？川普一則推文 上週引發閃電崩盤 血洗幣圈 美股大逃殺",
+            "ep_number": 353,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762204800000,
+            "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
+          }
+        ],
+        "total_length": 29143000,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 1747616,
+        "focus_program": {
+          "content_id": "VOD00376525",
+          "time_codes": [
+            1380000,
+            2120000,
+            2653000
+          ],
+          "timecode_duration": [],
+          "length": 3076000,
+          "asset_id": "vod64680-000344M001",
+          "title": "",
+          "subtitle": "中國政府經過三年的努力 是否逃過了日本式通縮？",
+          "ep_number": 344,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762177500000,
+          "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "新聞‧財經",
+          "EngName": "News & Finance",
+          "MenuOrder": 3
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3269_ofiii203_mobile_20240301.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

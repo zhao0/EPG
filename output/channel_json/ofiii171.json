@@ -1,0 +1,675 @@
+{
+  "pageProps": {
+    "contentId": "ofiii171",
+    "channel": {
+      "title": "SPY X FAMILY 間諜家家酒(中文版)",
+      "no": 171,
+      "charge_mode": "F",
+      "content_id": "ofiii171",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        109
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWCHILDOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3127_ofiii171_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "木棉花",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6061",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1699426855.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 171,
+        "cdn_code": "ofiii171",
+        "start_time": 1762141800000,
+        "programs": [
+          {
+            "content_id": "VOD00264687",
+            "time_codes": [
+              767000
+            ],
+            "timecode_duration": [],
+            "length": 1449000,
+            "asset_id": "vod57664-010001M001",
+            "title": "",
+            "subtitle": "第1季第1集 行動代號〈梟〉",
+            "ep_number": 1,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762141800000,
+            "vod_channel_description": "《SPY X FAMILY 間諜家家酒》動漫線上看。西國情報局對東課〈WISE〉指派諜報員〈黃昏〉，前往東國Ostania調查企圖實行戰爭計畫的戴斯蒙德。〈黃昏〉扮起精神科醫生洛伊德·佛傑，為了將小孩送進能與目標接觸的名校伊甸學園，他領養了孤兒安妮亞。而其實安妮亞是名能讀透人心的超能力者。"
+          },
+          {
+            "content_id": "VOD00264688",
+            "time_codes": [
+              662000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-010002M001",
+            "title": "",
+            "subtitle": "第1季第2集 找好扮演妻子的人吧",
+            "ep_number": 2,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762143600000,
+            "vod_channel_description": "《SPY X FAMILY 間諜家家酒》動漫線上看。市政府辦事員約兒·布萊爾有著殺手〈睡美人〉這不為人知的一面，而她對於單身女性容易被懷疑成間諜的風潮感到相當不安。另一方面，洛伊德為了伊甸學園的面試，開始找起扮演安妮亞母親的人選，並在造訪的時裝店裡頭偶然遇見了約兒。"
+          },
+          {
+            "content_id": "VOD00264689",
+            "time_codes": [
+              714000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-010003M001",
+            "title": "",
+            "subtitle": "第1季第3集 做好考前準備吧",
+            "ep_number": 3,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762145400000,
+            "vod_channel_description": "《SPY X FAMILY 間諜家家酒》動漫線上看。約兒搬進了洛伊德與安妮亞的家中。整理好家庭的門面，接下來就要準備面試。但現階段的安妮亞與約兒卻連正規的面試問答都做不好。洛伊德如此判斷後，決定要全家出遊，建立上流家庭的一般常識與三人間的共識。"
+          },
+          {
+            "content_id": "VOD00264690",
+            "time_codes": [
+              673000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-010004M001",
+            "title": "",
+            "subtitle": "第1季第4集 名校面試",
+            "ep_number": 4,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762147200000,
+            "vod_channel_description": "洛伊德等人做足準備，前往伊甸學園接受面試。一進到校內，洛伊德便感受到有人盯著自己，而那正是暗自替應試者評分，來自教職員監視的視線。考試早就已經開始了。進行評分的舍監韓德森注意到洛伊德他們佛傑一家的言行舉止，為了徹底釐清他們是否有資格接受名校伊甸學園的面試，他指示了更為嚴苛的試驗。"
+          },
+          {
+            "content_id": "VOD00264691",
+            "time_codes": [
+              661000
+            ],
+            "timecode_duration": [],
+            "length": 1449000,
+            "asset_id": "vod57664-010005M001",
+            "title": "",
+            "subtitle": "第1季第5集 放榜結果",
+            "ep_number": 5,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762149000000,
+            "vod_channel_description": "今天是伊甸學園公布合格名單的日子，洛伊德等人卻因為上頭沒有安妮亞的應試號碼而陷入絕望。此時韓德森現身在他們面前，對洛伊德等人面試時的表現給了高度評價，並告知安妮亞是備取第一名。三天後，他們收到了備取遞補的錄取通知！弗朗基也趕過來一起熱鬧慶祝，並提到該給努力考試的安妮亞獎勵。"
+          },
+          {
+            "content_id": "VOD00264692",
+            "time_codes": [
+              692000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-010006M001",
+            "title": "",
+            "subtitle": "第1季第6集 好朋友大作戰",
+            "ep_number": 6,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762150800000,
+            "vod_channel_description": "安妮亞的制服做好了。洛伊德為了WISE的作戰會議，將領制服的事情交給約兒，自己則是前往祕密基地。洛伊德在那裡確認到，要讓行動代號〈梟〉順利完成，必須要在伊甸學園獲得8個被稱為「星星」的獎章，成為獎學生。安妮亞拿到制服後開心不已，而盯上安妮亞的小混混集團就在這時出現了！"
+          },
+          {
+            "content_id": "VOD00264693",
+            "time_codes": [
+              683000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-010007M001",
+            "title": "",
+            "subtitle": "第1季第7集 目標的次子",
+            "ep_number": 7,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762152600000,
+            "vod_channel_description": "入學第一天，安妮亞就揍飛戴斯蒙德家的次子達米安，而拿到了「雷電」。轉眼就受到班上同學指指點點令她相當失落，但和貝琪成為朋友後，上學也變得開心了起來。安妮亞想要為揍人的事向達米安道歉，卻始終開不了口。洛伊德為了讓行動代號〈梟〉順利進行，變裝成校內人士。"
+          },
+          {
+            "content_id": "VOD00264694",
+            "time_codes": [
+              749000
+            ],
+            "timecode_duration": [],
+            "length": 1449000,
+            "asset_id": "vod57664-010008M001",
+            "title": "",
+            "subtitle": "第1季第8集 對祕密警察偽裝作戰",
+            "ep_number": 8,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762154400000,
+            "vod_channel_description": "東國的防諜機關──國家保安局，負責搜捕間諜與監視市民以維持國內治安，而被人稱為「祕密警察」畏懼著。約兒的弟弟尤利實際上也是祕密警察的一員，他向姊姊和周遭隱瞞自己的真實身分，追捕著害國家陷入混亂的間諜。某天，他突然造訪佛傑家。藏有祕密的佛傑家與有著不為人知一面的尤利終於要碰面了！"
+          },
+          {
+            "content_id": "VOD00264695",
+            "time_codes": [
+              749000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-010009M001",
+            "title": "",
+            "subtitle": "第1季第9集 裝出恩愛的模樣吧",
+            "ep_number": 9,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762156200000,
+            "vod_channel_description": "洛伊德他們被尤利質疑是假夫妻，並被逼著要接吻來證明他們是真正的夫妻。為了行動代號〈梟〉，洛伊德打算立刻達成尤利的要求，但約兒與他相反，如果喝得不夠醉就親不下去，便抓起紅酒大口灌醉自己。尤利看著姊姊做出如此舉動，同樣也因為酒醉而無法做出正常的判斷……"
+          },
+          {
+            "content_id": "VOD00264696",
+            "time_codes": [
+              749000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-010010M001",
+            "title": "",
+            "subtitle": "第1季第10集 躲避球大作戰",
+            "ep_number": 10,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762158000000,
+            "vod_channel_description": "在伊甸學園的一年級生之間謠傳著一個傳聞，據說在下次體育課大顯身手的學生能夠獲頒一個「星星」。安妮亞為了得到「星星」，接受了約兒的特訓，下定決心要「抓住星星」。於是，賽希爾宿舍與沃爾德宿舍的躲避球班際對抗戰熱血開打，但此時怪童比爾·沃金斯現身，擋在立志要獲勝的安妮亞等人面前！"
+          },
+          {
+            "content_id": "VOD00264697",
+            "time_codes": [
+              721000
+            ],
+            "timecode_duration": [],
+            "length": 1449000,
+            "asset_id": "vod57664-010011M001",
+            "title": "",
+            "subtitle": "第1季第11集 星星",
+            "ep_number": 11,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762159800000,
+            "vod_channel_description": "家長要出席伊甸學園的懇親會，小孩需要先成為獎學生，但這使得不擅長念書的安妮亞陷入了苦戰。洛伊德因此考慮改從念書以外的管道獲得「星星」，打算讓她做出社會貢獻，結果在醫院當起志工的安妮亞卻老是搞砸事情。就在這時，安妮亞藉由超能力察覺到在游泳池溺水的小孩求救聲──！？"
+          },
+          {
+            "content_id": "VOD00264698",
+            "time_codes": [
+              668000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-010012M001",
+            "title": "",
+            "subtitle": "第1季第12集 企鵝園",
+            "ep_number": 12,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762161600000,
+            "vod_channel_description": "洛伊德今天也忙著處理〈WISE〉的任務，搞到筋疲力盡才回家。就在這時，他聽到鄰居在聊八卦，說他不重視自己的家庭。洛伊德擔心任何一點懷疑都會對行動代號〈梟〉造成影響，為了表現出自己家幸福美滿的樣子給鄰居看，他決定下次休假要去逛水族館。結果那裡也有個〈WISE〉的新任務……！"
+          },
+          {
+            "content_id": "VOD00264699",
+            "time_codes": [
+              667000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-020013M001",
+            "title": "",
+            "subtitle": "第2季第13集 〈APPLE〉計劃",
+            "ep_number": 13,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762163400000,
+            "vod_channel_description": "為了給安妮亞得到「星星」的獎品，佛傑一家決定出門去挑選寵物狗。途中，洛伊德被強迫參與任務，要防止針對西國外長的炸彈恐攻發生。另一方面，本來在選狗狗的安妮亞，不知為何從陌生的大白狗心中，看到了自己家人的身影。安妮亞覺得好奇而去追狗狗，卻誤闖進恐怖分子的基地裡！"
+          },
+          {
+            "content_id": "VOD00264700",
+            "time_codes": [
+              725000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-020014M001",
+            "title": "",
+            "subtitle": "第2季第14集 解除定時炸彈吧",
+            "ep_number": 14,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762165200000,
+            "vod_channel_description": "安妮亞遇見了一隻能預知未來的神奇狗狗。儘管她多虧狗狗而一時逃出生天，最後還是落入了恐怖分子的手裡。就在此時，約兒趕了過來並擊退了敵人！這時候，狗狗再次預知了未來。安妮亞讀了狗狗的心，卻看到洛伊德倒臥在遭到爆破的大樓瓦礫堆中的景象……為了改變這個未來，安妮亞……"
+          },
+          {
+            "content_id": "VOD00264701",
+            "time_codes": [
+              724000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-020015M001",
+            "title": "",
+            "subtitle": "第2季第15集 新的家人",
+            "ep_number": 15,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762167000000,
+            "vod_channel_description": "洛伊德與敵人的狗體炸彈對峙、安妮亞暗地裡拯救了洛伊德，約兒則是發現了逃走的恐怖分子首腦。究竟這場將一家人各自牽扯進去的炸彈恐攻事件，會如何收場呢！？安妮亞以得到「星星」的獎品為由，說想要把那隻能預知未來的大型犬當成寵物飼養。洛伊德知道狗狗們背後內幕而不想答應，安妮亞……"
+          },
+          {
+            "content_id": "VOD00264702",
+            "time_codes": [
+              763000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-020016M001",
+            "title": "",
+            "subtitle": "第2季第16集 約兒｀s 廚房/情報商的戀愛大作戰",
+            "ep_number": 16,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762168800000,
+            "vod_channel_description": "洛伊德最近對約兒晚歸的事情感到很在意。安妮亞從彭德的預知中看到約兒的樣子，感到十分擔心。約兒向兩人保密，私下去了同事——卡蜜拉的家。她的目的到底是什麼呢？ /弗朗基有了喜歡的女性，希望洛伊德教他約會的必勝法。 洛伊德敵不過他的熱情，便傳授起幹練間諜的話術。"
+          },
+          {
+            "content_id": "VOD00264703",
+            "time_codes": [
+              735000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-020017M001",
+            "title": "",
+            "subtitle": "第2季第17集 執行獅啾作戰吧/鋼鐵淑女/蛋包飯♡",
+            "ep_number": 17,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762170600000,
+            "vod_channel_description": "安妮亞與達米安在美勞課上被分到了同一組。為了執行「好朋友大作戰」，安妮亞決定幫達米安做勞作！/〈WISE〉管理官──席爾薇雅，表面上是位西國外交官。她的日常生活無時無刻都受人監視，不允許露出任何破綻。/約兒為了尤利而努力做著蛋包飯，尤利則接受著姊姊的愛一步步長大。"
+          },
+          {
+            "content_id": "VOD00264704",
+            "time_codes": [
+              734000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-020018M001",
+            "title": "",
+            "subtitle": "第2季第18集 家庭教師舅舅/〈東雲〉",
+            "ep_number": 18,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762172400000,
+            "vod_channel_description": "下週就是伊甸學園的期中考了。那天是安妮亞無法使用超能力的新月之日，所以她沒辦法作弊。在約兒的提案下，找了尤利來當家庭教師…/期中考結束。洛伊德對安妮亞的考試成績感到不放心，便前往伊甸學園，打算竄改答案卷。結果..."
+          },
+          {
+            "content_id": "VOD00264705",
+            "time_codes": [
+              679000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-020019M001",
+            "title": "",
+            "subtitle": "第2季第19集 對戴斯蒙德的復仇計畫/母親, 化為一陣風",
+            "ep_number": 19,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762174200000,
+            "vod_channel_description": "達米安在期中考取得優異的成績，而獲得了〈星星〉。受到周圍吹捧的他，卻遭到同班同學喬治仇視。原因究竟為何呢……？/送安妮亞去上學後，約兒馬上在桌上發現了運動服。再這樣下去，安妮亞要上體育課會有問題。於是約兒飛奔而出，要將忘記帶的衣服送去給她！"
+          },
+          {
+            "content_id": "VOD00264706",
+            "time_codes": [
+              674000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-020020M001",
+            "title": "",
+            "subtitle": "第2季第20集 調查綜合醫院吧/解讀難懂的暗號吧",
+            "ep_number": 20,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762176000000,
+            "vod_channel_description": "安妮亞因為作業要寫「有興趣的職業」的報告，而去參觀洛伊德的職場──伯林特綜合醫院。趁著洛伊德離開座位的空檔，安妮亞展開了大調查！/安妮亞受到間諜動畫的影響，對解讀暗號產生了興趣，便自己也寫了一篇暗號，將機密文件發給了洛伊德等人。究竟有沒有人能夠解讀成功呢……！？"
+          },
+          {
+            "content_id": "VOD00264707",
+            "time_codes": [
+              669000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-020021M001",
+            "title": "",
+            "subtitle": "第2季第21集 〈夜帷〉/第一次的嫉妒",
+            "ep_number": 21,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762177800000,
+            "vod_channel_description": "費歐娜是位辦事員，在洛伊德工作的醫院上班，其真實身分是〈WISE〉的女性諜報員〈夜帷〉。她對於行動代號〈梟〉的進度遲遲沒有進展而感到焦急，便提案由她來取代「佛傑夫人」的角色…/安妮亞很喜愛洛伊德送的企鵝玩偶，而都抱著玩偶一起入睡。有道白色的身影深深嫉妒著那副景象……"
+          },
+          {
+            "content_id": "VOD00264708",
+            "time_codes": [
+              698000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-020022M001",
+            "title": "",
+            "subtitle": "第2季第22集 地下網球賽 坎貝爾頓",
+            "ep_number": 22,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762179600000,
+            "vod_channel_description": "機密檔案——札卡里斯文件被認為會成為引發東西戰爭的火種。洛伊德與費歐娜為了取得藏有其文件的名畫，便參加畫作持有人——坎貝爾所主辦的黑暗網球賽。只要獲得冠軍，就能獲贈一樣想要的美術品。洛伊德他們裝成夫妻參賽，而前職業選手等強者們則對他們展開猛烈攻勢！"
+          },
+          {
+            "content_id": "VOD00264709",
+            "time_codes": [
+              735000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-020023M001",
+            "title": "",
+            "subtitle": "第2季第23集堅定不移的軌道",
+            "ep_number": 23,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762181400000,
+            "vod_channel_description": "地下網球賽終於進入決賽。洛伊德他們的比賽對手──坎貝爾兄妹是一對揮舞改造球拍、與周圍工作人員合謀妨礙比賽等，使用無數卑鄙手段的強敵。然而，〈WISE〉引以為傲的諜報員組合將那些一一化解，並由洛伊德揮下決定性的最後一擊！但比賽結束後，得知機密檔案存在的保安局卻插手進來……"
+          },
+          {
+            "content_id": "VOD00264710",
+            "time_codes": [
+              761000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-020024M001",
+            "title": "",
+            "subtitle": "第2季第24集 母親的角色與妻子的角色/和朋友去購物",
+            "ep_number": 24,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762183200000,
+            "vod_channel_description": "費歐娜的出現，讓約兒對假結婚感到不安。洛伊德見狀，認為約兒是開始對自己產生了愛情，便切換成為了任務，連女性也要加以利用的〈黃昏〉模式！/貝琪為了替安妮亞挑選可愛的衣服，而帶她去百貨公司。貝琪以大小姐的財力包下整間百貨，兩人可愛的時裝秀即將開始。"
+          },
+          {
+            "content_id": "VOD00264711",
+            "time_codes": [
+              773000
+            ],
+            "timecode_duration": [],
+            "length": 1450000,
+            "asset_id": "vod57664-020025M001",
+            "title": "",
+            "subtitle": "第2季第25集 接敵作戰(完)",
+            "ep_number": 25,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762185000000,
+            "vod_channel_description": "伊甸學園每半年會召開一次懇親會。會場內獎學生及其家長，還有東國的VIP人士雲集，因此戒備森嚴，不允許任何人入侵。另一方面，達米安請哥哥轉告自己想見父親的事。洛伊德得知了戴斯蒙德父子約好要碰面，便企圖利用達米安與目標接觸。"
+          },
+          {
+            "content_id": "VOD00324142",
+            "time_codes": [
+              719000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod57664-030026M001",
+            "title": "",
+            "subtitle": "第3季第26集 跟蹤父親與母親吧",
+            "ep_number": 26,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762186800000,
+            "vod_channel_description": "因〈花園〉的工作負傷的約兒，忍著疼痛回到了家中。洛伊德看到她的樣子，誤以為是自己惹約兒不高興了！隔天，洛伊德為了討好她，而邀約兒去約會，約兒也為了學著當個普通的妻子，卯足幹勁接受了這項邀請。至於留下來看家的安妮亞，則跟弗朗基一起前去跟蹤約會中的兩人。"
+          },
+          {
+            "content_id": "VOD00324143",
+            "time_codes": [
+              699000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod57664-030027M001",
+            "title": "",
+            "subtitle": "第3季第27集 彭德的生存戰略 達米安的野外學習",
+            "ep_number": 27,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762188300000,
+            "vod_channel_description": "#27(A)彭德預知到危險的未來，並推測原因是出自約兒親手做的飯菜。為了改變命運，牠決定跑出家門去找洛伊德！\n#27(B)達米安因為睡過頭，被處罰要幫忙宿舍保姆做事。艾彌爾和尤恩兩人無法丟下達米安不管，也刻意被懲罰來跟他會合。"
+          },
+          {
+            "content_id": "VOD00324144",
+            "time_codes": [
+              669000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod57664-030028M001",
+            "title": "",
+            "subtitle": "第3季第28集 任務與家人 華麗的彭德曼 童心 鬧鐘",
+            "ep_number": 28,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762189800000,
+            "vod_channel_description": "#28(A) 尤利努力在做著祕密警察的工作。這天，他奉命調查起一位前報社記者，尤利在調查的過程中，得知了前報社記者的想法與家庭狀況，但… #28(B) 安妮亞最喜歡的動畫主角──彭德曼。直擊華麗間諜的活躍身影！#28(C) 介紹佛傑家與伊甸學園學生們的愉快日常生活！"
+          },
+          {
+            "content_id": "VOD00324145",
+            "time_codes": [
+              673000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod57664-030029M001",
+            "title": "",
+            "subtitle": "第3季第29集 智慧甜品 情報商的戀愛大作戰Ⅱ",
+            "ep_number": 29,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762191300000,
+            "vod_channel_description": "#29(A)夢幻甜品出現在伊甸學園的學生餐廳！據說吃到這個限量馬卡龍的人能成為「皇帝的學徒」，安妮亞等人便展開了爭奪它的熾熱頭腦戰！！#29(B)弗朗基愛上了咖啡廳店員，而決定為了她去尋找逃跑的家貓。他在中途與約兒巧遇並得到了她的幫助，在持續搜索的過程中，弗朗基自傲的發明將大顯神威！？"
+          },
+          {
+            "content_id": "VOD00324146",
+            "time_codes": [
+              696000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod57664-030030M001",
+            "title": "",
+            "subtitle": "第3季第30集 越境作戰",
+            "ep_number": 30,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762192800000,
+            "vod_channel_description": "約兒為執行〈睡美人〉的任務，要偽裝成搭乘豪華郵輪出市政府的公差，同時護衛黑社會的葛雷切家族倖存者──歐爾嘉與她兒子逃往國外。另一方面，安妮亞在摸彩時抽到了豪華郵輪旅遊！而那碰巧與約兒的任務搭的是同一艘船，一場極為混亂的假期即將開始──！！"
+          },
+          {
+            "content_id": "VOD00324147",
+            "time_codes": [
+              699000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod57664-030031M001",
+            "title": "",
+            "subtitle": "第3季第31集 戰慄的豪華郵輪",
+            "ep_number": 31,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762194300000,
+            "vod_channel_description": "約兒搭上郵輪，在客房護衛著歐爾嘉等人。另一方面，約兒的上司馬修在船上發現有殺手盯上了歐爾嘉他們。抓住對方一問之下，得知有大量的殺手搭上郵輪，且各自以歐爾嘉等人為目標。這時，在約兒待命的歐爾嘉房間，房門傳來了某人的敲門聲……"
+          },
+          {
+            "content_id": "VOD00324148",
+            "time_codes": [
+              683000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod57664-030032M001",
+            "title": "",
+            "subtitle": "第3季第32集 為了誰的任務",
+            "ep_number": 32,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762195800000,
+            "vod_channel_description": "洛伊德為了討好安妮亞，努力當個「開心且愉快的父親」並選起了伴手禮。與此同時，正在執行護衛任務的約兒則與其中一名殺手──使用鎖鎌的巴納比對峙著。在殺手們的襲擊逐漸變得激烈時，約兒在心中問起自己為何要以〈睡美人〉的身分戰鬥……"
+          },
+          {
+            "content_id": "VOD00324149",
+            "time_codes": [
+              677000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod57664-030033M001",
+            "title": "",
+            "subtitle": "第3季第33集 船上的交響曲 姊姊的藥草茶",
+            "ep_number": 33,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762197300000,
+            "vod_channel_description": "郵輪甲板在煙火秀開始前顯得熱鬧非凡，安妮亞也和洛伊德一起開心地欣賞了煙火。另一方面，約兒的任務終於漸入佳境。約兒打算讓歐爾嘉等人逃脫，卻遭到了殺手們包圍！在美麗煙火飛上夜空的同時，約兒也在與殺手們的生死搏鬥中使血花四濺！！"
+          },
+          {
+            "content_id": "VOD00324150",
+            "time_codes": [
+              685000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod57664-030034M001",
+            "title": "",
+            "subtitle": "第3季第34集 維繫未來的手",
+            "ep_number": 34,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762198800000,
+            "vod_channel_description": "洛伊德從保安局人員的言行舉動中，得知了船上被設置炸彈的事情。他趕緊將安妮亞寄放於托兒所，變裝成前軍人去處理炸彈。安妮亞也為了再次去幫助約兒，而從托兒所裡偷跑出去。她在跑出去的路上發現了約兒掉落的武器，便將武器投向甲板上──！"
+          },
+          {
+            "content_id": "VOD00324151",
+            "time_codes": [
+              667000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod57664-030035M001",
+            "title": "",
+            "subtitle": "第3季第35集 享受度假勝地吧 炫耀休假",
+            "ep_number": 35,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762200300000,
+            "vod_channel_description": "在殺手襲擊與炸彈騷動結束後隔天早上，郵輪抵達了度假小島。洛伊德跟安妮亞和約兒會合，一家三人一起享受假期！戶外活動、騎馬、浮潛等，安妮亞盡情體驗完無數活動之後也滿心歡喜！看著安妮亞如此開心的笑容，約兒充分感受到了和平的氣氛。"
+          },
+          {
+            "content_id": "VOD00324152",
+            "time_codes": [
+              682000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod57664-030036M001",
+            "title": "",
+            "subtitle": "第3季第36集 伯林特戀曲 ｀夜帷｀的日常",
+            "ep_number": 36,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762201800000,
+            "vod_channel_description": "貝琪因為看戀愛連續劇看到情緒亢奮，為了見到自己對照片一見鍾情的洛伊德而造訪佛傑家！貝琪拚命對洛伊德展開追求攻勢，安妮亞也想像著富裕的生活，覺得「也不是不行」而稍微支持貝琪的戀情！？這時，約兒帶著彭德散步回來了。貝琪對於與情敵（？）之間的直接對決燃起了鬥志……！！"
+          },
+          {
+            "content_id": "VOD00324153",
+            "time_codes": [
+              674000
+            ],
+            "timecode_duration": [],
+            "length": 1420000,
+            "asset_id": "vod57664-030037M001",
+            "title": "",
+            "subtitle": "第3季第37集 家族的一員(完)",
+            "ep_number": 37,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762203300000,
+            "vod_channel_description": "彭德與洛伊德一起出外散步，牠打算阻止預知到的街頭事故結果引起騷動，而被洛伊德教訓。就在這時，牠這次預知到因為火災而燃燒的建築物，以及在建築物前哭喊的女性樣貌。彭德不顧自己才剛被教訓過，隨即奔向現場！洛伊德見到牠躁動的樣子，也追了上去，他們抵達現場後看到的是──"
+          }
+        ],
+        "total_length": 53286000,
+        "focus_index": 29,
+        "next_index": 30,
+        "time": 456681,
+        "focus_program": {
+          "content_id": "VOD00324146",
+          "time_codes": [
+            696000
+          ],
+          "timecode_duration": [],
+          "length": 1420000,
+          "asset_id": "vod57664-030030M001",
+          "title": "",
+          "subtitle": "第3季第30集 越境作戰",
+          "ep_number": 30,
+          "rating": 2,
+          "content_type": "comic",
+          "p_start": 1762192800000,
+          "vod_channel_description": "約兒為執行〈睡美人〉的任務，要偽裝成搭乘豪華郵輪出市政府的公差，同時護衛黑社會的葛雷切家族倖存者──歐爾嘉與她兒子逃往國外。另一方面，安妮亞在摸彩時抽到了豪華郵輪旅遊！而那碰巧與約兒的任務搭的是同一艘船，一場極為混亂的假期即將開始──！！"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "動漫",
+          "EngName": "Animate",
+          "MenuOrder": 109
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_mobile_20230802.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

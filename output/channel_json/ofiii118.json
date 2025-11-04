@@ -1,0 +1,787 @@
+{
+  "pageProps": {
+    "contentId": "ofiii118",
+    "channel": {
+      "title": "向風而行《11/5即將下架》",
+      "no": 118,
+      "charge_mode": "F",
+      "content_id": "ofiii118",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        4
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3022_ofiii118_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "龍華",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station5956",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1692776869.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 1,
+      "vod_channel_schedule": {
+        "channel_id": 118,
+        "cdn_code": "ofiii118",
+        "start_time": 1762110795000,
+        "programs": [
+          {
+            "content_id": "VOD00278287",
+            "time_codes": [
+              661000,
+              1484000,
+              2204000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000001M001",
+            "title": "",
+            "subtitle": "第1集",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761580800000,
+            "vod_channel_description": "《向風而行》陸劇線上看。帥氣瀟灑的貨機副駕程霄正駕駛飛機，穿過氣流顛簸時絲毫不慌，她出色的駕駛水準不僅被同航班五星機長老蔡讚賞，另一位坐在後排的副駕駛宋宋也充滿敬佩。"
+          },
+          {
+            "content_id": "VOD00278288",
+            "time_codes": [
+              720000,
+              1484000,
+              2158000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000002M001",
+            "title": "",
+            "subtitle": "第2集",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761583800000,
+            "vod_channel_description": "程霄隨幾名貨運飛行員，包括好友宋宋一起參加客運部的群體面試，作為面試官之一的顧南亭因之前颱風天極限風速降落的事，對程霄的面試極為嚴格。顧南亭堅持認為程霄缺乏嚴肅謙遜的態度，再好的技術也不能保證百分百的飛行安全，提出安排程霄進入客運部從觀察員開始，重新上崗。"
+          },
+          {
+            "content_id": "VOD00278289",
+            "time_codes": [
+              711000,
+              1416000,
+              2197000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000003M001",
+            "title": "",
+            "subtitle": "第3集",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761586800000,
+            "vod_channel_description": "在面試中，夏至難掩她活潑搞笑的本質，與傳統空姐的優雅知性毫不相干，是否錄取她也成了難題，客艙經理艾佳提出近年來空乘們離職率高，抗壓能力低，夏至的陽光樂天是難得的品質，最終李語珩和夏至都被成功錄取，分配到艾佳手下進行培訓，正式開始了乘務員的旅程。"
+          },
+          {
+            "content_id": "VOD00278290",
+            "time_codes": [
+              666000,
+              1424000,
+              2138000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000004M001",
+            "title": "",
+            "subtitle": "第4集",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761589800000,
+            "vod_channel_description": "刻苦訓練的程霄被當作了標杆，其他的飛行員們叫苦不迭。外國學員的不斷挑釁也激怒了程霄，中外雙方約定模擬機比試，於是程霄又開始了加倍訓練，但因疲勞過度加上來例假，在教室昏睡過去，顧南亭發現後立即將程霄送去醫院。"
+          },
+          {
+            "content_id": "VOD00278291",
+            "time_codes": [
+              748000,
+              1435000,
+              2204000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000005M001",
+            "title": "",
+            "subtitle": "第5集",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761592800000,
+            "vod_channel_description": "模擬機比拼正式開始，中外學員在機外觀戰，顧南亭和凱恩也在遠處的工程師房間裡偷偷關注著比賽進展。比賽一共分為三輪。程霄在大坡度盤旋、盲降環節中與外國學員一比一打平。"
+          },
+          {
+            "content_id": "VOD00278292",
+            "time_codes": [
+              696000,
+              1478000,
+              2124000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000006M001",
+            "title": "",
+            "subtitle": "第6集",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761595800000,
+            "vod_channel_description": "身為老蔡好友的謝澤天特意前來安慰，在談心中，程霄重拾了信心，也才得知顧南亭也因為她背了進鷺航以來的第一個處分，顧南亭和程霄的關係也有所緩解。"
+          },
+          {
+            "content_id": "VOD00278293",
+            "time_codes": [
+              683000,
+              1488000,
+              2152000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000007M001",
+            "title": "",
+            "subtitle": "第7集",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761598800000,
+            "vod_channel_description": "程霄看到猥瑣男道歉後卻毫無認錯改正的樣子就立刻報了警，但因程霄報警前沒能提前和機長顧南亭報備，航班再度延誤。顧南亭得知事情經過後，嚴厲批評程霄的行為，不能不顧航班運行擅自做主。"
+          },
+          {
+            "content_id": "VOD00278294",
+            "time_codes": [
+              683000,
+              1457000,
+              2195000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000008M001",
+            "title": "",
+            "subtitle": "第8集",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761601800000,
+            "vod_channel_description": "機組在三亞繼續休整。顧南亭既不住朝海的房間，也不和大家一起在海邊玩耍，暗自喜歡顧南亭的李語珩覺得有些奇怪。更奇怪的是，當顧南亭看到程霄衝浪的時候突然失控，不顧一切將程霄從海裡拉了上來，並嚴厲表示飛行員不允許在執勤期間進行任何高危運動。"
+          },
+          {
+            "content_id": "VOD00278295",
+            "time_codes": [
+              695000,
+              1435000,
+              2209000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000009M001",
+            "title": "",
+            "subtitle": "第9集",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761604800000,
+            "vod_channel_description": "轉入地勤的程霄雖然充滿不情願，但還是勤勤懇懇地開始了工作，成了地勤喬正宇的助理，默默在一旁偷偷觀察的顧南亭欣慰於她的轉變和成長。顧南亭找到江韜希望能夠把程霄派回飛行部，江韜稱交流學習至少也要一個月之後再說。"
+          },
+          {
+            "content_id": "VOD00278296",
+            "time_codes": [
+              744000,
+              1488000,
+              2219000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000010M001",
+            "title": "",
+            "subtitle": "第10集",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761607800000,
+            "vod_channel_description": "心情低落的程霄從派出所裡出來後獨自遊蕩，淋雨走進了飛吧。順路載李語珩到家的顧南亭收到謝澤天的消息後，拒絕了李語珩喝茶的邀請，直接來到了飛吧。"
+          },
+          {
+            "content_id": "VOD00278297",
+            "time_codes": [
+              749000,
+              1440000,
+              2157000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000011M001",
+            "title": "",
+            "subtitle": "第11集",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761610800000,
+            "vod_channel_description": "心情尚好的程霄本計畫請程母吃飯緩和關係，結果接到了房產仲介的電話，稱有買家看中，這才得知程母背著她出售她的房子，母女再次矛盾升級，程母也決定直接回青島。"
+          },
+          {
+            "content_id": "VOD00278298",
+            "time_codes": [
+              739000,
+              1443000,
+              2167000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000012M001",
+            "title": "",
+            "subtitle": "第12集",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761613800000,
+            "vod_channel_description": "宋宋和女朋友矛盾再次升級，宋宋本想請假，但顧南亭強調安全例會十分重要，不允許請假。會上的宋宋無精打采，但依然配合著顧南亭做著案例分析，細心的程霄發現了宋宋的不對勁，程霄沖去顧南亭的辦公室說明宋宋的情況，顧南亭自願頂替宋宋的班並且隔天還送了飛機模型安慰宋宋。"
+          },
+          {
+            "content_id": "VOD00278299",
+            "time_codes": [
+              686000,
+              1443000,
+              2202000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000013M001",
+            "title": "",
+            "subtitle": "第13集",
+            "ep_number": 13,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761616800000,
+            "vod_channel_description": "在這次飛行任務中，公務艙有一對母子第一次坐飛機， 母親的情緒格外恐慌，而小孩子又總是上躥下跳，李語珩耐心溫柔地安撫著恐飛母親。到達中轉站，熊孩子一直鬧著想要去參觀駕駛艙，程霄看出了熊孩子似乎另有隱情。"
+          },
+          {
+            "content_id": "VOD00278300",
+            "time_codes": [
+              769000,
+              1400000,
+              2142000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000014M001",
+            "title": "",
+            "subtitle": "第14集",
+            "ep_number": 14,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761619800000,
+            "vod_channel_description": "作為國產飛機氣動外形設計師的顧母也剛好在這次商飛航班上，落地西安後更是跟顧南亭電話裡連連稱讚女飛程霄不容易，作為師父一定要好好帶領。"
+          },
+          {
+            "content_id": "VOD00278301",
+            "time_codes": [
+              746000,
+              1459000,
+              2202000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000015M001",
+            "title": "",
+            "subtitle": "第15集",
+            "ep_number": 15,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761622800000,
+            "vod_channel_description": "此時消防人員和機務人員已經確認火警警報是因為貨艙的貨物洩漏所觸發，無起火隱患，於是取消噴灑待命。"
+          },
+          {
+            "content_id": "VOD00278302",
+            "time_codes": [
+              777000,
+              1433000,
+              2174000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000016M001",
+            "title": "",
+            "subtitle": "第16集",
+            "ep_number": 16,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761625800000,
+            "vod_channel_description": "在鷺航的模擬機庫，江韜和林一成重新復原了當時的情況，資料顯示如果按照江韜的操作，飛機刹車後距離衝突的飛機仍有30米的距離，這意味著江韜的指令無誤。 顧南亭糾結於違規上飛機找程霄，還向江韜遞交了違規檢討，謝澤天提醒他任何安全手冊裡都需要考慮人的因素。"
+          },
+          {
+            "content_id": "VOD00278303",
+            "time_codes": [
+              736000,
+              1492000,
+              2107000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000017M001",
+            "title": "",
+            "subtitle": "第17集",
+            "ep_number": 17,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761628800000,
+            "vod_channel_description": "程霄請求顧南亭一起在模擬機復原事件，結果和江韜的一樣，程霄一時不知道該如何自證清白，顧南亭卻說轉向的操作不一定比刹車差，距離對方飛機多一釐米就多一分危險，轉向更能保證不會相撞。"
+          },
+          {
+            "content_id": "VOD00278304",
+            "time_codes": [
+              692000,
+              1396000,
+              2157000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000018M001",
+            "title": "",
+            "subtitle": "第18集",
+            "ep_number": 18,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761631800000,
+            "vod_channel_description": "事後安全專家調查結果和類比機資料證明瞭程霄的操作沒有問題，李語珩也將自己的檢討遞給了客艙部，承認如果當時能讓段超系安全帶就不會有這麼大的麻煩，艾佳從輕處罰了李語珩並希望她能夠克服性格軟弱不懂拒絕的缺點。"
+          },
+          {
+            "content_id": "VOD00278305",
+            "time_codes": [
+              679000,
+              1438000,
+              2200000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000019M001",
+            "title": "",
+            "subtitle": "第19集",
+            "ep_number": 19,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761634800000,
+            "vod_channel_description": "起飛前，程霄和宋宋在員工吧談心，宋宋暗戀李語珩被程霄發現，不自信的宋宋覺得自己和顧南亭差得很遠，程霄鼓勵宋宋的同時，也被宋宋發現了自己對於顧南亭的愛慕之情，程霄毫不避諱地大膽承認，兩個人都激動地為彼此加油。"
+          },
+          {
+            "content_id": "VOD00278306",
+            "time_codes": [
+              732000,
+              1442000,
+              2184000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000020M001",
+            "title": "",
+            "subtitle": "第20集",
+            "ep_number": 20,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761637800000,
+            "vod_channel_description": "顧南亭的演講稿完成後找程霄提建議，程霄為難地發現雖然顧南亭的發言稿學術性很強，但作為演講稿顯得不接地氣，顧南亭反駁專業必須嚴謹，程霄無奈地說演講又不會出人命，不需要這麼嚴謹，程霄的無心之言刺痛了顧南亭關於羅憶的陰影，本來和諧的氣氛降到冰點，程霄只覺得奇怪並未發現異常。"
+          },
+          {
+            "content_id": "VOD00278307",
+            "time_codes": [
+              725000,
+              1409000,
+              2109000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000021M001",
+            "title": "",
+            "subtitle": "第21集",
+            "ep_number": 21,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761640800000,
+            "vod_channel_description": "程霄將顧南亭帶到了一家看起來條件樸素的海鮮粥店，原來程霄入行之後常常淩晨歸來，這家店便是她心中的滿漢全席，飯桌上，兩個人分享喜悅的同時也更加瞭解彼此。"
+          },
+          {
+            "content_id": "VOD00278308",
+            "time_codes": [
+              732000,
+              1455000,
+              2205000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000022M001",
+            "title": "",
+            "subtitle": "第22集",
+            "ep_number": 22,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761643800000,
+            "vod_channel_description": "第二天顧南亭上班時發現了眾人的議論紛紛，吃醋的程霄甚至需要看脫口秀調節心情。不看朋友圈的顧南亭終於在宋宋的提醒下知道了事情原委，李語珩也對流言有點困擾詢問顧南亭是否需要刪掉和進一步澄清，顧南亭覺得有些頭疼隨即表示算了，不然會越描越黑。"
+          },
+          {
+            "content_id": "VOD00278309",
+            "time_codes": [
+              738000,
+              1446000,
+              2149000
+            ],
+            "timecode_duration": [],
+            "length": 2716000,
+            "asset_id": "vod60692-000023M001",
+            "title": "",
+            "subtitle": "第23集",
+            "ep_number": 23,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761646800000,
+            "vod_channel_description": "鷺航從各個部門選出了志願者們去運送物資，機務部門也加班拆掉了飛機座椅以儲存更多的物資。於是由顧南亭領隊，帶領倪湛、程霄、林一成、宋宋、夏至等30人組成志願者隊伍支援蘭山縣，夏至也不忘自己兼任公關部成員的職責，全程拿著小攝像機錄製影片。"
+          },
+          {
+            "content_id": "VOD00278310",
+            "time_codes": [
+              729000,
+              1488000,
+              2132000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000024M001",
+            "title": "",
+            "subtitle": "第24集",
+            "ep_number": 24,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761649800000,
+            "vod_channel_description": "次日清早，倪湛察覺到兩人的關係，故意和顧南亭提及羅憶，並表示自己喜歡程霄。一直對羅憶和倪湛存有愧疚之心的顧南亭，開始有所退卻。"
+          },
+          {
+            "content_id": "VOD00278311",
+            "time_codes": [
+              661000,
+              1492000,
+              2128000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000025M001",
+            "title": "",
+            "subtitle": "第25集",
+            "ep_number": 25,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761652800000,
+            "vod_channel_description": "程霄已經通過了左座考核，需要在教員機長的監督下完成左座飛行的時長後再申請機長，倪湛也悄無聲息地展開了對程霄的追求，在飛行前送給了她一支特製的不會流出墨水的鋼筆。"
+          },
+          {
+            "content_id": "VOD00278312",
+            "time_codes": [
+              689000,
+              1386000,
+              2127000
+            ],
+            "timecode_duration": [],
+            "length": 2717000,
+            "asset_id": "vod60692-000026M001",
+            "title": "",
+            "subtitle": "第26集",
+            "ep_number": 26,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761655800000,
+            "vod_channel_description": "程霄離開後，前來探望顧母的李語珩言談之中流露出了想要續租程霄搬出去的房子，顧南亭婉拒。"
+          },
+          {
+            "content_id": "VOD00278313",
+            "time_codes": [
+              727000,
+              1423000,
+              2114000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000027M001",
+            "title": "",
+            "subtitle": "第27集",
+            "ep_number": 27,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761658800000,
+            "vod_channel_description": "顧南亭發現倪湛已經提前墊付好了醫藥費，經過王凡事件，顧南亭為表歉意也為機務部門送去了一批全新的防滑鞋子。"
+          },
+          {
+            "content_id": "VOD00278314",
+            "time_codes": [
+              733000,
+              1480000,
+              2145000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000028M001",
+            "title": "",
+            "subtitle": "第28集",
+            "ep_number": 28,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761661800000,
+            "vod_channel_description": "江韜在餐廳偶遇了乘務聚餐剛結束的祁玉和李語珩，於是讓二人也加入了飯桌。程霄剛剛結束飛行任務，風塵僕僕來到包廂，李語珩偷偷發短信告訴顧南亭，顧南亭異常惱火地開車前往餐廳。"
+          },
+          {
+            "content_id": "VOD00278315",
+            "time_codes": [
+              775000,
+              1406000,
+              2202000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000029M001",
+            "title": "",
+            "subtitle": "第29集",
+            "ep_number": 29,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761664800000,
+            "vod_channel_description": "過了幾天，尚未返回老家的程父與短暫休假程霄從超市出來，正好偶遇了倪湛。程父就心生一計，說倪湛是程霄的男友，找到了回家應付程母的理由。"
+          },
+          {
+            "content_id": "VOD00278316",
+            "time_codes": [
+              773000,
+              1393000,
+              2207000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000030M001",
+            "title": "",
+            "subtitle": "第30集",
+            "ep_number": 30,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761667800000,
+            "vod_channel_description": "程式師在落地時突發猝死症狀，就地搶救後立馬被救護車拉走，顧南亭和倪湛隨著江韜會見了新加坡機場的合作方，就在簽約儀式順利進行的同時，顧南亭收到了確認死亡的壞消息。"
+          },
+          {
+            "content_id": "VOD00278317",
+            "time_codes": [
+              686000,
+              1424000,
+              2159000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000031M001",
+            "title": "",
+            "subtitle": "第31集",
+            "ep_number": 31,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761670800000,
+            "vod_channel_description": "江韜本可以解釋清楚真相，但選擇了錯誤的道路：隱瞞了他通知塔臺選擇不備降的真相，以機場沒有備降條件為由打算脫責，江韜還與賽供備降機場的負責人達成一致，私下修改了錄音。江韜此舉其實是希望英雄機組的聲譽以及鷺航的名聲不受影響。"
+          },
+          {
+            "content_id": "VOD00278318",
+            "time_codes": [
+              767000,
+              1487000,
+              2153000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000032M001",
+            "title": "",
+            "subtitle": "第32集",
+            "ep_number": 32,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761673800000,
+            "vod_channel_description": "顧南亭拜託李語珩聯繫到了一位愛心劉律師幫助老父親辯護。劉律師坦言由於缺乏證據，打官司並不佔優勢，希望程霄能夠出席法院訴訟前的調解會，幫忙爭取庭外和解。"
+          },
+          {
+            "content_id": "VOD00278319",
+            "time_codes": [
+              732000,
+              1442000,
+              2177000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000033M001",
+            "title": "",
+            "subtitle": "第33集",
+            "ep_number": 33,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761676800000,
+            "vod_channel_description": "程霄接連遭受家庭和事業的打擊，只好和夏至在酒吧深夜買醉，顧南亭、宋宋和李語珩趕來分別將程霄和夏至送回家。"
+          },
+          {
+            "content_id": "VOD00278320",
+            "time_codes": [
+              721000,
+              1401000,
+              2120000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000034M001",
+            "title": "",
+            "subtitle": "第34集",
+            "ep_number": 34,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761679800000,
+            "vod_channel_description": "開庭時間迫在眉睫，顧南亭又馬不停蹄地飛往巴拿馬，在山野公路上疲憊地等待著騎行歸來的卡米爾機長，卡米爾機長是一位年近四十的颯爽女機長，顧南亭幾番努力爭取之下，她依舊不願作證。"
+          },
+          {
+            "content_id": "VOD00278321",
+            "time_codes": [
+              705000,
+              1436000,
+              2101000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000035M001",
+            "title": "",
+            "subtitle": "第35集",
+            "ep_number": 35,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761682800000,
+            "vod_channel_description": "林一成出人意料地承認可以備降的事實，但老父親方仍因為證據有限，庭辯處於下方。此時，外國機長卡米爾意外出庭作證，證實了當時機場具有備降條件，終於真相大白。"
+          },
+          {
+            "content_id": "VOD00278322",
+            "time_codes": [
+              737000,
+              1483000,
+              2130000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000036M001",
+            "title": "",
+            "subtitle": "第36集",
+            "ep_number": 36,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761685800000,
+            "vod_channel_description": "病房裡的程母看起來疲憊不堪，與曾經那個意氣風發的她完全不同。程父只好告訴程霄實情，程霄內心觸動，想著當初自己毅然然地選擇飛行是不是有點自私。"
+          },
+          {
+            "content_id": "VOD00278323",
+            "time_codes": [
+              778000,
+              1456000,
+              2170000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000037M001",
+            "title": "",
+            "subtitle": "第37集",
+            "ep_number": 37,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761688800000,
+            "vod_channel_description": "顧南亭也終於有機會向程霄表明心意，主動解釋了羅憶只是過去，程霄表示希望慢慢來，先從朋友做起。顧南亭也時不時向宋宋討教追求女孩的方式。"
+          },
+          {
+            "content_id": "VOD00278324",
+            "time_codes": [
+              678000,
+              1475000,
+              2165000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000038M001",
+            "title": "",
+            "subtitle": "第38集",
+            "ep_number": 38,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761691800000,
+            "vod_channel_description": "如此關心顧南亭的程霄頓時明白了自己內心的答案，這一次她也要勇敢地回應顧南亭的感情， 兩人正式確定了男女朋友關係。"
+          },
+          {
+            "content_id": "VOD00278325",
+            "time_codes": [
+              769000,
+              1410000,
+              2109000
+            ],
+            "timecode_duration": [],
+            "length": 2718000,
+            "asset_id": "vod60692-000039M001",
+            "title": "",
+            "subtitle": "第39集",
+            "ep_number": 39,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761694800000,
+            "vod_channel_description": "在試飛國產大飛機時，顧南亭忽然發現儀器顯示不清，誤以為是機器故障，但其實因為顧南亭工作辛勞，突發眼疾，出現暫時性的視線模糊。經過醫生診斷並無大礙，只要做一個微創手術，術後休息充分就可痊癒，之後的復發概率也極小。"
+          }
+        ],
+        "total_length": 105999000,
+        "focus_index": 7,
+        "next_index": 8,
+        "time": 1511639,
+        "focus_program": {
+          "content_id": "VOD00278294",
+          "time_codes": [
+            683000,
+            1457000,
+            2195000
+          ],
+          "timecode_duration": [],
+          "length": 2718000,
+          "asset_id": "vod60692-000008M001",
+          "title": "",
+          "subtitle": "第8集",
+          "ep_number": 8,
+          "rating": 1,
+          "content_type": "drama",
+          "p_start": 1761601800000,
+          "vod_channel_description": "機組在三亞繼續休整。顧南亭既不住朝海的房間，也不和大家一起在海邊玩耍，暗自喜歡顧南亭的李語珩覺得有些奇怪。更奇怪的是，當顧南亭看到程霄衝浪的時候突然失控，不顧一切將程霄從海裡拉了上來，並嚴厲表示飛行員不允許在執勤期間進行任何高危運動。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "戲劇",
+          "EngName": "Drama",
+          "MenuOrder": 7
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_mobile_20230823.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

@@ -1,0 +1,4212 @@
+{
+  "pageProps": {
+    "contentId": "ofiii36",
+    "channel": {
+      "title": "中天亞洲精采台",
+      "no": 36,
+      "charge_mode": "F",
+      "content_id": "ofiii36",
+      "content_type": "playout-channel",
+      "epg_categories": [
+        1
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "PLAYOUT",
+          "logo": ""
+        }
+      ],
+      "liad_id": "POFOCUSFCDRAMOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3069_ofiii36_tv_20230920.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6003",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1695204771.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 36,
+        "cdn_code": "ofiii36",
+        "start_time": 1762115100000,
+        "programs": [
+          {
+            "content_id": "VOD00376769",
+            "time_codes": [
+              1143000,
+              2172000,
+              3009000,
+              4318000,
+              5472000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6172000,
+            "asset_id": "vod44006-001274M001",
+            "title": "頭條開講",
+            "subtitle": "習近平10月平壤閱兵？趙立堅白鷺歸來了！台獨真的辦不到！川普施壓民進黨重回扁時代？",
+            "ep_number": 1274,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762115100000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762121700000
+          },
+          {
+            "content_id": "VOD00262691",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 280000,
+            "asset_id": "vod57169-000034M001",
+            "title": "今天吃什麼",
+            "subtitle": "第34集 貴州畢節：桿桿酒+八卦雞",
+            "ep_number": 34,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762121700000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762122300000
+          },
+          {
+            "content_id": "VOD00377860",
+            "time_codes": [
+              678000,
+              1198000,
+              1637000,
+              2309000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2845000,
+            "asset_id": "vod38131-002056M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2056集 小心說話！這些女藝人看起來像幾歲？",
+            "ep_number": 2056,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762122300000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762125600000
+          },
+          {
+            "content_id": "VOD00291205",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 527000,
+            "asset_id": "vod57166-000064M001",
+            "title": "我想去看看",
+            "subtitle": "第64集 在禁區游泳只有他玩過 國父玩水鼎湖山慶雲寺藏孫文軼事 2000年龍母祖廟預知未來 中國最早天主教堂利瑪竇僊花寺 絕版皇帝貢品端硯細滑如肌",
+            "ep_number": 64,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762125600000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762126200000
+          },
+          {
+            "content_id": "VOD00376770",
+            "time_codes": [
+              1033000,
+              2062000,
+              2907000,
+              4026000,
+              5452000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6072000,
+            "asset_id": "vod44006-001275M001",
+            "title": "頭條開講",
+            "subtitle": "到底有多怕習近平？川普APEC不敢入中國主場！面子大戰！美B21打空戰？對抗殲50？想不到吧川普助攻中國電影！",
+            "ep_number": 1275,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762126200000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762132800000
+          },
+          {
+            "content_id": "VOD00262692",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 228000,
+            "asset_id": "vod57169-000035M001",
+            "title": "今天吃什麼",
+            "subtitle": "第35集 江蘇泰州：泰州台菜及小吃",
+            "ep_number": 35,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762132800000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762133100000
+          },
+          {
+            "content_id": "VOD00377861",
+            "time_codes": [
+              710000,
+              1438000,
+              2055000,
+              2489000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2896000,
+            "asset_id": "vod38131-002058M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2058集 算命師說什麼你就信什麼？！怪不得你被騙！",
+            "ep_number": 2058,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762133100000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762136400000
+          },
+          {
+            "content_id": "VOD00291206",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 489000,
+            "asset_id": "vod57166-000065M001",
+            "title": "我想去看看",
+            "subtitle": "第65集 嘉義大林地標 1968年萬國戲院沉淪又從良，放映機多功能兼烤便當，黑膠始祖留聲機，周董御用大師電影看板，DIY水杯版留聲機，戲院黑店",
+            "ep_number": 65,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762136400000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762137000000
+          },
+          {
+            "content_id": "VOD00376771",
+            "time_codes": [
+              1139000,
+              2163000,
+              3054000,
+              4425000,
+              5480000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6118000,
+            "asset_id": "vod44006-001276M001",
+            "title": "頭條開講",
+            "subtitle": "習近平再次警告川普！通關密語是反台獨！被打怕了！美國準時祝賀中國10/1！戰列艦回魂？川普想打外星人？",
+            "ep_number": 1276,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762137000000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762143600000
+          },
+          {
+            "content_id": "VOD00262693",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 209000,
+            "asset_id": "vod57169-000036M001",
+            "title": "今天吃什麼",
+            "subtitle": "第36集 貴州威寧：麻辣小糍糍+蕎酥+土豆麵包饅頭",
+            "ep_number": 36,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762143600000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762143900000
+          },
+          {
+            "content_id": "VOD00377862",
+            "time_codes": [
+              670000,
+              1447000,
+              1899000,
+              2450000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2887000,
+            "asset_id": "vod38131-002059M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2059集 我們結婚了！你是合格老公嗎？！老婆的這些事你知道多少？",
+            "ep_number": 2059,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762143900000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762147200000
+          },
+          {
+            "content_id": "VOD00291207",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 437000,
+            "asset_id": "vod57166-000066M001",
+            "title": "我想去看看",
+            "subtitle": "第66集 艾森農場 台版最大澳洲茶樹農場 來餵茶樹羊 DIY防菌精油霜 綠建築黃金級 不俗氣超奢華白色城堡",
+            "ep_number": 66,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762147200000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762147800000
+          },
+          {
+            "content_id": "VOD00376772",
+            "time_codes": [
+              1144000,
+              2114000,
+              2944000,
+              4135000,
+              5412000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6018000,
+            "asset_id": "vod44006-001277M001",
+            "title": "頭條開講",
+            "subtitle": "中國大馬合作稀土震撼彈！川普賣慘要習近平多買大豆！華為的大復仇！西方電訊在中國團滅！",
+            "ep_number": 1277,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762147800000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762154400000
+          },
+          {
+            "content_id": "VOD00262694",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 295000,
+            "asset_id": "vod57169-000037M001",
+            "title": "今天吃什麼",
+            "subtitle": "第37集 山西洪洞：八八席+麻托(女媧餅)",
+            "ep_number": 37,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762154400000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762155000000
+          },
+          {
+            "content_id": "VOD00377863",
+            "time_codes": [
+              704000,
+              1353000,
+              1949000,
+              2519000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2892000,
+            "asset_id": "vod38131-002060M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2060集 奇怪！條件明明這麼好為什麼總是單身中？！",
+            "ep_number": 2060,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762155000000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762158300000
+          },
+          {
+            "content_id": "VOD00291208",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 524000,
+            "asset_id": "vod57166-000067M001",
+            "title": "我想去看看",
+            "subtitle": "第67集 甌江蓬萊「江心嶼」湖中小島古蹟 東西二塔環肥燕瘦 宋狀元超強對聯考倒人，微3D古雕塑 濃濃出魂感， 甌塑獨門魔法棒砑蹄兒",
+            "ep_number": 67,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762158300000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762158900000
+          },
+          {
+            "content_id": "VOD00376773",
+            "time_codes": [
+              1144000,
+              2173000,
+              2984000,
+              4176000,
+              5441000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6061000,
+            "asset_id": "vod44006-001278M001",
+            "title": "頭條開講",
+            "subtitle": "不想見你！APEC習川會砸鍋！美國大豆團滅中！ 伊朗遷都中國基建出招",
+            "ep_number": 1278,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762158900000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762165500000
+          },
+          {
+            "content_id": "VOD00262695",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 284000,
+            "asset_id": "vod57169-000038M001",
+            "title": "今天吃什麼",
+            "subtitle": "第38集 浙江龍泉：安仁魚頭+貴州印江：有機金豆腐",
+            "ep_number": 38,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762165500000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762166100000
+          },
+          {
+            "content_id": "VOD00377864",
+            "time_codes": [
+              745000,
+              1239000,
+              2082000,
+              2611000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2900000,
+            "asset_id": "vod38131-002061M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2061集 忍無可忍無需再忍！演藝圈好好先生/小姐爆氣事件簿",
+            "ep_number": 2061,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762166100000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762169400000
+          },
+          {
+            "content_id": "VOD00291209",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 490000,
+            "asset_id": "vod57166-000068M001",
+            "title": "我想去看看",
+            "subtitle": "第68集 花蓮地標新天堂樂園 2大金氏紀錄：75公尺雙螺旋滑梯，馬賽克牆 緒食一鍋小麻辣 招牌青花滷，純白貨櫃星巴克， 開心農場騎馬餵馬 飆嘟嘟車",
+            "ep_number": 68,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762169400000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762170000000
+          },
+          {
+            "content_id": "VOD00376774",
+            "time_codes": [
+              1144000,
+              2087000,
+              2923000,
+              4269000,
+              5472000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 5992000,
+            "asset_id": "vod44006-001279M001",
+            "title": "頭條開講",
+            "subtitle": "你敢來就打爆你！川普海軍節臉綠！APEC川普羞辱李在明！中國鋼鐵巨拳打爆美元計價！",
+            "ep_number": 1279,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762170000000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762176600000
+          },
+          {
+            "content_id": "VOD00262696",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 209000,
+            "asset_id": "vod57169-000039M001",
+            "title": "今天吃什麼",
+            "subtitle": "第39集 廣東肇慶：金字塔形狀粽子+溫州蒼南：抗倭成功的繼光餅",
+            "ep_number": 39,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762176600000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762176900000
+          },
+          {
+            "content_id": "VOD00378740",
+            "time_codes": [
+              690000,
+              1276000,
+              2092000,
+              2563000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2886000,
+            "asset_id": "vod38131-002065M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2065集 戲棚下站久就是你的 這些人好不容易熬出頭！",
+            "ep_number": 2065,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762176900000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762180200000
+          },
+          {
+            "content_id": "VOD00291210",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 485000,
+            "asset_id": "vod57166-000069M001",
+            "title": "我想去看看",
+            "subtitle": "第69集 嘉義中藥小旅行 私藏怪型生物系列，爸壯媽幸福-豪幸福乒乓館? 蒲林庄小哥手擀麵皮肉夾饃鮮香內夾饃 茴香水餃，黑豆茶DIY",
+            "ep_number": 69,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762180200000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762180800000
+          },
+          {
+            "content_id": "VOD00376775",
+            "time_codes": [
+              1143000,
+              2145000,
+              3028000,
+              4358000,
+              5303000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6103000,
+            "asset_id": "vod44006-001280M001",
+            "title": "頭條開講",
+            "subtitle": "中國儲油槽大增！要開戰了？兩岸最大跌爆戰密使一號來了！中國盛世開鑿運河計畫！川普全球奔走賣大豆！",
+            "ep_number": 1280,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762180800000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762187400000
+          },
+          {
+            "content_id": "VOD00262697",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 183000,
+            "asset_id": "vod57169-000040M001",
+            "title": "今天吃什麼",
+            "subtitle": "第40集 浙江遂昌：魚頭一條街",
+            "ep_number": 40,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762187400000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762187700000
+          },
+          {
+            "content_id": "VOD00378741",
+            "time_codes": [
+              835000,
+              1512000,
+              2101000,
+              2534000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2897000,
+            "asset_id": "vod38131-002066M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2066集 你不尷尬，尷尬的就是別人 最讓人受不了的社牛行為",
+            "ep_number": 2066,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762187700000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762191000000
+          },
+          {
+            "content_id": "VOD00291211",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 487000,
+            "asset_id": "vod57166-000070M001",
+            "title": "我想去看看",
+            "subtitle": "第70集 平民硬起來抗海盜 保存最好-溫州龍灣永昌堡 生出13進士， 北宋營造法式 國安寺千佛塔，鹽鹼地轉蓮花園 溫州蓮情文化園 異國風馬鞭草花海 雅林現代農業園",
+            "ep_number": 70,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762191000000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762191600000
+          },
+          {
+            "content_id": "VOD00378838",
+            "time_codes": [
+              1143000,
+              2172000,
+              3060000,
+              4126000,
+              4976000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6081000,
+            "asset_id": "vod44006-001281M001",
+            "title": "頭條開講",
+            "subtitle": "中國興建跨太平洋鐵路！美國使館不玩了！宣告沒錢關門！中國央行眼光犀利！打造黃金帝國！",
+            "ep_number": 1281,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762191600000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762198200000
+          },
+          {
+            "content_id": "VOD00262698",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 360000,
+            "asset_id": "vod57169-000041M001",
+            "title": "今天吃什麼",
+            "subtitle": "第41集 惠州：粵菜體系之下的惠州客家菜 釀三寶",
+            "ep_number": 41,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762198200000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762198800000
+          },
+          {
+            "content_id": "VOD00378742",
+            "time_codes": [
+              679000,
+              1308000,
+              2142000,
+              2645000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2902000,
+            "asset_id": "vod38131-002068M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2068集 小孩子在你手上真危險！！天兵爸媽的出包事件簿",
+            "ep_number": 2068,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762198800000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762202100000
+          },
+          {
+            "content_id": "VOD00309749",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 502000,
+            "asset_id": "vod57166-000071M001",
+            "title": "我想去看看",
+            "subtitle": "第71集 最強人類始祖伏羲 十八大名陵-太昊陵，清朝武财神關帝廟 古富商百年完工，吉祥物泥泥狗，汝陽毛筆 女書蚊形字，袁世凱故居帝王寶穴，千年逍遙胡辣湯",
+            "ep_number": 71,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762202100000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762202700000
+          },
+          {
+            "content_id": "VOD00378839",
+            "time_codes": [
+              1144000,
+              2173000,
+              3054000,
+              4313000,
+              5401000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6133000,
+            "asset_id": "vod44006-001282M001",
+            "title": "頭條開講",
+            "subtitle": "沒出息硬要見習！只剩20天川普急了！川普梭哈這把！賭和平獎落袋！川普跌倒南美農牧吃飽！",
+            "ep_number": 1282,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762202700000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762209300000
+          },
+          {
+            "content_id": "VOD00262699",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 262000,
+            "asset_id": "vod57169-000042M001",
+            "title": "今天吃什麼",
+            "subtitle": "第42集 惠州：著名四大菜系中之-川菜",
+            "ep_number": 42,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762209300000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762209900000
+          },
+          {
+            "content_id": "VOD00378743",
+            "time_codes": [
+              795000,
+              1597000,
+              2199000,
+              2611000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2864000,
+            "asset_id": "vod38131-002069M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2069集 你不理財財不理你 股票市場的水真的有夠深！！",
+            "ep_number": 2069,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762209900000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762213200000
+          },
+          {
+            "content_id": "VOD00309750",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 412000,
+            "asset_id": "vod57166-000072M001",
+            "title": "我想去看看",
+            "subtitle": "第72集  淡水新地標：貫穿清朝日據豪宅大園-巫登益當代藝術園區， 當代彩墨大師巫登益 一甲子國畫藝術功底",
+            "ep_number": 72,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762213200000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762213800000
+          },
+          {
+            "content_id": "VOD00378840",
+            "time_codes": [
+              1176000,
+              2130000,
+              3167000,
+              4562000,
+              5429000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6304000,
+            "asset_id": "vod44006-001283M001",
+            "title": "頭條開講",
+            "subtitle": "禮尚往來！習近平下重手 對掛美船舶收費！對高通反壟斷調查！川普諾獎夢碎 以色列頒一個！",
+            "ep_number": 1283,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762213800000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762220700000
+          },
+          {
+            "content_id": "VOD00262700",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 251000,
+            "asset_id": "vod57169-000043M001",
+            "title": "今天吃什麼",
+            "subtitle": "第43集 福州海絲：街頭美食肉燕+肉包肉",
+            "ep_number": 43,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762220700000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762221300000
+          },
+          {
+            "content_id": "VOD00378744",
+            "time_codes": [
+              699000,
+              1452000,
+              2003000,
+              2504000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2891000,
+            "asset_id": "vod38131-002070M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2070集 頂尖對決魔術秀！究竟會是誰技高一籌？！",
+            "ep_number": 2070,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762221300000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762224600000
+          },
+          {
+            "content_id": "VOD00309751",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 395000,
+            "asset_id": "vod57166-000073M001",
+            "title": "我想去看看",
+            "subtitle": "第73集 2023耶誕來臨！最美的「樹」在哪裡呢？精選雙北精選打卡地3+1",
+            "ep_number": 73,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762224600000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762225200000
+          },
+          {
+            "content_id": "VOD00378841",
+            "time_codes": [
+              1115000,
+              2149000,
+              3019000,
+              4258000,
+              5470000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6092000,
+            "asset_id": "vod44006-001284M001",
+            "title": "頭條開講",
+            "subtitle": "觸怒中國！川普無路可逃撒錢求生！稀土全完啦！北京摘了美國AI的心臟！中國電網全面輾壓美國？",
+            "ep_number": 1284,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762225200000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762231800000
+          },
+          {
+            "content_id": "VOD00262701",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 222000,
+            "asset_id": "vod57169-000044M001",
+            "title": "今天吃什麼",
+            "subtitle": "第44集 吉林：朝顯族打糕+泡菜",
+            "ep_number": 44,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762231800000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762232100000
+          },
+          {
+            "content_id": "VOD00379304",
+            "time_codes": [
+              809000,
+              1508000,
+              2137000,
+              2642000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2902000,
+            "asset_id": "vod38131-002071M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2071集 神人級收藏家來了！超稀有絕版珍藏品全公開",
+            "ep_number": 2071,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762232100000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762235400000
+          },
+          {
+            "content_id": "VOD00309752",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 432000,
+            "asset_id": "vod57166-000074M001",
+            "title": "我想去看看",
+            "subtitle": "第74集 大砲基地眷村 轉職文創美食村-空軍三重一村， 地洞9轉18彎 鑽地下甬道彈藥庫， 空軍三重一村玩透日夜:書店+餐酒+民宿+市集+偉忠班表演",
+            "ep_number": 74,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762235400000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762236000000
+          },
+          {
+            "content_id": "VOD00378842",
+            "time_codes": [
+              1144000,
+              2140000,
+              3019000,
+              4412000,
+              5550000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6095000,
+            "asset_id": "vod44006-001285M001",
+            "title": "頭條開講",
+            "subtitle": "習近平輾壓川普！去你的港口費！北極航線抵達！波蘭自取其辱！完蛋！美國船破洞兵缺糧！",
+            "ep_number": 1285,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762236000000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762242600000
+          },
+          {
+            "content_id": "VOD00262702",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 278000,
+            "asset_id": "vod57169-000045M001",
+            "title": "今天吃什麼",
+            "subtitle": "第45集 江蘇常州：「太湖三白」之外 風格獨具的蘇味",
+            "ep_number": 45,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762242600000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762243200000
+          },
+          {
+            "content_id": "VOD00379305",
+            "time_codes": [
+              724000,
+              1440000,
+              2109000,
+              2644000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2907000,
+            "asset_id": "vod38131-002073M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2073集 社區主委不是人幹的！這些大小事都是我要管？！",
+            "ep_number": 2073,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762243200000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762246500000
+          },
+          {
+            "content_id": "VOD00309753",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 530000,
+            "asset_id": "vod57166-000075M001",
+            "title": "我想去看看",
+            "subtitle": "第75集 台版獨家！三代心好暖神旺酒店+驚喜旺仔主題房+伯品廊超萌旺仔美食+銅盤雙吃；明代先進腦 徐光啟紀念館；徐家匯地標:天主教堂+光元素徐家匯書院",
+            "ep_number": 75,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762246500000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762247100000
+          },
+          {
+            "content_id": "VOD00378843",
+            "time_codes": [
+              1139000,
+              2163000,
+              2991000,
+              4199000,
+              5422000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6058000,
+            "asset_id": "vod44006-001286M001",
+            "title": "頭條開講",
+            "subtitle": "習近平硬氣功！痛毆川普美式霸凌！北京AI分析驚曝川普罩門！不買中國食用油！川普反制鬧劇一場！",
+            "ep_number": 1286,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762247100000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762253700000
+          },
+          {
+            "content_id": "VOD00262703",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 181000,
+            "asset_id": "vod57169-000046M001",
+            "title": "今天吃什麼",
+            "subtitle": "第46集 山西：非遺八珍羊肉配+土水爐烤月餅",
+            "ep_number": 46,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762253700000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762254000000
+          },
+          {
+            "content_id": "VOD00379306",
+            "time_codes": [
+              708000,
+              1374000,
+              1874000,
+              2379000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2880000,
+            "asset_id": "vod38131-002074M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2074集 確定不是複製人？！多才多藝雙胞胎來了！！",
+            "ep_number": 2074,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762254000000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762257300000
+          },
+          {
+            "content_id": "VOD00323219",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 384000,
+            "asset_id": "vod57166-000076M001",
+            "title": "我想去看看",
+            "subtitle": "第76集 KITTY 50周年「與未來做朋友吧」 宇宙光未來版KITTY超閃！復古到可愛時尚 凱蒂小故事；互動「七大展區」 發現巨型凱蒂 多主題玩+拍凱蒂美照",
+            "ep_number": 76,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762257300000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762257900000
+          },
+          {
+            "content_id": "VOD00378844",
+            "time_codes": [
+              1143000,
+              2171000,
+              2997000,
+              4245000,
+              5430000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6064000,
+            "asset_id": "vod44006-001287M001",
+            "title": "頭條開講",
+            "subtitle": "中國稀土退讓換關稅休戰延長！習近平看穿川普空手套白狼！翻臉了！馬克宏握力激鬥川普！",
+            "ep_number": 1287,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762257900000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762264500000
+          },
+          {
+            "content_id": "VOD00262704",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 186000,
+            "asset_id": "vod57169-000047M001",
+            "title": "今天吃什麼",
+            "subtitle": "第47集 江蘇：無錫桃膠蹄膀+玉錫黃酒",
+            "ep_number": 47,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762264500000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762264800000
+          },
+          {
+            "content_id": "VOD00379307",
+            "time_codes": [
+              706000,
+              1315000,
+              1936000,
+              2541000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2884000,
+            "asset_id": "vod38131-002075M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2075集 8週年特別企劃 我在小大的第一次！",
+            "ep_number": 2075,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762264800000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762268100000
+          },
+          {
+            "content_id": "VOD00323220",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 331000,
+            "asset_id": "vod57166-000077M001",
+            "title": "我想去看看",
+            "subtitle": "第77集 市中心的161座綠島：溫州甌海 「三垟濕地」；仙岩梅雨潭：摩崖題刻及文人筆歎；古法造紙活化石：澤雅四連碓造紙作坊；朱自清的少女瀑布",
+            "ep_number": 77,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762268100000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762268700000
+          },
+          {
+            "content_id": "VOD00378845",
+            "time_codes": [
+              1144000,
+              2173000,
+              2965000,
+              4177000,
+              5283000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6050000,
+            "asset_id": "vod44006-001288M001",
+            "title": "頭條開講",
+            "subtitle": "習近平重拳奏效！驚天一崩！川普神話垮台！打造美版鹿台？川普暴君化？習川真涼了？韓國:別問我！我真的不知道！",
+            "ep_number": 1288,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762268700000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762275300000
+          },
+          {
+            "content_id": "VOD00262705",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 221000,
+            "asset_id": "vod57169-000048M001",
+            "title": "今天吃什麼",
+            "subtitle": "第48集 廣東豐順：捆粄+牛肉粄湯",
+            "ep_number": 48,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762275300000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762275600000
+          },
+          {
+            "content_id": "VOD00379308",
+            "time_codes": [
+              708000,
+              1343000,
+              1815000,
+              2474000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2843000,
+            "asset_id": "vod38131-002076M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2076集 好想被逮捕？！全台最正美女警察來了",
+            "ep_number": 2076,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762275600000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762278900000
+          },
+          {
+            "content_id": "VOD00323221",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 495000,
+            "asset_id": "vod57166-000078M001",
+            "title": "我想去看看",
+            "subtitle": "第78集 黃埔建校100年 承載中國近代戰爭史；建川博物館；黃埔軍領軍對日抗戰 成都成抗日重鎮",
+            "ep_number": 78,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762278900000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762279500000
+          },
+          {
+            "content_id": "VOD00378846",
+            "time_codes": [
+              1144000,
+              2068000,
+              2942000,
+              4409000,
+              5425000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6017000,
+            "asset_id": "vod44006-001289M001",
+            "title": "頭條開講",
+            "subtitle": "中國大勝凱旋歸！川普關稅退讓崩盤！中國隱晦同意重回談判桌！習鄭致意道賀！美台焦急鍋都炸了！",
+            "ep_number": 1289,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762279500000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762286100000
+          },
+          {
+            "content_id": "VOD00262706",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 199000,
+            "asset_id": "vod57169-000049M001",
+            "title": "今天吃什麼",
+            "subtitle": "第49集 江蘇：十三香龍蝦一年就能吃掉30萬公噸的小龍蝦",
+            "ep_number": 49,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762286100000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762286400000
+          },
+          {
+            "content_id": "VOD00381065",
+            "time_codes": [
+              701000,
+              1282000,
+              2010000,
+              2485000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2905000,
+            "asset_id": "vod38131-002078M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2078集 好好說話有這麼難嗎？！失言藝人告解大會",
+            "ep_number": 2078,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762286400000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762289700000
+          },
+          {
+            "content_id": "VOD00323222",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 557000,
+            "asset_id": "vod57166-000079M001",
+            "title": "我想去看看",
+            "subtitle": "第79集 陸聯廳轉世民國官邸 被批鬥的清秀將軍；和洋風古宅 浪漫玻璃屋+雅鴿書院；獨家將軍私房菜",
+            "ep_number": 79,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762289700000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762290600000
+          },
+          {
+            "content_id": "VOD00378847",
+            "time_codes": [
+              1139000,
+              2164000,
+              2983000,
+              4165000,
+              5397000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6043000,
+            "asset_id": "vod44006-001290M001",
+            "title": "頭條開講",
+            "subtitle": "你別來！習近平洗臉川普訪中說！美國蠢蛋說！拋棄美元擁抱人民幣！非洲貨幣風暴捲起！",
+            "ep_number": 1290,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762290600000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762297200000
+          },
+          {
+            "content_id": "VOD00262707",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 182000,
+            "asset_id": "vod57169-000050M001",
+            "title": "今天吃什麼",
+            "subtitle": "第50集 江蘇：辣炒大閘蟹",
+            "ep_number": 50,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762297200000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762297500000
+          },
+          {
+            "content_id": "VOD00381066",
+            "time_codes": [
+              1052000,
+              1487000,
+              2010000,
+              2564000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2894000,
+            "asset_id": "vod38131-002079M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2079集 雞同鴨講！有聽沒有懂？！到底哪裡的語言最難學？！",
+            "ep_number": 2079,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762297500000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762300800000
+          },
+          {
+            "content_id": "VOD00323223",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 498000,
+            "asset_id": "vod57166-000080M001",
+            "title": "我想去看看",
+            "subtitle": "第80集 九一八事變 日軍血染中國；七三一細菌部隊 人體試驗惡行；南京大屠殺 侵華日軍泯滅人性",
+            "ep_number": 80,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762300800000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762301400000
+          },
+          {
+            "content_id": "VOD00381393",
+            "time_codes": [
+              1139000,
+              2163000,
+              3029000,
+              4463000,
+              5595000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6091000,
+            "asset_id": "vod44006-001291M001",
+            "title": "頭條開講",
+            "subtitle": "川習會又沒了？中國無所謂！美國400億挑撥阿根廷！澳洲稀土取代中國？CNN打臉：給你十年都做不到！",
+            "ep_number": 1291,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762301400000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762308000000
+          },
+          {
+            "content_id": "VOD00262708",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 251000,
+            "asset_id": "vod57169-000051M001",
+            "title": "今天吃什麼",
+            "subtitle": "第51集 乾隆皇帝最愛的四大菜系之一-淮揚菜",
+            "ep_number": 51,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762308000000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762308600000
+          },
+          {
+            "content_id": "VOD00381067",
+            "time_codes": [
+              819000,
+              1476000,
+              2103000,
+              2520000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2873000,
+            "asset_id": "vod38131-002080M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2080集 空姐帶你去旅行這一些私房景點行家才知道！！",
+            "ep_number": 2080,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762308600000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762311900000
+          },
+          {
+            "content_id": "VOD00323224",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 557000,
+            "asset_id": "vod57166-000081M001",
+            "title": "我想去看看",
+            "subtitle": "第81集 福州上下杭 古河道富商雲集 絕妙古建-不對稱版永德會館 老福州鍋邊 烟台山 閩江夜遊",
+            "ep_number": 81,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762311900000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762312800000
+          },
+          {
+            "content_id": "VOD00381394",
+            "time_codes": [
+              1139000,
+              2163000,
+              2999000,
+              4113000,
+              5219000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6061000,
+            "asset_id": "vod44006-001292M001",
+            "title": "頭條開講",
+            "subtitle": "雙重核武夾殺！普丁習近平痛打川普！華大九天獨鬥白宮！美國牛用種的？川普:牧場多開就有！高空間諜氣球來了！他放的！",
+            "ep_number": 1292,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762312800000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762319400000
+          },
+          {
+            "content_id": "VOD00262709",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 184000,
+            "asset_id": "vod57169-000052M001",
+            "title": "今天吃什麼",
+            "subtitle": "第52集 漢代開始的豆豉文化 濃郁入菜皆美味",
+            "ep_number": 52,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762319400000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762319700000
+          },
+          {
+            "content_id": "VOD00381068",
+            "time_codes": [
+              697000,
+              1282000,
+              1832000,
+              2383000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2879000,
+            "asset_id": "vod38131-002081M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2081集 匿名者黑函公審大會不吐不快！這些事我早就想說了(大學生了沒篇)",
+            "ep_number": 2081,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762319700000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762323000000
+          },
+          {
+            "content_id": "VOD00323225",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 480000,
+            "asset_id": "vod57166-000082M001",
+            "title": "我想去看看",
+            "subtitle": "第82集 經典表演超吸睛 千里江山青綠腰 陳妍希唱思念 海峽影視季最受歡迎《慶餘年》《新白娘子傳奇》",
+            "ep_number": 82,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762323000000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762323600000
+          },
+          {
+            "content_id": "VOD00381395",
+            "time_codes": [
+              1143000,
+              2172000,
+              3032000,
+              4108000,
+              5696000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6099000,
+            "asset_id": "vod44006-001293M001",
+            "title": "頭條開講",
+            "subtitle": "台灣光復統一！習近平出大招！確定出席APEC！習近平普丁四招殺敗川普！搶見習！多國搶搭排隊列車！卡尼棄美投中",
+            "ep_number": 1293,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762323600000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762330200000
+          },
+          {
+            "content_id": "VOD00262710",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [
+              60000
+            ],
+            "length": 644000,
+            "asset_id": "vod57169-000053M001",
+            "title": "今天吃什麼",
+            "subtitle": "第53集 隱身在夜市旁的VIP極致鐵板燒",
+            "ep_number": 53,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762330200000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762331100000
+          },
+          {
+            "content_id": "VOD00381069",
+            "time_codes": [
+              798000,
+              1452000,
+              2115000,
+              2516000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2901000,
+            "asset_id": "vod38131-002083M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2083集 為了生小孩這些媽媽吃盡了苦頭",
+            "ep_number": 2083,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762331100000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762334400000
+          },
+          {
+            "content_id": "VOD00323226",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 422000,
+            "asset_id": "vod57166-000083M001",
+            "title": "我想去看看",
+            "subtitle": "第83集 另類全民偶像 豬堅強不放棄的精神 建川地震紀念館 團結抗震 文化示範基地",
+            "ep_number": 83,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762334400000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762335000000
+          },
+          {
+            "content_id": "VOD00381396",
+            "time_codes": [
+              1143000,
+              2172000,
+              2990000,
+              4154000,
+              5443000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6063000,
+            "asset_id": "vod44006-001294M001",
+            "title": "頭條開講",
+            "subtitle": "渡海攻台！習近平四招終結川普！李成鋼激鬥美國大地主？美跪求習川會！炸藥屋炸爛川普金穹謊言",
+            "ep_number": 1294,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762335000000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762341600000
+          },
+          {
+            "content_id": "VOD00262711",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [
+              60000
+            ],
+            "length": 669000,
+            "asset_id": "vod57169-000054M001",
+            "title": "今天吃什麼",
+            "subtitle": "第54集 哪尼！VIP級的日本老師傅手感壽司",
+            "ep_number": 54,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762341600000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762342500000
+          },
+          {
+            "content_id": "VOD00381771",
+            "time_codes": [
+              797000,
+              1408000,
+              2029000,
+              2497000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2872000,
+            "asset_id": "vod38131-002084M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2084集 同名美食PK賽 今晚你要吃哪一道？！",
+            "ep_number": 2084,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762342500000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762345800000
+          },
+          {
+            "content_id": "VOD00323227",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 512000,
+            "asset_id": "vod57166-000084M001",
+            "title": "我想去看看",
+            "subtitle": "第84集 華陽湖濕地:臭水溝變身大花園 東莞八景-旗峰公園黃旗山 明清古厝東莞下壩村 10頭身木偶戲",
+            "ep_number": 84,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762345800000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762346400000
+          },
+          {
+            "content_id": "VOD00381397",
+            "time_codes": [
+              1141000,
+              2132000,
+              2965000,
+              4376000,
+              5294000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6035000,
+            "asset_id": "vod44006-001295M001",
+            "title": "頭條開講",
+            "subtitle": "十五五加速衝擊！孫立人要落葉歸根！川普亂槍炮打中國！蒸汽彈射宇宙無敵！高市舔美全球看傻眼！",
+            "ep_number": 1295,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762346400000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762353000000
+          },
+          {
+            "content_id": "VOD00262712",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 509000,
+            "asset_id": "vod57169-000055M001",
+            "title": "今天吃什麼",
+            "subtitle": "第55集 韭菜花海/豬腳鴛鴦鍋/夜郎八卦雞",
+            "ep_number": 55,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762353000000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762353600000
+          },
+          {
+            "content_id": "VOD00381772",
+            "time_codes": [
+              704000,
+              1407000,
+              2048000,
+              2573000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2893000,
+            "asset_id": "vod38131-002088M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2088集 黑函公審大會 不忍了！！這些事我憋在心裡很久了",
+            "ep_number": 2088,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762353600000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762356900000
+          },
+          {
+            "content_id": "VOD00323228",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 561000,
+            "asset_id": "vod57166-000085M001",
+            "title": "我想去看看",
+            "subtitle": "第85集 大中華文化肇始-黃帝陵祭  穿越古今-西安大唐不夜城 西安地標-大慈恩寺 大雁塔",
+            "ep_number": 85,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762356900000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762357800000
+          },
+          {
+            "content_id": "VOD00381398",
+            "time_codes": [
+              1139000,
+              2163000,
+              3026000,
+              4265000,
+              5403000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6088000,
+            "asset_id": "vod44006-001296M001",
+            "title": "頭條開講",
+            "subtitle": "大陸官宣！習川會釜山登場 中國贏了！美主動調降對華關稅 李在明為川普加冕 拍馬屁無極限？",
+            "ep_number": 1296,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762357800000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762364400000
+          },
+          {
+            "content_id": "VOD00262713",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 500000,
+            "asset_id": "vod57169-000056M001",
+            "title": "今天吃什麼",
+            "subtitle": "第56集 草海/木船遊魔幻感水下草原 苦蕎美食與坨坨肉超配酒",
+            "ep_number": 56,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762364400000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762365000000
+          },
+          {
+            "content_id": "VOD00381773",
+            "time_codes": [
+              849000,
+              1437000,
+              2038000,
+              2482000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2863000,
+            "asset_id": "vod38131-002089M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2089集 租屋族真的心好累 無殼蝸牛最怕遇到這些事",
+            "ep_number": 2089,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762365000000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762368300000
+          },
+          {
+            "content_id": "VOD00346760",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 589000,
+            "asset_id": "vod57166-000086M001",
+            "title": "我想去看看",
+            "subtitle": "第86集 秦始皇帝陵博物館 世界八大奇蹟之一 陕西省考古博物館 致敬百年考古史",
+            "ep_number": 86,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762368300000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762369200000
+          },
+          {
+            "content_id": "VOD00381399",
+            "time_codes": [
+              1139000,
+              2163000,
+              3049000,
+              4181000,
+              5091000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6087000,
+            "asset_id": "vod44006-001297M001",
+            "title": "頭條開講",
+            "subtitle": "打贏了！中國揚眉吐氣！習近平達拉崩吧！勇者戰勝惡龍！川普化身米萊？親送習上下車！川普女神卡卡上身！撲克臉為哪樁？",
+            "ep_number": 1297,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762369200000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762375800000
+          },
+          {
+            "content_id": "VOD00279581",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 516000,
+            "asset_id": "vod57169-000057M001",
+            "title": "今天吃什麼",
+            "subtitle": "第57集 被炸過的糧倉藏美食，在彈孔下吃必比登！掃射過的糧倉變健康",
+            "ep_number": 57,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762375800000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762376400000
+          },
+          {
+            "content_id": "VOD00381774",
+            "time_codes": [
+              659000,
+              1362000,
+              2018000,
+              2461000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2894000,
+            "asset_id": "vod38131-002090M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2090集 真的是嚇死我了！！不怕不怕 明星的人生跑馬燈！",
+            "ep_number": 2090,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762376400000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762379700000
+          },
+          {
+            "content_id": "VOD00346761",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 431000,
+            "asset_id": "vod57166-000087M001",
+            "title": "我想去看看",
+            "subtitle": "第87集 科教館Minecraft題材多，8K沉浸劇場，人體區很「睛」嚇，懸空橋美拍 ，標本區清新多樣，兒童科技+生技課程超先進",
+            "ep_number": 87,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762379700000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762380300000
+          },
+          {
+            "content_id": "VOD00381400",
+            "time_codes": [
+              1141000,
+              2099000,
+              2916000,
+              4292000,
+              5310000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 5989000,
+            "asset_id": "vod44006-001298M001",
+            "title": "頭條開講",
+            "subtitle": "創造條件！習近平會見卡尼 川普逃離亞洲遇亂流 習近平登C位 中美防長會 董軍：美應反對台獨！",
+            "ep_number": 1298,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762380300000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762386900000
+          },
+          {
+            "content_id": "VOD00330335",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 397000,
+            "asset_id": "vod57169-000058M001",
+            "title": "今天吃什麼",
+            "subtitle": "第58集 台灣第一家正式西餐：在百年日式庭院饗美食，沾美藝術庭苑 溫暖饗宴結合藝術，外酥內嫩的德式烤豬腳+大理石油花牛排",
+            "ep_number": 58,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762386900000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762387500000
+          },
+          {
+            "content_id": "VOD00381775",
+            "time_codes": [
+              716000,
+              1460000,
+              1953000,
+              2492000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2881000,
+            "asset_id": "vod38131-002091M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2091集 看你的髮型就來氣！髮型對了！講起話來都大聲",
+            "ep_number": 2091,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762387500000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762390800000
+          },
+          {
+            "content_id": "VOD00346762",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 491000,
+            "asset_id": "vod57166-000088M001",
+            "title": "我想去看看",
+            "subtitle": "第88集 2024台北人氣最旺耶誕打卡地：寶麗廣場白雪聖誕秘境+統一時代 英倫風聖誕+新光三越耶誕精靈之森：會動的20米主樹 +水晶心願球",
+            "ep_number": 88,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762390800000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762391400000
+          },
+          {
+            "content_id": "VOD00376769",
+            "time_codes": [
+              1143000,
+              2172000,
+              3009000,
+              4318000,
+              5472000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6172000,
+            "asset_id": "vod44006-001274M001",
+            "title": "頭條開講",
+            "subtitle": "習近平10月平壤閱兵？趙立堅白鷺歸來了！台獨真的辦不到！川普施壓民進黨重回扁時代？",
+            "ep_number": 1274,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762391400000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762398000000
+          },
+          {
+            "content_id": "VOD00262691",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 280000,
+            "asset_id": "vod57169-000034M001",
+            "title": "今天吃什麼",
+            "subtitle": "第34集 貴州畢節：桿桿酒+八卦雞",
+            "ep_number": 34,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762398000000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762398600000
+          },
+          {
+            "content_id": "VOD00377860",
+            "time_codes": [
+              678000,
+              1198000,
+              1637000,
+              2309000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2845000,
+            "asset_id": "vod38131-002056M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2056集 小心說話！這些女藝人看起來像幾歲？",
+            "ep_number": 2056,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762398600000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762401900000
+          },
+          {
+            "content_id": "VOD00291205",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 527000,
+            "asset_id": "vod57166-000064M001",
+            "title": "我想去看看",
+            "subtitle": "第64集 在禁區游泳只有他玩過 國父玩水鼎湖山慶雲寺藏孫文軼事 2000年龍母祖廟預知未來 中國最早天主教堂利瑪竇僊花寺 絕版皇帝貢品端硯細滑如肌",
+            "ep_number": 64,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762401900000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762402500000
+          },
+          {
+            "content_id": "VOD00376770",
+            "time_codes": [
+              1033000,
+              2062000,
+              2907000,
+              4026000,
+              5452000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6072000,
+            "asset_id": "vod44006-001275M001",
+            "title": "頭條開講",
+            "subtitle": "到底有多怕習近平？川普APEC不敢入中國主場！面子大戰！美B21打空戰？對抗殲50？想不到吧川普助攻中國電影！",
+            "ep_number": 1275,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762402500000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762409100000
+          },
+          {
+            "content_id": "VOD00262692",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 228000,
+            "asset_id": "vod57169-000035M001",
+            "title": "今天吃什麼",
+            "subtitle": "第35集 江蘇泰州：泰州台菜及小吃",
+            "ep_number": 35,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762409100000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762409400000
+          },
+          {
+            "content_id": "VOD00377861",
+            "time_codes": [
+              710000,
+              1438000,
+              2055000,
+              2489000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2896000,
+            "asset_id": "vod38131-002058M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2058集 算命師說什麼你就信什麼？！怪不得你被騙！",
+            "ep_number": 2058,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762409400000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762412700000
+          },
+          {
+            "content_id": "VOD00291206",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 489000,
+            "asset_id": "vod57166-000065M001",
+            "title": "我想去看看",
+            "subtitle": "第65集 嘉義大林地標 1968年萬國戲院沉淪又從良，放映機多功能兼烤便當，黑膠始祖留聲機，周董御用大師電影看板，DIY水杯版留聲機，戲院黑店",
+            "ep_number": 65,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762412700000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762413300000
+          },
+          {
+            "content_id": "VOD00376771",
+            "time_codes": [
+              1139000,
+              2163000,
+              3054000,
+              4425000,
+              5480000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6118000,
+            "asset_id": "vod44006-001276M001",
+            "title": "頭條開講",
+            "subtitle": "習近平再次警告川普！通關密語是反台獨！被打怕了！美國準時祝賀中國10/1！戰列艦回魂？川普想打外星人？",
+            "ep_number": 1276,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762413300000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762419900000
+          },
+          {
+            "content_id": "VOD00262693",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 209000,
+            "asset_id": "vod57169-000036M001",
+            "title": "今天吃什麼",
+            "subtitle": "第36集 貴州威寧：麻辣小糍糍+蕎酥+土豆麵包饅頭",
+            "ep_number": 36,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762419900000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762420200000
+          },
+          {
+            "content_id": "VOD00377862",
+            "time_codes": [
+              670000,
+              1447000,
+              1899000,
+              2450000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2887000,
+            "asset_id": "vod38131-002059M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2059集 我們結婚了！你是合格老公嗎？！老婆的這些事你知道多少？",
+            "ep_number": 2059,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762420200000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762423500000
+          },
+          {
+            "content_id": "VOD00291207",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 437000,
+            "asset_id": "vod57166-000066M001",
+            "title": "我想去看看",
+            "subtitle": "第66集 艾森農場 台版最大澳洲茶樹農場 來餵茶樹羊 DIY防菌精油霜 綠建築黃金級 不俗氣超奢華白色城堡",
+            "ep_number": 66,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762423500000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762424100000
+          },
+          {
+            "content_id": "VOD00376772",
+            "time_codes": [
+              1144000,
+              2114000,
+              2944000,
+              4135000,
+              5412000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6018000,
+            "asset_id": "vod44006-001277M001",
+            "title": "頭條開講",
+            "subtitle": "中國大馬合作稀土震撼彈！川普賣慘要習近平多買大豆！華為的大復仇！西方電訊在中國團滅！",
+            "ep_number": 1277,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762424100000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762430700000
+          },
+          {
+            "content_id": "VOD00262694",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 295000,
+            "asset_id": "vod57169-000037M001",
+            "title": "今天吃什麼",
+            "subtitle": "第37集 山西洪洞：八八席+麻托(女媧餅)",
+            "ep_number": 37,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762430700000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762431300000
+          },
+          {
+            "content_id": "VOD00377863",
+            "time_codes": [
+              704000,
+              1353000,
+              1949000,
+              2519000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2892000,
+            "asset_id": "vod38131-002060M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2060集 奇怪！條件明明這麼好為什麼總是單身中？！",
+            "ep_number": 2060,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762431300000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762434600000
+          },
+          {
+            "content_id": "VOD00291208",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 524000,
+            "asset_id": "vod57166-000067M001",
+            "title": "我想去看看",
+            "subtitle": "第67集 甌江蓬萊「江心嶼」湖中小島古蹟 東西二塔環肥燕瘦 宋狀元超強對聯考倒人，微3D古雕塑 濃濃出魂感， 甌塑獨門魔法棒砑蹄兒",
+            "ep_number": 67,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762434600000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762435200000
+          },
+          {
+            "content_id": "VOD00376773",
+            "time_codes": [
+              1144000,
+              2173000,
+              2984000,
+              4176000,
+              5441000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6061000,
+            "asset_id": "vod44006-001278M001",
+            "title": "頭條開講",
+            "subtitle": "不想見你！APEC習川會砸鍋！美國大豆團滅中！ 伊朗遷都中國基建出招",
+            "ep_number": 1278,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762435200000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762441800000
+          },
+          {
+            "content_id": "VOD00262695",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 284000,
+            "asset_id": "vod57169-000038M001",
+            "title": "今天吃什麼",
+            "subtitle": "第38集 浙江龍泉：安仁魚頭+貴州印江：有機金豆腐",
+            "ep_number": 38,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762441800000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762442400000
+          },
+          {
+            "content_id": "VOD00377864",
+            "time_codes": [
+              745000,
+              1239000,
+              2082000,
+              2611000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2900000,
+            "asset_id": "vod38131-002061M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2061集 忍無可忍無需再忍！演藝圈好好先生/小姐爆氣事件簿",
+            "ep_number": 2061,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762442400000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762445700000
+          },
+          {
+            "content_id": "VOD00291209",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 490000,
+            "asset_id": "vod57166-000068M001",
+            "title": "我想去看看",
+            "subtitle": "第68集 花蓮地標新天堂樂園 2大金氏紀錄：75公尺雙螺旋滑梯，馬賽克牆 緒食一鍋小麻辣 招牌青花滷，純白貨櫃星巴克， 開心農場騎馬餵馬 飆嘟嘟車",
+            "ep_number": 68,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762445700000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762446300000
+          },
+          {
+            "content_id": "VOD00376774",
+            "time_codes": [
+              1144000,
+              2087000,
+              2923000,
+              4269000,
+              5472000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 5992000,
+            "asset_id": "vod44006-001279M001",
+            "title": "頭條開講",
+            "subtitle": "你敢來就打爆你！川普海軍節臉綠！APEC川普羞辱李在明！中國鋼鐵巨拳打爆美元計價！",
+            "ep_number": 1279,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762446300000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762452900000
+          },
+          {
+            "content_id": "VOD00262696",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 209000,
+            "asset_id": "vod57169-000039M001",
+            "title": "今天吃什麼",
+            "subtitle": "第39集 廣東肇慶：金字塔形狀粽子+溫州蒼南：抗倭成功的繼光餅",
+            "ep_number": 39,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762452900000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762453200000
+          },
+          {
+            "content_id": "VOD00378740",
+            "time_codes": [
+              690000,
+              1276000,
+              2092000,
+              2563000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2886000,
+            "asset_id": "vod38131-002065M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2065集 戲棚下站久就是你的 這些人好不容易熬出頭！",
+            "ep_number": 2065,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762453200000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762456500000
+          },
+          {
+            "content_id": "VOD00291210",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 485000,
+            "asset_id": "vod57166-000069M001",
+            "title": "我想去看看",
+            "subtitle": "第69集 嘉義中藥小旅行 私藏怪型生物系列，爸壯媽幸福-豪幸福乒乓館? 蒲林庄小哥手擀麵皮肉夾饃鮮香內夾饃 茴香水餃，黑豆茶DIY",
+            "ep_number": 69,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762456500000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762457100000
+          },
+          {
+            "content_id": "VOD00376775",
+            "time_codes": [
+              1143000,
+              2145000,
+              3028000,
+              4358000,
+              5303000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6103000,
+            "asset_id": "vod44006-001280M001",
+            "title": "頭條開講",
+            "subtitle": "中國儲油槽大增！要開戰了？兩岸最大跌爆戰密使一號來了！中國盛世開鑿運河計畫！川普全球奔走賣大豆！",
+            "ep_number": 1280,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762457100000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762463700000
+          },
+          {
+            "content_id": "VOD00262697",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 183000,
+            "asset_id": "vod57169-000040M001",
+            "title": "今天吃什麼",
+            "subtitle": "第40集 浙江遂昌：魚頭一條街",
+            "ep_number": 40,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762463700000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762464000000
+          },
+          {
+            "content_id": "VOD00378741",
+            "time_codes": [
+              835000,
+              1512000,
+              2101000,
+              2534000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2897000,
+            "asset_id": "vod38131-002066M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2066集 你不尷尬，尷尬的就是別人 最讓人受不了的社牛行為",
+            "ep_number": 2066,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762464000000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762467300000
+          },
+          {
+            "content_id": "VOD00291211",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 487000,
+            "asset_id": "vod57166-000070M001",
+            "title": "我想去看看",
+            "subtitle": "第70集 平民硬起來抗海盜 保存最好-溫州龍灣永昌堡 生出13進士， 北宋營造法式 國安寺千佛塔，鹽鹼地轉蓮花園 溫州蓮情文化園 異國風馬鞭草花海 雅林現代農業園",
+            "ep_number": 70,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762467300000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762467900000
+          },
+          {
+            "content_id": "VOD00378838",
+            "time_codes": [
+              1143000,
+              2172000,
+              3060000,
+              4126000,
+              4976000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6081000,
+            "asset_id": "vod44006-001281M001",
+            "title": "頭條開講",
+            "subtitle": "中國興建跨太平洋鐵路！美國使館不玩了！宣告沒錢關門！中國央行眼光犀利！打造黃金帝國！",
+            "ep_number": 1281,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762467900000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762474500000
+          },
+          {
+            "content_id": "VOD00262698",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 360000,
+            "asset_id": "vod57169-000041M001",
+            "title": "今天吃什麼",
+            "subtitle": "第41集 惠州：粵菜體系之下的惠州客家菜 釀三寶",
+            "ep_number": 41,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762474500000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762475100000
+          },
+          {
+            "content_id": "VOD00378742",
+            "time_codes": [
+              679000,
+              1308000,
+              2142000,
+              2645000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2902000,
+            "asset_id": "vod38131-002068M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2068集 小孩子在你手上真危險！！天兵爸媽的出包事件簿",
+            "ep_number": 2068,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762475100000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762478400000
+          },
+          {
+            "content_id": "VOD00309749",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 502000,
+            "asset_id": "vod57166-000071M001",
+            "title": "我想去看看",
+            "subtitle": "第71集 最強人類始祖伏羲 十八大名陵-太昊陵，清朝武财神關帝廟 古富商百年完工，吉祥物泥泥狗，汝陽毛筆 女書蚊形字，袁世凱故居帝王寶穴，千年逍遙胡辣湯",
+            "ep_number": 71,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762478400000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762479000000
+          },
+          {
+            "content_id": "VOD00378839",
+            "time_codes": [
+              1144000,
+              2173000,
+              3054000,
+              4313000,
+              5401000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6133000,
+            "asset_id": "vod44006-001282M001",
+            "title": "頭條開講",
+            "subtitle": "沒出息硬要見習！只剩20天川普急了！川普梭哈這把！賭和平獎落袋！川普跌倒南美農牧吃飽！",
+            "ep_number": 1282,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762479000000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762485600000
+          },
+          {
+            "content_id": "VOD00262699",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 262000,
+            "asset_id": "vod57169-000042M001",
+            "title": "今天吃什麼",
+            "subtitle": "第42集 惠州：著名四大菜系中之-川菜",
+            "ep_number": 42,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762485600000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762486200000
+          },
+          {
+            "content_id": "VOD00378743",
+            "time_codes": [
+              795000,
+              1597000,
+              2199000,
+              2611000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2864000,
+            "asset_id": "vod38131-002069M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2069集 你不理財財不理你 股票市場的水真的有夠深！！",
+            "ep_number": 2069,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762486200000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762489500000
+          },
+          {
+            "content_id": "VOD00309750",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 412000,
+            "asset_id": "vod57166-000072M001",
+            "title": "我想去看看",
+            "subtitle": "第72集  淡水新地標：貫穿清朝日據豪宅大園-巫登益當代藝術園區， 當代彩墨大師巫登益 一甲子國畫藝術功底",
+            "ep_number": 72,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762489500000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762490100000
+          },
+          {
+            "content_id": "VOD00378840",
+            "time_codes": [
+              1176000,
+              2130000,
+              3167000,
+              4562000,
+              5429000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6304000,
+            "asset_id": "vod44006-001283M001",
+            "title": "頭條開講",
+            "subtitle": "禮尚往來！習近平下重手 對掛美船舶收費！對高通反壟斷調查！川普諾獎夢碎 以色列頒一個！",
+            "ep_number": 1283,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762490100000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762497000000
+          },
+          {
+            "content_id": "VOD00262700",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 251000,
+            "asset_id": "vod57169-000043M001",
+            "title": "今天吃什麼",
+            "subtitle": "第43集 福州海絲：街頭美食肉燕+肉包肉",
+            "ep_number": 43,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762497000000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762497600000
+          },
+          {
+            "content_id": "VOD00378744",
+            "time_codes": [
+              699000,
+              1452000,
+              2003000,
+              2504000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2891000,
+            "asset_id": "vod38131-002070M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2070集 頂尖對決魔術秀！究竟會是誰技高一籌？！",
+            "ep_number": 2070,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762497600000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762500900000
+          },
+          {
+            "content_id": "VOD00309751",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 395000,
+            "asset_id": "vod57166-000073M001",
+            "title": "我想去看看",
+            "subtitle": "第73集 2023耶誕來臨！最美的「樹」在哪裡呢？精選雙北精選打卡地3+1",
+            "ep_number": 73,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762500900000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762501500000
+          },
+          {
+            "content_id": "VOD00378841",
+            "time_codes": [
+              1115000,
+              2149000,
+              3019000,
+              4258000,
+              5470000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6092000,
+            "asset_id": "vod44006-001284M001",
+            "title": "頭條開講",
+            "subtitle": "觸怒中國！川普無路可逃撒錢求生！稀土全完啦！北京摘了美國AI的心臟！中國電網全面輾壓美國？",
+            "ep_number": 1284,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762501500000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762508100000
+          },
+          {
+            "content_id": "VOD00262701",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 222000,
+            "asset_id": "vod57169-000044M001",
+            "title": "今天吃什麼",
+            "subtitle": "第44集 吉林：朝顯族打糕+泡菜",
+            "ep_number": 44,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762508100000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762508400000
+          },
+          {
+            "content_id": "VOD00379304",
+            "time_codes": [
+              809000,
+              1508000,
+              2137000,
+              2642000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2902000,
+            "asset_id": "vod38131-002071M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2071集 神人級收藏家來了！超稀有絕版珍藏品全公開",
+            "ep_number": 2071,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762508400000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762511700000
+          },
+          {
+            "content_id": "VOD00309752",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 432000,
+            "asset_id": "vod57166-000074M001",
+            "title": "我想去看看",
+            "subtitle": "第74集 大砲基地眷村 轉職文創美食村-空軍三重一村， 地洞9轉18彎 鑽地下甬道彈藥庫， 空軍三重一村玩透日夜:書店+餐酒+民宿+市集+偉忠班表演",
+            "ep_number": 74,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762511700000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762512300000
+          },
+          {
+            "content_id": "VOD00378842",
+            "time_codes": [
+              1144000,
+              2140000,
+              3019000,
+              4412000,
+              5550000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6095000,
+            "asset_id": "vod44006-001285M001",
+            "title": "頭條開講",
+            "subtitle": "習近平輾壓川普！去你的港口費！北極航線抵達！波蘭自取其辱！完蛋！美國船破洞兵缺糧！",
+            "ep_number": 1285,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762512300000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762518900000
+          },
+          {
+            "content_id": "VOD00262702",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 278000,
+            "asset_id": "vod57169-000045M001",
+            "title": "今天吃什麼",
+            "subtitle": "第45集 江蘇常州：「太湖三白」之外 風格獨具的蘇味",
+            "ep_number": 45,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762518900000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762519500000
+          },
+          {
+            "content_id": "VOD00379305",
+            "time_codes": [
+              724000,
+              1440000,
+              2109000,
+              2644000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2907000,
+            "asset_id": "vod38131-002073M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2073集 社區主委不是人幹的！這些大小事都是我要管？！",
+            "ep_number": 2073,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762519500000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762522800000
+          },
+          {
+            "content_id": "VOD00309753",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 530000,
+            "asset_id": "vod57166-000075M001",
+            "title": "我想去看看",
+            "subtitle": "第75集 台版獨家！三代心好暖神旺酒店+驚喜旺仔主題房+伯品廊超萌旺仔美食+銅盤雙吃；明代先進腦 徐光啟紀念館；徐家匯地標:天主教堂+光元素徐家匯書院",
+            "ep_number": 75,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762522800000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762523400000
+          },
+          {
+            "content_id": "VOD00378843",
+            "time_codes": [
+              1139000,
+              2163000,
+              2991000,
+              4199000,
+              5422000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6058000,
+            "asset_id": "vod44006-001286M001",
+            "title": "頭條開講",
+            "subtitle": "習近平硬氣功！痛毆川普美式霸凌！北京AI分析驚曝川普罩門！不買中國食用油！川普反制鬧劇一場！",
+            "ep_number": 1286,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762523400000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762530000000
+          },
+          {
+            "content_id": "VOD00262703",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 181000,
+            "asset_id": "vod57169-000046M001",
+            "title": "今天吃什麼",
+            "subtitle": "第46集 山西：非遺八珍羊肉配+土水爐烤月餅",
+            "ep_number": 46,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762530000000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762530300000
+          },
+          {
+            "content_id": "VOD00379306",
+            "time_codes": [
+              708000,
+              1374000,
+              1874000,
+              2379000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2880000,
+            "asset_id": "vod38131-002074M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2074集 確定不是複製人？！多才多藝雙胞胎來了！！",
+            "ep_number": 2074,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762530300000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762533600000
+          },
+          {
+            "content_id": "VOD00323219",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 384000,
+            "asset_id": "vod57166-000076M001",
+            "title": "我想去看看",
+            "subtitle": "第76集 KITTY 50周年「與未來做朋友吧」 宇宙光未來版KITTY超閃！復古到可愛時尚 凱蒂小故事；互動「七大展區」 發現巨型凱蒂 多主題玩+拍凱蒂美照",
+            "ep_number": 76,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762533600000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762534200000
+          },
+          {
+            "content_id": "VOD00378844",
+            "time_codes": [
+              1143000,
+              2171000,
+              2997000,
+              4245000,
+              5430000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6064000,
+            "asset_id": "vod44006-001287M001",
+            "title": "頭條開講",
+            "subtitle": "中國稀土退讓換關稅休戰延長！習近平看穿川普空手套白狼！翻臉了！馬克宏握力激鬥川普！",
+            "ep_number": 1287,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762534200000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762540800000
+          },
+          {
+            "content_id": "VOD00262704",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 186000,
+            "asset_id": "vod57169-000047M001",
+            "title": "今天吃什麼",
+            "subtitle": "第47集 江蘇：無錫桃膠蹄膀+玉錫黃酒",
+            "ep_number": 47,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762540800000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762541100000
+          },
+          {
+            "content_id": "VOD00379307",
+            "time_codes": [
+              706000,
+              1315000,
+              1936000,
+              2541000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2884000,
+            "asset_id": "vod38131-002075M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2075集 8週年特別企劃 我在小大的第一次！",
+            "ep_number": 2075,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762541100000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762544400000
+          },
+          {
+            "content_id": "VOD00323220",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 331000,
+            "asset_id": "vod57166-000077M001",
+            "title": "我想去看看",
+            "subtitle": "第77集 市中心的161座綠島：溫州甌海 「三垟濕地」；仙岩梅雨潭：摩崖題刻及文人筆歎；古法造紙活化石：澤雅四連碓造紙作坊；朱自清的少女瀑布",
+            "ep_number": 77,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762544400000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762545000000
+          },
+          {
+            "content_id": "VOD00378845",
+            "time_codes": [
+              1144000,
+              2173000,
+              2965000,
+              4177000,
+              5283000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6050000,
+            "asset_id": "vod44006-001288M001",
+            "title": "頭條開講",
+            "subtitle": "習近平重拳奏效！驚天一崩！川普神話垮台！打造美版鹿台？川普暴君化？習川真涼了？韓國:別問我！我真的不知道！",
+            "ep_number": 1288,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762545000000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762551600000
+          },
+          {
+            "content_id": "VOD00262705",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 221000,
+            "asset_id": "vod57169-000048M001",
+            "title": "今天吃什麼",
+            "subtitle": "第48集 廣東豐順：捆粄+牛肉粄湯",
+            "ep_number": 48,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762551600000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762551900000
+          },
+          {
+            "content_id": "VOD00379308",
+            "time_codes": [
+              708000,
+              1343000,
+              1815000,
+              2474000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2843000,
+            "asset_id": "vod38131-002076M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2076集 好想被逮捕？！全台最正美女警察來了",
+            "ep_number": 2076,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762551900000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762555200000
+          },
+          {
+            "content_id": "VOD00323221",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 495000,
+            "asset_id": "vod57166-000078M001",
+            "title": "我想去看看",
+            "subtitle": "第78集 黃埔建校100年 承載中國近代戰爭史；建川博物館；黃埔軍領軍對日抗戰 成都成抗日重鎮",
+            "ep_number": 78,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762555200000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762555800000
+          },
+          {
+            "content_id": "VOD00378846",
+            "time_codes": [
+              1144000,
+              2068000,
+              2942000,
+              4409000,
+              5425000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6017000,
+            "asset_id": "vod44006-001289M001",
+            "title": "頭條開講",
+            "subtitle": "中國大勝凱旋歸！川普關稅退讓崩盤！中國隱晦同意重回談判桌！習鄭致意道賀！美台焦急鍋都炸了！",
+            "ep_number": 1289,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762555800000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762562400000
+          },
+          {
+            "content_id": "VOD00262706",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 199000,
+            "asset_id": "vod57169-000049M001",
+            "title": "今天吃什麼",
+            "subtitle": "第49集 江蘇：十三香龍蝦一年就能吃掉30萬公噸的小龍蝦",
+            "ep_number": 49,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762562400000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762562700000
+          },
+          {
+            "content_id": "VOD00381065",
+            "time_codes": [
+              701000,
+              1282000,
+              2010000,
+              2485000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2905000,
+            "asset_id": "vod38131-002078M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2078集 好好說話有這麼難嗎？！失言藝人告解大會",
+            "ep_number": 2078,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762562700000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762566000000
+          },
+          {
+            "content_id": "VOD00323222",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 557000,
+            "asset_id": "vod57166-000079M001",
+            "title": "我想去看看",
+            "subtitle": "第79集 陸聯廳轉世民國官邸 被批鬥的清秀將軍；和洋風古宅 浪漫玻璃屋+雅鴿書院；獨家將軍私房菜",
+            "ep_number": 79,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762566000000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762566900000
+          },
+          {
+            "content_id": "VOD00378847",
+            "time_codes": [
+              1139000,
+              2164000,
+              2983000,
+              4165000,
+              5397000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6043000,
+            "asset_id": "vod44006-001290M001",
+            "title": "頭條開講",
+            "subtitle": "你別來！習近平洗臉川普訪中說！美國蠢蛋說！拋棄美元擁抱人民幣！非洲貨幣風暴捲起！",
+            "ep_number": 1290,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762566900000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762573500000
+          },
+          {
+            "content_id": "VOD00262707",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 182000,
+            "asset_id": "vod57169-000050M001",
+            "title": "今天吃什麼",
+            "subtitle": "第50集 江蘇：辣炒大閘蟹",
+            "ep_number": 50,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762573500000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762573800000
+          },
+          {
+            "content_id": "VOD00381066",
+            "time_codes": [
+              1052000,
+              1487000,
+              2010000,
+              2564000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2894000,
+            "asset_id": "vod38131-002079M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2079集 雞同鴨講！有聽沒有懂？！到底哪裡的語言最難學？！",
+            "ep_number": 2079,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762573800000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762577100000
+          },
+          {
+            "content_id": "VOD00323223",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 498000,
+            "asset_id": "vod57166-000080M001",
+            "title": "我想去看看",
+            "subtitle": "第80集 九一八事變 日軍血染中國；七三一細菌部隊 人體試驗惡行；南京大屠殺 侵華日軍泯滅人性",
+            "ep_number": 80,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762577100000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762577700000
+          },
+          {
+            "content_id": "VOD00381393",
+            "time_codes": [
+              1139000,
+              2163000,
+              3029000,
+              4463000,
+              5595000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6091000,
+            "asset_id": "vod44006-001291M001",
+            "title": "頭條開講",
+            "subtitle": "川習會又沒了？中國無所謂！美國400億挑撥阿根廷！澳洲稀土取代中國？CNN打臉：給你十年都做不到！",
+            "ep_number": 1291,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762577700000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762584300000
+          },
+          {
+            "content_id": "VOD00262708",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 251000,
+            "asset_id": "vod57169-000051M001",
+            "title": "今天吃什麼",
+            "subtitle": "第51集 乾隆皇帝最愛的四大菜系之一-淮揚菜",
+            "ep_number": 51,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762584300000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762584900000
+          },
+          {
+            "content_id": "VOD00381067",
+            "time_codes": [
+              819000,
+              1476000,
+              2103000,
+              2520000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2873000,
+            "asset_id": "vod38131-002080M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2080集 空姐帶你去旅行這一些私房景點行家才知道！！",
+            "ep_number": 2080,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762584900000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762588200000
+          },
+          {
+            "content_id": "VOD00323224",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 557000,
+            "asset_id": "vod57166-000081M001",
+            "title": "我想去看看",
+            "subtitle": "第81集 福州上下杭 古河道富商雲集 絕妙古建-不對稱版永德會館 老福州鍋邊 烟台山 閩江夜遊",
+            "ep_number": 81,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762588200000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762589100000
+          },
+          {
+            "content_id": "VOD00381394",
+            "time_codes": [
+              1139000,
+              2163000,
+              2999000,
+              4113000,
+              5219000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6061000,
+            "asset_id": "vod44006-001292M001",
+            "title": "頭條開講",
+            "subtitle": "雙重核武夾殺！普丁習近平痛打川普！華大九天獨鬥白宮！美國牛用種的？川普:牧場多開就有！高空間諜氣球來了！他放的！",
+            "ep_number": 1292,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762589100000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762595700000
+          },
+          {
+            "content_id": "VOD00262709",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 184000,
+            "asset_id": "vod57169-000052M001",
+            "title": "今天吃什麼",
+            "subtitle": "第52集 漢代開始的豆豉文化 濃郁入菜皆美味",
+            "ep_number": 52,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762595700000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762596000000
+          },
+          {
+            "content_id": "VOD00381068",
+            "time_codes": [
+              697000,
+              1282000,
+              1832000,
+              2383000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2879000,
+            "asset_id": "vod38131-002081M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2081集 匿名者黑函公審大會不吐不快！這些事我早就想說了(大學生了沒篇)",
+            "ep_number": 2081,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762596000000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762599300000
+          },
+          {
+            "content_id": "VOD00323225",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 480000,
+            "asset_id": "vod57166-000082M001",
+            "title": "我想去看看",
+            "subtitle": "第82集 經典表演超吸睛 千里江山青綠腰 陳妍希唱思念 海峽影視季最受歡迎《慶餘年》《新白娘子傳奇》",
+            "ep_number": 82,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762599300000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762599900000
+          },
+          {
+            "content_id": "VOD00381395",
+            "time_codes": [
+              1143000,
+              2172000,
+              3032000,
+              4108000,
+              5696000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6099000,
+            "asset_id": "vod44006-001293M001",
+            "title": "頭條開講",
+            "subtitle": "台灣光復統一！習近平出大招！確定出席APEC！習近平普丁四招殺敗川普！搶見習！多國搶搭排隊列車！卡尼棄美投中",
+            "ep_number": 1293,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762599900000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762606500000
+          },
+          {
+            "content_id": "VOD00262710",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [
+              60000
+            ],
+            "length": 644000,
+            "asset_id": "vod57169-000053M001",
+            "title": "今天吃什麼",
+            "subtitle": "第53集 隱身在夜市旁的VIP極致鐵板燒",
+            "ep_number": 53,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762606500000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762607400000
+          },
+          {
+            "content_id": "VOD00381069",
+            "time_codes": [
+              798000,
+              1452000,
+              2115000,
+              2516000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2901000,
+            "asset_id": "vod38131-002083M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2083集 為了生小孩這些媽媽吃盡了苦頭",
+            "ep_number": 2083,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762607400000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762610700000
+          },
+          {
+            "content_id": "VOD00323226",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 422000,
+            "asset_id": "vod57166-000083M001",
+            "title": "我想去看看",
+            "subtitle": "第83集 另類全民偶像 豬堅強不放棄的精神 建川地震紀念館 團結抗震 文化示範基地",
+            "ep_number": 83,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762610700000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762611300000
+          },
+          {
+            "content_id": "VOD00381396",
+            "time_codes": [
+              1143000,
+              2172000,
+              2990000,
+              4154000,
+              5443000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6063000,
+            "asset_id": "vod44006-001294M001",
+            "title": "頭條開講",
+            "subtitle": "渡海攻台！習近平四招終結川普！李成鋼激鬥美國大地主？美跪求習川會！炸藥屋炸爛川普金穹謊言",
+            "ep_number": 1294,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762611300000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762617900000
+          },
+          {
+            "content_id": "VOD00262711",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [
+              60000
+            ],
+            "length": 669000,
+            "asset_id": "vod57169-000054M001",
+            "title": "今天吃什麼",
+            "subtitle": "第54集 哪尼！VIP級的日本老師傅手感壽司",
+            "ep_number": 54,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762617900000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762618800000
+          },
+          {
+            "content_id": "VOD00381771",
+            "time_codes": [
+              797000,
+              1408000,
+              2029000,
+              2497000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2872000,
+            "asset_id": "vod38131-002084M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2084集 同名美食PK賽 今晚你要吃哪一道？！",
+            "ep_number": 2084,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762618800000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762622100000
+          },
+          {
+            "content_id": "VOD00323227",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 512000,
+            "asset_id": "vod57166-000084M001",
+            "title": "我想去看看",
+            "subtitle": "第84集 華陽湖濕地:臭水溝變身大花園 東莞八景-旗峰公園黃旗山 明清古厝東莞下壩村 10頭身木偶戲",
+            "ep_number": 84,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762622100000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762622700000
+          },
+          {
+            "content_id": "VOD00381397",
+            "time_codes": [
+              1141000,
+              2132000,
+              2965000,
+              4376000,
+              5294000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6035000,
+            "asset_id": "vod44006-001295M001",
+            "title": "頭條開講",
+            "subtitle": "十五五加速衝擊！孫立人要落葉歸根！川普亂槍炮打中國！蒸汽彈射宇宙無敵！高市舔美全球看傻眼！",
+            "ep_number": 1295,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762622700000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762629300000
+          },
+          {
+            "content_id": "VOD00262712",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 509000,
+            "asset_id": "vod57169-000055M001",
+            "title": "今天吃什麼",
+            "subtitle": "第55集 韭菜花海/豬腳鴛鴦鍋/夜郎八卦雞",
+            "ep_number": 55,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762629300000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762629900000
+          },
+          {
+            "content_id": "VOD00381772",
+            "time_codes": [
+              704000,
+              1407000,
+              2048000,
+              2573000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2893000,
+            "asset_id": "vod38131-002088M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2088集 黑函公審大會 不忍了！！這些事我憋在心裡很久了",
+            "ep_number": 2088,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762629900000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762633200000
+          },
+          {
+            "content_id": "VOD00323228",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 561000,
+            "asset_id": "vod57166-000085M001",
+            "title": "我想去看看",
+            "subtitle": "第85集 大中華文化肇始-黃帝陵祭  穿越古今-西安大唐不夜城 西安地標-大慈恩寺 大雁塔",
+            "ep_number": 85,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762633200000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762634100000
+          },
+          {
+            "content_id": "VOD00381398",
+            "time_codes": [
+              1139000,
+              2163000,
+              3026000,
+              4265000,
+              5403000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6088000,
+            "asset_id": "vod44006-001296M001",
+            "title": "頭條開講",
+            "subtitle": "大陸官宣！習川會釜山登場 中國贏了！美主動調降對華關稅 李在明為川普加冕 拍馬屁無極限？",
+            "ep_number": 1296,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762634100000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762640700000
+          },
+          {
+            "content_id": "VOD00262713",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 500000,
+            "asset_id": "vod57169-000056M001",
+            "title": "今天吃什麼",
+            "subtitle": "第56集 草海/木船遊魔幻感水下草原 苦蕎美食與坨坨肉超配酒",
+            "ep_number": 56,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762640700000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762641300000
+          },
+          {
+            "content_id": "VOD00381773",
+            "time_codes": [
+              849000,
+              1437000,
+              2038000,
+              2482000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2863000,
+            "asset_id": "vod38131-002089M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2089集 租屋族真的心好累 無殼蝸牛最怕遇到這些事",
+            "ep_number": 2089,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762641300000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762644600000
+          },
+          {
+            "content_id": "VOD00346760",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 589000,
+            "asset_id": "vod57166-000086M001",
+            "title": "我想去看看",
+            "subtitle": "第86集 秦始皇帝陵博物館 世界八大奇蹟之一 陕西省考古博物館 致敬百年考古史",
+            "ep_number": 86,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762644600000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762645500000
+          },
+          {
+            "content_id": "VOD00381399",
+            "time_codes": [
+              1139000,
+              2163000,
+              3049000,
+              4181000,
+              5091000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 6087000,
+            "asset_id": "vod44006-001297M001",
+            "title": "頭條開講",
+            "subtitle": "打贏了！中國揚眉吐氣！習近平達拉崩吧！勇者戰勝惡龍！川普化身米萊？親送習上下車！川普女神卡卡上身！撲克臉為哪樁？",
+            "ep_number": 1297,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762645500000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762652100000
+          },
+          {
+            "content_id": "VOD00279581",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 516000,
+            "asset_id": "vod57169-000057M001",
+            "title": "今天吃什麼",
+            "subtitle": "第57集 被炸過的糧倉藏美食，在彈孔下吃必比登！掃射過的糧倉變健康",
+            "ep_number": 57,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762652100000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762652700000
+          },
+          {
+            "content_id": "VOD00381774",
+            "time_codes": [
+              659000,
+              1362000,
+              2018000,
+              2461000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2894000,
+            "asset_id": "vod38131-002090M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2090集 真的是嚇死我了！！不怕不怕 明星的人生跑馬燈！",
+            "ep_number": 2090,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762652700000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762656000000
+          },
+          {
+            "content_id": "VOD00346761",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 431000,
+            "asset_id": "vod57166-000087M001",
+            "title": "我想去看看",
+            "subtitle": "第87集 科教館Minecraft題材多，8K沉浸劇場，人體區很「睛」嚇，懸空橋美拍 ，標本區清新多樣，兒童科技+生技課程超先進",
+            "ep_number": 87,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762656000000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762656600000
+          },
+          {
+            "content_id": "VOD00381400",
+            "time_codes": [
+              1141000,
+              2099000,
+              2916000,
+              4292000,
+              5310000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 5989000,
+            "asset_id": "vod44006-001298M001",
+            "title": "頭條開講",
+            "subtitle": "創造條件！習近平會見卡尼 川普逃離亞洲遇亂流 習近平登C位 中美防長會 董軍：美應反對台獨！",
+            "ep_number": 1298,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762656600000,
+            "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+            "p_end": 1762663200000
+          },
+          {
+            "content_id": "VOD00330335",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 397000,
+            "asset_id": "vod57169-000058M001",
+            "title": "今天吃什麼",
+            "subtitle": "第58集 台灣第一家正式西餐：在百年日式庭院饗美食，沾美藝術庭苑 溫暖饗宴結合藝術，外酥內嫩的德式烤豬腳+大理石油花牛排",
+            "ep_number": 58,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762663200000,
+            "vod_channel_description": "好吃又好玩，走遍美食地圖~還有哪裡是你沒去過的、沒吃過的嗎?跟我們一起發現—今天吃什麼!!",
+            "p_end": 1762663800000
+          },
+          {
+            "content_id": "VOD00381775",
+            "time_codes": [
+              716000,
+              1460000,
+              1953000,
+              2492000
+            ],
+            "timecode_duration": [
+              60000,
+              60000,
+              60000,
+              60000
+            ],
+            "length": 2881000,
+            "asset_id": "vod38131-002091M001",
+            "title": "小明星大跟班",
+            "subtitle": "第2091集 看你的髮型就來氣！髮型對了！講起話來都大聲",
+            "ep_number": 2091,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762663800000,
+            "vod_channel_description": "本土天王吳宗憲與女兒吳姍儒（Sandy）搭檔主持，每集邀請來賓暢談演藝圈大小事，父女檔聯手笑果十足，老梗搭上新世代，最新組合強勢登場！",
+            "p_end": 1762667100000
+          },
+          {
+            "content_id": "VOD00346762",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 491000,
+            "asset_id": "vod57166-000088M001",
+            "title": "我想去看看",
+            "subtitle": "第88集 2024台北人氣最旺耶誕打卡地：寶麗廣場白雪聖誕秘境+統一時代 英倫風聖誕+新光三越耶誕精靈之森：會動的20米主樹 +水晶心願球",
+            "ep_number": 88,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762667100000,
+            "vod_channel_description": "探訪最夯景點，挖掘隱藏版小眾景區，讓在地專家告訴你，別人不知道的故事；分享道地美食、美酒文化，彷彿身歷其境的精采旅程！",
+            "p_end": 1762667591000
+          }
+        ],
+        "total_length": 487670000,
+        "focus_index": 44,
+        "midroll_before_start": true,
+        "midroll_before_start_duration": 5319,
+        "focus_program": {
+          "content_id": "VOD00378842",
+          "time_codes": [
+            1144000,
+            2140000,
+            3019000,
+            4412000,
+            5550000
+          ],
+          "timecode_duration": [
+            60000,
+            60000,
+            60000,
+            60000,
+            60000
+          ],
+          "length": 6095000,
+          "asset_id": "vod44006-001285M001",
+          "title": "頭條開講",
+          "subtitle": "習近平輾壓川普！去你的港口費！北極航線抵達！波蘭自取其辱！完蛋！美國船破洞兵缺糧！",
+          "ep_number": 1285,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762236000000,
+          "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
+          "p_end": 1762242600000
+        },
+        "time": 1198681,
+        "next_index": 45
+      },
+      "station_categories": [
+        {
+          "Name": "綜合",
+          "EngName": "Variety",
+          "MenuOrder": 4
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_mobile_20230920.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

@@ -1,0 +1,1683 @@
+{
+  "pageProps": {
+    "contentId": "ofiii166",
+    "channel": {
+      "title": "我們這一家",
+      "no": 166,
+      "charge_mode": "F",
+      "content_id": "ofiii166",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        109
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWCHILDOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3121_ofiii166_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "木棉花",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6055",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1697684566.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 166,
+        "cdn_code": "ofiii166",
+        "start_time": 1762057200000,
+        "programs": [
+          {
+            "content_id": "VOD00022785",
+            "time_codes": [
+              674000
+            ],
+            "timecode_duration": [],
+            "length": 1080000,
+            "asset_id": "vod8835-000001M001",
+            "title": "",
+            "subtitle": "第1集 不是這個意思啦",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762057200000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022786",
+            "time_codes": [
+              762000
+            ],
+            "timecode_duration": [],
+            "length": 1096000,
+            "asset_id": "vod8835-000002M001",
+            "title": "",
+            "subtitle": "第2集 早知道就不說了",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762058400000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022787",
+            "time_codes": [
+              698000
+            ],
+            "timecode_duration": [],
+            "length": 1073000,
+            "asset_id": "vod8835-000003M001",
+            "title": "",
+            "subtitle": "第3集 真是夠了",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762059600000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022788",
+            "time_codes": [
+              669000
+            ],
+            "timecode_duration": [],
+            "length": 1097000,
+            "asset_id": "vod8835-000004M001",
+            "title": "",
+            "subtitle": "第4集 吐司邊的吃法",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762060800000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022789",
+            "time_codes": [
+              734000
+            ],
+            "timecode_duration": [],
+            "length": 1085000,
+            "asset_id": "vod8835-000005M001",
+            "title": "",
+            "subtitle": "第5集 一家和樂...？",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762062000000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022790",
+            "time_codes": [
+              728000
+            ],
+            "timecode_duration": [],
+            "length": 1067000,
+            "asset_id": "vod8835-000006M001",
+            "title": "",
+            "subtitle": "第6集 媽媽視力模糊？",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762063200000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022791",
+            "time_codes": [
+              769000
+            ],
+            "timecode_duration": [],
+            "length": 1050000,
+            "asset_id": "vod8835-000007M001",
+            "title": "",
+            "subtitle": "第7集 又是媽媽幹的好事吧",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762064400000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022792",
+            "time_codes": [
+              724000
+            ],
+            "timecode_duration": [],
+            "length": 1088000,
+            "asset_id": "vod8835-000008M001",
+            "title": "",
+            "subtitle": "第8集 媽媽的亞洲風味渡假勝地",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762065600000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022793",
+            "time_codes": [
+              761000
+            ],
+            "timecode_duration": [],
+            "length": 1085000,
+            "asset_id": "vod8835-000009M001",
+            "title": "",
+            "subtitle": "第9集 橘子，不再當人？",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762066800000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022794",
+            "time_codes": [
+              754000
+            ],
+            "timecode_duration": [],
+            "length": 1080000,
+            "asset_id": "vod8835-000010M001",
+            "title": "",
+            "subtitle": "第10集 媽媽就是丟不掉",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762068000000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022795",
+            "time_codes": [
+              776000
+            ],
+            "timecode_duration": [],
+            "length": 1104000,
+            "asset_id": "vod8835-000011M001",
+            "title": "",
+            "subtitle": "第11集 媽媽出現了",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762069200000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022796",
+            "time_codes": [
+              740000
+            ],
+            "timecode_duration": [],
+            "length": 1098000,
+            "asset_id": "vod8835-000012M001",
+            "title": "",
+            "subtitle": "第12集 媽媽的減肥作戰",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762070400000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022797",
+            "time_codes": [
+              699000
+            ],
+            "timecode_duration": [],
+            "length": 1068000,
+            "asset_id": "vod8835-000013M001",
+            "title": "",
+            "subtitle": "第13集 媽媽的危機力量",
+            "ep_number": 13,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762071600000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022798",
+            "time_codes": [
+              708000
+            ],
+            "timecode_duration": [],
+            "length": 1090000,
+            "asset_id": "vod8835-000014M001",
+            "title": "",
+            "subtitle": "第14集 法國式媽媽",
+            "ep_number": 14,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762072800000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022799",
+            "time_codes": [
+              719000
+            ],
+            "timecode_duration": [],
+            "length": 1071000,
+            "asset_id": "vod8835-000015M001",
+            "title": "",
+            "subtitle": "第15集 媽媽的冰塊戰爭",
+            "ep_number": 15,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762074000000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022800",
+            "time_codes": [
+              664000
+            ],
+            "timecode_duration": [],
+            "length": 1057000,
+            "asset_id": "vod8835-000016M001",
+            "title": "",
+            "subtitle": "第16集 柚子在泳池裡...",
+            "ep_number": 16,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762075200000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022801",
+            "time_codes": [
+              725000
+            ],
+            "timecode_duration": [],
+            "length": 1046000,
+            "asset_id": "vod8835-000017M001",
+            "title": "",
+            "subtitle": "第17集 媽媽穿著泳裝...",
+            "ep_number": 17,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762076400000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022802",
+            "time_codes": [
+              746000
+            ],
+            "timecode_duration": [],
+            "length": 1055000,
+            "asset_id": "vod8835-000018M001",
+            "title": "",
+            "subtitle": "第18集 媽媽的愛的教育",
+            "ep_number": 18,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762077600000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022803",
+            "time_codes": [
+              701000
+            ],
+            "timecode_duration": [],
+            "length": 1088000,
+            "asset_id": "vod8835-000019M001",
+            "title": "",
+            "subtitle": "第19集 媽媽的走路方式",
+            "ep_number": 19,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762078800000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022804",
+            "time_codes": [
+              683000
+            ],
+            "timecode_duration": [],
+            "length": 1024000,
+            "asset_id": "vod8835-000020M001",
+            "title": "",
+            "subtitle": "第20集 斷電器跳掉了",
+            "ep_number": 20,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762080000000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022950",
+            "time_codes": [
+              744000
+            ],
+            "timecode_duration": [],
+            "length": 1099000,
+            "asset_id": "vod8835-000021M001",
+            "title": "",
+            "subtitle": "第21集 理想與現實",
+            "ep_number": 21,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762081200000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022951",
+            "time_codes": [
+              691000
+            ],
+            "timecode_duration": [],
+            "length": 1061000,
+            "asset_id": "vod8835-000022M001",
+            "title": "",
+            "subtitle": "第22集 媽媽的差遣方法",
+            "ep_number": 22,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762082400000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022952",
+            "time_codes": [
+              774000
+            ],
+            "timecode_duration": [],
+            "length": 1068000,
+            "asset_id": "vod8835-000023M001",
+            "title": "",
+            "subtitle": "第23集 不一樣的爸爸",
+            "ep_number": 23,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762083600000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022953",
+            "time_codes": [
+              667000
+            ],
+            "timecode_duration": [],
+            "length": 1067000,
+            "asset_id": "vod8835-000024M001",
+            "title": "",
+            "subtitle": "第24集 熊研的園遊會",
+            "ep_number": 24,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762084800000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022954",
+            "time_codes": [
+              688000
+            ],
+            "timecode_duration": [],
+            "length": 1018000,
+            "asset_id": "vod8835-000025M001",
+            "title": "",
+            "subtitle": "第25集 波霸姊姊",
+            "ep_number": 25,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762086000000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022955",
+            "time_codes": [
+              710000
+            ],
+            "timecode_duration": [],
+            "length": 1052000,
+            "asset_id": "vod8835-000026M001",
+            "title": "",
+            "subtitle": "第26集 柚子穿著睡褲",
+            "ep_number": 26,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762087200000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022956",
+            "time_codes": [
+              727000
+            ],
+            "timecode_duration": [],
+            "length": 1040000,
+            "asset_id": "vod8835-000027M001",
+            "title": "",
+            "subtitle": "第27集 衛星導航來了/媽媽，那個在哪裡？",
+            "ep_number": 27,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762088400000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022957",
+            "time_codes": [
+              743000
+            ],
+            "timecode_duration": [],
+            "length": 1041000,
+            "asset_id": "vod8835-000028M001",
+            "title": "",
+            "subtitle": "第28集 媽媽的一舉三得",
+            "ep_number": 28,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762089600000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022958",
+            "time_codes": [
+              701000
+            ],
+            "timecode_duration": [],
+            "length": 936000,
+            "asset_id": "vod8835-000029M001",
+            "title": "",
+            "subtitle": "第29集 柚子，男人的友情",
+            "ep_number": 29,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762090800000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022959",
+            "time_codes": [
+              692000
+            ],
+            "timecode_duration": [],
+            "length": 1020000,
+            "asset_id": "vod8835-000030M001",
+            "title": "",
+            "subtitle": "第30集 媽媽的習性",
+            "ep_number": 30,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762092000000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022960",
+            "time_codes": [
+              688000
+            ],
+            "timecode_duration": [],
+            "length": 1099000,
+            "asset_id": "vod8835-000031M001",
+            "title": "",
+            "subtitle": "第31集 新田的男朋友",
+            "ep_number": 31,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762093200000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022961",
+            "time_codes": [
+              742000
+            ],
+            "timecode_duration": [],
+            "length": 1024000,
+            "asset_id": "vod8835-000032M001",
+            "title": "",
+            "subtitle": "第32集 媽媽，聖誕快樂",
+            "ep_number": 32,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762094400000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022962",
+            "time_codes": [
+              747000
+            ],
+            "timecode_duration": [],
+            "length": 1028000,
+            "asset_id": "vod8835-000033M001",
+            "title": "",
+            "subtitle": "第33集 媽媽，重量剛剛好",
+            "ep_number": 33,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762095600000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022963",
+            "time_codes": [
+              689000
+            ],
+            "timecode_duration": [],
+            "length": 1107000,
+            "asset_id": "vod8835-000034M001",
+            "title": "",
+            "subtitle": "第34集 媽媽在銀座",
+            "ep_number": 34,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762096800000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022964",
+            "time_codes": [
+              660000
+            ],
+            "timecode_duration": [],
+            "length": 1068000,
+            "asset_id": "vod8835-000035M001",
+            "title": "",
+            "subtitle": "第35集 腳踏車被偷了",
+            "ep_number": 35,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762098000000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022965",
+            "time_codes": [
+              722000
+            ],
+            "timecode_duration": [],
+            "length": 1035000,
+            "asset_id": "vod8835-000036M001",
+            "title": "",
+            "subtitle": "第36集 媽媽運勢旺盛！？",
+            "ep_number": 36,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762099200000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022966",
+            "time_codes": [
+              703000
+            ],
+            "timecode_duration": [],
+            "length": 1022000,
+            "asset_id": "vod8835-000037M001",
+            "title": "",
+            "subtitle": "第37集 柚子粉絲俱樂部",
+            "ep_number": 37,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762100400000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022967",
+            "time_codes": [
+              706000
+            ],
+            "timecode_duration": [],
+            "length": 1055000,
+            "asset_id": "vod8835-000038M001",
+            "title": "",
+            "subtitle": "第38集 情人節",
+            "ep_number": 38,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762101600000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022968",
+            "time_codes": [
+              752000
+            ],
+            "timecode_duration": [],
+            "length": 1096000,
+            "asset_id": "vod8835-000039M001",
+            "title": "",
+            "subtitle": "第39集 爸爸是丟物狂",
+            "ep_number": 39,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762102800000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022969",
+            "time_codes": [
+              719000
+            ],
+            "timecode_duration": [],
+            "length": 1041000,
+            "asset_id": "vod8835-000040M001",
+            "title": "",
+            "subtitle": "第40集 媽媽，順便順便",
+            "ep_number": 40,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762104000000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022970",
+            "time_codes": [
+              732000
+            ],
+            "timecode_duration": [],
+            "length": 1083000,
+            "asset_id": "vod8835-000041M001",
+            "title": "",
+            "subtitle": "第41集 白色情人節",
+            "ep_number": 41,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762105200000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022971",
+            "time_codes": [
+              749000
+            ],
+            "timecode_duration": [],
+            "length": 1100000,
+            "asset_id": "vod8835-000042M001",
+            "title": "",
+            "subtitle": "第42集 櫻花，櫻花",
+            "ep_number": 42,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762106400000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022972",
+            "time_codes": [
+              754000
+            ],
+            "timecode_duration": [],
+            "length": 1084000,
+            "asset_id": "vod8835-000043M001",
+            "title": "",
+            "subtitle": "第43集 柚子，鮪魚罐頭",
+            "ep_number": 43,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762107600000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022973",
+            "time_codes": [
+              672000
+            ],
+            "timecode_duration": [],
+            "length": 1097000,
+            "asset_id": "vod8835-000044M001",
+            "title": "",
+            "subtitle": "第44集 柚子是地下粉絲",
+            "ep_number": 44,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762108800000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022974",
+            "time_codes": [
+              760000
+            ],
+            "timecode_duration": [],
+            "length": 1036000,
+            "asset_id": "vod8835-000045M001",
+            "title": "",
+            "subtitle": "第45集 爸爸滿臉鬍子",
+            "ep_number": 45,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762110000000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022975",
+            "time_codes": [
+              725000
+            ],
+            "timecode_duration": [],
+            "length": 1066000,
+            "asset_id": "vod8835-000046M001",
+            "title": "",
+            "subtitle": "第46集 爸爸買整套",
+            "ep_number": 46,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762111200000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022976",
+            "time_codes": [
+              774000
+            ],
+            "timecode_duration": [],
+            "length": 1086000,
+            "asset_id": "vod8835-000047M001",
+            "title": "",
+            "subtitle": "第47集 麻吉姊妹淘小清",
+            "ep_number": 47,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762112400000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022977",
+            "time_codes": [
+              744000
+            ],
+            "timecode_duration": [],
+            "length": 1035000,
+            "asset_id": "vod8835-000048M001",
+            "title": "",
+            "subtitle": "第48集 小清減肥術",
+            "ep_number": 48,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762113600000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022978",
+            "time_codes": [
+              678000
+            ],
+            "timecode_duration": [],
+            "length": 1066000,
+            "asset_id": "vod8835-000049M001",
+            "title": "",
+            "subtitle": "第49集 她的名字就叫做『春山吹雪』",
+            "ep_number": 49,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762114800000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022979",
+            "time_codes": [
+              691000
+            ],
+            "timecode_duration": [],
+            "length": 1045000,
+            "asset_id": "vod8835-000050M001",
+            "title": "",
+            "subtitle": "第50集 媽媽要去登山",
+            "ep_number": 50,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762116000000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022980",
+            "time_codes": [
+              665000
+            ],
+            "timecode_duration": [],
+            "length": 1066000,
+            "asset_id": "vod8835-000051M001",
+            "title": "",
+            "subtitle": "第51集 在乎有小蟲的油豆腐湯",
+            "ep_number": 51,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762117200000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022981",
+            "time_codes": [
+              728000
+            ],
+            "timecode_duration": [],
+            "length": 1063000,
+            "asset_id": "vod8835-000052M001",
+            "title": "",
+            "subtitle": "第52集 柚子，考試前",
+            "ep_number": 52,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762118400000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022982",
+            "time_codes": [
+              685000
+            ],
+            "timecode_duration": [],
+            "length": 1141000,
+            "asset_id": "vod8835-000053M001",
+            "title": "",
+            "subtitle": "第53集 媽媽要郵購",
+            "ep_number": 53,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762119600000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022983",
+            "time_codes": [
+              698000
+            ],
+            "timecode_duration": [],
+            "length": 1142000,
+            "asset_id": "vod8835-000054M001",
+            "title": "",
+            "subtitle": "第54集 菜色的法則",
+            "ep_number": 54,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762121100000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022984",
+            "time_codes": [
+              768000
+            ],
+            "timecode_duration": [],
+            "length": 1142000,
+            "asset_id": "vod8835-000055M001",
+            "title": "",
+            "subtitle": "第55集 爸爸，一不留神",
+            "ep_number": 55,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762122600000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022985",
+            "time_codes": [
+              734000
+            ],
+            "timecode_duration": [],
+            "length": 1140000,
+            "asset_id": "vod8835-000056M001",
+            "title": "",
+            "subtitle": "第56集 妙鼻貼",
+            "ep_number": 56,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762124100000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022986",
+            "time_codes": [
+              688000
+            ],
+            "timecode_duration": [],
+            "length": 1143000,
+            "asset_id": "vod8835-000057M001",
+            "title": "",
+            "subtitle": "第57集 花家的中元節禮物",
+            "ep_number": 57,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762125300000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022987",
+            "time_codes": [
+              688000
+            ],
+            "timecode_duration": [],
+            "length": 1060000,
+            "asset_id": "vod8835-000058M001",
+            "title": "",
+            "subtitle": "第58集 柚子凡事思考",
+            "ep_number": 58,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762126800000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022988",
+            "time_codes": [
+              761000
+            ],
+            "timecode_duration": [],
+            "length": 1143000,
+            "asset_id": "vod8835-000059M001",
+            "title": "",
+            "subtitle": "第59集 煙火在哪裡",
+            "ep_number": 59,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762128000000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022989",
+            "time_codes": [
+              668000
+            ],
+            "timecode_duration": [],
+            "length": 1141000,
+            "asset_id": "vod8835-000060M001",
+            "title": "",
+            "subtitle": "第60集 熊研的校外活動",
+            "ep_number": 60,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762129500000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022990",
+            "time_codes": [
+              723000
+            ],
+            "timecode_duration": [],
+            "length": 1141000,
+            "asset_id": "vod8835-000061M001",
+            "title": "",
+            "subtitle": "第61集 暑假好苦悶喔",
+            "ep_number": 61,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762131000000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022991",
+            "time_codes": [
+              762000
+            ],
+            "timecode_duration": [],
+            "length": 1143000,
+            "asset_id": "vod8835-000062M001",
+            "title": "",
+            "subtitle": "第62集 理想中的男朋友",
+            "ep_number": 62,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762132500000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022992",
+            "time_codes": [
+              741000
+            ],
+            "timecode_duration": [],
+            "length": 1142000,
+            "asset_id": "vod8835-000063M001",
+            "title": "",
+            "subtitle": "第63集 冰箱的開法",
+            "ep_number": 63,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762134000000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022993",
+            "time_codes": [
+              660000
+            ],
+            "timecode_duration": [],
+            "length": 1144000,
+            "asset_id": "vod8835-000064M001",
+            "title": "",
+            "subtitle": "第64集 川島很在意",
+            "ep_number": 64,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762135500000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022994",
+            "time_codes": [
+              695000
+            ],
+            "timecode_duration": [],
+            "length": 1143000,
+            "asset_id": "vod8835-000065M001",
+            "title": "",
+            "subtitle": "第65集 媽媽喜歡整理",
+            "ep_number": 65,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762137000000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022995",
+            "time_codes": [
+              706000
+            ],
+            "timecode_duration": [],
+            "length": 1098000,
+            "asset_id": "vod8835-000066M001",
+            "title": "",
+            "subtitle": "第66集 媽媽的填字遊戲",
+            "ep_number": 66,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762138500000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022996",
+            "time_codes": [
+              730000
+            ],
+            "timecode_duration": [],
+            "length": 1143000,
+            "asset_id": "vod8835-000067M001",
+            "title": "",
+            "subtitle": "第67集 媽媽拜託買東西",
+            "ep_number": 67,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762139700000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022997",
+            "time_codes": [
+              748000
+            ],
+            "timecode_duration": [],
+            "length": 1144000,
+            "asset_id": "vod8835-000068M001",
+            "title": "",
+            "subtitle": "第68集 橘子和茄子的關係",
+            "ep_number": 68,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762141200000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022998",
+            "time_codes": [
+              767000
+            ],
+            "timecode_duration": [],
+            "length": 1144000,
+            "asset_id": "vod8835-000069M001",
+            "title": "",
+            "subtitle": "第69集 橘子要提高零用錢",
+            "ep_number": 69,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762142700000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00022999",
+            "time_codes": [
+              777000
+            ],
+            "timecode_duration": [],
+            "length": 1083000,
+            "asset_id": "vod8835-000070M001",
+            "title": "",
+            "subtitle": "第70集 石田不說謊",
+            "ep_number": 70,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762144200000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023000",
+            "time_codes": [
+              742000
+            ],
+            "timecode_duration": [],
+            "length": 1083000,
+            "asset_id": "vod8835-000071M001",
+            "title": "",
+            "subtitle": "第71集 爸爸媽媽去溫泉旅行",
+            "ep_number": 71,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762145400000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023001",
+            "time_codes": [
+              666000
+            ],
+            "timecode_duration": [],
+            "length": 1083000,
+            "asset_id": "vod8835-000072M001",
+            "title": "",
+            "subtitle": "第72集 現在的小孩子啊…",
+            "ep_number": 72,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762146600000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023002",
+            "time_codes": [
+              712000
+            ],
+            "timecode_duration": [],
+            "length": 1066000,
+            "asset_id": "vod8835-000073M001",
+            "title": "",
+            "subtitle": "第73集 人生就像在耍盤子",
+            "ep_number": 73,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762147800000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023003",
+            "time_codes": [
+              776000
+            ],
+            "timecode_duration": [],
+            "length": 1154000,
+            "asset_id": "vod8835-000074M001",
+            "title": "",
+            "subtitle": "第74集 橘子對帽子沒輒",
+            "ep_number": 74,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762149000000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023004",
+            "time_codes": [
+              706000
+            ],
+            "timecode_duration": [],
+            "length": 1121000,
+            "asset_id": "vod8835-000075M001",
+            "title": "",
+            "subtitle": "第75集 媽媽垂頭喪氣",
+            "ep_number": 75,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762150500000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023005",
+            "time_codes": [
+              681000
+            ],
+            "timecode_duration": [],
+            "length": 1083000,
+            "asset_id": "vod8835-000076M001",
+            "title": "",
+            "subtitle": "第76集 柚子的鬱悶",
+            "ep_number": 76,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762151700000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023006",
+            "time_codes": [
+              691000
+            ],
+            "timecode_duration": [],
+            "length": 1139000,
+            "asset_id": "vod8835-000077M001",
+            "title": "",
+            "subtitle": "第77集 內衣褲和好女人",
+            "ep_number": 77,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762152900000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023007",
+            "time_codes": [
+              723000
+            ],
+            "timecode_duration": [],
+            "length": 1144000,
+            "asset_id": "vod8835-000078M001",
+            "title": "",
+            "subtitle": "第78集 情急下的小謊言",
+            "ep_number": 78,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762154100000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023008",
+            "time_codes": [
+              719000
+            ],
+            "timecode_duration": [],
+            "length": 1144000,
+            "asset_id": "vod8835-000079M001",
+            "title": "",
+            "subtitle": "第79集 橘子談論可憐人？",
+            "ep_number": 79,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762155600000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023009",
+            "time_codes": [
+              717000
+            ],
+            "timecode_duration": [],
+            "length": 1067000,
+            "asset_id": "vod8835-000080M001",
+            "title": "",
+            "subtitle": "第80集 新田是個細心的女人",
+            "ep_number": 80,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762157100000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023010",
+            "time_codes": [
+              697000
+            ],
+            "timecode_duration": [],
+            "length": 1142000,
+            "asset_id": "vod8835-000081M001",
+            "title": "",
+            "subtitle": "第81集 橘子的前世是什麼？",
+            "ep_number": 81,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762158300000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023011",
+            "time_codes": [
+              729000
+            ],
+            "timecode_duration": [],
+            "length": 1144000,
+            "asset_id": "vod8835-000082M001",
+            "title": "",
+            "subtitle": "第82集 柚子被騙了",
+            "ep_number": 82,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762159800000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023012",
+            "time_codes": [
+              697000
+            ],
+            "timecode_duration": [],
+            "length": 1143000,
+            "asset_id": "vod8835-000083M001",
+            "title": "",
+            "subtitle": "第83集 爸爸真是敏銳",
+            "ep_number": 83,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762161300000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023013",
+            "time_codes": [
+              710000
+            ],
+            "timecode_duration": [],
+            "length": 1143000,
+            "asset_id": "vod8835-000084M001",
+            "title": "",
+            "subtitle": "第84集 媽媽腦筋急轉彎",
+            "ep_number": 84,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762162800000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023014",
+            "time_codes": [
+              746000
+            ],
+            "timecode_duration": [],
+            "length": 1143000,
+            "asset_id": "vod8835-000085M001",
+            "title": "",
+            "subtitle": "第85集 橘子如同十人？",
+            "ep_number": 85,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762164300000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023015",
+            "time_codes": [
+              669000
+            ],
+            "timecode_duration": [],
+            "length": 1144000,
+            "asset_id": "vod8835-000086M001",
+            "title": "",
+            "subtitle": "第86集 爸爸的男人美學",
+            "ep_number": 86,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762165800000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023016",
+            "time_codes": [
+              753000
+            ],
+            "timecode_duration": [],
+            "length": 1206000,
+            "asset_id": "vod8835-000087M001",
+            "title": "",
+            "subtitle": "第87集 爸爸的生活意義",
+            "ep_number": 87,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762167300000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023017",
+            "time_codes": [
+              779000
+            ],
+            "timecode_duration": [],
+            "length": 1142000,
+            "asset_id": "vod8835-000088M001",
+            "title": "",
+            "subtitle": "第88集 橘子說不出口",
+            "ep_number": 88,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762168800000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023018",
+            "time_codes": [
+              697000
+            ],
+            "timecode_duration": [],
+            "length": 1144000,
+            "asset_id": "vod8835-000089M001",
+            "title": "",
+            "subtitle": "第89集 媽媽的做法",
+            "ep_number": 89,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762170300000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023019",
+            "time_codes": [
+              722000
+            ],
+            "timecode_duration": [],
+            "length": 1068000,
+            "asset_id": "vod8835-000090M001",
+            "title": "",
+            "subtitle": "第90集 吉岡的惡作劇電話疑雲",
+            "ep_number": 90,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762171800000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023020",
+            "time_codes": [
+              661000
+            ],
+            "timecode_duration": [],
+            "length": 1144000,
+            "asset_id": "vod8835-000091M001",
+            "title": "",
+            "subtitle": "第91集 櫻花的回憶",
+            "ep_number": 91,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762173000000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023021",
+            "time_codes": [
+              689000
+            ],
+            "timecode_duration": [],
+            "length": 1095000,
+            "asset_id": "vod8835-000092M001",
+            "title": "",
+            "subtitle": "第92集 媽媽還滿名牌主義的",
+            "ep_number": 92,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762174500000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023022",
+            "time_codes": [
+              739000
+            ],
+            "timecode_duration": [],
+            "length": 1096000,
+            "asset_id": "vod8835-000093M001",
+            "title": "",
+            "subtitle": "第93集 橘子的小睡時間",
+            "ep_number": 93,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762175700000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023023",
+            "time_codes": [
+              729000
+            ],
+            "timecode_duration": [],
+            "length": 1096000,
+            "asset_id": "vod8835-000094M001",
+            "title": "",
+            "subtitle": "第94集 橘子鬧彆扭",
+            "ep_number": 94,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762176900000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023024",
+            "time_codes": [
+              745000
+            ],
+            "timecode_duration": [],
+            "length": 1144000,
+            "asset_id": "vod8835-000095M001",
+            "title": "",
+            "subtitle": "第95集 橘子，155公分",
+            "ep_number": 95,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762178100000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023025",
+            "time_codes": [
+              710000
+            ],
+            "timecode_duration": [],
+            "length": 1143000,
+            "asset_id": "vod8835-000096M001",
+            "title": "",
+            "subtitle": "第96集 只有現在才能做的事",
+            "ep_number": 96,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762179600000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023026",
+            "time_codes": [
+              668000
+            ],
+            "timecode_duration": [],
+            "length": 1143000,
+            "asset_id": "vod8835-000097M001",
+            "title": "",
+            "subtitle": "第97集 爸爸，打洞機！打洞機！",
+            "ep_number": 97,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762181100000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023027",
+            "time_codes": [
+              692000
+            ],
+            "timecode_duration": [],
+            "length": 1144000,
+            "asset_id": "vod8835-000098M001",
+            "title": "",
+            "subtitle": "第98集 暴虐無人？",
+            "ep_number": 98,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762182600000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023028",
+            "time_codes": [
+              723000
+            ],
+            "timecode_duration": [],
+            "length": 1143000,
+            "asset_id": "vod8835-000099M001",
+            "title": "",
+            "subtitle": "第99集 媽媽挑戰陶藝",
+            "ep_number": 99,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762184100000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          },
+          {
+            "content_id": "VOD00023029",
+            "time_codes": [
+              717000
+            ],
+            "timecode_duration": [],
+            "length": 1142000,
+            "asset_id": "vod8835-000100M001",
+            "title": "",
+            "subtitle": "第100集 爸爸喜歡的類型",
+            "ep_number": 100,
+            "rating": 1,
+            "content_type": "comic",
+            "p_start": 1762185600000,
+            "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+          }
+        ],
+        "total_length": 109476000,
+        "focus_index": 65,
+        "next_index": 66,
+        "time": 709168,
+        "focus_program": {
+          "content_id": "VOD00022995",
+          "time_codes": [
+            706000
+          ],
+          "timecode_duration": [],
+          "length": 1098000,
+          "asset_id": "vod8835-000066M001",
+          "title": "",
+          "subtitle": "第66集 媽媽的填字遊戲",
+          "ep_number": 66,
+          "rating": 1,
+          "content_type": "comic",
+          "p_start": 1762138500000,
+          "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "動漫",
+          "EngName": "Animate",
+          "MenuOrder": 109
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_mobile_20230802.png",
+      "description": "超人氣極短篇動畫《我們這一家》故事溫馨有趣，真實的刻畫出家庭人物的性格。 從故事主角花媽到姐姐橘子、弟弟柚子和花爸，都顯示出現代社會中四人小家庭樸實而真誠的生活風格。",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

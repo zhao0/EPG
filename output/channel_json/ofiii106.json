@@ -1,0 +1,841 @@
+{
+  "pageProps": {
+    "contentId": "ofiii106",
+    "channel": {
+      "title": "軍師聯盟",
+      "no": 106,
+      "charge_mode": "F",
+      "content_id": "ofiii106",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        4
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3070_ofiii106_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "龍華",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6004",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1695204823.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 1,
+      "vod_channel_schedule": {
+        "channel_id": 106,
+        "cdn_code": "ofiii106",
+        "start_time": 1762181000000,
+        "programs": [
+          {
+            "content_id": "VOD00301063",
+            "time_codes": [
+              781000,
+              1489000,
+              2229000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000001M001",
+            "title": "",
+            "subtitle": "第1集",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740109800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301064",
+            "time_codes": [
+              669000,
+              1419000,
+              2202000
+            ],
+            "timecode_duration": [],
+            "length": 2796000,
+            "asset_id": "vod65222-000002M001",
+            "title": "",
+            "subtitle": "第2集",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740112800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301065",
+            "time_codes": [
+              712000,
+              1498000,
+              2185000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000003M001",
+            "title": "",
+            "subtitle": "第3集",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740115800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301066",
+            "time_codes": [
+              746000,
+              1496000,
+              2223000
+            ],
+            "timecode_duration": [],
+            "length": 2796000,
+            "asset_id": "vod65222-000004M001",
+            "title": "",
+            "subtitle": "第4集",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740118800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301067",
+            "time_codes": [
+              750000,
+              1477000,
+              2163000
+            ],
+            "timecode_duration": [],
+            "length": 2796000,
+            "asset_id": "vod65222-000005M001",
+            "title": "",
+            "subtitle": "第5集",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740121800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301068",
+            "time_codes": [
+              685000,
+              1501000,
+              2127000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000006M001",
+            "title": "",
+            "subtitle": "第6集",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740124800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301069",
+            "time_codes": [
+              717000,
+              1413000,
+              2110000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000007M001",
+            "title": "",
+            "subtitle": "第7集",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740127800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301070",
+            "time_codes": [
+              792000,
+              1476000,
+              2164000
+            ],
+            "timecode_duration": [],
+            "length": 2796000,
+            "asset_id": "vod65222-000008M001",
+            "title": "",
+            "subtitle": "第8集",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740130800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301071",
+            "time_codes": [
+              695000,
+              1521000,
+              2171000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000009M001",
+            "title": "",
+            "subtitle": "第9集",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740133800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301072",
+            "time_codes": [
+              715000,
+              1417000,
+              2232000
+            ],
+            "timecode_duration": [],
+            "length": 2796000,
+            "asset_id": "vod65222-000010M001",
+            "title": "",
+            "subtitle": "第10集",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740136800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301073",
+            "time_codes": [
+              699000,
+              1433000,
+              2187000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000011M001",
+            "title": "",
+            "subtitle": "第11集",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740139800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301074",
+            "time_codes": [
+              690000,
+              1414000,
+              2194000
+            ],
+            "timecode_duration": [],
+            "length": 2796000,
+            "asset_id": "vod65222-000012M001",
+            "title": "",
+            "subtitle": "第12集",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740142800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301075",
+            "time_codes": [
+              661000,
+              1461000,
+              2146000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000013M001",
+            "title": "",
+            "subtitle": "第13集",
+            "ep_number": 13,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740145800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301076",
+            "time_codes": [
+              755000,
+              1490000,
+              2123000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000014M001",
+            "title": "",
+            "subtitle": "第14集",
+            "ep_number": 14,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740148800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301077",
+            "time_codes": [
+              665000,
+              1486000,
+              2214000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000015M001",
+            "title": "",
+            "subtitle": "第15集",
+            "ep_number": 15,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740151800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301078",
+            "time_codes": [
+              791000,
+              1392000,
+              2168000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000016M001",
+            "title": "",
+            "subtitle": "第16集",
+            "ep_number": 16,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740154800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301079",
+            "time_codes": [
+              730000,
+              1457000,
+              2123000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000017M001",
+            "title": "",
+            "subtitle": "第17集",
+            "ep_number": 17,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740157800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301080",
+            "time_codes": [
+              787000,
+              1438000,
+              2113000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000018M001",
+            "title": "",
+            "subtitle": "第18集",
+            "ep_number": 18,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740160800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301081",
+            "time_codes": [
+              725000,
+              1508000,
+              2182000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000019M001",
+            "title": "",
+            "subtitle": "第19集",
+            "ep_number": 19,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740163800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301082",
+            "time_codes": [
+              768000,
+              1400000,
+              2184000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000020M001",
+            "title": "",
+            "subtitle": "第20集",
+            "ep_number": 20,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740166800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301083",
+            "time_codes": [
+              688000,
+              1470000,
+              2109000
+            ],
+            "timecode_duration": [],
+            "length": 2798000,
+            "asset_id": "vod65222-000021M001",
+            "title": "",
+            "subtitle": "第21集",
+            "ep_number": 21,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740169800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301084",
+            "time_codes": [
+              769000,
+              1482000,
+              2204000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000022M001",
+            "title": "",
+            "subtitle": "第22集",
+            "ep_number": 22,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740172800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301085",
+            "time_codes": [
+              680000,
+              1469000,
+              2120000
+            ],
+            "timecode_duration": [],
+            "length": 2796000,
+            "asset_id": "vod65222-000023M001",
+            "title": "",
+            "subtitle": "第23集",
+            "ep_number": 23,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740175800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301086",
+            "time_codes": [
+              797000,
+              1478000,
+              2199000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000024M001",
+            "title": "",
+            "subtitle": "第24集",
+            "ep_number": 24,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740178800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301087",
+            "time_codes": [
+              793000,
+              1478000,
+              2186000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000025M001",
+            "title": "",
+            "subtitle": "第25集",
+            "ep_number": 25,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740181800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301088",
+            "time_codes": [
+              819000,
+              1538000,
+              2261000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000026M001",
+            "title": "",
+            "subtitle": "第26集",
+            "ep_number": 26,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740184800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301089",
+            "time_codes": [
+              761000,
+              1467000,
+              2139000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000027M001",
+            "title": "",
+            "subtitle": "第27集",
+            "ep_number": 27,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740187800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301090",
+            "time_codes": [
+              694000,
+              1411000,
+              2115000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000028M001",
+            "title": "",
+            "subtitle": "第28集",
+            "ep_number": 28,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740190800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301091",
+            "time_codes": [
+              790000,
+              1477000,
+              2191000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000029M001",
+            "title": "",
+            "subtitle": "第29集",
+            "ep_number": 29,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740193800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301092",
+            "time_codes": [
+              764000,
+              1404000,
+              2208000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000030M001",
+            "title": "",
+            "subtitle": "第30集",
+            "ep_number": 30,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740196800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301093",
+            "time_codes": [
+              672000,
+              1413000,
+              2098000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000031M001",
+            "title": "",
+            "subtitle": "第31集",
+            "ep_number": 31,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740199800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301094",
+            "time_codes": [
+              687000,
+              1401000,
+              2186000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000032M001",
+            "title": "",
+            "subtitle": "第32集",
+            "ep_number": 32,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740202800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301095",
+            "time_codes": [
+              767000,
+              1470000,
+              2107000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000033M001",
+            "title": "",
+            "subtitle": "第33集",
+            "ep_number": 33,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740205800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301096",
+            "time_codes": [
+              766000,
+              1500000,
+              2224000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000034M001",
+            "title": "",
+            "subtitle": "第34集",
+            "ep_number": 34,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740208800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301097",
+            "time_codes": [
+              673000,
+              1429000,
+              2131000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000035M001",
+            "title": "",
+            "subtitle": "第35集",
+            "ep_number": 35,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740211800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301098",
+            "time_codes": [
+              689000,
+              1505000,
+              2160000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000036M001",
+            "title": "",
+            "subtitle": "第36集",
+            "ep_number": 36,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740214800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301099",
+            "time_codes": [
+              686000,
+              1383000,
+              2224000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000037M001",
+            "title": "",
+            "subtitle": "第37集",
+            "ep_number": 37,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740217800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301100",
+            "time_codes": [
+              714000,
+              1488000,
+              2246000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000038M001",
+            "title": "",
+            "subtitle": "第38集",
+            "ep_number": 38,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740220800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301101",
+            "time_codes": [
+              665000,
+              1391000,
+              2244000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000039M001",
+            "title": "",
+            "subtitle": "第39集",
+            "ep_number": 39,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740223800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301102",
+            "time_codes": [
+              754000,
+              1413000,
+              2111000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000040M001",
+            "title": "",
+            "subtitle": "第40集",
+            "ep_number": 40,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740226800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301103",
+            "time_codes": [
+              728000,
+              1387000,
+              2211000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000041M001",
+            "title": "",
+            "subtitle": "第41集",
+            "ep_number": 41,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740229800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          },
+          {
+            "content_id": "VOD00301104",
+            "time_codes": [
+              765000,
+              1438000,
+              2159000
+            ],
+            "timecode_duration": [],
+            "length": 2795000,
+            "asset_id": "vod65222-000042M001",
+            "title": "",
+            "subtitle": "第42集",
+            "ep_number": 42,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1740232800000,
+            "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+          }
+        ],
+        "total_length": 117400000,
+        "focus_index": 20,
+        "next_index": 21,
+        "time": 387563,
+        "focus_program": {
+          "content_id": "VOD00301083",
+          "time_codes": [
+            688000,
+            1470000,
+            2109000
+          ],
+          "timecode_duration": [],
+          "length": 2798000,
+          "asset_id": "vod65222-000021M001",
+          "title": "",
+          "subtitle": "第21集",
+          "ep_number": 21,
+          "rating": 1,
+          "content_type": "drama",
+          "p_start": 1740169800000,
+          "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "戲劇",
+          "EngName": "Drama",
+          "MenuOrder": 7
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3070_ofiii106_mobile_20230920.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

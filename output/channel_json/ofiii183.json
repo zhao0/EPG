@@ -1,0 +1,467 @@
+{
+  "pageProps": {
+    "contentId": "ofiii183",
+    "channel": {
+      "title": "膽大黨",
+      "no": 183,
+      "charge_mode": "F",
+      "content_id": "ofiii183",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        109
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3604_ofiii183_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "木棉花",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6538",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1735888706.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 183,
+        "cdn_code": "ofiii183",
+        "start_time": 1762167300000,
+        "programs": [
+          {
+            "content_id": "VOD00343663",
+            "time_codes": [
+              696000
+            ],
+            "timecode_duration": [],
+            "length": 1437000,
+            "asset_id": "vod73503-010001M001",
+            "title": "",
+            "subtitle": "第1季第1集 那就是戀情的開端",
+            "ep_number": 1,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762167300000,
+            "vod_channel_description": "出生於靈媒師世家的高中女生．小桃（綾瀨桃），以及跟她同年級，熱愛神秘學的厄卡倫（高倉健）。小桃出手救了在班上被欺負的厄卡倫，兩人也以此為契機和對方聊了起來，可是「相信幽靈但不相信外星人派」的小桃跟「相信外星人但不相信幽靈派」的厄卡倫起了爭執。"
+          },
+          {
+            "content_id": "VOD00343664",
+            "time_codes": [
+              692000
+            ],
+            "timecode_duration": [],
+            "length": 1437000,
+            "asset_id": "vod73503-010002M001",
+            "title": "",
+            "subtitle": "第1季第2集 那是外星人吧",
+            "ep_number": 2,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762168800000,
+            "vod_channel_description": "厄卡倫受到高速婆婆的詛咒，小桃靠著覺醒後的超能力抑制住高速婆婆，避免厄卡倫失控。天亮後，兩人雖然暫時躲到小桃家避難，卻因為撕下了鳥居上的符紙而惹禍上身，巨大外星人「弗拉特伍茲怪物」出現在兩人的面前。面臨窮途末路的危機，厄卡倫向小桃做出了某個提議。"
+          },
+          {
+            "content_id": "VOD00343665",
+            "time_codes": [
+              764000
+            ],
+            "timecode_duration": [],
+            "length": 1436000,
+            "asset_id": "vod73503-010003M001",
+            "title": "",
+            "subtitle": "第1季第3集 老太婆和老太婆槓上了",
+            "ep_number": 3,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762170300000,
+            "vod_channel_description": "厄卡倫由於高速婆婆的詛咒而變身。雖然他因為無法操縱力量而失控，但是小桃的奶奶．靈媒師星子在千鈞一髮之際拯救他們脫離了險境。為了解除詛咒，小桃和厄卡倫必須去和高速婆婆玩鬼抓人。星子命令兩人在對決前先進行特訓，然而在特訓途中，高速婆婆卻在小桃面前現身了…"
+          },
+          {
+            "content_id": "VOD00343666",
+            "time_codes": [
+              693000
+            ],
+            "timecode_duration": [],
+            "length": 1437000,
+            "asset_id": "vod73503-010004M001",
+            "title": "",
+            "subtitle": "第1季第4集 揍飛高速婆婆",
+            "ep_number": 4,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762171800000,
+            "vod_channel_description": "小桃和厄卡倫為了與高速婆婆一決勝負，依約前往隧道。兩人開始和高速婆婆玩鬼抓人，好分開高速婆婆與地縛靈，也成功地靠小桃的超能力抓住了高速婆婆。可是有著巨大螃蟹外型的地縛靈逼近兩人，想奪回高速婆婆。兩人於是與地縛靈展開了壯烈的鬼抓人遊戲…"
+          },
+          {
+            "content_id": "VOD00343667",
+            "time_codes": [
+              696000
+            ],
+            "timecode_duration": [],
+            "length": 1437000,
+            "asset_id": "vod73503-010005M001",
+            "title": "",
+            "subtitle": "第1季第5集 蛋蛋在哪裡",
+            "ep_number": 5,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762173300000,
+            "vod_channel_description": "小桃和厄卡倫打贏高速婆婆，取回了和平的生活。一同經歷這番壯烈的體驗，更縮短了兩人間的距離，然而兩人相處起來卻莫名的尷尬。就在這時候，厄卡倫向小桃說了一件非常重要的事。明明已經打倒了高速婆婆，厄卡倫的「那個」卻不知為何沒有回來…"
+          },
+          {
+            "content_id": "VOD00343668",
+            "time_codes": [
+              686000
+            ],
+            "timecode_duration": [],
+            "length": 1435000,
+            "asset_id": "vod73503-010006M001",
+            "title": "",
+            "subtitle": "第1季第6集 不妙的女人來了",
+            "ep_number": 6,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762174800000,
+            "vod_channel_description": "小桃、厄卡倫和高速婆婆一同尋找起消失的蛋蛋。他們在學校裡尋找蛋蛋，可是蛋蛋其實在美少女．愛羅「白鳥愛羅」的手上。受到蛋蛋影響，愛羅變得能看見「看不到的東西」。神秘的紅色連身裙女人「身手矯健長髮女」也出現在愛羅面前…面對愛羅的危機，小桃和厄卡倫決定挺身而出。"
+          },
+          {
+            "content_id": "VOD00343669",
+            "time_codes": [
+              615000
+            ],
+            "timecode_duration": [],
+            "length": 1437000,
+            "asset_id": "vod73503-010007M001",
+            "title": "",
+            "subtitle": "第1季第7集 前往溫柔的世界",
+            "ep_number": 7,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762176300000,
+            "vod_channel_description": "小桃和厄卡倫經過激烈的戰鬥，成功的從身手矯健長髮女手中救出愛羅。可是重要的當事人愛羅卻因為一度被妖怪吞食而失去了生命跡象。就在愛羅性命垂危時，身手矯健長髮女提出了一個驚人的方法…"
+          },
+          {
+            "content_id": "VOD00343670",
+            "time_codes": [
+              775000
+            ],
+            "timecode_duration": [],
+            "length": 1422000,
+            "asset_id": "vod73503-010008M001",
+            "title": "",
+            "subtitle": "第1季第8集 總覺得心裡有疙瘩",
+            "ep_number": 8,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762177800000,
+            "vod_channel_description": "結束和身手矯健長髮女的戰鬥，三人回到了一如往常的校園生活中。愛羅也因為厄卡倫救了她，而對厄卡倫產生了好感。在小桃、厄卡倫、愛羅的思緒交錯之時，賽伯星人再度出現，將三人困在虛空中。"
+          },
+          {
+            "content_id": "VOD00343671",
+            "time_codes": [
+              722000
+            ],
+            "timecode_duration": [],
+            "length": 1422000,
+            "asset_id": "vod73503-010009M001",
+            "title": "",
+            "subtitle": "第1季第9集 合體! 賽伯多佛惡魔尼斯湖水怪!",
+            "ep_number": 9,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762179300000,
+            "vod_channel_description": "儘管遭到外星人襲擊，小桃、厄卡倫、愛羅仍協力脫離了困境。然而已經打倒的多佛惡魔卻又出現在他們面前。正當他們慌張的以為又要開戰時，多佛惡魔無力地昏倒了。小桃等人無法對他見死不救，把他帶回家治療後，多佛惡魔說出了他的某個煩惱…"
+          },
+          {
+            "content_id": "VOD00343672",
+            "time_codes": [
+              743000
+            ],
+            "timecode_duration": [],
+            "length": 1422000,
+            "asset_id": "vod73503-010010M001",
+            "title": "",
+            "subtitle": "第1季第10集 你看過屠牛事件嗎?",
+            "ep_number": 10,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762180800000,
+            "vod_channel_description": "儘管遭到外星人襲擊，小桃、厄卡倫、愛羅仍協力脫離了困境。然而已經打倒的多佛惡魔卻又出現在他們面前。正當他們慌張的以為又要開戰時，多佛惡魔無力地昏倒了。小桃等人無法對他見死不救，把他帶回家治療後，多佛惡魔說出了他的某個煩惱…"
+          },
+          {
+            "content_id": "VOD00343673",
+            "time_codes": [
+              777000
+            ],
+            "timecode_duration": [],
+            "length": 1422000,
+            "asset_id": "vod73503-010011M001",
+            "title": "",
+            "subtitle": "第1季第11集 初戀對象",
+            "ep_number": 11,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762182300000,
+            "vod_channel_description": "小桃的青梅竹馬兼初戀對象的寺仁「圓城寺仁」突然出現，而且還要跟小桃一起住。這意外的發展令小桃難掩內心的困惑，不過寺仁是受搬家後遇到的妖怪所苦，才會跑來拜託星子幫忙的。另一方面，聽到寺仁是小桃初戀對象的厄卡倫也大受震撼，試圖和小桃保持距離。"
+          },
+          {
+            "content_id": "VOD00343674",
+            "time_codes": [
+              736000
+            ],
+            "timecode_duration": [],
+            "length": 1407000,
+            "asset_id": "vod73503-010012M001",
+            "title": "",
+            "subtitle": "第1季第12集 前往受詛咒的房子",
+            "ep_number": 12,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762183800000,
+            "vod_channel_description": "小桃和厄卡倫為了調查寺仁家的事件，前往位於溫泉勝地的寺仁家。在途中，厄卡倫雖然很介意小桃和寺仁間親暱的氣氛，還是漸漸感受到寺仁的人品有多好。在山裡前進，抵達寺仁家後，三人便立刻走進屋裡。外頭卻有幾個人影在看著他們…"
+          },
+          {
+            "content_id": "VOD00343675",
+            "time_codes": [
+              767000
+            ],
+            "timecode_duration": [],
+            "length": 1447000,
+            "asset_id": "vod73503-020013M001",
+            "title": "",
+            "subtitle": "第2季第13集 大蛇傳說就是這個",
+            "ep_number": 13,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762185300000,
+            "vod_channel_description": "厄卡倫和寺仁發現了天花板、牆壁、地板，每一個面上都密密麻麻的貼滿符咒的祕密房間。就在這時候門鈴突然響起，兩人本以為是小桃，打開玄關門後才發現站在外面的是以奈紀為首的鬼頭家一行人。另一方面，小桃在露天溫泉遭到鬼頭家的男人們襲擊，陷入險境……"
+          },
+          {
+            "content_id": "VOD00343676",
+            "time_codes": [
+              851000
+            ],
+            "timecode_duration": [],
+            "length": 1447000,
+            "asset_id": "vod73503-020014M001",
+            "title": "",
+            "subtitle": "第2季第14集 邪視",
+            "ep_number": 14,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762187100000,
+            "vod_channel_description": "一行人終於得知鬼頭家在這兩百年間不斷獻上供品給大蛇大人這隻蒙古死亡蠕蟲，而寺仁家就建在這個祭壇上的事實。寺仁為了阻止被念波操控而企圖自殺的小桃和厄卡倫，扛著兩人想逃脫，蒙古死亡蠕蟲卻來到了他們的眼前，在寺仁萬念俱灰之時，邪視現身了。"
+          },
+          {
+            "content_id": "VOD00343677",
+            "time_codes": [
+              814000
+            ],
+            "timecode_duration": [],
+            "length": 1447000,
+            "asset_id": "vod73503-020015M001",
+            "title": "",
+            "subtitle": "第2季第15集 不會放過你",
+            "ep_number": 15,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762188900000,
+            "vod_channel_description": "寺仁被邪視附身。厄卡倫不僅要與寺仁戰鬥，還要面對蒙古死亡蠕蟲的毒氣攻擊，必須盡快脫離地底才行，可是他無法拋下寺仁，於是只讓小桃先逃了出去。而逃回地面上的小桃也開始著手策畫讓蒙古死亡蠕蟲沐浴在陽光下的辦法。"
+          },
+          {
+            "content_id": "VOD00343678",
+            "time_codes": [
+              792000
+            ],
+            "timecode_duration": [],
+            "length": 1447000,
+            "asset_id": "vod73503-020016M001",
+            "title": "",
+            "subtitle": "第2季第16集 太不妙了吧",
+            "ep_number": 16,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762190700000,
+            "vod_channel_description": "小桃成功讓蒙古死亡蠕蟲來到地面上。然而不確定是否為這件事造成的影響，火山突然噴發了。為了阻止熔岩流向這裡，小桃用超能力抬起蒙古死亡蠕蟲當作水管，開始滅火。可是鬼頭家的人卻來妨礙小桃。甚至連被邪視附身的寺仁都出現了，讓小桃面臨巨大危機。"
+          },
+          {
+            "content_id": "VOD00343679",
+            "time_codes": [
+              930000
+            ],
+            "timecode_duration": [],
+            "length": 1447000,
+            "asset_id": "vod73503-020017M001",
+            "title": "",
+            "subtitle": "第2季第17集 大家一起過夜",
+            "ep_number": 17,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762192500000,
+            "vod_channel_description": "小桃成功救出厄卡倫。一行人平安回到家，寺仁卻依然處於被邪視附身的狀態。而後才發現寺仁只要碰到冷水就會變成邪視，碰到熱水就會變回寺仁。儘管小桃和厄卡倫回到了日常生活中，但是為了對應邪視，決定找上愛羅，大家一起暫住在小桃家。"
+          },
+          {
+            "content_id": "VOD00343680",
+            "time_codes": [
+              694000
+            ],
+            "timecode_duration": [],
+            "length": 1447000,
+            "asset_id": "vod73503-020018M001",
+            "title": "",
+            "subtitle": "第2季第18集 變成家人了",
+            "ep_number": 18,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762194300000,
+            "vod_channel_description": "寺仁被邪視附身的情況變得越來越嚴重，一行人決定試著靠囃子的力量，從寺仁的身體裡驅除邪視。在找來囃子，只差一步就能驅除邪視時，寺仁卻開口拜託大家不要殺害邪視……。"
+          },
+          {
+            "content_id": "VOD00343681",
+            "time_codes": [
+              792000
+            ],
+            "timecode_duration": [],
+            "length": 1447000,
+            "asset_id": "vod73503-020019M001",
+            "title": "",
+            "subtitle": "第2季第19集 總覺得心裡怪怪的",
+            "ep_number": 19,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762196100000,
+            "vod_channel_description": "星子指導寺仁抑制邪視的方法。可是寺仁遲遲無法順利抑制，變身成邪視並出手攻擊小桃。儘管當下靠著小桃的機智勉強逃過一劫，厄卡倫依然下定決心要變強，狠狠痛揍邪視。"
+          },
+          {
+            "content_id": "VOD00343682",
+            "time_codes": [
+              965000
+            ],
+            "timecode_duration": [],
+            "length": 1432000,
+            "asset_id": "vod73503-020020M001",
+            "title": "",
+            "subtitle": "第2季第20集 加油啊，厄卡倫",
+            "ep_number": 20,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762197900000,
+            "vod_channel_description": "厄卡倫和愛羅為了修行，潛入學校的音樂教室與古典樂作曲家們交戰。與逐漸掌握訣竅的愛羅相反，厄卡倫無法躲開作曲家們丟來的音符炸彈。這時高速婆婆給了厄卡倫建議，要他試著用節奏感來活動身體。"
+          },
+          {
+            "content_id": "VOD00343683",
+            "time_codes": [
+              957000
+            ],
+            "timecode_duration": [],
+            "length": 1432000,
+            "asset_id": "vod73503-020021M001",
+            "title": "",
+            "subtitle": "第2季第21集 想重建家園",
+            "ep_number": 21,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762199400000,
+            "vod_channel_description": "厄卡倫和化為邪視的寺仁開始戰鬥。厄卡倫靠著修行的成果，「使出全力」和邪視打得不分軒輊。可是依然沒能完全打倒邪視。就在這時候，厄卡倫的變身解除了……"
+          },
+          {
+            "content_id": "VOD00343684",
+            "time_codes": [
+              733000
+            ],
+            "timecode_duration": [],
+            "length": 1432000,
+            "asset_id": "vod73503-020022M001",
+            "title": "",
+            "subtitle": "第2季第22集 受歡迎的祕訣是什麼",
+            "ep_number": 22,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762200900000,
+            "vod_channel_description": "小桃從美伊子和夢子那邊得到了關於「金球」的消息。立刻跑去厄卡倫班上想告訴他時，卻發現厄卡倫正好在和一位有點胖胖的男生在說話。放學後，小桃和厄卡倫前往據說有金球出現的社區大樓。而尾隨在兩人身後的，正是胖胖的男生．金太……"
+          },
+          {
+            "content_id": "VOD00343685",
+            "time_codes": [
+              653000
+            ],
+            "timecode_duration": [],
+            "length": 1431000,
+            "asset_id": "vod73503-020023M001",
+            "title": "",
+            "subtitle": "第2季第23集 是怪獸",
+            "ep_number": 23,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762202400000,
+            "vod_channel_description": "在金太的出色表現下，小桃和厄卡倫打倒了握有金球的「看不見的敵人」。解除光學迷彩後，出現的竟是外星怪獸。巨大化的外星怪獸襲向三人。整個城鎮被漆黑空間給吞沒，而且不僅他們三人，連愛羅和寺仁也被困入其中。"
+          },
+          {
+            "content_id": "VOD00343686",
+            "time_codes": [
+              569000
+            ],
+            "timecode_duration": [],
+            "length": 1415000,
+            "asset_id": "vod73503-020024M001",
+            "title": "",
+            "subtitle": "第2季第24集 激戰！外星怪獸對巨大機器人！",
+            "ep_number": 24,
+            "rating": 3,
+            "content_type": "comic",
+            "p_start": 1762203900000,
+            "vod_channel_description": "小桃等人利用重建小桃家的奈米裝甲，製作出超巨大大佛機器人，與外星怪獸戰鬥。金太操縱機器人，小桃用超能力，愛羅則是使用頭髮的能力，試圖逆轉戰局。這時候，被拋出大佛機器人外的厄卡倫和寺仁墜落在田地裡……。"
+          }
+        ],
+        "total_length": 34422000,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 1353232,
+        "focus_program": {
+          "content_id": "VOD00343663",
+          "time_codes": [
+            696000
+          ],
+          "timecode_duration": [],
+          "length": 1437000,
+          "asset_id": "vod73503-010001M001",
+          "title": "",
+          "subtitle": "第1季第1集 那就是戀情的開端",
+          "ep_number": 1,
+          "rating": 3,
+          "content_type": "comic",
+          "p_start": 1762167300000,
+          "vod_channel_description": "出生於靈媒師世家的高中女生．小桃（綾瀨桃），以及跟她同年級，熱愛神秘學的厄卡倫（高倉健）。小桃出手救了在班上被欺負的厄卡倫，兩人也以此為契機和對方聊了起來，可是「相信幽靈但不相信外星人派」的小桃跟「相信外星人但不相信幽靈派」的厄卡倫起了爭執。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "動漫",
+          "EngName": "Animate",
+          "MenuOrder": 109
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_mobile_20230802.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

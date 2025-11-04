@@ -1,0 +1,1343 @@
+{
+  "pageProps": {
+    "contentId": "ofiii83",
+    "channel": {
+      "title": "鄉民大學問",
+      "no": 83,
+      "charge_mode": "F",
+      "content_id": "ofiii83",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        1,
+        18
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3407_ofiii83_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "NowNews",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6341",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1722393479.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 83,
+        "cdn_code": "ofiii83",
+        "start_time": 1762038600000,
+        "programs": [
+          {
+            "content_id": "VOD00336695",
+            "time_codes": [
+              1178000,
+              1836000,
+              2452000,
+              3005000
+            ],
+            "timecode_duration": [],
+            "length": 3928000,
+            "asset_id": "vod72135-000054M001",
+            "title": "",
+            "subtitle": "第54集 蔡正元的鐵口直斷：柯文哲躲過生日還有難關要跨！林亮君 嘆「泥菩薩過江」! 黃暐瀚 高分貝挺林郁婷到底！蔡正元批：憲法法庭通通是內鬼！獻謝國樑反罷免一妙計！",
+            "ep_number": 54,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762038600000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00336696",
+            "time_codes": [
+              1259000,
+              1871000,
+              2680000,
+              3426000
+            ],
+            "timecode_duration": [],
+            "length": 3822000,
+            "asset_id": "vod72135-000055M001",
+            "title": "",
+            "subtitle": "第55集 柯文哲的劫數難逃？高人指點下一步？檢調為政治獻金搜索 羅智強 ：恐是案中案！江怡臻：民眾黨改名就沒事？黃珊珊辭立委能止血？黃暐瀚 曝關鍵！",
+            "ep_number": 55,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762042800000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00336697",
+            "time_codes": [
+              1136000,
+              1781000,
+              2332000,
+              3031000
+            ],
+            "timecode_duration": [],
+            "length": 3785000,
+            "asset_id": "vod72135-000056M001",
+            "title": "",
+            "subtitle": "第56集 王世堅的鐵口預言：柯文哲難逃法網？害了黃珊珊？錢子諫言柯 做這件事 才能度過難關！黃暐瀚評陳佩琪看豪宅「人設崩壞」直斷 2026民眾黨縣市長無望！",
+            "ep_number": 56,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762046700000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00336698",
+            "time_codes": [
+              1086000,
+              1989000,
+              2793000,
+              3542000
+            ],
+            "timecode_duration": [],
+            "length": 4117000,
+            "asset_id": "vod72135-000057M001",
+            "title": "",
+            "subtitle": "第57集 柯文哲列被告！檢搜索住處應曉薇 收押！葉元之：京華城案將收網！民眾黨怎麼辦？黃暐瀚獻一策！前幕僚柯昱安：清廉形象蕩然無存！",
+            "ep_number": 57,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762050600000,
+            "vod_channel_description": "鎖定。   「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00336699",
+            "time_codes": [
+              976000,
+              2258000,
+              2779000,
+              3287000
+            ],
+            "timecode_duration": [],
+            "length": 3757000,
+            "asset_id": "vod72135-000058M001",
+            "title": "",
+            "subtitle": "第58集 柯文哲真的被押了！京華城容積率暴增說不清？黃暐瀚曝關鍵點在「那個章」彭振聲全講了？蔡正元爆朱立倫下令善待柯文哲 林洲民打臉柯不知情 陳智菡批：胡說八道",
+            "ep_number": 58,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762054800000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00336700",
+            "time_codes": [
+              1219000,
+              1881000,
+              2588000,
+              3386000
+            ],
+            "timecode_duration": [],
+            "length": 3952000,
+            "asset_id": "vod72135-000059M001",
+            "title": "",
+            "subtitle": "第59集 柯文哲的神秘金流？陳鳳馨：北檢放消息「1500沈慶京」全為引蛇出洞？黃暐瀚質疑北檢為何不開記者會？柯文哲效應反撲高雄？鍾佳濱：柯志恩民調不容小覷！",
+            "ep_number": 59,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762058700000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00336701",
+            "time_codes": [
+              1290000,
+              2096000,
+              2783000,
+              3302000
+            ],
+            "timecode_duration": [],
+            "length": 3920000,
+            "asset_id": "vod72135-000060M001",
+            "title": "",
+            "subtitle": "第60集 柯文哲的代理人？黃暐瀚：非「她」不可？學姊黃瀞瑩 也說了！民眾黨崩盤危機？小草票轉移？林亮君：別開心太早 柯案恐燒賴清德？賴民調呈死亡交叉？",
+            "ep_number": 60,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762062900000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00345229",
+            "time_codes": [
+              1266000,
+              2023000,
+              2823000,
+              3306000
+            ],
+            "timecode_duration": [],
+            "length": 3833000,
+            "asset_id": "vod72135-000061M001",
+            "title": "",
+            "subtitle": "第61集 柯文哲不會再選？或滿血回歸？錢子 黃暐瀚又開戰！蔣萬安訪美為2028鋪路？發言人殷瑋全說了！黃揚明指羅廷瑋是下個青鳥罷免對象？賴清德嗆辣治國下猛藥？",
+            "ep_number": 61,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762067100000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00345230",
+            "time_codes": [
+              1052000,
+              1669000,
+              2067000,
+              2730000,
+              3293000
+            ],
+            "timecode_duration": [],
+            "length": 3735000,
+            "asset_id": "vod72135-000062M001",
+            "title": "",
+            "subtitle": "第62集 柯文哲賭氣拒應訊？最後結局曝光！40萬民力支援軍事？蔡正元：民進黨官員及子女先上戰場！川普喊台灣國防預算提升到10％GDP？黃暐瀚：天方夜譚！",
+            "ep_number": 62,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762071000000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00345231",
+            "time_codes": [
+              1206000,
+              2048000,
+              2377000,
+              3200000
+            ],
+            "timecode_duration": [],
+            "length": 3800000,
+            "asset_id": "vod72135-000063M001",
+            "title": "",
+            "subtitle": "第63集 謝龍介戰翻天 3Q哥陳柏惟！首度同台台語大PK 誰贏？ 謝龍介：綠營發動罷免是 錯誤揣摩賴清德上意？ 想勝選台南市長？陳柏惟 給這點建議 有機會！",
+            "ep_number": 63,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762074900000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00345232",
+            "time_codes": [
+              1061000,
+              2003000,
+              2476000,
+              2931000
+            ],
+            "timecode_duration": [],
+            "length": 3638000,
+            "asset_id": "vod72135-000064M001",
+            "title": "",
+            "subtitle": "第64集 柯文哲鐵定再押？李彥秀王淺秋斷言！柯媽媽蔡壁如恩怨大爆料！台南市長廝殺賴清德恐沒收初選？陳亭妃大喊：我現在是賴系！PK謝龍介有勝算？",
+            "ep_number": 64,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762078800000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00345233",
+            "time_codes": [
+              1153000,
+              1776000,
+              2400000,
+              3058000
+            ],
+            "timecode_duration": [],
+            "length": 3915000,
+            "asset_id": "vod72135-000065M001",
+            "title": "",
+            "subtitle": "第65集 柯文哲案重傷柯文哲和司法！？陳智菡重批：政治力斑斑可考葉元之挺民眾黨 藍白繼續黏緊緊？黃益中再戰 戰狼小姐姐 劉德華颱風政治學黃暐瀚評蔣萬安！",
+            "ep_number": 65,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762082700000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00345234",
+            "time_codes": [
+              1167000,
+              1791000,
+              2296000,
+              2745000,
+              3341000
+            ],
+            "timecode_duration": [],
+            "length": 3845000,
+            "asset_id": "vod72135-000066M001",
+            "title": "",
+            "subtitle": "第66集 韓國瑜能跟川普一樣？捲土重選總統？陳柏惟凌濤互槓！ 為《財劃法》吵翻天！陳玉珍的牙白掉了？黃暐瀚分析陳其邁 傷了柯志恩！",
+            "ep_number": 66,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762086900000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00345235",
+            "time_codes": [
+              1015000,
+              1913000,
+              2507000,
+              3152000,
+              3623000
+            ],
+            "timecode_duration": [],
+            "length": 3700000,
+            "asset_id": "vod72135-000067M001",
+            "title": "",
+            "subtitle": "第67集 柯文哲被張啓楷爆剃光頭抗議無「髮」無天！早有預感被押好押滿？黃暐瀚、蔡正元：盧秀燕要選2028總統得選黨主席 王金平會全力支持盧！",
+            "ep_number": 67,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762091100000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00345236",
+            "time_codes": [
+              1197000,
+              2083000,
+              2592000,
+              3156000,
+              3542000
+            ],
+            "timecode_duration": [],
+            "length": 3927000,
+            "asset_id": "vod72135-000068M001",
+            "title": "",
+            "subtitle": "第68集 謝龍介嗆霸凌案要討回公道！賴清德卓榮泰道歉 能止血？林亮君：危機處理不及格！謝龍介選台南 嗆陳亭妃：第一次就選輸我！黃暐瀚曝2026關鍵這三都！",
+            "ep_number": 68,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762095000000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00345237",
+            "time_codes": [
+              949000,
+              1657000,
+              2403000,
+              3096000,
+              3580000
+            ],
+            "timecode_duration": [],
+            "length": 3705000,
+            "asset_id": "vod72135-000069M001",
+            "title": "",
+            "subtitle": "第69集 陳智菡哭了！反擊：我不是比特犬！勞動部又爆假日加班洪申翰剛上任惹議？黃暐瀚指賴清德用人唯親 恐出問題！錢子 預言：2026蔡其昌對江啟臣 贏面？",
+            "ep_number": 69,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762099200000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00345238",
+            "time_codes": [
+              1457000,
+              1934000,
+              2556000,
+              2994000,
+              3583000
+            ],
+            "timecode_duration": [],
+            "length": 4121000,
+            "asset_id": "vod72135-000070M001",
+            "title": "",
+            "subtitle": "第70集 徐巧芯逼出民進黨戒嚴文 幕後發文人？！替吳崢喊冤：別當「背鍋俠」！黃暐瀚揭出貼文貓膩 籲賴總統應這樣做！盧秀燕樂樂棒事件 剝雞：迅速止血！",
+            "ep_number": 70,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762103100000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00351162",
+            "time_codes": [
+              1294000,
+              1926000,
+              2411000,
+              2990000,
+              3463000
+            ],
+            "timecode_duration": [],
+            "length": 3763000,
+            "asset_id": "vod72135-000071M001",
+            "title": "",
+            "subtitle": "第71集 王世堅也難贏蔣萬安？葉元之爆：綠營拋出苗博雅是為警惕王世堅？ 黃暐瀚：王敢唱民進黨反調！陳宥丞：民進黨傾全力定罪柯文哲！起訴書早已寫好了？！",
+            "ep_number": 71,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762107300000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00351163",
+            "time_codes": [
+              987000,
+              1791000,
+              2271000,
+              3025000,
+              3577000
+            ],
+            "timecode_duration": [],
+            "length": 3978000,
+            "asset_id": "vod72135-000072M001",
+            "title": "",
+            "subtitle": "第72集 謝龍介罕見動氣：為選罷法開槓趙怡翔！再爆賴清德為林俊憲卡陳亭妃！賴不讓王世堅選台北？黃暐瀚：陳其邁2027必接閣揆？柯文哲被民進黨帶壞？",
+            "ep_number": 72,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762111200000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00351164",
+            "time_codes": [
+              1219000,
+              1894000,
+              2384000,
+              3097000,
+              3751000
+            ],
+            "timecode_duration": [],
+            "length": 3891000,
+            "asset_id": "vod72135-000073M001",
+            "title": "",
+            "subtitle": "第73集 柯文哲被判28年半 3千萬交保！先返民眾黨清君側？鍾沛君批北檢起訴書有一漏洞！黃珊珊全身而退關鍵？黃暐瀚：黃國昌有機會上位！陳柏惟：一人政黨危機四伏",
+            "ep_number": 73,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762115400000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00351165",
+            "time_codes": [
+              1261000,
+              1976000,
+              2442000,
+              2918000,
+              3435000
+            ],
+            "timecode_duration": [],
+            "length": 3938000,
+            "asset_id": "vod72135-000074M001",
+            "title": "",
+            "subtitle": "第74集 柯文哲3度聲押！黃暐瀚直言：沒必要再押柯！黃揚明：恐掀小草反撲力量！葉元之首曝：被罷免心聲爆民進黨有介入！林亮君批民眾黨Excel就是現代版柯P帳本！",
+            "ep_number": 74,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762119600000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00351166",
+            "time_codes": [
+              1279000,
+              2093000,
+              2594000,
+              3043000,
+              3518000
+            ],
+            "timecode_duration": [],
+            "length": 3887000,
+            "asset_id": "vod72135-000075M001",
+            "title": "",
+            "subtitle": "第75集 謝龍介PK林俊憲！為「雙罷」唇槍舌戰！謝：柯建銘洗臉賴清德！林俊憲罵謝龍介「挑撥離間」黃暐瀚：「新介憲」成形！黃益中歎：台南需要清創！",
+            "ep_number": 75,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762123800000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00351167",
+            "time_codes": [
+              1332000,
+              1905000,
+              2781000,
+              3235000,
+              3503000
+            ],
+            "timecode_duration": [],
+            "length": 3732000,
+            "asset_id": "vod72135-000076M001",
+            "title": "",
+            "subtitle": "第76集 韓國瑜 賴清德喝咖啡！李彥秀曝光閉門會議內幕：王定宇說柯建銘錯了？！黃國昌撐民眾黨指標？黃揚明：保住新竹！林珍羽：刪光數發部預算 剛好而已！",
+            "ep_number": 76,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762128000000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00351168",
+            "time_codes": [
+              1259000,
+              2168000,
+              2864000,
+              3323000,
+              3690000
+            ],
+            "timecode_duration": [],
+            "length": 3969000,
+            "asset_id": "vod72135-000077M001",
+            "title": "",
+            "subtitle": "第77集 黃暐瀚：朝野為預算殺到血流成河！是大罷免起手式？預言韓國瑜將成藍營聲勢最高！吳宗憲選宜蘭縣長？直球回應！刪預算連手語老師都沒了？林亮君：政府運作受影響！",
+            "ep_number": 77,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762131900000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00351169",
+            "time_codes": [
+              1226000,
+              1878000,
+              2582000,
+              3194000,
+              3924000
+            ],
+            "timecode_duration": [],
+            "length": 4159000,
+            "asset_id": "vod72135-000078M001",
+            "title": "",
+            "subtitle": "第78集 黃暐瀚預言：恐40席立委出現在罷免名單！洪孟楷問賴總統：上任週年只想交罷免成績單？韓國瑜保衛戰？藍綠到底誰在鬧事？吳崢開戰歷史哥！",
+            "ep_number": 78,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762136100000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00351170",
+            "time_codes": [
+              1142000,
+              1701000,
+              2309000,
+              2951000,
+              3525000
+            ],
+            "timecode_duration": [],
+            "length": 3866000,
+            "asset_id": "vod72135-000079M001",
+            "title": "",
+            "subtitle": "第79集 蔡正元爆火氣：大罷免是民進黨發動內戰！勸韓國瑜別想2028 恐被雙殺？黃暐瀚曝：賴清德在等這時間點 會火車對撞！錢子：韓院長中計 慘被綠打臉！",
+            "ep_number": 79,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762140600000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00351171",
+            "time_codes": [
+              1144000,
+              1624000,
+              2786000,
+              3340000,
+              3884000
+            ],
+            "timecode_duration": [],
+            "length": 4007000,
+            "asset_id": "vod72135-000080M001",
+            "title": "",
+            "subtitle": "第80集 王世堅 柯建銘黨內鬩牆！黃暐瀚揭賴清德出手時機！張啓楷曝反罷免藍白再合作？台大社科院學生會長遭罷免 獨家現身！葉元之：很多人等我位子在流口水！",
+            "ep_number": 80,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762144800000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00355976",
+            "time_codes": [
+              1166000,
+              1650000,
+              2281000,
+              2848000,
+              3389000
+            ],
+            "timecode_duration": [],
+            "length": 3783000,
+            "asset_id": "vod72135-000081M001",
+            "title": "",
+            "subtitle": "第81集 王世堅又被柯建銘罵！剝雞爆：綠委有人不滿柯總召！蔣萬安真要選總統？黃暐瀚分析民調 賴清德成大罷免主將！鍾沛君揭國民黨反制戰略！挺堅還挺柯？高嘉瑜這句很明顯",
+            "ep_number": 81,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762149000000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00358619",
+            "time_codes": [
+              1047000,
+              1502000,
+              2034000,
+              2596000,
+              3174000
+            ],
+            "timecode_duration": [],
+            "length": 3940000,
+            "asset_id": "vod72135-000082M001",
+            "title": "",
+            "subtitle": "第82集 謝龍介獻策！2招反制大罷免！台南已殺到刀刀見骨？黃暐瀚：第一階段掛蛋藍營士氣受挫了 台積電真送美了？台灣戰略長期受損？王世堅PK柯建銘 陳柏惟挺他？",
+            "ep_number": 82,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762152900000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00358620",
+            "time_codes": [
+              1226000,
+              1934000,
+              2484000,
+              2919000,
+              3427000
+            ],
+            "timecode_duration": [],
+            "length": 3967000,
+            "asset_id": "vod72135-000083M001",
+            "title": "",
+            "subtitle": "第83集 國民黨掉進柯建銘陷阱？剝雞黃揚明預言最糟情況恐雙殺？賴清德恢復軍法 兩岸緊繃！陳智菡還原柯爸告別式藏政治心機 黃暐瀚批朱立倫大意了 柳采葳 綠輸不起",
+            "ep_number": 83,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762157100000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00358621",
+            "time_codes": [
+              1313000,
+              1820000,
+              2204000,
+              2874000,
+              3568000
+            ],
+            "timecode_duration": [],
+            "length": 3720000,
+            "asset_id": "vod72135-000084M001",
+            "title": "",
+            "subtitle": "第84集 大罷免 柯建銘現身直指韓國瑜？還原盧秀燕風波 建議她「別選黨主席」！指以前王金平院長 很公正！大罷免成功願意不當立委？！",
+            "ep_number": 84,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762161300000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00358622",
+            "time_codes": [
+              1137000,
+              1618000,
+              2119000,
+              2829000,
+              3346000
+            ],
+            "timecode_duration": [],
+            "length": 3945000,
+            "asset_id": "vod72135-000085M001",
+            "title": "",
+            "subtitle": "第85集 藍綠火車對撞到2026？黃暐瀚直指大罷免結點：就是7月！柯建銘真為奪院長大位 搞大罷免？張啓楷、林亮君節目開槓",
+            "ep_number": 85,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762165200000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00358623",
+            "time_codes": [
+              1018000,
+              1640000,
+              2188000,
+              2941000,
+              3405000
+            ],
+            "timecode_duration": [],
+            "length": 4038000,
+            "asset_id": "vod72135-000086M001",
+            "title": "",
+            "subtitle": "第86集 為中共軍演 陸配言論自由開戰！陳玉珍開槓苗博雅 兩岸交流到底該怎麼談？賴清德民調又升 反應台灣人一件事？黃暐瀚指關鍵",
+            "ep_number": 86,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762169400000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00358624",
+            "time_codes": [
+              957000,
+              1625000,
+              2287000,
+              2865000,
+              3495000
+            ],
+            "timecode_duration": [],
+            "length": 3792000,
+            "asset_id": "vod72135-000087M001",
+            "title": "",
+            "subtitle": "第87集 謝龍介批賴清德 面對川普 底牌亮太快！只剩兩招可以救台灣！蔡正元公開叫板 沈富雄的獻策意見 不合時宜？黃暐瀚直講了：賴清德就是站邊美國！",
+            "ep_number": 87,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762173600000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00358625",
+            "time_codes": [
+              892000,
+              1614000,
+              2142000,
+              2625000,
+              3337000
+            ],
+            "timecode_duration": [],
+            "length": 3553000,
+            "asset_id": "vod72135-000088M001",
+            "title": "",
+            "subtitle": "第88集 蔣萬安衝了？辦藍不辦綠？藍號召聚集北檢喊倒閣！游淑慧：綠色恐怖讓我很怕！黃暐瀚憋不住：大罷免 藍有誤判！趙怡翔：共諜各時代都有！",
+            "ep_number": 88,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762177500000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00358626",
+            "time_codes": [
+              1000000,
+              1725000,
+              2023000,
+              2795000,
+              3296000
+            ],
+            "timecode_duration": [],
+            "length": 3762000,
+            "asset_id": "vod72135-000089M001",
+            "title": "",
+            "subtitle": "第89集 黃揚明吳崢戰翻天！開嗆「偽造文書可以任意羈押人民？」藍白面對司法進擊拼大逆轉！徐弘庭批辦藍不辦綠！倒閣結局可能性有幾%？黃暐瀚大預測！",
+            "ep_number": 89,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762181400000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00358627",
+            "time_codes": [
+              1213000,
+              1879000,
+              2526000,
+              3110000,
+              3733000,
+              4192000
+            ],
+            "timecode_duration": [],
+            "length": 4371000,
+            "asset_id": "vod72135-000090M001",
+            "title": "",
+            "subtitle": "第90集 王世堅：不要挑釁中國！謝龍介超敢講嗆聲：一定倒閣！換掉卓榮泰！苗博雅警告：藍綠只在同溫層 預言台灣政治危機！",
+            "ep_number": 90,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762185300000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00364283",
+            "time_codes": [
+              1174000,
+              1841000,
+              2429000,
+              2883000,
+              3403000
+            ],
+            "timecode_duration": [],
+            "length": 3858000,
+            "asset_id": "vod72135-000091M001",
+            "title": "",
+            "subtitle": "第91集 韓國瑜不忍了！連番開嗆為黨主席？黃瀞瑩現場開酸四叉貓比檢調還厲害？國民黨有換朱聲音？葉元之點名 最危險閣員是他！黃暐瀚預言：藍推雙吳 罷免結果",
+            "ep_number": 91,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762189800000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00364284",
+            "time_codes": [
+              1127000,
+              1626000,
+              2318000,
+              2934000,
+              3687000
+            ],
+            "timecode_duration": [],
+            "length": 4097000,
+            "asset_id": "vod72135-000092M001",
+            "title": "",
+            "subtitle": "第92集 台灣成美中談判籌碼？中共真實意圖？誰敢講實話？黃暐瀚看民調：不滿意賴總統人變多？！錢子：賴政府拉高兩岸敵我意識！李明賢研判川普「統一和平」一定談台灣利益！",
+            "ep_number": 92,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762194000000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00364285",
+            "time_codes": [
+              1217000,
+              1819000,
+              2582000,
+              3017000,
+              3486000
+            ],
+            "timecode_duration": [],
+            "length": 3919000,
+            "asset_id": "vod72135-000093M001",
+            "title": "",
+            "subtitle": "第93集 賴清德兩岸態度放軟？背後原因是美國壓力？黃暐瀚：賴總統對中國不再衝！台灣兵役延長 大學生超怕打仗？！備戰如健身？鍾沛君戰陳柏惟 健身不是為了打仗！",
+            "ep_number": 93,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762198200000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00364286",
+            "time_codes": [
+              1011000,
+              1694000,
+              2195000,
+              2894000,
+              3570000
+            ],
+            "timecode_duration": [],
+            "length": 3971000,
+            "asset_id": "vod72135-000094M001",
+            "title": "",
+            "subtitle": "第94集 謝龍介直諫黨中央：黨主席選舉應延期！剝雞：朱立倫交棒說 不合時宜 恐引更大內鬥！吳崢挺林昶佐 超適合芬蘭大使！大罷免結局越來越難說？",
+            "ep_number": 94,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762202400000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00364287",
+            "time_codes": [
+              1088000,
+              1516000,
+              2138000,
+              2860000,
+              3434000
+            ],
+            "timecode_duration": [],
+            "length": 3856000,
+            "asset_id": "vod72135-000095M001",
+            "title": "",
+            "subtitle": "第95集 蔡正元願當黨魁！談朱立倫該功成身退!? 盧秀燕黨主席之路 殺出韓國瑜蔡正元？!大罷免恐六席藍委下馬？最危險區 是新北市？侯友宜緊張了？",
+            "ep_number": 95,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762206600000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00364288",
+            "time_codes": [
+              919000,
+              1380000,
+              2255000,
+              2965000,
+              3491000
+            ],
+            "timecode_duration": [],
+            "length": 4100000,
+            "asset_id": "vod72135-000096M001",
+            "title": "",
+            "subtitle": "第96集 館長赴陸交流換和平？還是反效果？沈伯洋被酸是「紅孩兒」？黃暐瀚：27名藍委岌岌可危？王鴻薇：遇罷免 兩年要選四次！范雲：館長曾反紅媒 竟變小紅媒！",
+            "ep_number": 96,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762210800000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00364289",
+            "time_codes": [
+              1061000,
+              1410000,
+              2326000,
+              2960000,
+              3477000
+            ],
+            "timecode_duration": [],
+            "length": 3706000,
+            "asset_id": "vod72135-000097M001",
+            "title": "",
+            "subtitle": "第97集 苗博雅陳玉珍為兩岸立場再對戰！大學生問：若金門成為第一線戰場 到底該怎面對？赴大陸真有風險？會莫名被抓？黃暐瀚：網紅可以多多去？原因是？",
+            "ep_number": 97,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762215000000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00364290",
+            "time_codes": [
+              822000,
+              1274000,
+              1927000,
+              2927000
+            ],
+            "timecode_duration": [],
+            "length": 3497000,
+            "asset_id": "vod72135-000098M001",
+            "title": "",
+            "subtitle": "第98集 「打掉雜質」賴清德指的是？黃暐瀚：賴總統被罵是應該的？陳智菡忍不住開戰 黃暐瀚！歷史哥怒了：別拿團結來情勒！館長聊天室現身：誰叫我？ 全場嗨翻！",
+            "ep_number": 98,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762218900000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00364291",
+            "time_codes": [
+              1001000,
+              1808000,
+              2257000,
+              3041000,
+              3778000
+            ],
+            "timecode_duration": [],
+            "length": 4056000,
+            "asset_id": "vod72135-000099M001",
+            "title": "",
+            "subtitle": "第99集 彭振聲翻供說真相？黃暐瀚喊話：柯文哲應該交保！張啟楷哽咽怒：司法是絞肉機！葉元之：彭振聲 是冤案！？黃益中忍不住：賴十講等秋後再講！",
+            "ep_number": 99,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762222500000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00364292",
+            "time_codes": [
+              1283000,
+              1714000,
+              2229000,
+              2890000,
+              3694000
+            ],
+            "timecode_duration": [],
+            "length": 3873000,
+            "asset_id": "vod72135-000100M001",
+            "title": "",
+            "subtitle": "第100集 悶鍋重現｜蔡正元氣到拍桌：不同意黃暐瀚！？台電補助不該讓全民買單？蔡喊支持曹興誠選總統！吳崢大罷免催票 稱 花蓮傅崐萁很危險？！阿匾總統來了！",
+            "ep_number": 100,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762226700000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00370741",
+            "time_codes": [
+              999000,
+              1682000,
+              2171000,
+              2668000,
+              3145000
+            ],
+            "timecode_duration": [],
+            "length": 3672000,
+            "asset_id": "vod72135-000101M001",
+            "title": "",
+            "subtitle": "第101集 一萬元飛了？怕影響大罷免行政院三度轉彎？黃暐瀚分析最新罷免結局！黃揚明預言：726後 一萬元再有變數！藍營拋「戒嚴」話題 引發游淑慧張之豪開戰 ！",
+            "ep_number": 101,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762230900000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00370742",
+            "time_codes": [
+              852000,
+              1448000,
+              1895000,
+              2874000,
+              3388000
+            ],
+            "timecode_duration": [],
+            "length": 3743000,
+            "asset_id": "vod72135-000102M001",
+            "title": "",
+            "subtitle": "第102集 蔡英文VS盧秀燕 人氣PK催大罷免投票！黃暐瀚：朱立倫難保主席位？百工百業挺罷免是網軍還是真人？歷史哥開戰吳崢！陳宥丞批 罷免是柯建銘 復仇戰！",
+            "ep_number": 102,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762234800000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00370743",
+            "time_codes": [
+              1317000,
+              1785000,
+              2219000,
+              2843000,
+              3511000
+            ],
+            "timecode_duration": [],
+            "length": 4056000,
+            "asset_id": "vod72135-000103M001",
+            "title": "",
+            "subtitle": "第103集 謝龍介公開挺王世堅！送衛生紙是幫民進黨找台階！？葉元之滿血回歸 酸綠：還以為敗在一萬元！黃暐瀚籲賴總統：823再戰不聰明！",
+            "ep_number": 103,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762238700000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00370744",
+            "time_codes": [
+              998000,
+              1537000,
+              2018000,
+              2703000,
+              3192000,
+              3656000
+            ],
+            "timecode_duration": [],
+            "length": 3834000,
+            "asset_id": "vod72135-000104M001",
+            "title": "",
+            "subtitle": "第104集 黃暐瀚曝賴清德民調續跌隱憂！黃揚明直講：民進黨823下不了車！川普要台積電2千億 錢子：護國神山沒了！2026童子瑋將戰謝國樑？",
+            "ep_number": 104,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762242900000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00370745",
+            "time_codes": [
+              1153000,
+              1673000,
+              2207000,
+              2792000,
+              3604000
+            ],
+            "timecode_duration": [],
+            "length": 3914000,
+            "asset_id": "vod72135-000105M001",
+            "title": "",
+            "subtitle": "第105集 蔡正元喊話賴清德 內閣別改組？直言柯文哲不放 賴民調不好！為王世堅前途堪憂？黃暐瀚：藍白合意正濃 黃國昌新北市長勝算？林珍羽：我肺癌患者挺核三！",
+            "ep_number": 105,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762246800000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00370746",
+            "time_codes": [
+              897000,
+              1578000,
+              1937000,
+              2687000,
+              3467000
+            ],
+            "timecode_duration": [],
+            "length": 3940000,
+            "asset_id": "vod72135-000106M001",
+            "title": "",
+            "subtitle": "第106集 黃國昌代表藍白出線戰新北？苗博雅斷言：他會變成國民黨喜歡的樣子！？核三延役公投 翁曉玲直球對決核廢料問題！黃暐瀚曝光賴清德內閣不改組的理由！",
+            "ep_number": 106,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762251000000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00370747",
+            "time_codes": [
+              1227000,
+              1650000,
+              2289000,
+              2826000,
+              3314000
+            ],
+            "timecode_duration": [],
+            "length": 3976000,
+            "asset_id": "vod72135-000107M001",
+            "title": "",
+            "subtitle": "第107集 柯建銘被逼宮不主動辭總召的理由曝光！洪孟楷顏若芳為老柯開戰！國民黨主席大預言 黃暐瀚說出這名字！賴清德最大危機 是低估一件事？",
+            "ep_number": 107,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762255200000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00370748",
+            "time_codes": [
+              1188000,
+              1900000,
+              2313000,
+              2751000,
+              3250000
+            ],
+            "timecode_duration": [],
+            "length": 3793000,
+            "asset_id": "vod72135-000108M001",
+            "title": "",
+            "subtitle": "第108集 柯建銘不甩賴清德 逼宮底氣是什麼？張禹宣：老柯是挾洋自重！黃暐瀚被羅智強當面狠批 回應了！？鍾沛君大膽評估國民黨黨主席 是誰？",
+            "ep_number": 108,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762259400000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00370749",
+            "time_codes": [
+              1095000,
+              1615000,
+              2056000,
+              2689000,
+              3293000
+            ],
+            "timecode_duration": [],
+            "length": 3754000,
+            "asset_id": "vod72135-000109M001",
+            "title": "",
+            "subtitle": "第109集 沈富雄勸柯文哲先做一件事！直言賴清德這句讓他「毛毛」的！黃暐瀚：柯P政治能量驚人！郝龍斌有望成藍黨主席？吳崢曝賴清德放過柯建銘？",
+            "ep_number": 109,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762263300000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00370750",
+            "time_codes": [
+              885000,
+              1583000,
+              2246000,
+              2695000,
+              3061000
+            ],
+            "timecode_duration": [],
+            "length": 3633000,
+            "asset_id": "vod72135-000110M001",
+            "title": "",
+            "subtitle": "第110集 謝龍介搶台南直言：對手是賴清德！蔡正元指出國民黨主席 「他」勝算高一點？黃暐瀚解答徐國勇亂開地圖炮 有背後盤算！",
+            "ep_number": 110,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762267200000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00376875",
+            "time_codes": [
+              1028000,
+              1461000,
+              2049000,
+              2517000,
+              3179000
+            ],
+            "timecode_duration": [],
+            "length": 3629000,
+            "asset_id": "vod72135-000111M001",
+            "title": "",
+            "subtitle": "第111集 花蓮風災綠群組外洩抓內鬼 可能是他！？「殺傷力」超大？賴清德難收拾？葉元之陳智菡曝內幕？2026南台灣 綠怎守住？黃暐瀚：謝龍介贏面不小！",
+            "ep_number": 111,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762271100000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00376876",
+            "time_codes": [
+              930000,
+              1601000,
+              2174000,
+              2674000,
+              3099000
+            ],
+            "timecode_duration": [],
+            "length": 3758000,
+            "asset_id": "vod72135-000112M001",
+            "title": "",
+            "subtitle": "第112集 黃國昌養狗仔疑雲 影響藍白合？黃暐瀚：牌在柯文哲手上！柳采葳挺郝龍斌穩了?剝雞：鄭麗文支持度高到讓人害怕！綠白合作？林亮君：黃國昌跟綠樑子大了！",
+            "ep_number": 112,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762275000000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00376877",
+            "time_codes": [
+              1033000,
+              1467000,
+              2184000,
+              2850000,
+              3341000
+            ],
+            "timecode_duration": [],
+            "length": 3955000,
+            "asset_id": "vod72135-000113M001",
+            "title": "",
+            "subtitle": "第113集 沈富雄說了 鄭麗文是「女版沈富雄」！黃國昌涉狗仔影響盧昌配？王世堅必戰蔣萬安？高嘉瑜：堅哥選市長 就選議員！黃暐瀚談賴總統 與沈大老不同調！",
+            "ep_number": 113,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762278900000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00376878",
+            "time_codes": [
+              1070000,
+              1788000,
+              2210000,
+              2868000,
+              3476000
+            ],
+            "timecode_duration": [],
+            "length": 3886000,
+            "asset_id": "vod72135-000114M001",
+            "title": "",
+            "subtitle": "第114集 蔡正元爆氣批趙少康全為藍黨主席！黃暐瀚分析韓國瑜國慶小動作 可能與賴清德搶2028？陳亭妃黨內處境難 謝龍介2026台南苦戰有機會了？",
+            "ep_number": 114,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762283100000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00376879",
+            "time_codes": [
+              1026000,
+              1651000,
+              2271000,
+              2788000,
+              3286000
+            ],
+            "timecode_duration": [],
+            "length": 3916000,
+            "asset_id": "vod72135-000115M001",
+            "title": "",
+            "subtitle": "第115集 謝龍介奪台南喊：賴主席辭定了！最怕王世堅選台北？黃暐瀚：賴2026提名布局 看出一關鍵！陳柏惟爆料王世堅：當初沒挺我！",
+            "ep_number": 115,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762287300000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          },
+          {
+            "content_id": "VOD00376880",
+            "time_codes": [
+              892000,
+              1400000,
+              1930000,
+              2497000,
+              3173000
+            ],
+            "timecode_duration": [],
+            "length": 3765000,
+            "asset_id": "vod72135-000116M001",
+            "title": "",
+            "subtitle": "第116集 盧秀燕因猪瘟攻2028難了？黃暐瀚：台南高雄綠難保？范雲斷言：黃國昌不會選到底 剝雞：沈伯洋被中共盯是提高身價！楊智伃曝鄭麗文新兩岸路線！",
+            "ep_number": 116,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762291500000,
+            "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          }
+        ],
+        "total_length": 243718000,
+        "focus_index": 51,
+        "next_index": 52,
+        "time": 843201,
+        "focus_program": {
+          "content_id": "VOD00370745",
+          "time_codes": [
+            1153000,
+            1673000,
+            2207000,
+            2792000,
+            3604000
+          ],
+          "timecode_duration": [],
+          "length": 3914000,
+          "asset_id": "vod72135-000105M001",
+          "title": "",
+          "subtitle": "第105集 蔡正元喊話賴清德 內閣別改組？直言柯文哲不放 賴民調不好！為王世堅前途堪憂？黃暐瀚：藍白合意正濃 黃國昌新北市長勝算？林珍羽：我肺癌患者挺核三！",
+          "ep_number": 105,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762246800000,
+          "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜合",
+          "EngName": "Variety",
+          "MenuOrder": 4
+        },
+        {
+          "Name": "綜藝",
+          "EngName": "Entertainment",
+          "MenuOrder": 8
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_mobile_20240731.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

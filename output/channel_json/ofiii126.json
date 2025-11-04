@@ -1,0 +1,1813 @@
+{
+  "pageProps": {
+    "contentId": "ofiii126",
+    "channel": {
+      "title": "豬哥壹級棒",
+      "no": 126,
+      "charge_mode": "F",
+      "content_id": "ofiii126",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        18
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3356_ofiii126_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "年代",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6290",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1717148484.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 126,
+        "cdn_code": "ofiii126",
+        "start_time": 1762098900000,
+        "programs": [
+          {
+            "content_id": "VOD00187795",
+            "time_codes": [
+              771000,
+              1206000,
+              1948000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000006M001",
+            "title": "",
+            "subtitle": "第6集 我要我們在一起",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762098900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187801",
+            "time_codes": [
+              768000,
+              1485000,
+              2157000
+            ],
+            "timecode_duration": [],
+            "length": 2875000,
+            "asset_id": "vod43535-000012M001",
+            "title": "",
+            "subtitle": "第12集 他不壞 他是我兄弟",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762101900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187802",
+            "time_codes": [
+              863000,
+              1410000,
+              1864000
+            ],
+            "timecode_duration": [],
+            "length": 2879000,
+            "asset_id": "vod43535-000013M001",
+            "title": "",
+            "subtitle": "第13集 擁抱免費 熱情難忘",
+            "ep_number": 13,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762104900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187806",
+            "time_codes": [
+              802000,
+              1503000,
+              2236000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000017M001",
+            "title": "",
+            "subtitle": "第17集 髮中情癌友的感恩",
+            "ep_number": 17,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762107900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187811",
+            "time_codes": [
+              826000,
+              1370000,
+              2215000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000022M001",
+            "title": "",
+            "subtitle": "第22集 再聽媽媽的話",
+            "ep_number": 22,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762110900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187812",
+            "time_codes": [
+              758000,
+              1497000,
+              2308000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000023M001",
+            "title": "",
+            "subtitle": "第23集 學拳的孩子不會變壞",
+            "ep_number": 23,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762113900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187813",
+            "time_codes": [
+              608000,
+              1536000,
+              2301000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000024M001",
+            "title": "",
+            "subtitle": "第24集 調酒師的重生",
+            "ep_number": 24,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762116900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187814",
+            "time_codes": [
+              795000,
+              1419000,
+              2292000
+            ],
+            "timecode_duration": [],
+            "length": 2875000,
+            "asset_id": "vod43535-000025M001",
+            "title": "",
+            "subtitle": "第25集 改變一生的溫暖茶",
+            "ep_number": 25,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762119900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187815",
+            "time_codes": [
+              789000,
+              1551000,
+              2197000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000026M001",
+            "title": "",
+            "subtitle": "第26集 一百分的麻糬、真情滷味攤",
+            "ep_number": 26,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762122900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187818",
+            "time_codes": [
+              571000,
+              1401000,
+              1991000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000029M001",
+            "title": "",
+            "subtitle": "第29集 身障者的守護天使",
+            "ep_number": 29,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762125900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187820",
+            "time_codes": [
+              773000,
+              1551000,
+              2227000
+            ],
+            "timecode_duration": [],
+            "length": 2879000,
+            "asset_id": "vod43535-000031M001",
+            "title": "",
+            "subtitle": "第31集 才子也有落魄時、浴火重生的美麗",
+            "ep_number": 31,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762128900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187821",
+            "time_codes": [
+              789000,
+              1467000,
+              2134000
+            ],
+            "timecode_duration": [],
+            "length": 2875000,
+            "asset_id": "vod43535-000032M001",
+            "title": "",
+            "subtitle": "第32集 流浪漢也能是家人",
+            "ep_number": 32,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762131900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187822",
+            "time_codes": [
+              676000,
+              1515000,
+              2313000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000033M001",
+            "title": "",
+            "subtitle": "第33集 馬背上的愛",
+            "ep_number": 33,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762134900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187823",
+            "time_codes": [
+              758000,
+              1541000,
+              2182000
+            ],
+            "timecode_duration": [],
+            "length": 2880000,
+            "asset_id": "vod43535-000034M001",
+            "title": "",
+            "subtitle": "第34集 佩甄的開運恩人、堅強的單親水餃媽",
+            "ep_number": 34,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762137900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187824",
+            "time_codes": [
+              575000,
+              1528000,
+              2227000
+            ],
+            "timecode_duration": [],
+            "length": 2875000,
+            "asset_id": "vod43535-000035M001",
+            "title": "",
+            "subtitle": "第35集 讓生命延續",
+            "ep_number": 35,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762140900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187825",
+            "time_codes": [
+              944000,
+              1644000,
+              2102000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000036M001",
+            "title": "",
+            "subtitle": "第36集 我想要一個小孩",
+            "ep_number": 36,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762143900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187827",
+            "time_codes": [
+              725000,
+              1349000,
+              2133000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000038M001",
+            "title": "",
+            "subtitle": "第38集 賣粿養小孩、走味的青春",
+            "ep_number": 38,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762146900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187828",
+            "time_codes": [
+              735000,
+              1336000,
+              2167000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000039M001",
+            "title": "",
+            "subtitle": "第39集 我要堅強活下去",
+            "ep_number": 39,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762149900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187831",
+            "time_codes": [
+              750000,
+              1456000,
+              2170000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000042M001",
+            "title": "",
+            "subtitle": "第42集 愛心無限的乩童",
+            "ep_number": 42,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762152900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187833",
+            "time_codes": [
+              547000,
+              1057000,
+              1814000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000044M001",
+            "title": "",
+            "subtitle": "第44集 千里馬喜遇伯樂、五十年怨氣為貞操",
+            "ep_number": 44,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762155900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187835",
+            "time_codes": [
+              677000,
+              1329000,
+              2130000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000046M001",
+            "title": "",
+            "subtitle": "第46集 人生支柱失與得、變性 家人愛不滅",
+            "ep_number": 46,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762158900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187836",
+            "time_codes": [
+              630000,
+              1115000,
+              2037000
+            ],
+            "timecode_duration": [],
+            "length": 2878000,
+            "asset_id": "vod43535-000047M001",
+            "title": "",
+            "subtitle": "第47集 亞洲第一長腿名模、為您泡的咖啡",
+            "ep_number": 47,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762161900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00187837",
+            "time_codes": [
+              770000,
+              1519000,
+              2149000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000048M001",
+            "title": "",
+            "subtitle": "第48集 獅王點亮人生路",
+            "ep_number": 48,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762164900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189348",
+            "time_codes": [
+              844000,
+              1669000,
+              2234000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000051M001",
+            "title": "",
+            "subtitle": "第51集 只要我長大、陽光十足溫柔漢",
+            "ep_number": 51,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762167900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189349",
+            "time_codes": [
+              758000,
+              1582000,
+              2151000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000052M001",
+            "title": "",
+            "subtitle": "第52集 亡靈的恩賜、花旦的生死奇緣",
+            "ep_number": 52,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762170900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189351",
+            "time_codes": [
+              869000,
+              1533000,
+              2374000
+            ],
+            "timecode_duration": [],
+            "length": 2875000,
+            "asset_id": "vod43535-000054M001",
+            "title": "",
+            "subtitle": "第54集 棒棒糖男孩",
+            "ep_number": 54,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762173900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189353",
+            "time_codes": [
+              620000,
+              1351000,
+              2194000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000056M001",
+            "title": "",
+            "subtitle": "第56集 受神眷顧的小孩、最甜的水蜜桃",
+            "ep_number": 56,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762176900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189355",
+            "time_codes": [
+              705000,
+              1422000,
+              2192000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000058M001",
+            "title": "",
+            "subtitle": "第58集 難以忘記妳容顏、孩子的守護神",
+            "ep_number": 58,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762179900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189356",
+            "time_codes": [
+              658000,
+              1330000,
+              2070000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000059M001",
+            "title": "",
+            "subtitle": "第59集 奧運金牌第一人、用愛喚醒植物人",
+            "ep_number": 59,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762182900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189358",
+            "time_codes": [
+              895000,
+              1564000,
+              2102000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000061M001",
+            "title": "",
+            "subtitle": "第61集 百年助百人、一通電話的機緣",
+            "ep_number": 61,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762185900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189359",
+            "time_codes": [
+              853000,
+              1562000,
+              2320000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000062M001",
+            "title": "",
+            "subtitle": "第62集 一雙救命手、嗲聲戲后奪金鐘",
+            "ep_number": 62,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762188900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189360",
+            "time_codes": [
+              924000,
+              1516000,
+              2269000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000063M001",
+            "title": "",
+            "subtitle": "第63集 我的完美保鑣、可敬的救難英雄、最忠心的兄弟",
+            "ep_number": 63,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762191900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189361",
+            "time_codes": [
+              797000,
+              1596000,
+              2344000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000064M001",
+            "title": "",
+            "subtitle": "第64集 愛的菜籃子、一隻手撐起家",
+            "ep_number": 64,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762194900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189363",
+            "time_codes": [
+              835000,
+              1649000,
+              2343000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000066M001",
+            "title": "",
+            "subtitle": "第66集 沒有四肢也精采、無悔的姐妹情",
+            "ep_number": 66,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762197900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189364",
+            "time_codes": [
+              891000,
+              1633000,
+              2303000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000067M001",
+            "title": "",
+            "subtitle": "第67集 等8年的童圓夢、我家也有自閉兒",
+            "ep_number": 67,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762200900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189365",
+            "time_codes": [
+              856000,
+              1463000,
+              2254000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000068M001",
+            "title": "",
+            "subtitle": "第68集 最國際化的神明、舞棍阿伯尬豬哥",
+            "ep_number": 68,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762203900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189366",
+            "time_codes": [
+              821000,
+              1158000,
+              2039000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000069M001",
+            "title": "",
+            "subtitle": "第69集 宅男女神豆花妹、擔仔麵的一片天",
+            "ep_number": 69,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762206900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189367",
+            "time_codes": [
+              770000,
+              1458000,
+              2123000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000070M001",
+            "title": "",
+            "subtitle": "第70集 展場甜姐兒、照亮回家的路",
+            "ep_number": 70,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762209900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189368",
+            "time_codes": [
+              836000,
+              1597000,
+              2285000
+            ],
+            "timecode_duration": [],
+            "length": 2875000,
+            "asset_id": "vod43535-000071M001",
+            "title": "",
+            "subtitle": "第71集 人人都是愛迪生",
+            "ep_number": 71,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762212900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189369",
+            "time_codes": [
+              699000,
+              1557000,
+              2061000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000072M001",
+            "title": "",
+            "subtitle": "第72集 麻辣女教師、單親媽媽的求救",
+            "ep_number": 72,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762215900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189370",
+            "time_codes": [
+              690000,
+              1408000,
+              2172000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000073M001",
+            "title": "",
+            "subtitle": "第73集 國標舞天后、愛心便當推手",
+            "ep_number": 73,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762218900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189373",
+            "time_codes": [
+              697000,
+              1535000,
+              2088000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000076M001",
+            "title": "",
+            "subtitle": "第76集 老二哲學出頭天、挖就是愛台灣啦！",
+            "ep_number": 76,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762221900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189374",
+            "time_codes": [
+              875000,
+              1509000,
+              2326000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000077M001",
+            "title": "",
+            "subtitle": "第77集 不敗的諧星、真漢子的琉璃夢",
+            "ep_number": 77,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762224900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189375",
+            "time_codes": [
+              915000,
+              1699000,
+              2177000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000078M001",
+            "title": "",
+            "subtitle": "第78集 賣菜小弟的心願、烘焙王的甜味人生",
+            "ep_number": 78,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762227900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189376",
+            "time_codes": [
+              863000,
+              1589000,
+              2292000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000079M001",
+            "title": "",
+            "subtitle": "第79集 用心看見視界的遼闊、我的青春不會老",
+            "ep_number": 79,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762230900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189377",
+            "time_codes": [
+              831000,
+              1672000,
+              2384000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000080M001",
+            "title": "",
+            "subtitle": "第80集 在生命轉彎的地方、台灣阿姑的人生劇場",
+            "ep_number": 80,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762233900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189378",
+            "time_codes": [
+              888000,
+              1409000,
+              2161000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000081M001",
+            "title": "",
+            "subtitle": "第81集 走出家暴從心出發、我也是佛心來的！",
+            "ep_number": 81,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762236900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189379",
+            "time_codes": [
+              737000,
+              1423000,
+              2064000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000082M001",
+            "title": "",
+            "subtitle": "第82集 有我在 你不孤單、開朗少女成功記",
+            "ep_number": 82,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762239900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189380",
+            "time_codes": [
+              837000,
+              1548000,
+              2120000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000083M001",
+            "title": "",
+            "subtitle": "第83集 亞洲廚神來上菜、嬌嗔女神大解放",
+            "ep_number": 83,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762242900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189381",
+            "time_codes": [
+              848000,
+              1628000,
+              2299000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000084M001",
+            "title": "",
+            "subtitle": "第84集 喜容 生命最後一幅畫、諧星心事誰人知",
+            "ep_number": 84,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762245900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189382",
+            "time_codes": [
+              870000,
+              1564000,
+              2126000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000085M001",
+            "title": "",
+            "subtitle": "第85集 眼盲扛家賣百合、我靠自己不靠爸",
+            "ep_number": 85,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762248900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189383",
+            "time_codes": [
+              820000,
+              2401000,
+              8799000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000086M001",
+            "title": "",
+            "subtitle": "第86集 防彈的玻璃娃娃、走出傷痛再出發",
+            "ep_number": 86,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762251900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189384",
+            "time_codes": [
+              900000,
+              1653000,
+              2267000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000087M001",
+            "title": "",
+            "subtitle": "第87集 倒數的幸福、最會生的女藝人",
+            "ep_number": 87,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762254900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189385",
+            "time_codes": [
+              790000,
+              1630000,
+              2327000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000088M001",
+            "title": "",
+            "subtitle": "第88集 蒜頭阿嬤的重擔、我也是偶像天團來的",
+            "ep_number": 88,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762257900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189386",
+            "time_codes": [
+              909000,
+              1699000,
+              2185000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000089M001",
+            "title": "",
+            "subtitle": "第89集 畫出雨後的彩虹、不老的寶島歌王",
+            "ep_number": 89,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762260900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189387",
+            "time_codes": [
+              938000,
+              1717000,
+              2373000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000090M001",
+            "title": "",
+            "subtitle": "第90集 畫出生命新希望、真心的朋友最珍貴",
+            "ep_number": 90,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762263900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189388",
+            "time_codes": [
+              852000,
+              1534000,
+              2293000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000091M001",
+            "title": "",
+            "subtitle": "第91集 亡者之音 由我發聲、人見人愛鳥來嬤",
+            "ep_number": 91,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762266900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189389",
+            "time_codes": [
+              844000,
+              1370000,
+              2217000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000092M001",
+            "title": "",
+            "subtitle": "第92集 勸不退的歌唱夢、我家也有大明星",
+            "ep_number": 92,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762269900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189390",
+            "time_codes": [
+              905000,
+              1772000,
+              2374000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000093M001",
+            "title": "",
+            "subtitle": "第93集 老外他鄉遇貴人、人妻難忘姊妹情",
+            "ep_number": 93,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762272900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189391",
+            "time_codes": [
+              844000,
+              1561000,
+              2119000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000094M001",
+            "title": "",
+            "subtitle": "第94集 活出希望抗愛滋、叱吒風雲金臂人",
+            "ep_number": 94,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762275900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189392",
+            "time_codes": [
+              800000,
+              1531000,
+              2181000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000095M001",
+            "title": "",
+            "subtitle": "第95集 脊損人生不留白、寫真之路遇貴人",
+            "ep_number": 95,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762278900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189393",
+            "time_codes": [
+              824000,
+              1756000,
+              2268000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000096M001",
+            "title": "",
+            "subtitle": "第96集 看見10公分的幸福、我不理財我理債",
+            "ep_number": 96,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762281900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189394",
+            "time_codes": [
+              626000,
+              1280000,
+              2096000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000097M001",
+            "title": "",
+            "subtitle": "第97集 小劉哥哥來講古、紅孩兒想要個家",
+            "ep_number": 97,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762284900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189395",
+            "time_codes": [
+              797000,
+              1351000,
+              2187000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000098M001",
+            "title": "",
+            "subtitle": "第98集 人民保姆真英雄、患難兄弟見真情",
+            "ep_number": 98,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762287900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189396",
+            "time_codes": [
+              812000,
+              1533000,
+              2204000
+            ],
+            "timecode_duration": [],
+            "length": 2878000,
+            "asset_id": "vod43535-000099M001",
+            "title": "",
+            "subtitle": "第99集 愛與溫暖的紅豆餅、歌后的養女歲月",
+            "ep_number": 99,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762290900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189397",
+            "time_codes": [
+              771000,
+              1462000,
+              2178000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000100M001",
+            "title": "",
+            "subtitle": "第100集 跟時間賽跑的生命、那些年同窗的日子",
+            "ep_number": 100,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762293900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189398",
+            "time_codes": [
+              998000,
+              1828000,
+              2378000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000101M001",
+            "title": "",
+            "subtitle": "第101集 堅持 熱血 電影魂、借酒壯膽闖藝界",
+            "ep_number": 101,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762296900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189399",
+            "time_codes": [
+              911000,
+              1791000,
+              2345000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000102M001",
+            "title": "",
+            "subtitle": "第102集 一雙手一舉天下、玉女歌星的蛻變",
+            "ep_number": 102,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762299900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189400",
+            "time_codes": [
+              694000,
+              1538000,
+              2296000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000103M001",
+            "title": "",
+            "subtitle": "第103集 一甲子燈塔情",
+            "ep_number": 103,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762302900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189401",
+            "time_codes": [
+              831000,
+              1505000,
+              2079000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000104M001",
+            "title": "",
+            "subtitle": "第104集 落跑新娘的懊悔、紅歌星的辛酸淚",
+            "ep_number": 104,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762305900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189402",
+            "time_codes": [
+              724000,
+              1372000,
+              2194000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000105M001",
+            "title": "",
+            "subtitle": "第105集 扁擔凸起一家幸福、寫自己的人生劇本",
+            "ep_number": 105,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762308900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189403",
+            "time_codes": [
+              645000,
+              1449000,
+              2272000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000106M001",
+            "title": "",
+            "subtitle": "第106集 背債男破難關、我的超級好朋友",
+            "ep_number": 106,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762311900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189404",
+            "time_codes": [
+              877000,
+              1715000,
+              2278000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000107M001",
+            "title": "",
+            "subtitle": "第107集 受暴逃家單親媽、武打女星的辛酸",
+            "ep_number": 107,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762314900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189405",
+            "time_codes": [
+              877000,
+              1646000,
+              2220000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000108M001",
+            "title": "",
+            "subtitle": "第108集 佛陀養大的孩子、含淚一脫為救母",
+            "ep_number": 108,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762317900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189406",
+            "time_codes": [
+              1013000,
+              1570000,
+              2133000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000109M001",
+            "title": "",
+            "subtitle": "第109集 生命鬥士寫騎蹟",
+            "ep_number": 109,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762320900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189407",
+            "time_codes": [
+              762000,
+              1755000,
+              2264000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000110M001",
+            "title": "",
+            "subtitle": "第110集 吸毒外遇毀家庭、不是偏鄉不行醫、異國婚姻換心碎",
+            "ep_number": 110,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762323900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189408",
+            "time_codes": [
+              896000,
+              1898000,
+              2398000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000111M001",
+            "title": "",
+            "subtitle": "第111集 一路健康是奢求、自掏腰包闖藝壇",
+            "ep_number": 111,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762326900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189409",
+            "time_codes": [
+              816000,
+              1526000,
+              2206000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000112M001",
+            "title": "",
+            "subtitle": "第112集 泳敢挑戰自我巔峰、天天開心出頭天",
+            "ep_number": 112,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762329900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189410",
+            "time_codes": [
+              930000,
+              1489000,
+              2351000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000113M001",
+            "title": "",
+            "subtitle": "第113集 好想開口說愛你、再創巔峰的搭檔",
+            "ep_number": 113,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762332900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189411",
+            "time_codes": [
+              884000,
+              1484000,
+              2205000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000114M001",
+            "title": "",
+            "subtitle": "第114集 一口麵包滿滿愛、時來運轉遇貴人",
+            "ep_number": 114,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762335900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189412",
+            "time_codes": [
+              888000,
+              1643000,
+              2193000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000115M001",
+            "title": "",
+            "subtitle": "第115集 扭轉人生的氣球、隱形的銷售歌后",
+            "ep_number": 115,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762338900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189413",
+            "time_codes": [
+              968000,
+              1816000,
+              2244000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000116M001",
+            "title": "",
+            "subtitle": "第116集 患難中愛更堅、看不見路依然寬",
+            "ep_number": 116,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762341900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189414",
+            "time_codes": [
+              797000,
+              1545000,
+              2259000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000117M001",
+            "title": "",
+            "subtitle": "第117集 月亮孩子向前衝、打開星媽內心話",
+            "ep_number": 117,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762344900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189415",
+            "time_codes": [
+              800000,
+              1803000,
+              2363000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000118M001",
+            "title": "",
+            "subtitle": "第118集 浪子重生樂陶陶、國寶相挺闖星途",
+            "ep_number": 118,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762347900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189416",
+            "time_codes": [
+              637000,
+              1239000,
+              2053000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000119M001",
+            "title": "",
+            "subtitle": "第119集 偶像劇御用媽媽、用特技耍出人生",
+            "ep_number": 119,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762350900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189417",
+            "time_codes": [
+              780000,
+              1469000,
+              2027000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000120M001",
+            "title": "",
+            "subtitle": "第120集 霹靂遊俠回來了、被上帝錯置的靈魂",
+            "ep_number": 120,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762353900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189418",
+            "time_codes": [
+              806000,
+              1590000,
+              2236000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000121M001",
+            "title": "",
+            "subtitle": "第121集 阿嬤麵攤暖人心、久違歌王現美聲",
+            "ep_number": 121,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762356900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189419",
+            "time_codes": [
+              1029000,
+              1804000,
+              2162000
+            ],
+            "timecode_duration": [],
+            "length": 2880000,
+            "asset_id": "vod43535-000122M001",
+            "title": "",
+            "subtitle": "第122集 迷途羔羊走正途、戲說人生道心酸",
+            "ep_number": 122,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762359900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189420",
+            "time_codes": [
+              973000,
+              1853000,
+              2174000
+            ],
+            "timecode_duration": [],
+            "length": 2880000,
+            "asset_id": "vod43535-000123M001",
+            "title": "",
+            "subtitle": "第123集 二億代價換重生、動感紅星內心話",
+            "ep_number": 123,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762362900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189421",
+            "time_codes": [
+              820000,
+              1327000,
+              1965000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000124M001",
+            "title": "",
+            "subtitle": "第124集 有錢家族狗來富、未來人生向前蔥",
+            "ep_number": 124,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762365900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189422",
+            "time_codes": [
+              723000,
+              1493000,
+              2204000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod43535-000125M001",
+            "title": "",
+            "subtitle": "第125集 小丑‧舞台下的故事、反派‧舞台上的人生",
+            "ep_number": 125,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762368900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189423",
+            "time_codes": [
+              989000,
+              1882000,
+              2322000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000126M001",
+            "title": "",
+            "subtitle": "第126集 死刑犯變身書商、購物專家遇天王",
+            "ep_number": 126,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762371900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189425",
+            "time_codes": [
+              1009000,
+              1812000,
+              2504000
+            ],
+            "timecode_duration": [],
+            "length": 2882000,
+            "asset_id": "vod43535-000128M001",
+            "title": "",
+            "subtitle": "第128集 兄弟別怕！我挺你、我演什麼像什麼",
+            "ep_number": 128,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762374900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189426",
+            "time_codes": [
+              679000,
+              1548000,
+              2263000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000129M001",
+            "title": "",
+            "subtitle": "第129集 濟公律師正義化身、布袋戲美聲第一人",
+            "ep_number": 129,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762377900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189427",
+            "time_codes": [
+              733000,
+              1564000,
+              2468000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000130M001",
+            "title": "",
+            "subtitle": "第130集 亞洲首胖減重計畫、偶像就要天生反骨",
+            "ep_number": 130,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762380900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          },
+          {
+            "content_id": "VOD00189428",
+            "time_codes": [
+              676000,
+              1426000,
+              2324000
+            ],
+            "timecode_duration": [],
+            "length": 2876000,
+            "asset_id": "vod43535-000131M001",
+            "title": "",
+            "subtitle": "第131集 台灣國寶級黑手、成功背後真心話",
+            "ep_number": 131,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762383900000,
+            "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+          }
+        ],
+        "total_length": 276169000,
+        "focus_index": 48,
+        "next_index": 49,
+        "time": 372887,
+        "focus_program": {
+          "content_id": "VOD00189380",
+          "time_codes": [
+            837000,
+            1548000,
+            2120000
+          ],
+          "timecode_duration": [],
+          "length": 2877000,
+          "asset_id": "vod43535-000083M001",
+          "title": "",
+          "subtitle": "第83集 亞洲廚神來上菜、嬌嗔女神大解放",
+          "ep_number": 83,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762242900000,
+          "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜藝",
+          "EngName": "Entertainment",
+          "MenuOrder": 8
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3356_ofiii126_mobile_20240531.png",
+      "description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

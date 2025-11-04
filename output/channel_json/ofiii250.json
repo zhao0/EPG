@@ -1,0 +1,130 @@
+{
+  "pageProps": {
+    "contentId": "ofiii250",
+    "channel": {
+      "title": "紓壓雷雨聲",
+      "no": 250,
+      "charge_mode": "F",
+      "content_id": "ofiii250",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        1
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWNOADOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3437_ofiii250_tv_20250305.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6371",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1723794761.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 250,
+        "cdn_code": "ofiii250",
+        "start_time": 1762185300000,
+        "programs": [
+          {
+            "content_id": "VOD00340926",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000,
+              3600000
+            ],
+            "timecode_duration": [],
+            "length": 3717000,
+            "asset_id": "vod73056-000001M001",
+            "title": "",
+            "subtitle": "【白噪音系列，雷雨聲】",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "others",
+            "p_start": 1762185300000,
+            "vod_channel_description": "大自然的聲音-雷雨聲無間斷，療癒系助眠紓壓「白噪音」\r\n遠處雷鳴放鬆心情，戶外森林雷聲雨聲，治癒身心靈的疲憊\r\n#雷電交加 #雷雨 #重度失眠必聽 #深度睡眠音樂 #助眠音樂 #伴讀專注"
+          },
+          {
+            "content_id": "VOD00347834",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000,
+              3600000
+            ],
+            "timecode_duration": [],
+            "length": 3739000,
+            "asset_id": "vod73056-000002M001",
+            "title": "",
+            "subtitle": "【白噪音系列，雷雨聲－房間版】",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "others",
+            "p_start": 1762189500000,
+            "vod_channel_description": "大自然的聲音-雷雨聲無間斷，療癒系助眠紓壓「白噪音」\n遠處雷鳴放鬆心情，戶外森林雷聲雨聲，治癒身心靈的疲憊\n#雷電交加 #雷雨 #重度失眠必聽 #深度睡眠音樂 #助眠音樂 #伴讀專注"
+          }
+        ],
+        "total_length": 7456000,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 134347,
+        "focus_program": {
+          "content_id": "VOD00340926",
+          "time_codes": [
+            600000,
+            1200000,
+            1800000,
+            2400000,
+            3000000,
+            3600000
+          ],
+          "timecode_duration": [],
+          "length": 3717000,
+          "asset_id": "vod73056-000001M001",
+          "title": "",
+          "subtitle": "【白噪音系列，雷雨聲】",
+          "ep_number": 1,
+          "rating": 1,
+          "content_type": "others",
+          "p_start": 1762185300000,
+          "vod_channel_description": "大自然的聲音-雷雨聲無間斷，療癒系助眠紓壓「白噪音」\r\n遠處雷鳴放鬆心情，戶外森林雷聲雨聲，治癒身心靈的疲憊\r\n#雷電交加 #雷雨 #重度失眠必聽 #深度睡眠音樂 #助眠音樂 #伴讀專注"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜合",
+          "EngName": "Variety",
+          "MenuOrder": 4
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3437_ofiii250_mobile_20240816.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

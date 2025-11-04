@@ -1,0 +1,105 @@
+{
+  "pageProps": {
+    "contentId": "ofiii255",
+    "channel": {
+      "title": "大自然流水聲",
+      "no": 255,
+      "charge_mode": "F",
+      "content_id": "ofiii255",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        1
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWNOADOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3785_ofiii255_tv_20250703.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6719",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1751527776.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 1,
+      "vod_channel_schedule": {
+        "channel_id": 255,
+        "cdn_code": "ofiii255",
+        "start_time": 1762181700000,
+        "programs": [
+          {
+            "content_id": "VOD00369785",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000,
+              3600000
+            ],
+            "timecode_duration": [],
+            "length": 3965000,
+            "asset_id": "vod79031-000001M001",
+            "title": "",
+            "subtitle": "【白噪音系列，流水聲】",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "others",
+            "p_start": 1762181700000,
+            "vod_channel_description": "大自然的聲音－潺潺流水聲無間斷，療癒系助眠紓壓「白噪音」\r\n溪水潺潺，彷彿置身山林間，靜聽流水淨化心靈，洗滌一整天的疲憊\r\n#流水聲 #自然白噪音 #放空冥想 #深度睡眠音樂 #助眠音樂 #讀書專注必備"
+          }
+        ],
+        "total_length": 3965000,
+        "focus_index": 0,
+        "next_index": 0,
+        "time": 428942,
+        "focus_program": {
+          "content_id": "VOD00369785",
+          "time_codes": [
+            600000,
+            1200000,
+            1800000,
+            2400000,
+            3000000,
+            3600000
+          ],
+          "timecode_duration": [],
+          "length": 3965000,
+          "asset_id": "vod79031-000001M001",
+          "title": "",
+          "subtitle": "【白噪音系列，流水聲】",
+          "ep_number": 1,
+          "rating": 1,
+          "content_type": "others",
+          "p_start": 1762181700000,
+          "vod_channel_description": "大自然的聲音－潺潺流水聲無間斷，療癒系助眠紓壓「白噪音」\r\n溪水潺潺，彷彿置身山林間，靜聽流水淨化心靈，洗滌一整天的疲憊\r\n#流水聲 #自然白噪音 #放空冥想 #深度睡眠音樂 #助眠音樂 #讀書專注必備"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜合",
+          "EngName": "Variety",
+          "MenuOrder": 4
+        }
+      ]
+    },
+    "introduction": null,
+    "recommends": null,
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

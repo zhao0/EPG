@@ -1,0 +1,1029 @@
+{
+  "pageProps": {
+    "contentId": "ofiii92",
+    "channel": {
+      "title": "健康問良醫",
+      "no": 92,
+      "charge_mode": "F",
+      "content_id": "ofiii92",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        1
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3411_ofiii92_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "良醫",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6345",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1722393494.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 92,
+        "cdn_code": "ofiii92",
+        "start_time": 1762143600000,
+        "programs": [
+          {
+            "content_id": "VOD00289995",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1070000,
+            "asset_id": "vod63397-000011M001",
+            "title": "",
+            "subtitle": "第11集 長新冠",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762143600000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00289996",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1341000,
+            "asset_id": "vod63397-000012M001",
+            "title": "",
+            "subtitle": "第12集 抗發炎",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762144800000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00289997",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 951000,
+            "asset_id": "vod63397-000013M001",
+            "title": "",
+            "subtitle": "第13集 日常防癌-飲食篇",
+            "ep_number": 13,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762146600000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00289998",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1301000,
+            "asset_id": "vod63397-000014M001",
+            "title": "",
+            "subtitle": "第14集 早期察覺肺癌",
+            "ep_number": 14,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762147800000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00290000",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 889000,
+            "asset_id": "vod63397-000016M001",
+            "title": "",
+            "subtitle": "第16集 確診後吃什麼",
+            "ep_number": 16,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762149300000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00290003",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1557000,
+            "asset_id": "vod63397-000019M001",
+            "title": "",
+            "subtitle": "第19集 心臟疾病",
+            "ep_number": 19,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762150500000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00290004",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1145000,
+            "asset_id": "vod63397-000020M001",
+            "title": "",
+            "subtitle": "第20集 冬季養生主題",
+            "ep_number": 20,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762152300000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00290005",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1096000,
+            "asset_id": "vod63397-000021M001",
+            "title": "",
+            "subtitle": "第21集 睡眠主題",
+            "ep_number": 21,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762153800000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00290006",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1161000,
+            "asset_id": "vod63397-000022M001",
+            "title": "",
+            "subtitle": "第22集 心臟疾病",
+            "ep_number": 22,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762155300000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00290008",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 929000,
+            "asset_id": "vod63397-000024M001",
+            "title": "",
+            "subtitle": "第24集 冬季養生主題",
+            "ep_number": 24,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762156800000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00290009",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1042000,
+            "asset_id": "vod63397-000025M001",
+            "title": "",
+            "subtitle": "第25集 肺癌/肺部保健(上)",
+            "ep_number": 25,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762158000000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00290011",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1292000,
+            "asset_id": "vod63397-000027M001",
+            "title": "",
+            "subtitle": "第27集 肺癌/肺部保健(下)",
+            "ep_number": 27,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762159200000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00290012",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1102000,
+            "asset_id": "vod63397-000028M001",
+            "title": "",
+            "subtitle": "第28集 牙周病",
+            "ep_number": 28,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762160700000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00290013",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 987000,
+            "asset_id": "vod63397-000029M001",
+            "title": "",
+            "subtitle": "第29集 美白牙齒",
+            "ep_number": 29,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762162200000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00290014",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 236000,
+            "asset_id": "vod63397-000030M001",
+            "title": "",
+            "subtitle": "第30集 植牙(上)",
+            "ep_number": 30,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762163400000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00290015",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 238000,
+            "asset_id": "vod63397-000031M001",
+            "title": "",
+            "subtitle": "第31集 植牙(下)",
+            "ep_number": 31,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762163700000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00290018",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 258000,
+            "asset_id": "vod63397-000034M001",
+            "title": "",
+            "subtitle": "第34集 新陳代謝減重(上)",
+            "ep_number": 34,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762164000000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00290019",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 306000,
+            "asset_id": "vod63397-000035M001",
+            "title": "",
+            "subtitle": "第35集 新陳代謝減重(下)",
+            "ep_number": 35,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762164600000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00295090",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 233000,
+            "asset_id": "vod63397-000037M001",
+            "title": "",
+            "subtitle": "第37集 糖尿病(上)",
+            "ep_number": 37,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762165200000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00290600",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 432000,
+            "asset_id": "vod63397-000038M001",
+            "title": "",
+            "subtitle": "第38集 糖尿病(下)",
+            "ep_number": 38,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762165500000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00291784",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 427000,
+            "asset_id": "vod63397-000039M001",
+            "title": "",
+            "subtitle": "第39集 子宮內膜異位症(上)",
+            "ep_number": 39,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762166100000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00291785",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 507000,
+            "asset_id": "vod63397-000040M001",
+            "title": "",
+            "subtitle": "第40集 子宮內膜異位症(下)",
+            "ep_number": 40,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762166700000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00291786",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 420000,
+            "asset_id": "vod63397-000041M001",
+            "title": "",
+            "subtitle": "第41集 卵巢癌(上)",
+            "ep_number": 41,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762167300000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00291787",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 448000,
+            "asset_id": "vod63397-000042M001",
+            "title": "",
+            "subtitle": "第42集 卵巢癌(下)",
+            "ep_number": 42,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762167900000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00291788",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 337000,
+            "asset_id": "vod63397-000043M001",
+            "title": "",
+            "subtitle": "第43集 寵物(上)",
+            "ep_number": 43,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762168500000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00291789",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 483000,
+            "asset_id": "vod63397-000044M001",
+            "title": "",
+            "subtitle": "第44集 寵物(中)",
+            "ep_number": 44,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762169100000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00291790",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 537000,
+            "asset_id": "vod63397-000045M001",
+            "title": "",
+            "subtitle": "第45集 寵物(下)",
+            "ep_number": 45,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762169700000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00291791",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1195000,
+            "asset_id": "vod63397-000046M001",
+            "title": "",
+            "subtitle": "第46集 骨肉癌",
+            "ep_number": 46,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762170300000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00291792",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 543000,
+            "asset_id": "vod63397-000047M001",
+            "title": "",
+            "subtitle": "第47集 骨折與骨疏",
+            "ep_number": 47,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762171800000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00291793",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 489000,
+            "asset_id": "vod63397-000048M001",
+            "title": "",
+            "subtitle": "第48集 大腸癌與腸躁症",
+            "ep_number": 48,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762172700000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00291795",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 615000,
+            "asset_id": "vod63397-000050M001",
+            "title": "",
+            "subtitle": "第50集 胃癌與飲食",
+            "ep_number": 50,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762173300000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00300807",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1243000,
+            "asset_id": "vod63397-000051M001",
+            "title": "",
+            "subtitle": "第51集 皮膚大哉問",
+            "ep_number": 51,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762174200000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00300810",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 506000,
+            "asset_id": "vod63397-000054M001",
+            "title": "",
+            "subtitle": "第54集 汗皰疹",
+            "ep_number": 54,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762175700000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00300811",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 485000,
+            "asset_id": "vod63397-000055M001",
+            "title": "",
+            "subtitle": "第55集 大腸-人類第二大腦",
+            "ep_number": 55,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762176300000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00300812",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 591000,
+            "asset_id": "vod63397-000056M001",
+            "title": "",
+            "subtitle": "第56集 眼科保健",
+            "ep_number": 56,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762176900000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00300813",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 541000,
+            "asset_id": "vod63397-000057M001",
+            "title": "",
+            "subtitle": "第57集 幽門桿菌",
+            "ep_number": 57,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762177800000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00300814",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 573000,
+            "asset_id": "vod63397-000058M001",
+            "title": "",
+            "subtitle": "第58集 白內障",
+            "ep_number": 58,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762178700000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00300816",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 562000,
+            "asset_id": "vod63397-000060M001",
+            "title": "",
+            "subtitle": "第60集 骨質疏鬆",
+            "ep_number": 60,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762179600000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00310165",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 569000,
+            "asset_id": "vod63397-000061M001",
+            "title": "",
+            "subtitle": "第61集 骨質疏鬆",
+            "ep_number": 61,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762180500000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00310166",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 561000,
+            "asset_id": "vod63397-000062M001",
+            "title": "",
+            "subtitle": "第62集 肌少症",
+            "ep_number": 62,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762181400000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00310167",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 539000,
+            "asset_id": "vod63397-000063M001",
+            "title": "",
+            "subtitle": "第63集 骨質疏鬆",
+            "ep_number": 63,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762182300000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00310168",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 552000,
+            "asset_id": "vod63397-000064M001",
+            "title": "",
+            "subtitle": "第64集 耳科-眩暈",
+            "ep_number": 64,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762182900000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00310169",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1306000,
+            "asset_id": "vod63397-000065M001",
+            "title": "",
+            "subtitle": "第65集 耳科-耳鳴",
+            "ep_number": 65,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762183800000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00314212",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 520000,
+            "asset_id": "vod63397-000066M001",
+            "title": "",
+            "subtitle": "第66集 代謝症候群",
+            "ep_number": 66,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762185300000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00314213",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 544000,
+            "asset_id": "vod63397-000067M001",
+            "title": "",
+            "subtitle": "第67集 甲狀腺",
+            "ep_number": 67,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762185900000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00314215",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1245000,
+            "asset_id": "vod63397-000069M001",
+            "title": "",
+            "subtitle": "第69集 肌少症肥胖",
+            "ep_number": 69,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762186800000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00321477",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 724000,
+            "asset_id": "vod63397-000072M001",
+            "title": "",
+            "subtitle": "第72集 牙齒保健",
+            "ep_number": 72,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762188300000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00321478",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 587000,
+            "asset_id": "vod63397-000073M001",
+            "title": "",
+            "subtitle": "第73集 植牙",
+            "ep_number": 73,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762189200000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00321479",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 589000,
+            "asset_id": "vod63397-000074M001",
+            "title": "",
+            "subtitle": "第74集 牙周病",
+            "ep_number": 74,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762190100000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00321480",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 572000,
+            "asset_id": "vod63397-000075M001",
+            "title": "",
+            "subtitle": "第75集 用藥安全",
+            "ep_number": 75,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762191000000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00321481",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 595000,
+            "asset_id": "vod63397-000076M001",
+            "title": "",
+            "subtitle": "第76集 用藥安全2",
+            "ep_number": 76,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762191900000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00321482",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 726000,
+            "asset_id": "vod63397-000077M001",
+            "title": "",
+            "subtitle": "第77集 清宮吃什麼",
+            "ep_number": 77,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762192800000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00321483",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 579000,
+            "asset_id": "vod63397-000078M001",
+            "title": "",
+            "subtitle": "第78集 到宅牙醫",
+            "ep_number": 78,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762193700000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00321485",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 746000,
+            "asset_id": "vod63397-000080M001",
+            "title": "",
+            "subtitle": "第80集 睡眠障礙",
+            "ep_number": 80,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762194600000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00324949",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 671000,
+            "asset_id": "vod63397-000081M001",
+            "title": "",
+            "subtitle": "第81集 呼吸中止",
+            "ep_number": 81,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762195500000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00324950",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 706000,
+            "asset_id": "vod63397-000082M001",
+            "title": "",
+            "subtitle": "第82集 失智症",
+            "ep_number": 82,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762196400000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00324951",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 716000,
+            "asset_id": "vod63397-000083M001",
+            "title": "",
+            "subtitle": "第83集 幸齡人生",
+            "ep_number": 83,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762197300000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00324952",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 588000,
+            "asset_id": "vod63397-000084M001",
+            "title": "",
+            "subtitle": "第84集 老年憂鬱症",
+            "ep_number": 84,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762198200000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00324955",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 716000,
+            "asset_id": "vod63397-000087M001",
+            "title": "",
+            "subtitle": "第87集 高齡健檢",
+            "ep_number": 87,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762199100000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00324956",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 591000,
+            "asset_id": "vod63397-000088M001",
+            "title": "",
+            "subtitle": "第88集 骨折",
+            "ep_number": 88,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762200000000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00324957",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 578000,
+            "asset_id": "vod63397-000089M001",
+            "title": "",
+            "subtitle": "第89集 心悸",
+            "ep_number": 89,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762200900000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00324958",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 640000,
+            "asset_id": "vod63397-000090M001",
+            "title": "",
+            "subtitle": "第90集 五十肩",
+            "ep_number": 90,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762201800000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          },
+          {
+            "content_id": "VOD00333534",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 644000,
+            "asset_id": "vod63397-000091M001",
+            "title": "",
+            "subtitle": "第91集 心肌梗塞",
+            "ep_number": 91,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762202700000,
+            "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+          }
+        ],
+        "total_length": 44872000,
+        "focus_index": 3,
+        "next_index": 4,
+        "time": 272498,
+        "focus_program": {
+          "content_id": "VOD00289998",
+          "time_codes": [
+            600000,
+            1200000
+          ],
+          "timecode_duration": [],
+          "length": 1301000,
+          "asset_id": "vod63397-000014M001",
+          "title": "",
+          "subtitle": "第14集 早期察覺肺癌",
+          "ep_number": 14,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762147800000,
+          "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜合",
+          "EngName": "Variety",
+          "MenuOrder": 4
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3411_ofiii92_mobile_20240731.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (compatible; proximic; +https://www.comscore.com/Web-Crawler)"
+  },
+  "__N_SSP": true
+}

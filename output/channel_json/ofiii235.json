@@ -1,0 +1,1813 @@
+{
+  "pageProps": {
+    "contentId": "ofiii235",
+    "channel": {
+      "title": "台灣1001個故事",
+      "no": 235,
+      "charge_mode": "F",
+      "content_id": "ofiii235",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        18
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3555_ofiii235_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "東森娛樂",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6489",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1733120444.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 235,
+        "cdn_code": "ofiii235",
+        "start_time": 1762046100000,
+        "programs": [
+          {
+            "content_id": "VOD00278662",
+            "time_codes": [
+              1363000,
+              1866000,
+              2530000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000584M001",
+            "title": "",
+            "subtitle": "第584集 前進蘭嶼＋玉里！乘拼板舟看日出 玉里賞金色屋頂",
+            "ep_number": 584,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762046100000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00278663",
+            "time_codes": [
+              978000,
+              1898000,
+              2394000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000585M001",
+            "title": "",
+            "subtitle": "第585集 炸麵包&炸豆包 經典不敗的銅板炸物小吃",
+            "ep_number": 585,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762049400000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00278664",
+            "time_codes": [
+              1044000,
+              1997000,
+              2496000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000586M001",
+            "title": "",
+            "subtitle": "第586集 胡椒餅&拉餅 機場人的下午茶點心",
+            "ep_number": 586,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762052700000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00278665",
+            "time_codes": [
+              1015000,
+              1997000,
+              2482000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000587M001",
+            "title": "",
+            "subtitle": "第587集 手工冰淇淋vs.農家辦桌菜 翻轉山村的超級女力",
+            "ep_number": 587,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762056000000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00278666",
+            "time_codes": [
+              1193000,
+              2007000,
+              2506000
+            ],
+            "timecode_duration": [],
+            "length": 2945000,
+            "asset_id": "vod11030-000588M001",
+            "title": "",
+            "subtitle": "第588集 神山部落的神仙美味",
+            "ep_number": 588,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762059300000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00278667",
+            "time_codes": [
+              1054000,
+              2100000,
+              2597000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000589M001",
+            "title": "",
+            "subtitle": "第589集 雲林隱藏版的台式古早味",
+            "ep_number": 589,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762062600000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00278668",
+            "time_codes": [
+              921000,
+              1953000,
+              2439000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000590M001",
+            "title": "",
+            "subtitle": "第590集 拍賣喊魚vs.手作米腸 市場裡的悲喜人生",
+            "ep_number": 590,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762065900000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00278669",
+            "time_codes": [
+              1063000,
+              1934000,
+              2385000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000591M001",
+            "title": "",
+            "subtitle": "第591集 自助餐&水果蛋糕&熱壓吐司 霸氣拓展美食版圖",
+            "ep_number": 591,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762069200000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00278670",
+            "time_codes": [
+              1040000,
+              1931000,
+              2475000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000592M001",
+            "title": "",
+            "subtitle": "第592集 肉桂捲&日料理&茶壺雞 隱藏老屋的神祕好味",
+            "ep_number": 592,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762072500000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00278671",
+            "time_codes": [
+              972000,
+              1949000,
+              2418000
+            ],
+            "timecode_duration": [],
+            "length": 2946000,
+            "asset_id": "vod11030-000593M001",
+            "title": "",
+            "subtitle": "第593集 自助餐vs.小籠包vs.豆菜麵 在地超佛心美味",
+            "ep_number": 593,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762075800000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00278672",
+            "time_codes": [
+              877000,
+              1798000,
+              2520000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000594M001",
+            "title": "",
+            "subtitle": "第594集 假魚肚羹vs.柴燒龍眼乾 真心好味道",
+            "ep_number": 594,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762079100000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00278673",
+            "time_codes": [
+              1023000,
+              1668000,
+              2758000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000595M001",
+            "title": "",
+            "subtitle": "第595集 熱炒vs.香酥鴨vs.花生糖 最台味的經典小吃",
+            "ep_number": 595,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762082400000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00278674",
+            "time_codes": [
+              1028000,
+              1997000,
+              2536000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000596M001",
+            "title": "",
+            "subtitle": "第596集 煙燻鴨賞vs.九層粿vs.肉乾 歲末飄年味",
+            "ep_number": 596,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762085700000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00278675",
+            "time_codes": [
+              936000,
+              1923000,
+              2416000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000597M001",
+            "title": "",
+            "subtitle": "第597集 粉漿蛋餅vs.什菜湯 古早味裡的奮鬥人生",
+            "ep_number": 597,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762089000000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00278676",
+            "time_codes": [
+              1067000,
+              2049000,
+              2536000
+            ],
+            "timecode_duration": [],
+            "length": 2971000,
+            "asset_id": "vod11030-000598M001",
+            "title": "",
+            "subtitle": "第598集 砂鍋年菜&柴燒蘿蔔糕&花蓮臘肉 豐盛辦年貨",
+            "ep_number": 598,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762092300000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00278677",
+            "time_codes": [
+              1203000,
+              1650000,
+              2399000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000599M001",
+            "title": "",
+            "subtitle": "第599集 南投意麵&嘉義雞肉飯&樹屋無菜單料理",
+            "ep_number": 599,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762095600000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00278678",
+            "time_codes": [
+              1103000,
+              1596000,
+              2106000
+            ],
+            "timecode_duration": [],
+            "length": 2959000,
+            "asset_id": "vod11030-000600M001",
+            "title": "",
+            "subtitle": "第600集 年糕一條街vs.竹田好食艦隊 南臺灣小鎮傳奇",
+            "ep_number": 600,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762098900000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299938",
+            "time_codes": [
+              976000,
+              1871000,
+              2410000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000601M001",
+            "title": "",
+            "subtitle": "第601集 大樹下騎樓下的不敗小吃",
+            "ep_number": 601,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762102200000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299939",
+            "time_codes": [
+              843000,
+              1744000,
+              2518000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000602M001",
+            "title": "",
+            "subtitle": "第602集 隱藏版的不敗麵點",
+            "ep_number": 602,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762105500000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299940",
+            "time_codes": [
+              1064000,
+              1567000,
+              2319000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000603M001",
+            "title": "",
+            "subtitle": "第603集 臭薯條、燉雞湯、炸饅頭 超強夜市小吃大集合",
+            "ep_number": 603,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762108800000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299941",
+            "time_codes": [
+              1084000,
+              1963000,
+              2362000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000604M001",
+            "title": "",
+            "subtitle": "第604集 全台佛心店家大集合",
+            "ep_number": 604,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762112100000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299942",
+            "time_codes": [
+              1035000,
+              1928000,
+              2443000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000605M001",
+            "title": "",
+            "subtitle": "第605集 不吃不可的國民小吃",
+            "ep_number": 605,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762115400000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299943",
+            "time_codes": [
+              1020000,
+              1492000,
+              1942000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000606M001",
+            "title": "",
+            "subtitle": "第606集 隱藏版的驚奇好味",
+            "ep_number": 606,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762118700000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299944",
+            "time_codes": [
+              1035000,
+              1790000,
+              2327000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000607M001",
+            "title": "",
+            "subtitle": "第607集 火爆炒蟹腳vs.排隊炒飯 奮起的夜市人生",
+            "ep_number": 607,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762122000000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299945",
+            "time_codes": [
+              1070000,
+              1616000,
+              2207000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000608M001",
+            "title": "",
+            "subtitle": "第608集 夜市烤魚王vs.人氣羊肉爐 翻轉人生的拚搏者",
+            "ep_number": 608,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762125300000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299946",
+            "time_codes": [
+              1308000,
+              1782000,
+              2291000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000609M001",
+            "title": "",
+            "subtitle": "第609集 市場總鋪師vs.夜市三角骨 人氣天王生存大比拚",
+            "ep_number": 609,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762128600000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299947",
+            "time_codes": [
+              1090000,
+              1974000,
+              2429000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000610M001",
+            "title": "",
+            "subtitle": "第610集 安平蚵嗲王vs.咖哩沙茶 知名老店養成記",
+            "ep_number": 610,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762131900000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299948",
+            "time_codes": [
+              1081000,
+              1914000,
+              2354000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000611M001",
+            "title": "",
+            "subtitle": "第611集 中壢牛肉麵王24hr客人不間斷！新鮮鱔魚大火快炒傳承三代飄香",
+            "ep_number": 611,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762135200000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299949",
+            "time_codes": [
+              1314000,
+              1738000,
+              2494000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000612M001",
+            "title": "",
+            "subtitle": "第612集 百年鼎邊趖vs.卯澳小卷粥 巨無霸海鮮成漁村人氣小吃",
+            "ep_number": 612,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762138500000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299950",
+            "time_codes": [
+              1173000,
+              1685000,
+              2166000
+            ],
+            "timecode_duration": [],
+            "length": 2984000,
+            "asset_id": "vod11030-000613M001",
+            "title": "",
+            "subtitle": "第613集 「粉漿蛋餅尬蔥花」外脆內Q、南機場二刀流「偽土雞」獲5年必比登推薦",
+            "ep_number": 613,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762141800000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299951",
+            "time_codes": [
+              1100000,
+              1713000,
+              2486000
+            ],
+            "timecode_duration": [],
+            "length": 2973000,
+            "asset_id": "vod11030-000614M001",
+            "title": "",
+            "subtitle": "第614集 拔絲地瓜vs.市場炸雞 美味秒殺大直擊！",
+            "ep_number": 614,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762145100000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299952",
+            "time_codes": [
+              995000,
+              1967000,
+              2492000
+            ],
+            "timecode_duration": [],
+            "length": 2948000,
+            "asset_id": "vod11030-000615M001",
+            "title": "",
+            "subtitle": "第615集 暑假開始囉 吃冰！燒烤！美味裡有學問",
+            "ep_number": 615,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762148400000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299953",
+            "time_codes": [
+              1277000,
+              2059000,
+              2477000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000616M001",
+            "title": "",
+            "subtitle": "第616集 有錢途！烤雞、鹹粥有致勝不敗配方",
+            "ep_number": 616,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762151700000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299954",
+            "time_codes": [
+              1218000,
+              2112000,
+              2541000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000617M001",
+            "title": "",
+            "subtitle": "第617集 布農廚娘vs.魷魚羹王 不懼挑戰的勇者",
+            "ep_number": 617,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762155000000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299955",
+            "time_codes": [
+              903000,
+              1895000,
+              2318000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000618M001",
+            "title": "",
+            "subtitle": "第618集 烤鴨vs.豆包麵 認真就能稱霸一方",
+            "ep_number": 618,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762158300000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299956",
+            "time_codes": [
+              871000,
+              1894000,
+              2387000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000619M001",
+            "title": "",
+            "subtitle": "第619集 吳寶春式毅力發酵 沒有最好只有更好！",
+            "ep_number": 619,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762161600000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00299957",
+            "time_codes": [
+              981000,
+              1975000,
+              2517000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000620M001",
+            "title": "",
+            "subtitle": "第620集 台嘴真忙碌 小吃喧嘩 李嘉誠家族私廚登台",
+            "ep_number": 620,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762164900000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323634",
+            "time_codes": [
+              694000,
+              1514000,
+              2398000
+            ],
+            "timecode_duration": [],
+            "length": 2967000,
+            "asset_id": "vod11030-000621M001",
+            "title": "",
+            "subtitle": "第621集 芋泥瀑布尬太平洋龍蝦 孩子才做選擇",
+            "ep_number": 621,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762168200000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323635",
+            "time_codes": [
+              826000,
+              1293000,
+              2025000
+            ],
+            "timecode_duration": [],
+            "length": 2967000,
+            "asset_id": "vod11030-000622M001",
+            "title": "",
+            "subtitle": "第622集 秘境隱藏必吃美食 淡水鋼管雞/深坑臭豆腐湯包/陽明山土雞城/斗南深夜炸饅頭/新竹芒果雪花冰",
+            "ep_number": 622,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762171500000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323636",
+            "time_codes": [
+              813000,
+              1434000,
+              2376000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000623M001",
+            "title": "",
+            "subtitle": "第623集 石門活魚「煎煮炒炸」一魚N吃34年老店！虱目魚越南麵包拚出金店面",
+            "ep_number": 623,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762174800000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323637",
+            "time_codes": [
+              1003000,
+              1459000,
+              2277000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000624M001",
+            "title": "",
+            "subtitle": "第624集 巷弄美食車拚必比登 冠軍肉燥飯PK市場燒臘飯",
+            "ep_number": 624,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762178100000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323638",
+            "time_codes": [
+              776000,
+              1439000,
+              2279000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000625M001",
+            "title": "",
+            "subtitle": "第625集 花蓮燒番麥王vs.南機場烤肉燒餅 夜市美味大車拚",
+            "ep_number": 625,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762181400000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323639",
+            "time_codes": [
+              1041000,
+              1874000,
+              2373000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000626M001",
+            "title": "",
+            "subtitle": "第626集 你選哪一個？花蓮人氣烤雞餐廳PK江蕙力挺的愛心咖哩飯",
+            "ep_number": 626,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762184700000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323640",
+            "time_codes": [
+              1079000,
+              1993000,
+              2496000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000627M001",
+            "title": "",
+            "subtitle": "第627集 邊吃碗內 邊看碗外 目不暇給 浮誇海鮮痛風餐vs.基隆肉羹王",
+            "ep_number": 627,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762188000000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323641",
+            "time_codes": [
+              1171000,
+              1678000,
+              2442000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000628M001",
+            "title": "",
+            "subtitle": "第628集 必比登PK銅板價！川味口水雞噴椒麻香！平價鼎泰豐湯包一籠$100",
+            "ep_number": 628,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762191300000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323642",
+            "time_codes": [
+              849000,
+              1521000,
+              2310000
+            ],
+            "timecode_duration": [],
+            "length": 2948000,
+            "asset_id": "vod11030-000629M001",
+            "title": "",
+            "subtitle": "第629集 冠軍牛肉麵PK必比登鴨肉飯 台味舌尖得第一！",
+            "ep_number": 629,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762194600000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323643",
+            "time_codes": [
+              784000,
+              1559000,
+              2065000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000630M001",
+            "title": "",
+            "subtitle": "第630集 嘉義人必吃「火雞屁股切片」老闆推薦！豬腳爸「小店擠滿饕客」籌錢養血癌女",
+            "ep_number": 630,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762197900000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323644",
+            "time_codes": [
+              791000,
+              1454000,
+              1998000
+            ],
+            "timecode_duration": [],
+            "length": 2964000,
+            "asset_id": "vod11030-000631M001",
+            "title": "",
+            "subtitle": "第631集 市場炒飯PK必比登越南菜 認真+創意就勝出",
+            "ep_number": 631,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762201200000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323645",
+            "time_codes": [
+              772000,
+              1518000,
+              2187000
+            ],
+            "timecode_duration": [],
+            "length": 2935000,
+            "asset_id": "vod11030-000632M001",
+            "title": "",
+            "subtitle": "第632集 閻王拒收的感恩料理手 鵝肉料理王惦惦吃3碗公",
+            "ep_number": 632,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762204500000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323646",
+            "time_codes": [
+              986000,
+              1581000,
+              2158000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000633M001",
+            "title": "",
+            "subtitle": "第633集 胡椒餅PK百年滷味 必吃小吃有感動滋味",
+            "ep_number": 633,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762207500000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323647",
+            "time_codes": [
+              1001000,
+              1833000,
+              2368000
+            ],
+            "timecode_duration": [],
+            "length": 2957000,
+            "asset_id": "vod11030-000634M001",
+            "title": "",
+            "subtitle": "第634集 被湯麵耽誤的滷味店＋不見紅牛排 吃飽吃巧都隨意",
+            "ep_number": 634,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762210800000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323648",
+            "time_codes": [
+              1001000,
+              1746000,
+              2554000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000635M001",
+            "title": "",
+            "subtitle": "第635集 日本好玩不只東京大阪 這裡絕美 你竟然還沒去過！？",
+            "ep_number": 635,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762214100000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323649",
+            "time_codes": [
+              927000,
+              1518000,
+              2223000
+            ],
+            "timecode_duration": [],
+            "length": 2954000,
+            "asset_id": "vod11030-000636M001",
+            "title": "",
+            "subtitle": "第636集 張佳如逛到不想回來 日本瀨戶內海 比你想的還好玩",
+            "ep_number": 636,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762217400000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323650",
+            "time_codes": [
+              1113000,
+              1572000,
+              2495000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000637M001",
+            "title": "",
+            "subtitle": "第637集 豪爽闆娘炕肉飯 PK 歌手賣早午餐 美食中有真味",
+            "ep_number": 637,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762220700000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323651",
+            "time_codes": [
+              899000,
+              1799000,
+              2582000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000638M001",
+            "title": "",
+            "subtitle": "第638集 寒天冷吱吱 冠軍麵+臭豆腐王燒呼呼",
+            "ep_number": 638,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762224000000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323652",
+            "time_codes": [
+              919000,
+              1998000,
+              2477000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000639M001",
+            "title": "",
+            "subtitle": "第639集 寒流來襲 抗寒必吃 羊肉爐VS薑母雞大比拚",
+            "ep_number": 639,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762227300000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00323653",
+            "time_codes": [
+              857000,
+              1548000,
+              2463000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000640M001",
+            "title": "",
+            "subtitle": "第640集 濃濃年味龍來 年貨年糕哪裡買 攏總報給你",
+            "ep_number": 640,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762230600000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00346457",
+            "time_codes": [
+              1040000,
+              2034000,
+              2478000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000641M001",
+            "title": "",
+            "subtitle": "第641集 減肥是元宵節後的事 美味過年無休照過來",
+            "ep_number": 641,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762233900000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00346458",
+            "time_codes": [
+              964000,
+              1870000,
+              2453000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000642M001",
+            "title": "",
+            "subtitle": "第642集 台灣第一廣東粥 政商名流+狗仔群聚地",
+            "ep_number": 642,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762237200000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00346459",
+            "time_codes": [
+              993000,
+              1848000,
+              2351000
+            ],
+            "timecode_duration": [],
+            "length": 2877000,
+            "asset_id": "vod11030-000643M001",
+            "title": "",
+            "subtitle": "第643集 50年台北市場炒飯王 巷弄內依舊發光",
+            "ep_number": 643,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762240500000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00346460",
+            "time_codes": [
+              1185000,
+              1606000,
+              2415000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000644M001",
+            "title": "",
+            "subtitle": "第644集 小孩才做選擇 深夜食堂大比拚 台中第一滷肉飯vs.夜店蛋餅",
+            "ep_number": 644,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762243500000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00346461",
+            "time_codes": [
+              975000,
+              1592000,
+              2057000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000645M001",
+            "title": "",
+            "subtitle": "第645集 台南必比登海鮮粥PK高雄超難買炸雞 你投哪一票？",
+            "ep_number": 645,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762246800000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00346462",
+            "time_codes": [
+              841000,
+              1867000,
+              2357000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000646M001",
+            "title": "",
+            "subtitle": "第646集 秘境美食人人有名單 柴燒雞、炭火鱔魚麵、紅糖餅你收哪一樣？",
+            "ep_number": 646,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762250100000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00346463",
+            "time_codes": [
+              1138000,
+              1638000,
+              2506000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000647M001",
+            "title": "",
+            "subtitle": "第647集 他賣蔥餅捐救護車 她靠炸饅頭護盲兒 手底美味都是愛",
+            "ep_number": 647,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762253400000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00346464",
+            "time_codes": [
+              1057000,
+              1906000,
+              2579000
+            ],
+            "timecode_duration": [],
+            "length": 2967000,
+            "asset_id": "vod11030-000648M001",
+            "title": "",
+            "subtitle": "第648集 吹毛求疵求食安 便當王 蔬食包王認真不嫌累",
+            "ep_number": 648,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762256700000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00346465",
+            "time_codes": [
+              821000,
+              1910000,
+              2397000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000649M001",
+            "title": "",
+            "subtitle": "第649集 五臟廟也要進香 遶境吃美食 跟著大甲媽祖就對了",
+            "ep_number": 649,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762260000000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00346466",
+            "time_codes": [
+              958000,
+              1727000,
+              2226000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000650M001",
+            "title": "",
+            "subtitle": "第650集 台南魚丸老店+台北私房客台菜 都是疼惜母親的孝心味道",
+            "ep_number": 650,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762263300000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00354595",
+            "time_codes": [
+              1016000,
+              1533000,
+              2094000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000651M001",
+            "title": "",
+            "subtitle": "第651集 小吃搞出大名堂 地瓜球還百萬債務 蟹殼黃成出國伴手禮",
+            "ep_number": 651,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762266600000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00354596",
+            "time_codes": [
+              849000,
+              1696000,
+              2486000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000652M001",
+            "title": "",
+            "subtitle": "第652集 這是彰化 不是波爾多！葡萄樹下辦餐會 浪漫少女心大噴發",
+            "ep_number": 652,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762269900000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00354597",
+            "time_codes": [
+              705000,
+              1567000,
+              2028000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000653M001",
+            "title": "",
+            "subtitle": "第653集 豐原超狂海鮮粥 滿溢浪子悔悟海派氣魄",
+            "ep_number": 653,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762273200000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00354598",
+            "time_codes": [
+              779000,
+              1727000,
+              2163000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000654M001",
+            "title": "",
+            "subtitle": "第654集 起源大PK！軍中香肉鍋v.s台南舞小姐最愛 台灣牛肉麵身世解密",
+            "ep_number": 654,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762276500000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00354599",
+            "time_codes": [
+              1195000,
+              1702000,
+              2186000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000655M001",
+            "title": "",
+            "subtitle": "第655集 宜蘭蒜味肉羹有魅惑魔力 北部客專程為他飛奔過雪隧",
+            "ep_number": 655,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762279800000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00354600",
+            "time_codes": [
+              845000,
+              1857000,
+              2284000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000656M001",
+            "title": "",
+            "subtitle": "第656集 台中滷味王vs.台南烤魚王 夜市吸金冠軍大PK",
+            "ep_number": 656,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762283100000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00354601",
+            "time_codes": [
+              760000,
+              1760000,
+              2610000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000657M001",
+            "title": "",
+            "subtitle": "第657集 台中市場好料比拚 彩色豆腐vs.日料立食 小孩才做選擇",
+            "ep_number": 657,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762286400000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00354602",
+            "time_codes": [
+              1094000,
+              2109000,
+              2674000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000658M001",
+            "title": "",
+            "subtitle": "第658集 就愛懷舊味 眷村擀麵vs.蜜憨吉 鹹甜滋味一次滿足",
+            "ep_number": 658,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762289700000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00354603",
+            "time_codes": [
+              876000,
+              1922000,
+              2520000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000659M001",
+            "title": "",
+            "subtitle": "第659集 東港黑鮪魚PK台中體育鰻魚 你選哪一樣？",
+            "ep_number": 659,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762293000000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00354604",
+            "time_codes": [
+              827000,
+              1862000,
+              2492000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000660M001",
+            "title": "",
+            "subtitle": "第660集 太熱沒胃口？要確定捏！台中炭烤王+台北潤餅王搶救夏日食慾",
+            "ep_number": 660,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762296300000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362878",
+            "time_codes": [
+              1125000,
+              1774000,
+              2426000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000661M001",
+            "title": "",
+            "subtitle": "第661集 大雨天叫外賣也傷腦筋 粉紅粿仔vs.第一名比薩 超難選啊",
+            "ep_number": 661,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762299600000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362879",
+            "time_codes": [
+              984000,
+              1744000,
+              2625000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000662M001",
+            "title": "",
+            "subtitle": "第662集 暑假市場特熱鬧 奢華米粉湯vs.早市雞排妹 瞄準年輕人口袋",
+            "ep_number": 662,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762302900000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362880",
+            "time_codes": [
+              1139000,
+              1858000,
+              2349000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000663M001",
+            "title": "",
+            "subtitle": "第663集 暑假吃美食哪裡找 東港+鹿港 胃裡大船入港",
+            "ep_number": 663,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762306200000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362881",
+            "time_codes": [
+              1122000,
+              1876000,
+              2397000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000664M001",
+            "title": "",
+            "subtitle": "第664集 麵食控照過來 中卷麵線PK飛天龍蝦麵 你選誰？",
+            "ep_number": 664,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762309500000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362882",
+            "time_codes": [
+              918000,
+              1927000,
+              2354000
+            ],
+            "timecode_duration": [],
+            "length": 2967000,
+            "asset_id": "vod11030-000665M001",
+            "title": "",
+            "subtitle": "第665集 最好吃的蔥餅在哪？第二名笑第一名還沒出生！",
+            "ep_number": 665,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762312800000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362883",
+            "time_codes": [
+              1083000,
+              1910000,
+              2546000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000666M001",
+            "title": "",
+            "subtitle": "第666集 阿里山森林鐵路全線通 蔡依臻開箱超美檜木車廂",
+            "ep_number": 666,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762316100000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362884",
+            "time_codes": [
+              1184000,
+              2038000,
+              2519000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000667M001",
+            "title": "",
+            "subtitle": "第667集 超值舒肥牛vs.必比登鴨飯 南北美食大PK",
+            "ep_number": 667,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762319400000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362885",
+            "time_codes": [
+              825000,
+              1812000,
+              2369000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000668M001",
+            "title": "",
+            "subtitle": "第668集 平價美食比拚 市場牛排王PK蔥油餅后 你選誰？",
+            "ep_number": 668,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762322700000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362886",
+            "time_codes": [
+              983000,
+              1747000,
+              2495000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000669M001",
+            "title": "",
+            "subtitle": "第669集 你有多久沒來台東？滿滿驚喜原味一次報你知",
+            "ep_number": 669,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762326000000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362887",
+            "time_codes": [
+              1199000,
+              1835000,
+              2369000
+            ],
+            "timecode_duration": [],
+            "length": 2968000,
+            "asset_id": "vod11030-000670M001",
+            "title": "",
+            "subtitle": "第670集 哪家牛肉麵這麼牛？開門4小時完售 想吃得排2小時！",
+            "ep_number": 670,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762329300000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362888",
+            "time_codes": [
+              818000,
+              1535000,
+              1965000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000671M001",
+            "title": "",
+            "subtitle": "第671集 氣溫涼涼 火鍋超HOT 排隊羊肉湯vs.餃子館牛肉鍋 你投哪一票？",
+            "ep_number": 671,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762332600000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362889",
+            "time_codes": [
+              816000,
+              1622000,
+              2564000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000672M001",
+            "title": "",
+            "subtitle": "第672集 寒流一波一波 燒滾滾火鍋+好料約吃起來！",
+            "ep_number": 672,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762335900000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362890",
+            "time_codes": [
+              880000,
+              1481000,
+              2180000
+            ],
+            "timecode_duration": [],
+            "length": 2969000,
+            "asset_id": "vod11030-000673M001",
+            "title": "",
+            "subtitle": "第673集 年味這裡最足 鬆糕PK花生糖 你選哪一樣",
+            "ep_number": 673,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762339200000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362891",
+            "time_codes": [
+              878000,
+              1909000,
+              2641000
+            ],
+            "timecode_duration": [],
+            "length": 2985000,
+            "asset_id": "vod11030-000674M001",
+            "title": "",
+            "subtitle": "第674集 香港走古蹟.逛藝展.吃美食 跟著蔡依臻來趟深度city walk",
+            "ep_number": 674,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762342500000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362892",
+            "time_codes": [
+              851000,
+              1950000,
+              2443000
+            ],
+            "timecode_duration": [],
+            "length": 2955000,
+            "asset_id": "vod11030-000675M001",
+            "title": "",
+            "subtitle": "第675集 薑母鴨霸王vs.沸騰鮮魚湯 愈冷愈熱好滋味",
+            "ep_number": 675,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762345800000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362893",
+            "time_codes": [
+              879000,
+              1592000,
+              2124000
+            ],
+            "timecode_duration": [],
+            "length": 2960000,
+            "asset_id": "vod11030-000676M001",
+            "title": "",
+            "subtitle": "第676集 鹹油條早餐始祖+夜市地瓜球王 從早吃到晚一次給你",
+            "ep_number": 676,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762349100000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362894",
+            "time_codes": [
+              848000,
+              1678000,
+              2512000
+            ],
+            "timecode_duration": [],
+            "length": 2938000,
+            "asset_id": "vod11030-000677M001",
+            "title": "",
+            "subtitle": "第677集 快湊一湊銅板 周末美食吃透透",
+            "ep_number": 677,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762352400000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362895",
+            "time_codes": [
+              889000,
+              1734000,
+              2600000
+            ],
+            "timecode_duration": [],
+            "length": 2939000,
+            "asset_id": "vod11030-000678M001",
+            "title": "",
+            "subtitle": "第678集 天冷湯很熱! 台北鮮魚湯PK台南鴨肉麵 你投哪一票？",
+            "ep_number": 678,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762355400000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          },
+          {
+            "content_id": "VOD00362896",
+            "time_codes": [
+              817000,
+              1646000,
+              2523000
+            ],
+            "timecode_duration": [],
+            "length": 2970000,
+            "asset_id": "vod11030-000679M001",
+            "title": "",
+            "subtitle": "第679集 周末逛夜市 三角骨+蔥仔條 美味小吃停不下來",
+            "ep_number": 679,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762358400000,
+            "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+          }
+        ],
+        "total_length": 284710000,
+        "focus_index": 64,
+        "next_index": 65,
+        "time": 1710363,
+        "focus_program": {
+          "content_id": "VOD00346464",
+          "time_codes": [
+            1057000,
+            1906000,
+            2579000
+          ],
+          "timecode_duration": [],
+          "length": 2967000,
+          "asset_id": "vod11030-000648M001",
+          "title": "",
+          "subtitle": "第648集 吹毛求疵求食安 便當王 蔬食包王認真不嫌累",
+          "ep_number": 648,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762256700000,
+          "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜藝",
+          "EngName": "Entertainment",
+          "MenuOrder": 8
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3555_ofiii235_mobile_20241202.png",
+      "description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

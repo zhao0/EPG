@@ -1,0 +1,426 @@
+{
+  "pageProps": {
+    "contentId": "ofiii121",
+    "channel": {
+      "title": "我的差評女友",
+      "no": 121,
+      "charge_mode": "F",
+      "content_id": "ofiii121",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        4
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3781_ofiii121_tv_20250626.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "世詮_2倍",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6715",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1750908973.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 1,
+      "vod_channel_schedule": {
+        "channel_id": 121,
+        "cdn_code": "ofiii121",
+        "start_time": 1762139833000,
+        "programs": [
+          {
+            "content_id": "VOD00359268",
+            "time_codes": [
+              676000,
+              1402000
+            ],
+            "timecode_duration": [],
+            "length": 2330000,
+            "asset_id": "vod76898-000001M001",
+            "title": "",
+            "subtitle": "第1集",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751281800000,
+            "vod_channel_description": "易然為照顧奶奶，靠打工維生，生活雖苦卻不願低頭。情人節當天，她失業又甩掉劈腿男友，閨蜜送她泉海酒店房卡當生日禮物。酒店經理肖穆丞正為維持「零差評」奮戰，意外與喝醉的易然共處一室。退房時，易然因額外費用不滿，遭員工冷嘲熱諷，憤而給酒店差評，意外掀起網路熱議，也引起競爭對手鉑燦酒店行銷經理另亦姝的關注。"
+          },
+          {
+            "content_id": "VOD00359269",
+            "time_codes": [
+              694000,
+              1489000
+            ],
+            "timecode_duration": [],
+            "length": 2335000,
+            "asset_id": "vod76898-000002M001",
+            "title": "",
+            "subtitle": "第2集",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751284200000,
+            "vod_channel_description": "易然的差評打破泉海「零差評」紀錄，影響五星級評選，另亦姝更趁機煽風點火。肖穆丞為解決問題，試圖聯繫易然，卻屢次誤會加深。深夜，他以慶生為名拜訪，發現易然因失業與奶奶住院費焦頭爛額，遂提議她當酒店試睡員，記錄入住體驗。為生活所迫，易然以高薪答應，並發揮「差評技能」，成功延長試睡時間。"
+          },
+          {
+            "content_id": "VOD00359270",
+            "time_codes": [
+              776000,
+              1426000
+            ],
+            "timecode_duration": [],
+            "length": 2057000,
+            "asset_id": "vod76898-000003M001",
+            "title": "",
+            "subtitle": "第3集",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751286600000,
+            "vod_channel_description": "試睡首日，易然正式上崗，肖穆丞卻為維護紀律開除前台顧辛蒂，易然出面幫忙求情。為爭取 TY 集團合作，肖穆丞與繼承人林佑嘉交涉，林卻與另亦姝誤會不斷。音樂會後，易然帶肖穆丞吃大排檔，兩人難得心平氣和地交流。易然的「差評哲學」讓肖穆丞動容，他開始理解她對世界的期待與失望。當晚，易然與兒時玩伴林佑嘉錯過重逢。"
+          },
+          {
+            "content_id": "VOD00359271",
+            "time_codes": [
+              767000,
+              1396000
+            ],
+            "timecode_duration": [],
+            "length": 2202000,
+            "asset_id": "vod76898-000004M001",
+            "title": "",
+            "subtitle": "第4集",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751289000000,
+            "vod_channel_description": "泉海與鉑燦為爭取 TY 合作競爭激烈，林佑嘉入住泉海，引發員工熱議。易然誤會他的禮物來自肖穆丞，與後者因客訴問題爭執不休。然而，她在與崔爺爺的對話中發現肖穆丞的溫暖一面，主動道歉，卻與他被困庫房一夜。胃痛發作時，肖穆丞貼心照顧，讓兩人關係微妙變化。翌日，酒店傳出八卦，誤會頻生，甚至傳出肖穆丞已婚生子，讓易然震驚不已。"
+          },
+          {
+            "content_id": "VOD00359272",
+            "time_codes": [
+              661000,
+              1394000
+            ],
+            "timecode_duration": [],
+            "length": 1850000,
+            "asset_id": "vod76898-000005M001",
+            "title": "",
+            "subtitle": "第5集",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751291400000,
+            "vod_channel_description": "另亦姝與林佑嘉誤會加深，易然求職受挫，與林佑嘉在酒店重逢，得知禮物真相，卻對他的示好不為所動。單身酒會上，她遭女客刁難，肖穆丞出面護航，卻暴露睡眠障礙與黑眼圈。顧辛蒂誤導肖穆丞，讓他以為易然假借酒店名義收取小費，兩人大吵，協議撕毀，易然離開泉海。失魂落魄間險遇車禍，被林佑嘉救下，這一幕被肖穆丞看在眼裡。"
+          },
+          {
+            "content_id": "VOD00359273",
+            "time_codes": [
+              683000,
+              1478000
+            ],
+            "timecode_duration": [],
+            "length": 2116000,
+            "asset_id": "vod76898-000006M001",
+            "title": "",
+            "subtitle": "第6集",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751293500000,
+            "vod_channel_description": "失去試睡員工作，易然夢想破碎，只能在咖啡廳打工。林佑嘉提議讓她回泉海，卻遭肖穆丞拒絕。當肖穆丞發現易然只是無私幫助客人，滿懷愧疚，默默補償她。當她遭老闆騷擾時，他更出手相助，誠邀她回泉海，卻被拒絕。為彌補過錯，他舉著「道歉速寫本」追趕公交，終於讓易然動搖，回到泉海工作。"
+          },
+          {
+            "content_id": "VOD00359274",
+            "time_codes": [
+              648000,
+              1396000,
+              2113000
+            ],
+            "timecode_duration": [],
+            "length": 2628000,
+            "asset_id": "vod76898-000007M001",
+            "title": "",
+            "subtitle": "第7集",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751295900000,
+            "vod_channel_description": "易然入職泉海，接受嚴格培訓。為幫助她，肖穆丞特設書桌督促學習。她用機智解決難纏客人，與顧辛蒂和解，卻讓肖穆丞又醋又怒。她靠「三句話英語」成功接待外籍客人，興奮不已。肖穆丞測試她的夜床服務能力，易然卻誤會其中潛規則，決心將計就計，揭露行業黑幕。"
+          },
+          {
+            "content_id": "VOD00359275",
+            "time_codes": [
+              690000,
+              1426000
+            ],
+            "timecode_duration": [],
+            "length": 2328000,
+            "asset_id": "vod76898-000008M001",
+            "title": "",
+            "subtitle": "第8集",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751298600000,
+            "vod_channel_description": "易然誤解夜床服務含義，怒揍肖穆丞，遭其懲罰背誦規章制度。無意間，她得知泉海酒店是肖穆丞家族產業。鉑燦提前舉辦活動與泉海競爭，肖穆丞派易然參與，自己也親自前往。遊戲環節中，四人暗自較勁，飯桌上，肖穆丞與林佑嘉為易然針鋒相對。易然帶肖穆丞搭公交，卻雙雙睡過站，最終靠人力三輪車回酒店。"
+          },
+          {
+            "content_id": "VOD00359276",
+            "time_codes": [
+              748000,
+              1487000
+            ],
+            "timecode_duration": [],
+            "length": 2192000,
+            "asset_id": "vod76898-000009M001",
+            "title": "",
+            "subtitle": "第9集",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751301000000,
+            "vod_channel_description": "受林佑嘉邀約，易然在餐廳巧遇泉海外籍客人受欺負，機智助客人討回公道，還意外促成合作，讓肖穆丞醋意爆發。泉海酒店傳出靈異事件，兩人夜探真相，發現只是被辭退的保安偷偷借住倉庫。林佑嘉精心策劃表白，卻被肖穆丞強行打斷，最終只得將告白當作「練手」。另亦姝誤會肖穆丞對她有意，憤然離開。易然則因請小女孩吃芒果慕斯，引發過敏風波。"
+          },
+          {
+            "content_id": "VOD00359277",
+            "time_codes": [
+              676000,
+              1411000
+            ],
+            "timecode_duration": [],
+            "length": 2384000,
+            "asset_id": "vod76898-000010M001",
+            "title": "",
+            "subtitle": "第10集",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751303400000,
+            "vod_channel_description": "小女孩過敏事件讓易然遭停職。肖穆丞調查後，發現真相另有內幕。易然夜探醫院，得知小女孩故意過敏，只為媽媽關心自己，最終，小女孩母親反思過錯，另亦姝的陰謀曝光。肖穆丞開始動搖自己對規則的堅持，而易然也理解了制度的重要性。然而，養老院突傳噩耗，奶奶走失，兩人焦急尋找，終於在舊餐館門口找到她。"
+          },
+          {
+            "content_id": "VOD00359278",
+            "time_codes": [
+              739000,
+              1395000
+            ],
+            "timecode_duration": [],
+            "length": 2274000,
+            "asset_id": "vod76898-000011M001",
+            "title": "",
+            "subtitle": "第11集",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751306100000,
+            "vod_channel_description": "在電梯裡，肖穆丞主動吻了易然，卻因易然酒後失憶而誤以為她對自己無意，兩人陷入猜忌。林佑嘉失意買醉，意外與另亦姝達成同盟。林佑嘉的朋友圈照片引發員工誤會，甚至準備為易然辦“失戀追悼會”，讓她哭笑不得。占星師貝拉拉入住泉海，對肖穆丞產生特別關注。餐廳裡，四人同桌互相試探，醋意橫生。而當貝拉拉趁機抱住肖穆丞時，憤怒的易然一腳將她踹飛。"
+          },
+          {
+            "content_id": "VOD00359279",
+            "time_codes": [
+              756000,
+              1404000
+            ],
+            "timecode_duration": [],
+            "length": 2449000,
+            "asset_id": "vod76898-000012M001",
+            "title": "",
+            "subtitle": "第12集",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751308500000,
+            "vod_channel_description": "陳默設局讓易然送文件到肖穆丞家，她不慎睡著，醒來發現肖穆丞已準備好晚餐，飯桌上兩人互表心意深情相吻。另亦姝為談合約被灌酒，林佑嘉出手相助，兩人微醺間情愫悄然發酵。泉海內，肖穆丞的父親突然現身，強硬要求他與另亦姝復合。另亦姝為試探心意竟想強吻肖穆丞，卻被易然撞見。易然與肖博瀚因抽菸問題發生衝突，肖穆丞趕到，果斷拒絕父親開除易然的要求。"
+          },
+          {
+            "content_id": "VOD00359280",
+            "time_codes": [
+              667000,
+              1398000
+            ],
+            "timecode_duration": [],
+            "length": 2426000,
+            "asset_id": "vod76898-000013M001",
+            "title": "",
+            "subtitle": "第13集",
+            "ep_number": 13,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751311200000,
+            "vod_channel_description": "易然誤以為肖穆丞與客人爭執，出面調停，卻激怒了肖博瀚，父子間矛盾加劇。易然母親帶新家庭入住泉海，試圖修復關係，卻遭易然拒絕。醉酒後，易然向潘一一傾訴過往傷痛，肖穆丞則帶她打拳發洩。嬌嬌刁難易然，惹怒易母，最終母女二人坐下對話，易母道歉並希望易然回家，但易然選擇留下。"
+          },
+          {
+            "content_id": "VOD00359281",
+            "time_codes": [
+              718000,
+              1482000
+            ],
+            "timecode_duration": [],
+            "length": 2480000,
+            "asset_id": "vod76898-000014M001",
+            "title": "",
+            "subtitle": "第14集",
+            "ep_number": 14,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751313900000,
+            "vod_channel_description": "易母離開前留下信件，讀信後的易然淚流滿面。她來到天台透氣，將母親給的銀行卡丟棄。得知貝拉拉是因前男友心結未解才入住酒店，易然請肖穆丞幫忙尋人。潘一一參加主播面試失敗，在夢想與現實間掙扎，突然暈倒。肖穆丞找到貝拉拉的前男友，發現對方當年因病選擇離開，如今兩人重逢，深情相擁。"
+          },
+          {
+            "content_id": "VOD00359282",
+            "time_codes": [
+              659000,
+              1412000
+            ],
+            "timecode_duration": [],
+            "length": 2291000,
+            "asset_id": "vod76898-000015M001",
+            "title": "",
+            "subtitle": "第15集",
+            "ep_number": 15,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751316600000,
+            "vod_channel_description": "四人出遊，因突降暴雨而失散，易然與肖穆丞誤打誤撞掛上愛心鎖。回到別墅後，另亦姝要求易然“讓出”肖穆丞，立刻遭到拒絕。泉海內，過氣女星高煦因助理誤會客人偷拍而與人發生爭執。林佑嘉帶易然去看望奶奶，意外得知肖穆丞常來幫奶奶按摩。肖博瀚約易然看畫展，想讓她認清自己與肖穆丞的差距。"
+          },
+          {
+            "content_id": "VOD00359283",
+            "time_codes": [
+              721000,
+              1403000
+            ],
+            "timecode_duration": [],
+            "length": 2129000,
+            "asset_id": "vod76898-000016M001",
+            "title": "",
+            "subtitle": "第16集",
+            "ep_number": 16,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751319000000,
+            "vod_channel_description": "發佈會上，狂熱粉絲衝上舞台，混亂中肖穆丞被砸傷。擔憂的易然趕往醫院，卻因認錯人鬧出烏龍，易然發現高煦助理私下交易，揭露粉絲騷亂是高煦自導自演。出院後，易然與肖穆丞的親密舉動被另亦姝撞見。潘一一最後一次直播，為粉絲獻唱，最終將心愛的吉他送給易然，兩人不捨相擁。"
+          },
+          {
+            "content_id": "VOD00359284",
+            "time_codes": [
+              736000,
+              1497000
+            ],
+            "timecode_duration": [],
+            "length": 2568000,
+            "asset_id": "vod76898-000017M001",
+            "title": "",
+            "subtitle": "第17集",
+            "ep_number": 17,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751321400000,
+            "vod_channel_description": "潘一一準備離開時，意外發現自己直播走紅，燃起希望。另亦姝向肖穆丞坦言已放下過去，決定重新開始。泉海遭遇惡意投訴，輿論風暴來襲，肖穆丞調查發現與TY集團有關。怒火中燒的他質問林佑嘉，卻發現幕後黑手是TY董事長林旭東授意。泉海業績受影響，肖穆丞苦惱之際，易然的建議讓他眼前一亮。"
+          },
+          {
+            "content_id": "VOD00359285",
+            "time_codes": [
+              752000,
+              1500000,
+              2146000
+            ],
+            "timecode_duration": [],
+            "length": 2895000,
+            "asset_id": "vod76898-000018M001",
+            "title": "",
+            "subtitle": "第18集",
+            "ep_number": 18,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751324100000,
+            "vod_channel_description": "面試失敗後易然遇見肖穆丞，肖穆丞酒後表明，保住泉海是為了與母親的回憶，易然深受觸動，兩人擁吻。泉海危機加劇，肖穆丞接受易然提議，推出全新經營模式，與另亦姝、林佑嘉聯手扭轉輿論。三個月後，營收仍未達標，肖博瀚的老友舉辦金婚宴，觸動了他對亡妻的回憶。宴會結束，易然突然主動找到肖博瀚。"
+          },
+          {
+            "content_id": "VOD00359286",
+            "time_codes": [
+              719000,
+              1480000
+            ],
+            "timecode_duration": [],
+            "length": 2238000,
+            "asset_id": "vod76898-000019M001",
+            "title": "",
+            "subtitle": "第19集",
+            "ep_number": 19,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751327100000,
+            "vod_channel_description": "股東大會上，肖穆丞力爭保住泉海。肖博瀚出手否決TY收購案，令林旭東暴怒，內奸徐航身份曝光。慶祝成功的四人相聚暢飲。肖博瀚為兒子親手煮麵，坦言自己改變決定的原因——易然的努力。飯後，他卻突然昏倒，與同樣被氣倒的林旭東在醫院狹路相逢。聖誕夜，易然則答應肖博瀚出國深造，兩人含淚告別。"
+          },
+          {
+            "content_id": "VOD00359287",
+            "time_codes": [
+              791000,
+              1413000
+            ],
+            "timecode_duration": [],
+            "length": 2429000,
+            "asset_id": "vod76898-000020M001",
+            "title": "",
+            "subtitle": "第20集",
+            "ep_number": 20,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751329500000,
+            "vod_channel_description": "易然與肖穆丞回到民宿，回憶湧現，依依不捨。另亦姝與林佑嘉在機場偶遇，決定同行旅行。肖穆丞悄悄變裝成司機，親自送她離開。一年後，肖穆丞意外發現新任市場總監竟是她。聖誕夜，易然化身聖誕老人，遞上紀念兩人點滴的禮物盒，隨後單膝下跪向肖穆丞求婚，在眾人見證下，兩人深情擁吻。"
+          }
+        ],
+        "total_length": 46601000,
+        "focus_index": 1,
+        "next_index": 2,
+        "time": 1972768,
+        "focus_program": {
+          "content_id": "VOD00359269",
+          "time_codes": [
+            694000,
+            1489000
+          ],
+          "timecode_duration": [],
+          "length": 2335000,
+          "asset_id": "vod76898-000002M001",
+          "title": "",
+          "subtitle": "第2集",
+          "ep_number": 2,
+          "rating": 1,
+          "content_type": "drama",
+          "p_start": 1751284200000,
+          "vod_channel_description": "易然的差評打破泉海「零差評」紀錄，影響五星級評選，另亦姝更趁機煽風點火。肖穆丞為解決問題，試圖聯繫易然，卻屢次誤會加深。深夜，他以慶生為名拜訪，發現易然因失業與奶奶住院費焦頭爛額，遂提議她當酒店試睡員，記錄入住體驗。為生活所迫，易然以高薪答應，並發揮「差評技能」，成功延長試睡時間。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "戲劇",
+          "EngName": "Drama",
+          "MenuOrder": 7
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3599_ofiii121_mobile_20250103.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

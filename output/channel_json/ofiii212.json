@@ -1,0 +1,352 @@
+{
+  "pageProps": {
+    "contentId": "ofiii212",
+    "channel": {
+      "title": "新聞觀測站",
+      "no": 212,
+      "charge_mode": "F",
+      "content_id": "ofiii212",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        5
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3885_ofiii212_tv_20250924.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "民視",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6819",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1758696677.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 1,
+      "vod_channel_schedule": {
+        "channel_id": 212,
+        "cdn_code": "ofiii212",
+        "start_time": 1762163700000,
+        "programs": [
+          {
+            "content_id": "VOD00370942",
+            "time_codes": [
+              1166000,
+              1636000
+            ],
+            "timecode_duration": [],
+            "length": 2240000,
+            "asset_id": "vod79239-000001M001",
+            "title": "",
+            "subtitle": "首部台海戰爭劇！武統預言？港日台跨國合演",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762163700000,
+            "vod_channel_description": "首部台海戰爭劇《零日攻擊》以類似《黑鏡》的詩選劇集形式，聚集10位金獎導演，拍出震懾人心的武統預言！遭中共封殺的港星杜汶澤、日劇男神高橋一生與女星水川麻美等港日台演員共襄盛舉！解放軍有哪些攻台策略？滲透手法有多縝密，多意想不到？"
+          },
+          {
+            "content_id": "VOD00370943",
+            "time_codes": [
+              1016000,
+              1663000
+            ],
+            "timecode_duration": [],
+            "length": 2239000,
+            "asset_id": "vod79239-000002M001",
+            "title": "",
+            "subtitle": "末日預言失敗！強震湧動？地震專家郭鎧紋專訪",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762166100000,
+            "vod_channel_description": "7/5末日預言沒成真，但從6/21起鹿兒島外海開始頻繁地震，若引發海嘯，海嘯波會衝擊到台灣嗎？前氣象局地震測報中心主任郭鎧紋擔任地震中心主任20年，歷經兩大地震，獨家揭露最新消息，緯度和地震強度有關？台灣和日本最大差別是？"
+          },
+          {
+            "content_id": "VOD00370944",
+            "time_codes": [
+              1126000,
+              1622000
+            ],
+            "timecode_duration": [],
+            "length": 2264000,
+            "asset_id": "vod79239-000003M001",
+            "title": "",
+            "subtitle": "歡慶原民日！微歧視？原民會主委曾智勇專訪",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762168500000,
+            "vod_channel_description": "8/1原民日核定十週年，全台各地活動登場！這個日子凝聚許多原民辛酸血淚，多年來爭取正名、平權的路上，遭遇許多忽視與歧視，甚至日前還發生職棒球員遭謾罵事件，可見原民教育還有進步空間。本集邀原民會主委曾智勇暢談如何落實原住民族的平權。"
+          },
+          {
+            "content_id": "VOD00370945",
+            "time_codes": [
+              1296000,
+              1991000
+            ],
+            "timecode_duration": [],
+            "length": 2883000,
+            "asset_id": "vod79239-000004M001",
+            "title": "",
+            "subtitle": "解密外交官！ 川普關稅開獎！ 李大維專訪",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762170900000,
+            "vod_channel_description": "關稅期限到，台美談判結果揭曉！資深外交官李大維駐美40多年，深知美國政局，剖析川普背後心態。從駐美代表當到外交部長、總統府秘書長，李大維橫跨藍綠4位總統拚外交，怎麼做到？作為蔡英文執政時期左右手，李大維的新書將揭露許多外交內幕。"
+          },
+          {
+            "content_id": "VOD00370946",
+            "time_codes": [
+              1150000,
+              1831000
+            ],
+            "timecode_duration": [],
+            "length": 2261000,
+            "asset_id": "vod79239-000005M001",
+            "title": "",
+            "subtitle": "就服法衝擊！減班領補助？勞動部長洪申翰專訪",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762173900000,
+            "vod_channel_description": "立院修訂就業服務法，八月新制上路，影響外籍看護與引進移工的問題。此外擴大職災停工範圍、勞工減班減薪、違法暑期工讀等問題，也都將因新就服法而受到衝擊，本集邀請社運出身的「最窮部長」洪申翰，請他暢談勞動部該如何制訂因應措施。"
+          },
+          {
+            "content_id": "VOD00370947",
+            "time_codes": [
+              990000,
+              1653000
+            ],
+            "timecode_duration": [],
+            "length": 2279000,
+            "asset_id": "vod79239-000006M001",
+            "title": "",
+            "subtitle": "文化世博！韓流變台流？文化部長李遠專訪",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762176300000,
+            "vod_channel_description": "We Taiwan登陸大阪，引爆文化世博熱潮！8/2到8/20，一連串活動精彩數不完！吉祥物a-We萌翻天，設計心思你看出來了嗎？零日攻擊、大支新歌挨批政治操作，文化部長李遠親上火線，直說「怎麼可能，剛好相反」？"
+          },
+          {
+            "content_id": "VOD00370948",
+            "time_codes": [
+              1025000,
+              1698000
+            ],
+            "timecode_duration": [],
+            "length": 2294000,
+            "asset_id": "vod79239-000007M001",
+            "title": "",
+            "subtitle": "前副總統父女跨界談心 陳建仁.陳怡如專訪",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762178700000,
+            "vod_channel_description": "前副總統陳建仁這次帶大女兒一起上節目暢聊，父親的身分和平常的樣子有何不同？女兒如何看待忙於國事的父親？作為副元首、流行病學家、和最溫暖的「大仁哥」，他一肩扛起最爭議的法案，用耐心和誠意打動人心。巨大壓力背後的真實心聲是什麼？如何排解？"
+          },
+          {
+            "content_id": "VOD00370949",
+            "time_codes": [
+              969000,
+              1608000
+            ],
+            "timecode_duration": [],
+            "length": 2270000,
+            "asset_id": "vod79239-000008M001",
+            "title": "",
+            "subtitle": "新科技打造綠電未來！工研院院長劉文雄專訪",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762181100000,
+            "vod_channel_description": "針對時事或特殊事件邀請來賓進行深度探討，或專訪各領域傑出人士。"
+          },
+          {
+            "content_id": "VOD00370950",
+            "time_codes": [
+              1168000,
+              1671000
+            ],
+            "timecode_duration": [],
+            "length": 2252000,
+            "asset_id": "vod79239-000009M001",
+            "title": "",
+            "subtitle": "奈良美智展幕後推手！文總秘書長李厚慶專訪",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762183500000,
+            "vod_channel_description": "針對時事或特殊事件邀請來賓進行深度探討，或專訪各領域傑出人士。"
+          },
+          {
+            "content_id": "VOD00370951",
+            "time_codes": [
+              752000,
+              1276000
+            ],
+            "timecode_duration": [],
+            "length": 2275000,
+            "asset_id": "vod79239-000010M001",
+            "title": "",
+            "subtitle": "海鯤號進度？ 無人艇正夯！ 台船董事長陳政宏專訪",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762185900000,
+            "vod_channel_description": "台船新董座陳政宏親上火線說明海鯤號最新進度！台灣首度打造潛艦，難度遠超戰鬥機，結構有多複雜？造船博士陳政宏用多年專業解釋造船技術，造船、海測有多少玄機？台船打造的無人艇也是應對「不對稱戰力」的重要一環？功能超越大家想像？"
+          },
+          {
+            "content_id": "VOD00375618",
+            "time_codes": [
+              1173000,
+              1723000
+            ],
+            "timecode_duration": [],
+            "length": 2242000,
+            "asset_id": "vod79239-000011M001",
+            "title": "",
+            "subtitle": "高市長前哨戰！打造AI智慧城！立委許智傑專訪",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762188300000,
+            "vod_channel_description": "針對時事或特殊事件邀請來賓進行深度探討，或專訪各領域傑出人士。"
+          },
+          {
+            "content_id": "VOD00375619",
+            "time_codes": [
+              1184000,
+              1651000
+            ],
+            "timecode_duration": [],
+            "length": 2272000,
+            "asset_id": "vod79239-000012M001",
+            "title": "",
+            "subtitle": "「國民女婿」新上任！疾管署署長羅一鈞專訪",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762190700000,
+            "vod_channel_description": "針對時事或特殊事件邀請來賓進行深度探討，或專訪各領域傑出人士。"
+          },
+          {
+            "content_id": "VOD00375620",
+            "time_codes": [
+              1046000,
+              1640000
+            ],
+            "timecode_duration": [],
+            "length": 2242000,
+            "asset_id": "vod79239-000013M001",
+            "title": "",
+            "subtitle": "全運會倒數！城市轉型！雲林縣長張麗善專訪",
+            "ep_number": 13,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762193100000,
+            "vod_channel_description": "2025全運會10/18～23在雲林登場！雲林新落成國際級田徑場、溜冰場有多強？各縣市好手齊聚，各方美食攤商集結，藉此盛會行銷在地文化！吉祥物雲寶弟、雲寶妹化身獎座？獎座雕花滿滿雲林元素，多位地方職人一手打造，充滿巧思！"
+          },
+          {
+            "content_id": "VOD00375621",
+            "time_codes": [
+              939000,
+              1662000
+            ],
+            "timecode_duration": [],
+            "length": 2260000,
+            "asset_id": "vod79239-000014M001",
+            "title": "",
+            "subtitle": "姐妹攜手續命足球隊 苗博雅.苗廣雅專訪",
+            "ep_number": 14,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762195500000,
+            "vod_channel_description": "針對時事或特殊事件邀請來賓進行深度探討，或專訪各領域傑出人士。"
+          },
+          {
+            "content_id": "VOD00375622",
+            "time_codes": [
+              809000,
+              1492000
+            ],
+            "timecode_duration": [],
+            "length": 2262000,
+            "asset_id": "vod79239-000015M001",
+            "title": "",
+            "subtitle": "最強國軍發言人投身公益！退役少將羅紹和專訪",
+            "ep_number": 15,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762197900000,
+            "vod_channel_description": "針對時事或特殊事件邀請來賓進行深度探討，或專訪各領域傑出人士。"
+          },
+          {
+            "content_id": "VOD00375623",
+            "time_codes": [
+              1102000,
+              1806000
+            ],
+            "timecode_duration": [],
+            "length": 2254000,
+            "asset_id": "vod79239-000016M001",
+            "title": "",
+            "subtitle": "毒從口入？健康減糖！無毒教母譚敦慈專訪",
+            "ep_number": 16,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762200300000,
+            "vod_channel_description": "非洲豬瘟破功，全民戒備！預防性撲殺195頭豬，養豬場皮皮剉！豬肉恐陷入大缺貨？民眾擔心安全疑慮？譚敦慈現身說法「豬肉不傳人，但要煮熟吃」！無毒教母譚敦慈，丈夫俠醫林杰樑過世12年，經常在媒體上宣導食安，這次她來講最新的食安話題！"
+          }
+        ],
+        "total_length": 36789000,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 277715,
+        "focus_program": {
+          "content_id": "VOD00370942",
+          "time_codes": [
+            1166000,
+            1636000
+          ],
+          "timecode_duration": [],
+          "length": 2240000,
+          "asset_id": "vod79239-000001M001",
+          "title": "",
+          "subtitle": "首部台海戰爭劇！武統預言？港日台跨國合演",
+          "ep_number": 1,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762163700000,
+          "vod_channel_description": "首部台海戰爭劇《零日攻擊》以類似《黑鏡》的詩選劇集形式，聚集10位金獎導演，拍出震懾人心的武統預言！遭中共封殺的港星杜汶澤、日劇男神高橋一生與女星水川麻美等港日台演員共襄盛舉！解放軍有哪些攻台策略？滲透手法有多縝密，多意想不到？"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "新聞‧財經",
+          "EngName": "News & Finance",
+          "MenuOrder": 3
+        }
+      ]
+    },
+    "introduction": null,
+    "recommends": null,
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

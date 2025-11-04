@@ -1,0 +1,883 @@
+{
+  "pageProps": {
+    "contentId": "ofiii180",
+    "channel": {
+      "title": "史上最強弟子兼一(中文版)",
+      "no": 180,
+      "charge_mode": "F",
+      "content_id": "ofiii180",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        109
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWCHILDOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3479_ofiii180_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "木棉花",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6413",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1727676764.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 180,
+        "cdn_code": "ofiii180",
+        "start_time": 1762180500000,
+        "programs": [
+          {
+            "content_id": "VOD00023464",
+            "time_codes": [
+              721000
+            ],
+            "timecode_duration": [],
+            "length": 1483000,
+            "asset_id": "vod8898-000001M001",
+            "title": "",
+            "subtitle": "第1集 梁山泊！豪傑齊聚的場所",
+            "ep_number": 1,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762180500000,
+            "vod_channel_description": "《史上最強弟子兼一》動漫線上看。個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023465",
+            "time_codes": [
+              833000
+            ],
+            "timecode_duration": [],
+            "length": 1483000,
+            "asset_id": "vod8898-000002M001",
+            "title": "",
+            "subtitle": "第2集 邁向下一步！戰鬥的開端",
+            "ep_number": 2,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762182300000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023466",
+            "time_codes": [
+              743000
+            ],
+            "timecode_duration": [],
+            "length": 1483000,
+            "asset_id": "vod8898-000003M001",
+            "title": "",
+            "subtitle": "第3集 力量與勇氣！為貫徹正義而用吧",
+            "ep_number": 3,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762184100000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023467",
+            "time_codes": [
+              776000
+            ],
+            "timecode_duration": [],
+            "length": 1483000,
+            "asset_id": "vod8898-000004M001",
+            "title": "",
+            "subtitle": "第4集 打架地獄！肯做與不肯做！",
+            "ep_number": 4,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762185900000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023468",
+            "time_codes": [
+              777000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000005M001",
+            "title": "",
+            "subtitle": "第5集 約會？決定清楚吧！",
+            "ep_number": 5,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762187700000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023469",
+            "time_codes": [
+              735000
+            ],
+            "timecode_duration": [],
+            "length": 1483000,
+            "asset_id": "vod8898-000006M001",
+            "title": "",
+            "subtitle": "第6集 在梁山泊的一天！在屋頂上的夢",
+            "ep_number": 6,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762189500000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023470",
+            "time_codes": [
+              712000
+            ],
+            "timecode_duration": [],
+            "length": 1483000,
+            "asset_id": "vod8898-000007M001",
+            "title": "",
+            "subtitle": "第7集 熱鬥園藝社！敗部復活戰",
+            "ep_number": 7,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762191300000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023471",
+            "time_codes": [
+              588000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000008M001",
+            "title": "",
+            "subtitle": "第8集 驚人的肉體！神秘的師傅們",
+            "ep_number": 8,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762193100000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023472",
+            "time_codes": [
+              751000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000009M001",
+            "title": "",
+            "subtitle": "第9集 阿帕帕…阿帕查的修行",
+            "ep_number": 9,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762194900000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023473",
+            "time_codes": [
+              761000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000010M001",
+            "title": "",
+            "subtitle": "第10集 奔跑吧，兼一！拳擊手的弱點",
+            "ep_number": 10,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762196700000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023474",
+            "time_codes": [
+              983000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000011M001",
+            "title": "",
+            "subtitle": "第11集 背叛之拳！武田哀傷的過去",
+            "ep_number": 11,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762198500000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023475",
+            "time_codes": [
+              747000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000012M001",
+            "title": "",
+            "subtitle": "第12集 新敵人！辻新之助",
+            "ep_number": 12,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762200300000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023476",
+            "time_codes": [
+              809000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000013M001",
+            "title": "",
+            "subtitle": "第13集 打架殺法，實戰的鐵則",
+            "ep_number": 13,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762202100000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023477",
+            "time_codes": [
+              720000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000014M001",
+            "title": "",
+            "subtitle": "第14集 賭命的修行！還附帶混浴",
+            "ep_number": 14,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762203900000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023478",
+            "time_codes": [
+              830000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000015M001",
+            "title": "",
+            "subtitle": "第15集 穗香潛入！這就是梁山泊哦",
+            "ep_number": 15,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762205700000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023479",
+            "time_codes": [
+              754000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000016M001",
+            "title": "",
+            "subtitle": "第16集 梁山泊最大的危機？",
+            "ep_number": 16,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762207500000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023480",
+            "time_codes": [
+              766000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000017M001",
+            "title": "",
+            "subtitle": "第17集 守住看板？踢館者來犯！",
+            "ep_number": 17,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762209300000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023481",
+            "time_codes": [
+              781000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000018M001",
+            "title": "",
+            "subtitle": "第18集 樂園？前往秘境－－風林寺島",
+            "ep_number": 18,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762211100000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023482",
+            "time_codes": [
+              736000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000019M001",
+            "title": "",
+            "subtitle": "第19集 諸神黃昏的最強者！八拳豪見參！",
+            "ep_number": 19,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762212900000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023483",
+            "time_codes": [
+              779000
+            ],
+            "timecode_duration": [],
+            "length": 1483000,
+            "asset_id": "vod8898-000020M001",
+            "title": "",
+            "subtitle": "第20集 武田的危機！報復的鐵則！",
+            "ep_number": 20,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762214700000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023488",
+            "time_codes": [
+              679000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000021M001",
+            "title": "",
+            "subtitle": "第21集 無法饒恕！兼一的怒拳！",
+            "ep_number": 21,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762216500000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023489",
+            "time_codes": [
+              742000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000022M001",
+            "title": "",
+            "subtitle": "第22集 齊聚吧，年輕人！新白連合結成！",
+            "ep_number": 22,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762218300000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023490",
+            "time_codes": [
+              867000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000023M001",
+            "title": "",
+            "subtitle": "第23集 突擊！鄰家的梁山泊！",
+            "ep_number": 23,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762220100000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023491",
+            "time_codes": [
+              733000
+            ],
+            "timecode_duration": [],
+            "length": 1483000,
+            "asset_id": "vod8898-000024M001",
+            "title": "",
+            "subtitle": "第24集 被奪走的心！美羽的茱麗葉",
+            "ep_number": 24,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762221900000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023492",
+            "time_codes": [
+              804000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000025M001",
+            "title": "",
+            "subtitle": "第25集 兼一，死守住啊！美羽的雙唇",
+            "ep_number": 25,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762223700000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023493",
+            "time_codes": [
+              804000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000026M001",
+            "title": "",
+            "subtitle": "第26集 被揭穿的假面，隱者的真面目！",
+            "ep_number": 26,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762225500000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023494",
+            "time_codes": [
+              887000
+            ],
+            "timecode_duration": [],
+            "length": 1486000,
+            "asset_id": "vod8898-000027M001",
+            "title": "",
+            "subtitle": "第27集 剛VS柔！空前絕後的兄弟吵架",
+            "ep_number": 27,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762227300000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023495",
+            "time_codes": [
+              623000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000028M001",
+            "title": "",
+            "subtitle": "第28集 衝鋒隊長參上！亂鬥餐廳",
+            "ep_number": 28,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762229100000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023496",
+            "time_codes": [
+              756000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000029M001",
+            "title": "",
+            "subtitle": "第29集 可怕的齊格！通往毀滅的前奏",
+            "ep_number": 29,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762230900000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023497",
+            "time_codes": [
+              735000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000030M001",
+            "title": "",
+            "subtitle": "第30集 鍛鍊的成果！將手小小的向前架起",
+            "ep_number": 30,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762232700000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023498",
+            "time_codes": [
+              741000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000031M001",
+            "title": "",
+            "subtitle": "第31集 穗香！要來幫忙囉！",
+            "ep_number": 31,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762234500000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023499",
+            "time_codes": [
+              762000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000032M001",
+            "title": "",
+            "subtitle": "第32集 穗香的危機！洛基的謀略",
+            "ep_number": 32,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762236300000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023500",
+            "time_codes": [
+              719000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000033M001",
+            "title": "",
+            "subtitle": "第33集 硬碰硬吧，兼一！以拳溝通吧",
+            "ep_number": 33,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762238100000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023501",
+            "time_codes": [
+              863000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000034M001",
+            "title": "",
+            "subtitle": "第34集 不可以認輸！心愛的人所留下的遺言",
+            "ep_number": 34,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762239900000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023502",
+            "time_codes": [
+              837000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000035M001",
+            "title": "",
+            "subtitle": "第35集 沒人阻礙！這正是一決勝負的時刻！",
+            "ep_number": 35,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762241700000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023503",
+            "time_codes": [
+              703000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000036M001",
+            "title": "",
+            "subtitle": "第36集 美羽vs.連華！掀起風暴的三角習題",
+            "ep_number": 36,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762243500000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023504",
+            "time_codes": [
+              849000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000037M001",
+            "title": "",
+            "subtitle": "第37集 危險的誘惑！一起來煮相撲火鍋吧！",
+            "ep_number": 37,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762245300000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023505",
+            "time_codes": [
+              748000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000038M001",
+            "title": "",
+            "subtitle": "第38集 可愛的小貓！女孩們的肉搏戰",
+            "ep_number": 38,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762247100000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023506",
+            "time_codes": [
+              665000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000039M001",
+            "title": "",
+            "subtitle": "第39集 時雨的個人教…學！",
+            "ep_number": 39,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762248900000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023507",
+            "time_codes": [
+              815000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000040M001",
+            "title": "",
+            "subtitle": "第40集 誓約之地！一切皆從此地起",
+            "ep_number": 40,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762250700000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023565",
+            "time_codes": [
+              818000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000041M001",
+            "title": "",
+            "subtitle": "第41集 制空圈的恐怖！龍自天降臨了",
+            "ep_number": 41,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762252500000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023566",
+            "time_codes": [
+              601000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000042M001",
+            "title": "",
+            "subtitle": "第42集 長老特快車！拼死的上山閉關行",
+            "ep_number": 42,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762254300000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023567",
+            "time_codes": [
+              705000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000043M001",
+            "title": "",
+            "subtitle": "第43集 心中的枷鎖 通往修羅道的引誘",
+            "ep_number": 43,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762256100000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023568",
+            "time_codes": [
+              833000
+            ],
+            "timecode_duration": [],
+            "length": 1483000,
+            "asset_id": "vod8898-000044M001",
+            "title": "",
+            "subtitle": "第44集 新白聯合崩壞 暗中逼近的狂拳",
+            "ep_number": 44,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762257900000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023569",
+            "time_codes": [
+              665000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000045M001",
+            "title": "",
+            "subtitle": "第45集 訣別的一擊！紀沙羅飛舞！",
+            "ep_number": 45,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762259700000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023584",
+            "time_codes": [
+              676000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000046M001",
+            "title": "",
+            "subtitle": "第46集 永別了新島！下定決心的出戰！",
+            "ep_number": 46,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762261500000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023585",
+            "time_codes": [
+              905000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000047M001",
+            "title": "",
+            "subtitle": "第47集 天才的弱點！努力將會凌駕才能的",
+            "ep_number": 47,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762263300000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023586",
+            "time_codes": [
+              876000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000048M001",
+            "title": "",
+            "subtitle": "第48集 頂上對決！持有傳說之槍的男人",
+            "ep_number": 48,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762265100000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023587",
+            "time_codes": [
+              706000
+            ],
+            "timecode_duration": [],
+            "length": 1484000,
+            "asset_id": "vod8898-000049M001",
+            "title": "",
+            "subtitle": "第49集 最強變身！梁山泊節奏",
+            "ep_number": 49,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762266900000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          },
+          {
+            "content_id": "VOD00023588",
+            "time_codes": [
+              703000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8898-000050M001",
+            "title": "",
+            "subtitle": "第50集 史上最強弟子 兼一！(完)",
+            "ep_number": 50,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762268700000,
+            "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+          }
+        ],
+        "total_length": 74163000,
+        "focus_index": 38,
+        "next_index": 39,
+        "time": 605095,
+        "focus_program": {
+          "content_id": "VOD00023506",
+          "time_codes": [
+            665000
+          ],
+          "timecode_duration": [],
+          "length": 1484000,
+          "asset_id": "vod8898-000039M001",
+          "title": "",
+          "subtitle": "第39集 時雨的個人教…學！",
+          "ep_number": 39,
+          "rating": 2,
+          "content_type": "comic",
+          "p_start": 1762248900000,
+          "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "動漫",
+          "EngName": "Animate",
+          "MenuOrder": 109
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_mobile_20230802.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

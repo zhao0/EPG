@@ -1,0 +1,719 @@
+{
+  "pageProps": {
+    "contentId": "ofiii185",
+    "channel": {
+      "title": "凡爾賽玫瑰《11/5即將下架》",
+      "no": 185,
+      "charge_mode": "F",
+      "content_id": "ofiii185",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        109
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWCHILDOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3723_ofiii185_tv_20250508.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "回歸線",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6657",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1746525970.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 1,
+      "vod_channel_schedule": {
+        "channel_id": 185,
+        "cdn_code": "ofiii185",
+        "start_time": 1762126200000,
+        "programs": [
+          {
+            "content_id": "VOD00357620",
+            "time_codes": [
+              755000
+            ],
+            "timecode_duration": [],
+            "length": 1460000,
+            "asset_id": "vod76547-010001M001",
+            "title": "",
+            "subtitle": "第1季第1集 奧斯卡 玫瑰的命運",
+            "ep_number": 1,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762126200000,
+            "vod_channel_description": "傑爾吉家是負責守護法國王室、指揮軍隊的將軍世家。雖然奧斯卡是女孩子，但誕生在這個渴望擁有男性繼承人的貴族世家的她，從小被當作男子培養長大。最終不負父親所願，一條成為軍人的道路向奧斯卡敞開。因為她被任命為侍衛隊長，負責護衛即將從奧地利遠嫁而來的國王孫媳婦、瑪莉・安東妮德。"
+          },
+          {
+            "content_id": "VOD00357621",
+            "time_codes": [
+              684000
+            ],
+            "timecode_duration": [],
+            "length": 1460000,
+            "asset_id": "vod76547-010002M001",
+            "title": "",
+            "subtitle": "第1季第2集 飛舞吧 奧地利的蝴蝶",
+            "ep_number": 2,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762128000000,
+            "vod_channel_description": "新年過後，安東妮德終於即將前往法國。然而，作為花嫁交接地點的萊茵河中立地帶的氣氛卻顯得異常詭譎，因此奧斯卡等人也絲毫不敢鬆懈，時刻保持著高度警戒。後來奧斯卡察覺異狀，拔劍迎戰那些試圖綁架安東妮德的賊人，最終成功奪回安東妮德，化解了這場危機。"
+          },
+          {
+            "content_id": "VOD00357622",
+            "time_codes": [
+              676000
+            ],
+            "timecode_duration": [],
+            "length": 1460000,
+            "asset_id": "vod76547-010003M001",
+            "title": "",
+            "subtitle": "第1季第3集 凡爾賽出現火花",
+            "ep_number": 3,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762129800000,
+            "vod_channel_description": "兩人的結婚典禮莊嚴又華麗，14歲的安東妮德瞬間成為凡爾賽宮殿的耀眼之花。然而，在這座宮殿中，真正掌握權勢的卻是當今國王路易十五的情婦狄巴利夫人。後來，安東妮德與狄巴利夫人之間的對立日益加深，甚至將整個宮廷的貴婦們捲入其中。"
+          },
+          {
+            "content_id": "VOD00357623",
+            "time_codes": [
+              696000
+            ],
+            "timecode_duration": [],
+            "length": 1460000,
+            "asset_id": "vod76547-010004M001",
+            "title": "",
+            "subtitle": "第1季第4集 玫瑰、酒、詭計",
+            "ep_number": 4,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762131600000,
+            "vod_channel_description": "狄巴利夫人計畫拉攏宮廷內的人氣王奧斯卡站在自己這邊，然而奧斯卡的母親卻選擇成為安東妮德的女官，這一結果讓宮廷內的人們紛紛議論著安東妮德獲得了首勝。而看著宮廷貴族們勾心鬥角，奧斯卡深感厭倦。"
+          },
+          {
+            "content_id": "VOD00357624",
+            "time_codes": [
+              750000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010005M001",
+            "title": "",
+            "subtitle": "第1季第5集 淚水中蘊含的高貴",
+            "ep_number": 5,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762133400000,
+            "vod_channel_description": "狄巴利夫人的憤怒終於動搖了國王的態度。另一方面，想讓王太子失勢的奧利恩公爵計畫藉由狩獵狐狸的機會暗殺王太子，但最終以失敗告終。後來，安東妮德在奧斯卡的忠告下，決定與狄巴利夫人和解。"
+          },
+          {
+            "content_id": "VOD00357625",
+            "time_codes": [
+              721000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010006M001",
+            "title": "",
+            "subtitle": "第1季第6集 絲綢洋裝與破衣服",
+            "ep_number": 6,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762135200000,
+            "vod_channel_description": "王太子成婚後已過三年，終於實現了安東妮德想一睹巴黎的願望。奧斯卡、安德烈與裘迪爾先行探訪這座為了歡迎王太子夫婦而沸騰的城市，卻在看到平民貧困的生活後感到心痛。在這樣的巴黎下城，瓊妮與羅莎莉姐妹為了生病的母親努力工作。"
+          },
+          {
+            "content_id": "VOD00357626",
+            "time_codes": [
+              711000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010007M001",
+            "title": "",
+            "subtitle": "第1季第7集 情書出自誰手",
+            "ep_number": 7,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762137000000,
+            "vod_channel_description": "膽怯且樸素的王太子在面對安東妮德時總是畏畏縮縮，幾乎不與她親近。感到寂寞與無聊的安東妮德，開始偷偷前往歌劇院的參加晚會。在那裡，彷彿命運一般，她與正在巴黎停留的瑞典貴族菲爾遜相遇。"
+          },
+          {
+            "content_id": "VOD00357627",
+            "time_codes": [
+              707000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010008M001",
+            "title": "",
+            "subtitle": "第1季第8集 我心中的奧斯卡",
+            "ep_number": 8,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762138800000,
+            "vod_channel_description": "安德烈雖然和奧斯卡從小一起長大，卻漸漸感覺到奧斯卡的存在離他越來越遙遠。就在安德烈依然為此消沉的時候，他引導安東妮德騎乘的馬匹失控了。雖然奧斯卡在千鈞一髮之際救下了安東妮德，但負責照看馬匹的安德烈卻因遭到追究，而被處死刑。"
+          },
+          {
+            "content_id": "VOD00357628",
+            "time_codes": [
+              681000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010009M001",
+            "title": "",
+            "subtitle": "第1季第9集 日落 日出",
+            "ep_number": 9,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762140600000,
+            "vod_channel_description": "國王路易十五染上天花，臥病不起。凡爾賽宮內一片動盪，狄巴利夫人為保住自己的地位與存在價值，突然試圖與安東妮德和解，最終卻遭到流放。國王終於駕崩，人們湧向王太子的居所祝賀——年僅十九歲的新國王誕生了。"
+          },
+          {
+            "content_id": "VOD00357629",
+            "time_codes": [
+              773000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010010M001",
+            "title": "",
+            "subtitle": "第1季第10集 美麗的惡魔瓊妮",
+            "ep_number": 10,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762142400000,
+            "vod_channel_description": "新國王加冕儀式隆重舉行，安東妮德也順勢成為了法國皇后，民眾們則對樸實的新國王滿懷著期待。於此同時，瓊妮被一位貴婦所收留，並在那位貴婦身邊，學會一位貴族所該具備的素養。某次偶然的機會下，瓊妮的妹妹羅莎莉，看到了現在的他。"
+          },
+          {
+            "content_id": "VOD00357630",
+            "time_codes": [
+              763000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010011M001",
+            "title": "",
+            "subtitle": "第1季第11集 菲爾遜歸去北國",
+            "ep_number": 11,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762144200000,
+            "vod_channel_description": "安東妮德盡情享受權力與自由，並提拔奧斯卡為侍衛連隊長。然而，她為了與菲爾遜相見，開始任性地取消活動，這種行為引起貴族的不滿，加上德肯梅涅伯爵從中煽動，局勢更加不安。"
+          },
+          {
+            "content_id": "VOD00357631",
+            "time_codes": [
+              766000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010012M001",
+            "title": "",
+            "subtitle": "第1季第12集 決鬥的早晨 奧斯卡將…?",
+            "ep_number": 12,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762146000000,
+            "vod_channel_description": "安東妮德因菲爾遜的離開而倍感寂寞，她越來越奢華與任性，讓奧斯卡擔憂民心漸漸遠離皇室。而對於視貧民如螻蟻的德肯梅涅伯爵，奧斯卡終於忍無可忍，決定與他決鬥。"
+          },
+          {
+            "content_id": "VOD00357632",
+            "time_codes": [
+              735000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010013M001",
+            "title": "",
+            "subtitle": "第1季第13集 阿拉斯的風啊 回答我",
+            "ep_number": 13,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762147800000,
+            "vod_channel_description": "因為與德肯梅涅伯爵決鬥，奧斯卡被處以一個月的禁閉處分。她與安德烈趁此期間巡視領地，卻驚愕地發現領民的生活比想像中更加悲慘。在酒館裡，奧斯卡意外遇見法學生羅伯斯比爾，並從他口中得知，人民對安東妮德與新國王的失望之情已悄然滋生。"
+          },
+          {
+            "content_id": "VOD00357633",
+            "time_codes": [
+              672000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010014M001",
+            "title": "",
+            "subtitle": "第1季第14集 天使的秘密",
+            "ep_number": 14,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762149600000,
+            "vod_channel_description": "奧斯卡因為貴族和平民之間巨大的差距而感到痛心。在宮廷中，勃利伯爵夫人巧妙地操縱安東妮德的心，讓自己享受到異常豐厚的待遇，引來其他貴族們的嫉妒。另一方面，在巴黎的庶民區，找尋工作的羅莎莉，卻收到母親被馬車撞傷的消息。"
+          },
+          {
+            "content_id": "VOD00357634",
+            "time_codes": [
+              746000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010015M001",
+            "title": "",
+            "subtitle": "第1季第15集 賭場的伯爵夫人",
+            "ep_number": 15,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762151400000,
+            "vod_channel_description": "因為未能為皇室生下繼承人，對於安東妮德的批評聲浪與日俱增。此時勃利伯爵夫人想了個陰謀，公佈了「皇后懷孕」的虛假消息。更進一步，勃利伯爵夫人巧妙地誘使心情沉重、因為說謊而煩惱的安東妮德進入賭場。"
+          },
+          {
+            "content_id": "VOD00357635",
+            "time_codes": [
+              738000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010016M001",
+            "title": "",
+            "subtitle": "第1季第16集 母親的名字是…?",
+            "ep_number": 16,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762153200000,
+            "vod_channel_description": "羅莎莉誤以為奧斯卡的母親是她的敵人，襲擊了她，結果被帶回奧斯卡的府邸。奧斯卡欲幫助羅莎莉復仇，並教授她劍術，同時讓她學會足以在宮中交際的文化修養。"
+          },
+          {
+            "content_id": "VOD00357636",
+            "time_codes": [
+              682000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010017M001",
+            "title": "",
+            "subtitle": "第1季第17集 碰巧相逢之時",
+            "ep_number": 17,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762155000000,
+            "vod_channel_description": "羅莎莉與奧斯卡一同出席了凡爾賽宮的舞會。舞會上，羅莎莉一見到勃利伯爵夫人，他的手便緊緊握住了身上藏著的劍。原來，撞死羅莎莉母親的兇手，就是勃利伯爵夫人。"
+          },
+          {
+            "content_id": "VOD00357637",
+            "time_codes": [
+              721000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010018M001",
+            "title": "",
+            "subtitle": "第1季第18集 猶如伊卡洛斯突從天降",
+            "ep_number": 18,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762156800000,
+            "vod_channel_description": "當奧斯卡等人被賊人襲擊時，救了他們的是時隔四年，重新回到法國的菲爾遜。在舞會上，安東妮德與菲爾遜重逢，無法抑制心中的激動。然而，菲爾遜卻口出驚人之語，他透露自己正在準備結婚。"
+          },
+          {
+            "content_id": "VOD00357638",
+            "time_codes": [
+              698000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010019M001",
+            "title": "",
+            "subtitle": "第1季第19集 再見了 我的妹妹",
+            "ep_number": 19,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762158600000,
+            "vod_channel_description": "勃利夫人積極推行她的11歲女兒，夏露的婚事，這讓夏露很受傷。一方面，安德烈查出羅莎莉的親生母親就是勃利夫人。羅莎莉對此愈發憎恨，最終襲擊了勃利夫人的馬車，並將槍口對準她，但卻未能扣下扳機。"
+          },
+          {
+            "content_id": "VOD00357639",
+            "time_codes": [
+              710000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010020M001",
+            "title": "",
+            "subtitle": "第1季第20集 菲爾遜惜別的圓舞曲",
+            "ep_number": 20,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762160400000,
+            "vod_channel_description": "安東妮德與菲爾遜的秘密關係已在巴黎傳開。作為他們心靈支柱的奧斯卡，也隱藏著對菲爾遜的暗戀。為了從這對傳聞中的情侶身上將人們的目光轉移，奧斯卡首次以正式服裝出席舞會，並與安東妮德共舞。"
+          },
+          {
+            "content_id": "VOD00357640",
+            "time_codes": [
+              843000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010021M001",
+            "title": "",
+            "subtitle": "第1季第21集 黑玫瑰於夜晚盛開",
+            "ep_number": 21,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762162200000,
+            "vod_channel_description": "與丈夫尼可拉斯一同成為假貴族的瓊妮，利用羅安大主教對安東妮德的愛慕心，騙取金錢，並出現在奧斯卡的度假地，企圖賄賂奧斯卡。羅莎莉私下擔心姐姐的行為，但瓊妮卻毫不在意。"
+          },
+          {
+            "content_id": "VOD00357641",
+            "time_codes": [
+              781000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010022M001",
+            "title": "",
+            "subtitle": "第1季第22集 散發不吉利光芒的項鍊",
+            "ep_number": 22,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762164000000,
+            "vod_channel_description": "一位珠寶商，帶著一條已故前國王為狄巴利訂做的豪華項鍊，來到安東妮德面前。由於項鍊本身價格過於高昂，導致沒有人願意購買，因此珠寶商是來懇求安東妮德出手買下的。然而，安東妮德卻無意購買這條項鍊，整件事也不了了之。"
+          },
+          {
+            "content_id": "VOD00357642",
+            "time_codes": [
+              610000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010023M001",
+            "title": "",
+            "subtitle": "第1季第23集 很奸詐也很強悍",
+            "ep_number": 23,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762165800000,
+            "vod_channel_description": "安大主教在不知情的情況下，成為交易這條項鍊的保證人。珠寶商則向宮廷請求支付項鍊的費用。安東妮德對此毫不知情，並要求對瓊妮、羅安大主教及珠寶商進行審判。"
+          },
+          {
+            "content_id": "VOD00357643",
+            "time_codes": [
+              680000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010024M001",
+            "title": "",
+            "subtitle": "第1季第24集 再會了 我的青春",
+            "ep_number": 24,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762167600000,
+            "vod_channel_description": "瓊妮在一名神秘男子的幫助下成功逃獄之後，與尼可拉斯一起找了地方藏身，並且開始撰寫揭露皇后同性愛情的書籍。書中的內容讓瓊妮收穫了巴黎市民們的心，卻也讓書中提及的奧斯卡受到關注，羅莎莉對此感到相當難過。"
+          },
+          {
+            "content_id": "VOD00357644",
+            "time_codes": [
+              724000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010025M001",
+            "title": "",
+            "subtitle": "第1季第25集 單戀的小步舞曲",
+            "ep_number": 25,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762169400000,
+            "vod_channel_description": "從美國服役歸來的菲爾遜，原本打算不見皇后，直接返回故鄉，但他一聽說人民對皇室及貴族的不滿情緒日益高漲後，就擔心得向安東妮德飛奔而去。雖然安東妮德已從離宮返回凡爾賽宮，但並未消弭人民的不滿。"
+          },
+          {
+            "content_id": "VOD00357645",
+            "time_codes": [
+              669000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010026M001",
+            "title": "",
+            "subtitle": "第1季第26集 我要見黑騎士",
+            "ep_number": 26,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762171200000,
+            "vod_channel_description": "專門襲擊貴族的義賊──黑騎士。奧斯卡想抓住他，但也懷疑經常在夜晚出行的安德烈或許就是黑騎士。某個舞會夜晚，黑騎士終於現身，奧斯卡追了上去，卻在奧利恩公爵的居城──巴黎皇家宮殿附近被某人攻擊，好不容易才被羅莎莉救出險境。"
+          },
+          {
+            "content_id": "VOD00357646",
+            "time_codes": [
+              729000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010027M001",
+            "title": "",
+            "subtitle": "第1季第27集 即便失去光明…",
+            "ep_number": 27,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762173000000,
+            "vod_channel_description": "就在奧斯卡即將逮到黑騎士時，安德烈的眼睛卻被黑騎士所傷，黑騎士因此成功脫身。醫生告知安德烈，他很有可能要面臨失明的結果。這件事之後，奧斯卡獨自前往了巴黎皇家宮殿，不料卻遭到算計，被人抓了起來。"
+          },
+          {
+            "content_id": "VOD00357647",
+            "time_codes": [
+              797000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010028M001",
+            "title": "",
+            "subtitle": "第1季第28集 安德烈 苦情之果",
+            "ep_number": 28,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762174800000,
+            "vod_channel_description": "安東妮德認為王太子生病是由於她的出軌所致，因此發誓不再見菲爾遜。菲爾遜認出了舞會上與他跳舞的正是奧斯卡，但奧斯卡卻決定結束對他的感情，並向他告別。另一方面，安德烈的右眼也開始視力模糊，情緒激動的他向奧斯卡吐露壓抑已久的心聲。"
+          },
+          {
+            "content_id": "VOD00357648",
+            "time_codes": [
+              779000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010029M001",
+            "title": "",
+            "subtitle": "第1季第29集 開始邁步的人偶",
+            "ep_number": 29,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762176600000,
+            "vod_channel_description": "奧斯卡為了追求更忙碌的工作，自請調任衛兵隊B部隊的隊長。雖然他對安德烈表示不用再隨侍自己，但安德烈認為能保護奧斯卡的只有自己，所以靠著自己的意志加入了衛兵隊。但是，平民出身且容易衝動的隊員們，拒絕接受貴族出身的女隊長。"
+          },
+          {
+            "content_id": "VOD00357649",
+            "time_codes": [
+              747000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010030M001",
+            "title": "",
+            "subtitle": "第1季第30集 你是光 我是影",
+            "ep_number": 30,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762178400000,
+            "vod_channel_description": "一名恐怖份子接連暗殺貴族們。奧斯卡雖然想將其繩之以法，衛兵隊的隊員們卻不打算聽從這位女隊長的命令。不僅如此，討厭貴族的隊員們，還將安德烈視為「貴族的走狗」，對其暴力以待。"
+          },
+          {
+            "content_id": "VOD00357650",
+            "time_codes": [
+              741000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010031M001",
+            "title": "",
+            "subtitle": "第1季第31集 開於軍營的紫丁香花",
+            "ep_number": 31,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762180200000,
+            "vod_channel_description": "奧斯卡率領的衛兵隊，從布威將軍那接到護衛西班牙阿爾德羅斯公爵一家的任務。沒想到，衛兵隊員中有一名成員是恐怖分子的同夥，奧斯卡險些遭到殺害。當刺客於夜晚潛入阿爾德羅斯公爵一家時，奧斯卡成功趕上並化解了危機。任務結束後，又發現衛兵隊的槍支被盜賣，隊員拉薩爾被憲兵隊帶走。"
+          },
+          {
+            "content_id": "VOD00357651",
+            "time_codes": [
+              721000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010032M001",
+            "title": "",
+            "subtitle": "第1季第32集 暴風雨的前奏曲",
+            "ep_number": 32,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762182000000,
+            "vod_channel_description": "奧斯卡透過向布威將軍說情，成功讓拉薩爾獲得釋放。與此同時，隊長亞蘭的妹妹也敲定了婚事。接連的好事，一時間讓眾人包裹在歡快的氛圍之中。奧斯卡為了向將軍致謝，與安德烈一同前往巴黎。然而在半途中，他們碰上了已然化身暴徒的民眾。乘坐貴族馬車的他們，成為了暴民們下手的目標。"
+          },
+          {
+            "content_id": "VOD00357652",
+            "time_codes": [
+              668000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010033M001",
+            "title": "",
+            "subtitle": "第1季第33集 日暮時分的喪鐘",
+            "ep_number": 33,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762183800000,
+            "vod_channel_description": "國政混亂與皇室財政危機，促使發佈了一波又一波的新稅政策，使得市民的不滿與貧困達到了極限。凡爾賽宮即便到了如此地步依然企圖保持權威。最終於1789年5月，不只是僧侶與貴族，包括平民，他們的共同代表召開了「三級會議」。"
+          },
+          {
+            "content_id": "VOD00357653",
+            "time_codes": [
+              785000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010034M001",
+            "title": "",
+            "subtitle": "第1季第34集 網球場宣言",
+            "ep_number": 34,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762185600000,
+            "vod_channel_description": "「三級會議」在憧憬新時代的平民議員，與堅守舊制的貴族、僧侶議員的意見對立下，協商完全陷入停滯。然而，伴隨著羅伯斯比爾的演說，局勢逐漸向有利於平民議員的方向傾斜，最終平民部會獨立組建為「國民議會」。與此同時，國王向奧斯卡的部隊下令，封鎖議場入口，不讓平民議員進入。"
+          },
+          {
+            "content_id": "VOD00357654",
+            "time_codes": [
+              660000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010035M001",
+            "title": "",
+            "subtitle": "第1季第35集 奧斯卡 此刻便是離巢之時",
+            "ep_number": 35,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762187400000,
+            "vod_channel_description": "奧斯卡成功阻止了侍衛隊進入議場，但也因此成為叛徒。雖然他的父親傑爾吉將軍朝他揮劍，但由於安東妮德的寬恕，最終並未被追究。為了救下即將被處決的部下，奧斯卡在貝爾納的幫助下，承諾不會再讓市民受傷。並且，在貝爾納的指揮下，民眾圍住了修道院監獄，要求釋放平民的衛兵隊員。"
+          },
+          {
+            "content_id": "VOD00357655",
+            "time_codes": [
+              725000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010036M001",
+            "title": "",
+            "subtitle": "第1季第36集 說好了再見",
+            "ep_number": 36,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762189200000,
+            "vod_channel_description": "奧斯卡胸腔的病情日益嚴重，他急忙請人為他畫肖像畫。與此同時，國王的軍隊對巴黎市民展開鎮壓。在凡爾賽宮裡也有支持國民議會的聲音，但安東妮德堅決反對王政改革。憂心國家未來的奧斯卡，為了避免皇室與國民之間的戰爭，直接與安東妮德談判並請求撤軍，但遭到拒絕。"
+          },
+          {
+            "content_id": "VOD00357656",
+            "time_codes": [
+              704000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010037M001",
+            "title": "",
+            "subtitle": "第1季第37集 熱情宣誓之夜",
+            "ep_number": 37,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762191000000,
+            "vod_channel_description": "奧斯卡被診斷出最多只剩半年性命，而安德烈的眼睛也被確認，失明只是遲早的問題。在奧斯卡的肖像畫完成之際，安德烈的眼睛已然看不見畫中那如同戰神馬爾斯一般的奧斯卡了。後來，因為衛兵隊接獲命令鎮壓暴動的緣故，奧斯卡與安德烈動身前往軍營。"
+          },
+          {
+            "content_id": "VOD00357657",
+            "time_codes": [
+              701000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010038M001",
+            "title": "",
+            "subtitle": "第1季第38集 站在命運大門之前",
+            "ep_number": 38,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762192800000,
+            "vod_channel_description": "奧斯卡決定與安德烈一起參與革命，並宣布辭去衛兵隊的職位。隨著他的辭職，隊員們都誓言將與奧斯卡一同戰鬥。革命的序幕隨即拉開。市民對穿著軍服的衛兵隊抱持疑慮，但在貝爾納的協助下，衛兵隊終於獲得信任。"
+          },
+          {
+            "content_id": "VOD00357658",
+            "time_codes": [
+              718000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod76547-010039M001",
+            "title": "",
+            "subtitle": "第1季第39集 那抹微笑已然不再",
+            "ep_number": 39,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762194600000,
+            "vod_channel_description": "「戰鬥結束後，我會在神的面前發誓，讓奧斯卡成為我的妻子。」安德烈留下一抹微笑，永遠地離開了，徒留奧斯卡陷入了絕望的深淵之中。緊接著，來到了7月14日的早晨。這天，巴士底監獄的大砲指向了市區，於是市民們出於自身的意志發起了戰鬥。"
+          },
+          {
+            "content_id": "VOD00357659",
+            "time_codes": [
+              630000
+            ],
+            "timecode_duration": [],
+            "length": 1425000,
+            "asset_id": "vod76547-010040M001",
+            "title": "",
+            "subtitle": "第1季第40集 再見了 親愛的奧斯卡",
+            "ep_number": 40,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762196400000,
+            "vod_channel_description": "奧斯卡倒在敵人的子彈下，在意識漸漸模糊之中，她輕輕地說出了「再見」。一小時後，巴士底監獄升起了白旗。隨後，民眾開始處決貴族，並廢除了王政。路易十六與安東妮德也走向了斷頭台。"
+          }
+        ],
+        "total_length": 58190000,
+        "focus_index": 36,
+        "next_index": 37,
+        "time": 711468,
+        "focus_program": {
+          "content_id": "VOD00357656",
+          "time_codes": [
+            704000
+          ],
+          "timecode_duration": [],
+          "length": 1455000,
+          "asset_id": "vod76547-010037M001",
+          "title": "",
+          "subtitle": "第1季第37集 熱情宣誓之夜",
+          "ep_number": 37,
+          "rating": 2,
+          "content_type": "comic",
+          "p_start": 1762191000000,
+          "vod_channel_description": "奧斯卡被診斷出最多只剩半年性命，而安德烈的眼睛也被確認，失明只是遲早的問題。在奧斯卡的肖像畫完成之際，安德烈的眼睛已然看不見畫中那如同戰神馬爾斯一般的奧斯卡了。後來，因為衛兵隊接獲命令鎮壓暴動的緣故，奧斯卡與安德烈動身前往軍營。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "動漫",
+          "EngName": "Animate",
+          "MenuOrder": 109
+        }
+      ]
+    },
+    "introduction": null,
+    "recommends": null,
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

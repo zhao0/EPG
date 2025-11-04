@@ -1,0 +1,915 @@
+{
+  "pageProps": {
+    "contentId": "ofiii168",
+    "channel": {
+      "title": "中華一番(中文版)",
+      "no": 168,
+      "charge_mode": "F",
+      "content_id": "ofiii168",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        109
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWCHILDOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3124_ofiii168_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "木棉花",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6058",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1699426831.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 168,
+        "cdn_code": "ofiii168",
+        "start_time": 1762155600000,
+        "programs": [
+          {
+            "content_id": "VOD00219635",
+            "time_codes": [
+              716000
+            ],
+            "timecode_duration": [],
+            "length": 1388000,
+            "asset_id": "vod48938-010001M001",
+            "title": "",
+            "subtitle": "第1季第1集 天才料理少年阿昴",
+            "ep_number": 1,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762155600000,
+            "vod_channel_description": "《中華一番》動漫線上看。講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219636",
+            "time_codes": [
+              670000
+            ],
+            "timecode_duration": [],
+            "length": 1389000,
+            "asset_id": "vod48938-010002M001",
+            "title": "",
+            "subtitle": "第1季第2集 廚藝對決！傳說中的麻婆豆腐",
+            "ep_number": 2,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762157100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219637",
+            "time_codes": [
+              732000
+            ],
+            "timecode_duration": [],
+            "length": 1387000,
+            "asset_id": "vod48938-010003M001",
+            "title": "",
+            "subtitle": "第1季第3集 朝特級廚師的目標，加油",
+            "ep_number": 3,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762158600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219638",
+            "time_codes": [
+              758000
+            ],
+            "timecode_duration": [],
+            "length": 1390000,
+            "asset_id": "vod48938-010004M001",
+            "title": "",
+            "subtitle": "第1季第4集 無情的陽泉酒家門規",
+            "ep_number": 4,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762160100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219639",
+            "time_codes": [
+              667000
+            ],
+            "timecode_duration": [],
+            "length": 1390000,
+            "asset_id": "vod48938-010005M001",
+            "title": "",
+            "subtitle": "第1季第5集 打破傳統！打倒陽泉酒家",
+            "ep_number": 5,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762161600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219640",
+            "time_codes": [
+              704000
+            ],
+            "timecode_duration": [],
+            "length": 1389000,
+            "asset_id": "vod48938-010006M001",
+            "title": "",
+            "subtitle": "第1季第6集 火焰廚師！餃子兄弟",
+            "ep_number": 6,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762163100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219641",
+            "time_codes": [
+              763000
+            ],
+            "timecode_duration": [],
+            "length": 1388000,
+            "asset_id": "vod48938-010007M001",
+            "title": "",
+            "subtitle": "第1季第7集 卑鄙的手段，沒有退路的阿昴",
+            "ep_number": 7,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762164600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219642",
+            "time_codes": [
+              716000
+            ],
+            "timecode_duration": [],
+            "length": 1393000,
+            "asset_id": "vod48938-010008M001",
+            "title": "",
+            "subtitle": "第1季第8集 對決！神龍餃子",
+            "ep_number": 8,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762166100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219643",
+            "time_codes": [
+              697000
+            ],
+            "timecode_duration": [],
+            "length": 1393000,
+            "asset_id": "vod48938-010009M001",
+            "title": "",
+            "subtitle": "第1季第9集 向夢想挑戰！特級廚師大考驗",
+            "ep_number": 9,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762167600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219644",
+            "time_codes": [
+              734000
+            ],
+            "timecode_duration": [],
+            "length": 1394000,
+            "asset_id": "vod48938-010010M001",
+            "title": "",
+            "subtitle": "第1季第10集 終極絕招！國士無雙的麵",
+            "ep_number": 10,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762169100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219645",
+            "time_codes": [
+              722000
+            ],
+            "timecode_duration": [],
+            "length": 1394000,
+            "asset_id": "vod48938-010011M001",
+            "title": "",
+            "subtitle": "第1季第11集 最後決戰！傳說中的鬥味場",
+            "ep_number": 11,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762170600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219646",
+            "time_codes": [
+              713000
+            ],
+            "timecode_duration": [],
+            "length": 1392000,
+            "asset_id": "vod48938-010012M001",
+            "title": "",
+            "subtitle": "第1季第12集 宿命天才美少年廚師，阿飛",
+            "ep_number": 12,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762172100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219647",
+            "time_codes": [
+              683000
+            ],
+            "timecode_duration": [],
+            "length": 1393000,
+            "asset_id": "vod48938-010013M001",
+            "title": "",
+            "subtitle": "第1季第13集 鯰魚麵完成！命運的審判",
+            "ep_number": 13,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762173600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219648",
+            "time_codes": [
+              736000
+            ],
+            "timecode_duration": [],
+            "length": 1394000,
+            "asset_id": "vod48938-010014M001",
+            "title": "",
+            "subtitle": "第1季第14集 王者之冠！光榮的徽章",
+            "ep_number": 14,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762175100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219649",
+            "time_codes": [
+              695000
+            ],
+            "timecode_duration": [],
+            "length": 1394000,
+            "asset_id": "vod48938-010015M001",
+            "title": "",
+            "subtitle": "第1季第15集 天才料理少年?! 四郎",
+            "ep_number": 15,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762176600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219650",
+            "time_codes": [
+              664000
+            ],
+            "timecode_duration": [],
+            "length": 1394000,
+            "asset_id": "vod48938-010016M001",
+            "title": "",
+            "subtitle": "第1季第16集 超級波霸！小心陷入美人計",
+            "ep_number": 16,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762178100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219651",
+            "time_codes": [
+              693000
+            ],
+            "timecode_duration": [],
+            "length": 1390000,
+            "asset_id": "vod48938-010017M001",
+            "title": "",
+            "subtitle": "第1季第17集 甦醒吧，神秘的鍋巴料理",
+            "ep_number": 17,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762179600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219652",
+            "time_codes": [
+              660000
+            ],
+            "timecode_duration": [],
+            "length": 1389000,
+            "asset_id": "vod48938-010018M001",
+            "title": "",
+            "subtitle": "第1季第18集 紅色恐怖，鬼屋裏的秘密",
+            "ep_number": 18,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762181100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219653",
+            "time_codes": [
+              692000
+            ],
+            "timecode_duration": [],
+            "length": 1394000,
+            "asset_id": "vod48938-010019M001",
+            "title": "",
+            "subtitle": "第1季第19集 愛的千鶴橋，銀河麵",
+            "ep_number": 19,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762182600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219654",
+            "time_codes": [
+              709000
+            ],
+            "timecode_duration": [],
+            "length": 1392000,
+            "asset_id": "vod48938-010020M001",
+            "title": "",
+            "subtitle": "第1季第20集 招來不幸的黑雞",
+            "ep_number": 20,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762184100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219655",
+            "time_codes": [
+              681000
+            ],
+            "timecode_duration": [],
+            "length": 1391000,
+            "asset_id": "vod48938-010021M001",
+            "title": "",
+            "subtitle": "第1季第21集 大陸最強的男人，向陽泉酒家挑戰",
+            "ep_number": 21,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762185600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219656",
+            "time_codes": [
+              669000
+            ],
+            "timecode_duration": [],
+            "length": 1394000,
+            "asset_id": "vod48938-010022M001",
+            "title": "",
+            "subtitle": "第1季第22集 擊墜王，阿昴是下一個目標",
+            "ep_number": 22,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762187100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219657",
+            "time_codes": [
+              684000
+            ],
+            "timecode_duration": [],
+            "length": 1389000,
+            "asset_id": "vod48938-010023M001",
+            "title": "",
+            "subtitle": "第1季第23集 發光吧，宇宙大燒賣",
+            "ep_number": 23,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762188600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219658",
+            "time_codes": [
+              698000
+            ],
+            "timecode_duration": [],
+            "length": 1394000,
+            "asset_id": "vod48938-010024M001",
+            "title": "",
+            "subtitle": "第1季第24集 神秘邀請函，面具廚師的陷阱",
+            "ep_number": 24,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762190100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219659",
+            "time_codes": [
+              671000
+            ],
+            "timecode_duration": [],
+            "length": 1395000,
+            "asset_id": "vod48938-010025M001",
+            "title": "",
+            "subtitle": "第1季第25集 承襲決戰意志，異人館的血戰！",
+            "ep_number": 25,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762191600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219660",
+            "time_codes": [
+              679000
+            ],
+            "timecode_duration": [],
+            "length": 1394000,
+            "asset_id": "vod48938-010026M001",
+            "title": "",
+            "subtitle": "第1季第26集 致勝王牌，輕狂的惡魔",
+            "ep_number": 26,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762193100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219661",
+            "time_codes": [
+              733000
+            ],
+            "timecode_duration": [],
+            "length": 1392000,
+            "asset_id": "vod48938-010027M001",
+            "title": "",
+            "subtitle": "第1季第27集 壯烈，復仇的最後樂章！",
+            "ep_number": 27,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762194600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219662",
+            "time_codes": [
+              703000
+            ],
+            "timecode_duration": [],
+            "length": 1394000,
+            "asset_id": "vod48938-010028M001",
+            "title": "",
+            "subtitle": "第1季第28集 友情的野外料理",
+            "ep_number": 28,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762196100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219663",
+            "time_codes": [
+              717000
+            ],
+            "timecode_duration": [],
+            "length": 1388000,
+            "asset_id": "vod48938-010029M001",
+            "title": "",
+            "subtitle": "第1季第29集 來自黑暗的刺客，冷血天才雷恩",
+            "ep_number": 29,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762197600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219664",
+            "time_codes": [
+              695000
+            ],
+            "timecode_duration": [],
+            "length": 1394000,
+            "asset_id": "vod48938-010030M001",
+            "title": "",
+            "subtitle": "第1季第30集 惡魔的切口，怪刀七星刀！",
+            "ep_number": 30,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762199100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219665",
+            "time_codes": [
+              677000
+            ],
+            "timecode_duration": [],
+            "length": 1393000,
+            "asset_id": "vod48938-010031M001",
+            "title": "",
+            "subtitle": "第1季第31集 囊括四大中華，真鯛大陸圖",
+            "ep_number": 31,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762200600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219666",
+            "time_codes": [
+              720000
+            ],
+            "timecode_duration": [],
+            "length": 1392000,
+            "asset_id": "vod48938-010032M001",
+            "title": "",
+            "subtitle": "第1季第32集 火與冰，決戰廚師魂",
+            "ep_number": 32,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762202100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219667",
+            "time_codes": [
+              689000
+            ],
+            "timecode_duration": [],
+            "length": 1393000,
+            "asset_id": "vod48938-010033M001",
+            "title": "",
+            "subtitle": "第1季第33集 傳說的廚具，永靈刀的秘密",
+            "ep_number": 33,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762203600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219668",
+            "time_codes": [
+              700000
+            ],
+            "timecode_duration": [],
+            "length": 1391000,
+            "asset_id": "vod48938-010034M001",
+            "title": "",
+            "subtitle": "第1季第34集 魔都上海，黑暗料理界的宣戰",
+            "ep_number": 34,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762205100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219669",
+            "time_codes": [
+              713000
+            ],
+            "timecode_duration": [],
+            "length": 1393000,
+            "asset_id": "vod48938-010035M001",
+            "title": "",
+            "subtitle": "第1季第35集 水上大鬥味場，鐵碗湯的魔力",
+            "ep_number": 35,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762206600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219670",
+            "time_codes": [
+              711000
+            ],
+            "timecode_duration": [],
+            "length": 1394000,
+            "asset_id": "vod48938-010036M001",
+            "title": "",
+            "subtitle": "第1季第36集 三傑特製，水魚凍湯",
+            "ep_number": 36,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762208100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219671",
+            "time_codes": [
+              705000
+            ],
+            "timecode_duration": [],
+            "length": 1393000,
+            "asset_id": "vod48938-010037M001",
+            "title": "",
+            "subtitle": "第1季第37集 麵點王羅根，一千六百年的鎮魂包子",
+            "ep_number": 37,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762209600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219672",
+            "time_codes": [
+              739000
+            ],
+            "timecode_duration": [],
+            "length": 1389000,
+            "asset_id": "vod48938-010038M001",
+            "title": "",
+            "subtitle": "第1季第38集 超級點心大對決，驚人的比賽結果",
+            "ep_number": 38,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762211100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219673",
+            "time_codes": [
+              683000
+            ],
+            "timecode_duration": [],
+            "length": 1390000,
+            "asset_id": "vod48938-010039M001",
+            "title": "",
+            "subtitle": "第1季第39集 另一組七星刀，神祕美人向恩",
+            "ep_number": 39,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762212600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219674",
+            "time_codes": [
+              726000
+            ],
+            "timecode_duration": [],
+            "length": 1395000,
+            "asset_id": "vod48938-010040M001",
+            "title": "",
+            "subtitle": "第1季第40集 覺醒吧，雷恩，廚師的使命",
+            "ep_number": 40,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762214100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219675",
+            "time_codes": [
+              704000
+            ],
+            "timecode_duration": [],
+            "length": 1393000,
+            "asset_id": "vod48938-010041M001",
+            "title": "",
+            "subtitle": "第1季第41集 摧毀邪惡之劍，神聖的七星刀!!",
+            "ep_number": 41,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762215600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219676",
+            "time_codes": [
+              701000
+            ],
+            "timecode_duration": [],
+            "length": 1395000,
+            "asset_id": "vod48938-010042M001",
+            "title": "",
+            "subtitle": "第1季第42集 復仇魔紹安，因緣了結",
+            "ep_number": 42,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762217100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219677",
+            "time_codes": [
+              677000
+            ],
+            "timecode_duration": [],
+            "length": 1395000,
+            "asset_id": "vod48938-010043M001",
+            "title": "",
+            "subtitle": "第1季第43集 阿昴的實力，大魔術熊貓豆腐",
+            "ep_number": 43,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762218600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219678",
+            "time_codes": [
+              717000
+            ],
+            "timecode_duration": [],
+            "length": 1395000,
+            "asset_id": "vod48938-010044M001",
+            "title": "",
+            "subtitle": "第1季第44集 驚人的結果，阿貝師父的手掌心",
+            "ep_number": 44,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762220100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219679",
+            "time_codes": [
+              692000
+            ],
+            "timecode_duration": [],
+            "length": 1393000,
+            "asset_id": "vod48938-010045M001",
+            "title": "",
+            "subtitle": "第1季第45集 燃燒的長江，紹安葬身大海",
+            "ep_number": 45,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762221600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219680",
+            "time_codes": [
+              703000
+            ],
+            "timecode_duration": [],
+            "length": 1391000,
+            "asset_id": "vod48938-010046M001",
+            "title": "",
+            "subtitle": "第1季第46集 拯救解師父，麵的大風暴",
+            "ep_number": 46,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762223100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219681",
+            "time_codes": [
+              708000
+            ],
+            "timecode_duration": [],
+            "length": 1394000,
+            "asset_id": "vod48938-010047M001",
+            "title": "",
+            "subtitle": "第1季第47集 魔神降臨！魔聖銅器的奇蹟",
+            "ep_number": 47,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762224600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219682",
+            "time_codes": [
+              698000
+            ],
+            "timecode_duration": [],
+            "length": 1394000,
+            "asset_id": "vod48938-010048M001",
+            "title": "",
+            "subtitle": "第1季第48集 劃破天際的星，特製彗星炒飯",
+            "ep_number": 48,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762226100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219683",
+            "time_codes": [
+              675000
+            ],
+            "timecode_duration": [],
+            "length": 1393000,
+            "asset_id": "vod48938-010049M001",
+            "title": "",
+            "subtitle": "第1季第49集 黑暗的迷宮，一碗結合兩心的粥",
+            "ep_number": 49,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762227600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219684",
+            "time_codes": [
+              686000
+            ],
+            "timecode_duration": [],
+            "length": 1395000,
+            "asset_id": "vod48938-010050M001",
+            "title": "",
+            "subtitle": "第1季第50集 帝都北京，黑暗料理界的魔掌",
+            "ep_number": 50,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762229100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219685",
+            "time_codes": [
+              713000
+            ],
+            "timecode_duration": [],
+            "length": 1393000,
+            "asset_id": "vod48938-010051M001",
+            "title": "",
+            "subtitle": "第1季第51集 天才阿飛的絕招，新滿漢全席",
+            "ep_number": 51,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762230600000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          },
+          {
+            "content_id": "VOD00219686",
+            "time_codes": [
+              772000
+            ],
+            "timecode_duration": [],
+            "length": 1394000,
+            "asset_id": "vod48938-010052M001",
+            "title": "",
+            "subtitle": "第1季第52集 大逆轉，英勇廚師們的光榮(完)",
+            "ep_number": 52,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762232100000,
+            "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+          }
+        ],
+        "total_length": 72400000,
+        "focus_index": 6,
+        "next_index": 7,
+        "time": 1128227,
+        "focus_program": {
+          "content_id": "VOD00219641",
+          "time_codes": [
+            763000
+          ],
+          "timecode_duration": [],
+          "length": 1388000,
+          "asset_id": "vod48938-010007M001",
+          "title": "",
+          "subtitle": "第1季第7集 卑鄙的手段，沒有退路的阿昴",
+          "ep_number": 7,
+          "rating": 2,
+          "content_type": "comic",
+          "p_start": 1762164600000,
+          "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "動漫",
+          "EngName": "Animate",
+          "MenuOrder": 109
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_mobile_20230802.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

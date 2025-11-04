@@ -1,0 +1,1910 @@
+{
+  "pageProps": {
+    "contentId": "ofiii129",
+    "channel": {
+      "title": "WTO姐妹會",
+      "no": 129,
+      "charge_mode": "F",
+      "content_id": "ofiii129",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        18
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3301_ofiii129_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "八大2023",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6235",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1711522374.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 129,
+        "cdn_code": "ofiii129",
+        "start_time": 1762132800000,
+        "programs": [
+          {
+            "content_id": "VOD00350914",
+            "time_codes": [
+              539000,
+              1160000,
+              1631000,
+              2093000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003162M001",
+            "title": "",
+            "subtitle": "第3162集 異國婚姻不容易...這些艱辛好難克服?!",
+            "ep_number": 3162,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762132800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350915",
+            "time_codes": [
+              562000,
+              1213000,
+              1710000,
+              2220000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod9985-003163M001",
+            "title": "",
+            "subtitle": "第3163集 各國三寶驚豔全場 日本酒店小姐人人搶著當?!",
+            "ep_number": 3163,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762135800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350916",
+            "time_codes": [
+              595000,
+              1272000,
+              1726000,
+              2227000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003164M001",
+            "title": "",
+            "subtitle": "第3164集 黑白大廚熱潮燒不停!! 實測名廚餐廳真的美味嗎?!",
+            "ep_number": 3164,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762138800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350917",
+            "time_codes": [
+              609000,
+              1209000,
+              1694000,
+              2209000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003165M001",
+            "title": "",
+            "subtitle": "第3165集 吃吃喝喝不只味覺享受!! 還能順便暢遊各國文化?!",
+            "ep_number": 3165,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762141800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350918",
+            "time_codes": [
+              608000,
+              1218000,
+              1714000,
+              2212000
+            ],
+            "timecode_duration": [],
+            "length": 2701000,
+            "asset_id": "vod9985-003166M001",
+            "title": "",
+            "subtitle": "第3166集 台灣經典景點西門町 打敗101成外國人來台首選",
+            "ep_number": 3166,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762144800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350919",
+            "time_codes": [
+              622000,
+              1262000,
+              1770000,
+              2260000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003167M001",
+            "title": "",
+            "subtitle": "第3167集 沒有這間店就活不下去?! 各國必逛的店保證不後悔?!",
+            "ep_number": 3167,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762147800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350920",
+            "time_codes": [
+              511000,
+              1171000,
+              1687000,
+              2205000
+            ],
+            "timecode_duration": [],
+            "length": 2697000,
+            "asset_id": "vod9985-003168M001",
+            "title": "",
+            "subtitle": "第3168集 各國人最缺的東西 沒有這個怎麼解?!",
+            "ep_number": 3168,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762150800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350921",
+            "time_codes": [
+              584000,
+              1213000,
+              1713000,
+              2208000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003169M001",
+            "title": "",
+            "subtitle": "第3169集 眾人嚮往的美食天堂 台灣淪為肥胖地獄?!",
+            "ep_number": 3169,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762153800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350922",
+            "time_codes": [
+              571000,
+              1236000,
+              1690000,
+              2200000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003170M001",
+            "title": "",
+            "subtitle": "第3170集 別再去日本旅遊了 我的國家更好玩!!",
+            "ep_number": 3170,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762156800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350923",
+            "time_codes": [
+              621000,
+              1238000,
+              1733000,
+              2228000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003171M001",
+            "title": "",
+            "subtitle": "第3171集 恐怖治安比一比!! 這些國家非請勿入?!",
+            "ep_number": 3171,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762159800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350924",
+            "time_codes": [
+              600000,
+              1292000,
+              1753000,
+              2235000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003172M001",
+            "title": "",
+            "subtitle": "第3172集 異國戀情相愛容易相處難!! 這些難題到底要怎麼克服?!",
+            "ep_number": 3172,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762162800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350925",
+            "time_codes": [
+              592000,
+              1291000,
+              1788000,
+              2220000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003173M001",
+            "title": "",
+            "subtitle": "第3173集 我說第一沒人敢說第二?! 各國這一點一定贏過全球?!",
+            "ep_number": 3173,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762165800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350926",
+            "time_codes": [
+              584000,
+              1275000,
+              1757000,
+              2211000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003174M001",
+            "title": "",
+            "subtitle": "第3174集 世界強國換誰當 我說第二沒人說第一?!",
+            "ep_number": 3174,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762168800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350927",
+            "time_codes": [
+              583000,
+              1217000,
+              1718000,
+              2208000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003175M001",
+            "title": "",
+            "subtitle": "第3175集 台灣最多的東西是機車 日常代步成送貨工具超便利!!",
+            "ep_number": 3175,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762171800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350928",
+            "time_codes": [
+              533000,
+              1235000,
+              1733000,
+              2241000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003176M001",
+            "title": "",
+            "subtitle": "第3176集 各國恐怖詐騙層出不窮!! 認清這些手法才能保護自己?!",
+            "ep_number": 3176,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762174800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350929",
+            "time_codes": [
+              614000,
+              1199000,
+              1719000,
+              2231000
+            ],
+            "timecode_duration": [],
+            "length": 2702000,
+            "asset_id": "vod9985-003177M001",
+            "title": "",
+            "subtitle": "第3177集 台灣生活習慣跟各國差很大 洗手只洗頂部嚇壞美國人!!",
+            "ep_number": 3177,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762177800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350930",
+            "time_codes": [
+              633000,
+              1286000,
+              1755000,
+              2214000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003178M001",
+            "title": "",
+            "subtitle": "第3178集 這樣吃居然更美味!! 各國創意料理出奇招",
+            "ep_number": 3178,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762180800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350931",
+            "time_codes": [
+              606000,
+              1287000,
+              1705000,
+              2204000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod9985-003179M001",
+            "title": "",
+            "subtitle": "第3179集 各國人為了這個超瘋狂!! 我們就是超級OO控?!",
+            "ep_number": 3179,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762183800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00350932",
+            "time_codes": [
+              574000,
+              1251000,
+              1728000,
+              2204000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003180M001",
+            "title": "",
+            "subtitle": "第3180集 全球物價飛漲只有薪水不漲 各國竟連這個都變超貴?!",
+            "ep_number": 3180,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762186800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354194",
+            "time_codes": [
+              537000,
+              1201000,
+              1707000,
+              2165000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003181M001",
+            "title": "",
+            "subtitle": "第3181集 即使天塌下來都無法放棄!! 各國人居然不能沒有這個?!",
+            "ep_number": 3181,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762189800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354195",
+            "time_codes": [
+              594000,
+              1229000,
+              1715000,
+              2195000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003182M001",
+            "title": "",
+            "subtitle": "第3182集 各國人的才藝大賞 這些技能只有我會做?!",
+            "ep_number": 3182,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762192800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354196",
+            "time_codes": [
+              572000,
+              1238000,
+              1688000,
+              2199000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003183M001",
+            "title": "",
+            "subtitle": "第3183集 不要再被名字騙了! 各國食物名字的秘密",
+            "ep_number": 3183,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762195800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354197",
+            "time_codes": [
+              588000,
+              1276000,
+              1717000,
+              2213000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod9985-003184M001",
+            "title": "",
+            "subtitle": "第3184集 拒絕外國遊客上門 日本餐廳用非常手段?!",
+            "ep_number": 3184,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762198800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354198",
+            "time_codes": [
+              633000,
+              1337000,
+              1809000,
+              2208000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003185M001",
+            "title": "",
+            "subtitle": "第3185集 天哪!怎麼敢這樣做?! 各國人這些行為超大膽?!",
+            "ep_number": 3185,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762201800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354199",
+            "time_codes": [
+              611000,
+              1290000,
+              1725000,
+              2214000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003186M001",
+            "title": "",
+            "subtitle": "第3186集 螞蟻人來報到! 各國人吃甜習慣大不同",
+            "ep_number": 3186,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762204800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354200",
+            "time_codes": [
+              612000,
+              1283000,
+              1766000,
+              2229000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod9985-003187M001",
+            "title": "",
+            "subtitle": "第3187集 這間店進軍你們國家的改變 日本限定菜單讓台灣人都瘋了",
+            "ep_number": 3187,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762207800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354201",
+            "time_codes": [
+              625000,
+              1246000,
+              1744000,
+              2208000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003188M001",
+            "title": "",
+            "subtitle": "第3188集 出國就是要逛超市!! 各國超市好康不漏勾!!",
+            "ep_number": 3188,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762210800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354202",
+            "time_codes": [
+              560000,
+              1266000,
+              1759000,
+              2251000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003189M001",
+            "title": "",
+            "subtitle": "第3189集 各國冬天就是要吃這些!! 超暖心料理陪你溫暖過冬!!",
+            "ep_number": 3189,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762213800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354203",
+            "time_codes": [
+              584000,
+              1232000,
+              1720000,
+              2196000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003190M001",
+            "title": "",
+            "subtitle": "第3190集 各國男女來PK 我是最棒的另一半?!",
+            "ep_number": 3190,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762216800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354204",
+            "time_codes": [
+              576000,
+              1231000,
+              1728000,
+              2224000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003191M001",
+            "title": "",
+            "subtitle": "第3191集 這國人這行為好難理解 球賽應援熱情程度各國大不同",
+            "ep_number": 3191,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762219800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354205",
+            "time_codes": [
+              653000,
+              1301000,
+              1790000,
+              2243000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003192M001",
+            "title": "",
+            "subtitle": "第3192集 外國人的最愛 台灣是最友善城市",
+            "ep_number": 3192,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762222800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354206",
+            "time_codes": [
+              601000,
+              1252000,
+              1724000,
+              2216000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003193M001",
+            "title": "",
+            "subtitle": "第3193集 你的眉角也太多了吧!! 我最不想和這國人做朋友",
+            "ep_number": 3193,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762225800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354207",
+            "time_codes": [
+              541000,
+              1176000,
+              1754000,
+              2255000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003194M001",
+            "title": "",
+            "subtitle": "第3194集 各國這些東西等好久 等到天荒地老還沒好?!",
+            "ep_number": 3194,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762228800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354208",
+            "time_codes": [
+              617000,
+              1290000,
+              1740000,
+              2223000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003195M001",
+            "title": "",
+            "subtitle": "第3195集 這盤異國婚姻的棋 我再也不想跟你玩下去了",
+            "ep_number": 3195,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762231800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354209",
+            "time_codes": [
+              563000,
+              1255000,
+              1760000,
+              2230000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003196M001",
+            "title": "",
+            "subtitle": "第3196集 最浪漫國家已更新 法國被狠狠打敗?!",
+            "ep_number": 3196,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762234800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354210",
+            "time_codes": [
+              648000,
+              1276000,
+              1777000,
+              2265000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003197M001",
+            "title": "",
+            "subtitle": "第3197集 台灣捷運擄獲外國人芳心!! 這些優點國外找不到?!",
+            "ep_number": 3197,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762237800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354211",
+            "time_codes": [
+              546000,
+              1238000,
+              1717000,
+              2209000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003198M001",
+            "title": "",
+            "subtitle": "第3198集 正港呆灣郎驗證大會 外國人徹底被改變?!",
+            "ep_number": 3198,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762240800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354212",
+            "time_codes": [
+              604000,
+              1243000,
+              1711000,
+              2211000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003199M001",
+            "title": "",
+            "subtitle": "第3199集 這些事出了國才知道!! 外國人出國受到這些衝擊?!",
+            "ep_number": 3199,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762243800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00354213",
+            "time_codes": [
+              588000,
+              1216000,
+              1708000,
+              2200000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003200M001",
+            "title": "",
+            "subtitle": "第3200集 旅遊拒絕人擠人!! 各國鄉下也是好好玩",
+            "ep_number": 3200,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762246800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358346",
+            "time_codes": [
+              557000,
+              1238000,
+              1728000,
+              2205000
+            ],
+            "timecode_duration": [],
+            "length": 2702000,
+            "asset_id": "vod9985-003201M001",
+            "title": "",
+            "subtitle": "第3201集 各國顏色意義大不同!! 小心搞錯會出大事?!",
+            "ep_number": 3201,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762249800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358347",
+            "time_codes": [
+              608000,
+              1254000,
+              1707000,
+              2204000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003202M001",
+            "title": "",
+            "subtitle": "第3202集 返鄉路途有夠波折 各國人飛到快瘋掉?!",
+            "ep_number": 3202,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762252800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358348",
+            "time_codes": [
+              577000,
+              1270000,
+              1776000,
+              2260000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003203M001",
+            "title": "",
+            "subtitle": "第3203集 各國特殊文化太另類!! 竟讓別國人超有意見?!",
+            "ep_number": 3203,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762255800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358349",
+            "time_codes": [
+              584000,
+              1283000,
+              1756000,
+              2234000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003204M001",
+            "title": "",
+            "subtitle": "第3204集 不敢相信!!這樣混搭超好吃?! 各國邪教美食大集合",
+            "ep_number": 3204,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762258800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358350",
+            "time_codes": [
+              598000,
+              1256000,
+              1776000,
+              2270000
+            ],
+            "timecode_duration": [],
+            "length": 2697000,
+            "asset_id": "vod9985-003205M001",
+            "title": "",
+            "subtitle": "第3205集 各國人的無所不炫 這些事讓我很驕傲?!",
+            "ep_number": 3205,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762261800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358351",
+            "time_codes": [
+              572000,
+              1211000,
+              1698000,
+              2213000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod9985-003206M001",
+            "title": "",
+            "subtitle": "第3206集 各國這些東西超迷人!! 好想把這個買下來!!",
+            "ep_number": 3206,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762264800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358352",
+            "time_codes": [
+              633000,
+              1286000,
+              1716000,
+              2217000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod9985-003207M001",
+            "title": "",
+            "subtitle": "第3207集 台灣魅力在哪裡? OO支撐我下去!!",
+            "ep_number": 3207,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762267800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358353",
+            "time_codes": [
+              586000,
+              1157000,
+              1677000,
+              2173000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003208M001",
+            "title": "",
+            "subtitle": "第3208集 意想不到的台灣小物 竟讓外國人超瘋狂?",
+            "ep_number": 3208,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762270800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358354",
+            "time_codes": [
+              612000,
+              1242000,
+              1710000,
+              2205000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003209M001",
+            "title": "",
+            "subtitle": "第3209集 土耳其人的特殊超能力 陽台喝紅茶掌握鄰居一舉一動",
+            "ep_number": 3209,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762273800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358355",
+            "time_codes": [
+              547000,
+              1201000,
+              1718000,
+              2204000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003210M001",
+            "title": "",
+            "subtitle": "第3210集 出國旅遊就要玩不一樣的!! 當地人一日遊行程這樣玩!!",
+            "ep_number": 3210,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762276800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358356",
+            "time_codes": [
+              545000,
+              1244000,
+              1737000,
+              2248000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003211M001",
+            "title": "",
+            "subtitle": "第3211集 出國不買這個對不起自己!! 各國必敗收藏就是它",
+            "ep_number": 3211,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762279800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358357",
+            "time_codes": [
+              514000,
+              1181000,
+              1698000,
+              2199000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003212M001",
+            "title": "",
+            "subtitle": "第3212集 各國誰是生活智慧王?! 改變生活品質小物大比拚",
+            "ep_number": 3212,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762282800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358358",
+            "time_codes": [
+              611000,
+              1211000,
+              1721000,
+              2209000
+            ],
+            "timecode_duration": [],
+            "length": 2696000,
+            "asset_id": "vod9985-003213M001",
+            "title": "",
+            "subtitle": "第3213集 現在最夯的就是它 人氣萌娃席捲全球!!",
+            "ep_number": 3213,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762285800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358359",
+            "time_codes": [
+              597000,
+              1243000,
+              1712000,
+              2207000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003214M001",
+            "title": "",
+            "subtitle": "第3214集 台灣人講的這些話 外國人證明不可信?!",
+            "ep_number": 3214,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762288800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358360",
+            "time_codes": [
+              565000,
+              1194000,
+              1710000,
+              2223000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003215M001",
+            "title": "",
+            "subtitle": "第3215集 外國人的慘痛戀愛經驗!! 千萬別跟這國人交往?!",
+            "ep_number": 3215,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762291800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358361",
+            "time_codes": [
+              555000,
+              1222000,
+              1688000,
+              2194000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003216M001",
+            "title": "",
+            "subtitle": "第3216集 想順利出國旅遊不卡關?! 這些機場眉角要注意!!",
+            "ep_number": 3216,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762294800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358362",
+            "time_codes": [
+              618000,
+              1312000,
+              1788000,
+              2272000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003217M001",
+            "title": "",
+            "subtitle": "第3217集 出國旅遊最怕發生意外!! 只要這樣做就能保平安?!",
+            "ep_number": 3217,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762297800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358363",
+            "time_codes": [
+              584000,
+              1252000,
+              1718000,
+              2223000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003218M001",
+            "title": "",
+            "subtitle": "第3218集 亞洲人的習以為常 在西方國家變破壞狂?!",
+            "ep_number": 3218,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762300800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358364",
+            "time_codes": [
+              566000,
+              1246000,
+              1732000,
+              2217000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003219M001",
+            "title": "",
+            "subtitle": "第3219集 老饕新住民不藏私推薦 各國必囤零食就是這款!!",
+            "ep_number": 3219,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762303800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00358365",
+            "time_codes": [
+              541000,
+              1177000,
+              1703000,
+              2193000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003220M001",
+            "title": "",
+            "subtitle": "第3220集 各國人眉角超難懂!! 不讓他們做這些事會瘋掉",
+            "ep_number": 3220,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762306800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375508",
+            "time_codes": [
+              600000,
+              1217000,
+              1730000,
+              2232000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod9985-003300M001",
+            "title": "",
+            "subtitle": "第3300集 水災、火災還有熊出沒?! 各國人遭遇什麼氣候災難?",
+            "ep_number": 3300,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762309800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375509",
+            "time_codes": [
+              629000,
+              1263000,
+              1718000,
+              2207000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003301M001",
+            "title": "",
+            "subtitle": "第3301集 出國旅遊別再吃老梗料理!! 這些才是真正的隱藏版美味?!",
+            "ep_number": 3301,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762312800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375510",
+            "time_codes": [
+              613000,
+              1307000,
+              1789000,
+              2213000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod9985-003302M001",
+            "title": "",
+            "subtitle": "第3302集 各國社會現象的蛛絲馬跡... 從各國OO指數就能見端倪?!",
+            "ep_number": 3302,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762315800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375511",
+            "time_codes": [
+              560000,
+              1241000,
+              1724000,
+              2209000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003303M001",
+            "title": "",
+            "subtitle": "第3303集 台灣這東西大得驚人 外國人全被嚇壞了?!",
+            "ep_number": 3303,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762318800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375512",
+            "time_codes": [
+              607000,
+              1171000,
+              1685000,
+              2195000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod9985-003304M001",
+            "title": "",
+            "subtitle": "第3304集 各國人的被騙關鍵字!! 遇到這些秒上當受騙?!",
+            "ep_number": 3304,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762321800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375513",
+            "time_codes": [
+              665000,
+              1302000,
+              1777000,
+              2266000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003305M001",
+            "title": "",
+            "subtitle": "第3305集 冷颼颼還是熱呼呼 冷熱國家哪個好?!",
+            "ep_number": 3305,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762324800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375514",
+            "time_codes": [
+              624000,
+              1253000,
+              1743000,
+              2223000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003306M001",
+            "title": "",
+            "subtitle": "第3306集 什麼!!看似普通卻價值連城!! 這東西竟然可以賣到天價?!",
+            "ep_number": 3306,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762327800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375515",
+            "time_codes": [
+              633000,
+              1286000,
+              1716000,
+              2217000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003307M001",
+            "title": "",
+            "subtitle": "第3307集 台灣毛骨悚然禁忌傳說 外國人偏偏不信邪?!",
+            "ep_number": 3307,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762330800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375516",
+            "time_codes": [
+              586000,
+              1157000,
+              1677000,
+              2173000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod9985-003308M001",
+            "title": "",
+            "subtitle": "第3308集 中國知名咖啡進軍美國!! 即將掀起世界咖啡大戰?!",
+            "ep_number": 3308,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762333800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375517",
+            "time_codes": [
+              612000,
+              1242000,
+              1710000,
+              2205000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003309M001",
+            "title": "",
+            "subtitle": "第3309集 今晚狂歡趴踢不要停!! 各國人聚會都在玩這個!!",
+            "ep_number": 3309,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762336800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375518",
+            "time_codes": [
+              547000,
+              1201000,
+              1718000,
+              2204000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003310M001",
+            "title": "",
+            "subtitle": "第3310集 出國旅遊別當老鼠屎!! 這國人竟是超級麻煩製造者?!",
+            "ep_number": 3310,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762339800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375519",
+            "time_codes": [
+              545000,
+              1244000,
+              1737000,
+              2248000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod9985-003311M001",
+            "title": "",
+            "subtitle": "第3311集 時代變化到底是好是壞... 各國的經典居然變成這樣?!",
+            "ep_number": 3311,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762342800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375520",
+            "time_codes": [
+              514000,
+              1181000,
+              1698000,
+              2199000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003312M001",
+            "title": "",
+            "subtitle": "第3312集 台灣人就是不想等 什麼都要搶第一?!",
+            "ep_number": 3312,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762345800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375521",
+            "time_codes": [
+              611000,
+              1211000,
+              1721000,
+              2209000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003313M001",
+            "title": "",
+            "subtitle": "第3313集 再熱也不吹冷氣再忙也要午休 各國人不願改變全因OO",
+            "ep_number": 3313,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762348800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375522",
+            "time_codes": [
+              597000,
+              1243000,
+              1712000,
+              2207000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003314M001",
+            "title": "",
+            "subtitle": "第3314集 各國這些神秘潛規則... 竟讓當地人噤若寒蟬?!",
+            "ep_number": 3314,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762351800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375523",
+            "time_codes": [
+              565000,
+              1194000,
+              1710000,
+              2223000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003315M001",
+            "title": "",
+            "subtitle": "第3315集 各國不可思議數不清!! 這些特殊文化你聽過嗎?!",
+            "ep_number": 3315,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762354800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375524",
+            "time_codes": [
+              555000,
+              1222000,
+              1688000,
+              2194000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003316M001",
+            "title": "",
+            "subtitle": "第3316集 一個人在台灣生活... 外國人遇到的獨特挑戰",
+            "ep_number": 3316,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762357800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375525",
+            "time_codes": [
+              618000,
+              1312000,
+              1788000,
+              2272000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003317M001",
+            "title": "",
+            "subtitle": "第3317集 我說第二沒人敢說第一!! 各國這件事竟無人能敵?!",
+            "ep_number": 3317,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762360800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375526",
+            "time_codes": [
+              584000,
+              1252000,
+              1718000,
+              2223000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003318M001",
+            "title": "",
+            "subtitle": "第3318集 台灣人把@唸成小老鼠 超奇怪行為嚇傻外國人",
+            "ep_number": 3318,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762363800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375527",
+            "time_codes": [
+              566000,
+              1246000,
+              1732000,
+              2217000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003319M001",
+            "title": "",
+            "subtitle": "第3319集 異國教育太特別...  各國父母更重視它?!",
+            "ep_number": 3319,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762366800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00375528",
+            "time_codes": [
+              541000,
+              1177000,
+              1703000,
+              2193000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod9985-003320M001",
+            "title": "",
+            "subtitle": "第3320集 這款獵奇商品超熱賣!! 爆紅泰國襯衫竟是台味圖案",
+            "ep_number": 3320,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762369800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00377122",
+            "time_codes": [
+              627000,
+              1211000,
+              1714000,
+              2201000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003321M001",
+            "title": "",
+            "subtitle": "第3321集 我們國家的這個東西... 竟讓各國人爭相追捧?!",
+            "ep_number": 3321,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762372800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00377123",
+            "time_codes": [
+              609000,
+              1243000,
+              1739000,
+              2241000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003322M001",
+            "title": "",
+            "subtitle": "第3322集 當地人口袋名單不藏私!! 各國必逛這些專賣店?!",
+            "ep_number": 3322,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762375800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00377124",
+            "time_codes": [
+              503000,
+              1176000,
+              1692000,
+              2118000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003323M001",
+            "title": "",
+            "subtitle": "第3323集 2025全球智商排行榜出爐!! 這國榮登全球最聰明國家?!",
+            "ep_number": 3323,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762378800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00377125",
+            "time_codes": [
+              600000,
+              1235000,
+              1748000,
+              2240000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003324M001",
+            "title": "",
+            "subtitle": "第3324集 人前人後兩張臉... 台灣女生驚喜的反差萌",
+            "ep_number": 3324,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762381800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00377126",
+            "time_codes": [
+              550000,
+              1254000,
+              1696000,
+              2215000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003325M001",
+            "title": "",
+            "subtitle": "第3325集 你敢相信竟有這種事?! 各國人的怪奇習慣超驚人!!",
+            "ep_number": 3325,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762384800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00377127",
+            "time_codes": [
+              585000,
+              1188000,
+              1639000,
+              2144000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003326M001",
+            "title": "",
+            "subtitle": "第3326集 出國才有的震撼教育 不懂這些有夠丟臉?!",
+            "ep_number": 3326,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762387800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00377128",
+            "time_codes": [
+              623000,
+              1319000,
+              1728000,
+              2206000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003327M001",
+            "title": "",
+            "subtitle": "第3327集 各國隨處可見的奇特小物!! 原來都有神奇功效?!",
+            "ep_number": 3327,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762390800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00377129",
+            "time_codes": [
+              592000,
+              1208000,
+              1704000,
+              2198000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003328M001",
+            "title": "",
+            "subtitle": "第3328集 台灣人別再只去日本啦 這些國家更值得去玩!!",
+            "ep_number": 3328,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762393800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00377130",
+            "time_codes": [
+              577000,
+              1264000,
+              1762000,
+              2252000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003329M001",
+            "title": "",
+            "subtitle": "第3329集 全球都逃不過這股潮流!! 各國竟被這東西入侵了?!",
+            "ep_number": 3329,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762396800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00377131",
+            "time_codes": [
+              600000,
+              1255000,
+              1742000,
+              2219000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003330M001",
+            "title": "",
+            "subtitle": "第3330集 出國看不懂OO ?!  小心被當肥羊宰!!",
+            "ep_number": 3330,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762399800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00377132",
+            "time_codes": [
+              571000,
+              1250000,
+              1687000,
+              2182000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003331M001",
+            "title": "",
+            "subtitle": "第3331集 年齡不過是數字而已!! 各國阿姨判定標準你中了嗎?!",
+            "ep_number": 3331,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762402800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00377133",
+            "time_codes": [
+              605000,
+              1264000,
+              1763000,
+              2201000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod9985-003332M001",
+            "title": "",
+            "subtitle": "第3332集 各國詐騙無所不在!! 這幾招學起來就能防詐?!",
+            "ep_number": 3332,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762405800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00377134",
+            "time_codes": [
+              539000,
+              1216000,
+              1717000,
+              2199000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003333M001",
+            "title": "",
+            "subtitle": "第3333集 2025年最夯旅遊關鍵字 一個人的冒險流行中?!",
+            "ep_number": 3333,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762408800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00377135",
+            "time_codes": [
+              557000,
+              1226000,
+              1726000,
+              2214000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod9985-003334M001",
+            "title": "",
+            "subtitle": "第3334集 超奇特基因大公開!! 只有這國人有這些基因?!",
+            "ep_number": 3334,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762411800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00377136",
+            "time_codes": [
+              563000,
+              1223000,
+              1723000,
+              2204000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003335M001",
+            "title": "",
+            "subtitle": "第3335集 錢要花在刀口上!! 各國平替好物來開箱",
+            "ep_number": 3335,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762414800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          },
+          {
+            "content_id": "VOD00377137",
+            "time_codes": [
+              626000,
+              1280000,
+              1702000,
+              2201000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod9985-003336M001",
+            "title": "",
+            "subtitle": "第3336集 各國姓名隱藏大學問!! 這些故事讓你大開眼界?!",
+            "ep_number": 3336,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762417800000,
+            "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+          }
+        ],
+        "total_length": 259136000,
+        "focus_index": 38,
+        "next_index": 39,
+        "time": 1981476,
+        "focus_program": {
+          "content_id": "VOD00354213",
+          "time_codes": [
+            588000,
+            1216000,
+            1708000,
+            2200000
+          ],
+          "timecode_duration": [],
+          "length": 2700000,
+          "asset_id": "vod9985-003200M001",
+          "title": "",
+          "subtitle": "第3200集 旅遊拒絕人擠人!! 各國鄉下也是好好玩",
+          "ep_number": 3200,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762246800000,
+          "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜藝",
+          "EngName": "Entertainment",
+          "MenuOrder": 8
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3301_ofiii129_mobile_20240327.png",
+      "description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

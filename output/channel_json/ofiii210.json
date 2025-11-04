@@ -1,0 +1,275 @@
+{
+  "pageProps": {
+    "contentId": "ofiii210",
+    "channel": {
+      "title": "台灣向前行",
+      "no": 210,
+      "charge_mode": "F",
+      "content_id": "ofiii210",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        5
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3845_ofiii210_tv_20250827.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "民視",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6779",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1756868749.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 210,
+        "cdn_code": "ofiii210",
+        "start_time": 1762144800000,
+        "programs": [
+          {
+            "content_id": "VOD00379290",
+            "time_codes": [
+              818000,
+              2011000,
+              2662000,
+              3635000
+            ],
+            "timecode_duration": [],
+            "length": 4502000,
+            "asset_id": "vod79237-000067M001",
+            "title": "",
+            "subtitle": "共軍操盤介選？國民黨當實驗品？ 鄭麗文做主席！命令難出黨中央？",
+            "ep_number": 67,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762144800000,
+            "vod_channel_description": "新聞看民視和您一起討論最新最熱的時事新聞！"
+          },
+          {
+            "content_id": "VOD00379291",
+            "time_codes": [
+              968000,
+              1976000,
+              2700000,
+              3641000
+            ],
+            "timecode_duration": [],
+            "length": 4502000,
+            "asset_id": "vod79237-000068M001",
+            "title": "",
+            "subtitle": "3波藝人閃兵！黨國權貴同一招？狗園第1桶金？黃國昌小姨子角色？",
+            "ep_number": 68,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762149600000,
+            "vod_channel_description": "新聞看民視和您一起討論最新最熱的時事新聞！"
+          },
+          {
+            "content_id": "VOD00379292",
+            "time_codes": [
+              1224000,
+              1879000,
+              2672000,
+              3555000
+            ],
+            "timecode_duration": [],
+            "length": 4502000,
+            "asset_id": "vod79237-000069M001",
+            "title": "",
+            "subtitle": "台中非洲豬瘟？盧秀驗喊購物節？ 黃國昌竊企業機敏資料？疑雲+1？",
+            "ep_number": 69,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762154400000,
+            "vod_channel_description": "新聞看民視和您一起討論最新最熱的時事新聞！"
+          },
+          {
+            "content_id": "VOD00379293",
+            "time_codes": [
+              1103000,
+              1815000,
+              2829000,
+              3703000
+            ],
+            "timecode_duration": [],
+            "length": 4492000,
+            "asset_id": "vod79237-000070M001",
+            "title": "",
+            "subtitle": "生化武器？盧媽宅配非洲豬瘟檢體？ 閃兵盤子是他！顏志琳涼山對照組？",
+            "ep_number": 70,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762159200000,
+            "vod_channel_description": "新聞看民視和您一起討論最新最熱的時事新聞！"
+          },
+          {
+            "content_id": "VOD00381506",
+            "time_codes": [
+              1223000,
+              1888000,
+              2700000,
+              4007000
+            ],
+            "timecode_duration": [],
+            "length": 4479000,
+            "asset_id": "vod79237-000071M001",
+            "title": "",
+            "subtitle": "盧媽牽拖遭打臉？養豬協會問1事！ 昌狗園比週刊大？謝幸恩也在問？",
+            "ep_number": 71,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762164000000,
+            "vod_channel_description": "新聞看民視和您一起討論最新最熱的時事新聞！"
+          },
+          {
+            "content_id": "VOD00381507",
+            "time_codes": [
+              930000,
+              1889000,
+              2804000,
+              3616000
+            ],
+            "timecode_duration": [],
+            "length": 4475000,
+            "asset_id": "vod79237-000072M001",
+            "title": "",
+            "subtitle": "張峻驚天踹！「傅座談」只找聽話的？ 豬瘟「六改口」！盧媽「為什麼愛說謊」？",
+            "ep_number": 72,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762168800000,
+            "vod_channel_description": "新聞看民視和您一起討論最新最熱的時事新聞！"
+          },
+          {
+            "content_id": "VOD00381508",
+            "time_codes": [
+              845000,
+              1664000,
+              2588000,
+              3516000
+            ],
+            "timecode_duration": [],
+            "length": 4504000,
+            "asset_id": "vod79237-000073M001",
+            "title": "",
+            "subtitle": "10/10前「死9頭豬」？盧媽搞錯第1例？ 柯P橘子翻版？國昌「李子」帳房出國？",
+            "ep_number": 73,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762173600000,
+            "vod_channel_description": "新聞看民視和您一起討論最新最熱的時事新聞！"
+          },
+          {
+            "content_id": "VOD00381509",
+            "time_codes": [
+              966000,
+              1742000,
+              2919000,
+              3768000
+            ],
+            "timecode_duration": [],
+            "length": 4474000,
+            "asset_id": "vod79237-000074M001",
+            "title": "",
+            "subtitle": "「野豬」危機？「燕圾湖」恐害台萬劫不復？ 川普叫牌習！「台灣就是台灣」深意？",
+            "ep_number": 74,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762178400000,
+            "vod_channel_description": "新聞看民視和您一起討論最新最熱的時事新聞！"
+          },
+          {
+            "content_id": "VOD00381510",
+            "time_codes": [
+              1100000,
+              1741000,
+              2804000,
+              3719000
+            ],
+            "timecode_duration": [],
+            "length": 4502000,
+            "asset_id": "vod79237-000075M001",
+            "title": "",
+            "subtitle": "廚餘車加蓋？台中還要請示中央？ 川習會沒談台灣！鄭麗文卻在罵賴？",
+            "ep_number": 75,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762183200000,
+            "vod_channel_description": "新聞看民視和您一起討論最新最熱的時事新聞！"
+          },
+          {
+            "content_id": "VOD00381511",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000,
+              3600000,
+              4200000
+            ],
+            "timecode_duration": [],
+            "length": 4503000,
+            "asset_id": "vod79237-000076M001",
+            "title": "",
+            "subtitle": "徐榛蔚不提季連成還甩鍋？白眼狼？ 豬場病毒+3處！盧媽中央處理器？",
+            "ep_number": 76,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762188000000,
+            "vod_channel_description": "新聞看民視和您一起討論最新最熱的時事新聞！"
+          }
+        ],
+        "total_length": 44935000,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 2880572,
+        "focus_program": {
+          "content_id": "VOD00379290",
+          "time_codes": [
+            818000,
+            2011000,
+            2662000,
+            3635000
+          ],
+          "timecode_duration": [],
+          "length": 4502000,
+          "asset_id": "vod79237-000067M001",
+          "title": "",
+          "subtitle": "共軍操盤介選？國民黨當實驗品？ 鄭麗文做主席！命令難出黨中央？",
+          "ep_number": 67,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762144800000,
+          "vod_channel_description": "新聞看民視和您一起討論最新最熱的時事新聞！"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "新聞‧財經",
+          "EngName": "News & Finance",
+          "MenuOrder": 3
+        }
+      ]
+    },
+    "introduction": null,
+    "recommends": null,
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

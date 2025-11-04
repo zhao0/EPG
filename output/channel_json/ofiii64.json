@@ -1,0 +1,1143 @@
+{
+  "pageProps": {
+    "contentId": "ofiii64",
+    "channel": {
+      "title": "第1財經",
+      "no": 64,
+      "charge_mode": "F",
+      "content_id": "ofiii64",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        5
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_ofiii64_tv_20221110.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station5516",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1679019674.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 64,
+        "cdn_code": "ofiii64",
+        "start_time": 1762061100000,
+        "programs": [
+          {
+            "content_id": "VOD00369590",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2116000,
+            "asset_id": "vod50513-000183M001",
+            "title": "鉅亨加密世界",
+            "subtitle": "巨鯨起風了！加密貨幣如何掌握籌碼？比學技術分析還管用！？",
+            "ep_number": 183,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762061100000,
+            "vod_channel_description": "帶您了解區塊鏈加密投資的秘辛，牛市來臨前的布局，以及區塊鏈世界的新聞，最新發展趨勢，有趣的事件，讓您一手掌握未來世界生活的顛覆、新的商機與賺錢方式。"
+          },
+          {
+            "content_id": "VOD00314480",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 1945000,
+            "asset_id": "vod39117-000190M001",
+            "title": "港股大講堂",
+            "subtitle": "IPO回暖港股調整近尾聲 中長線前景有所改善嗎？",
+            "ep_number": 190,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762063500000,
+            "vod_channel_description": "由香港鉅亨證券的專家帶您認識港股、更加了解這個國際化的資本市場，讓您不再錯過相關的投資機會！"
+          },
+          {
+            "content_id": "VOD00364107",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 827000,
+            "asset_id": "vod40896-000249M001",
+            "title": "財經皓角",
+            "subtitle": "第249集 關稅倒數 川普大獲全勝？",
+            "ep_number": 249,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762065600000,
+            "vod_channel_description": "《財經皓角》是游庭皓的個人財經脫口秀節目，以財經視角顛覆你對世界的想像，不求偉大理論，只為在短短十分鐘內，為你熬煮一鍋知識濃湯。"
+          },
+          {
+            "content_id": "VOD00325326",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000
+            ],
+            "timecode_duration": [],
+            "length": 2875000,
+            "asset_id": "vod39114-000248M001",
+            "title": "鉅亨看世界",
+            "subtitle": "美國CPI來襲 降息之路再迎重磅考驗！",
+            "ep_number": 248,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762066800000,
+            "vod_channel_description": "講解國際經濟與投資市場動態，深入淺出的解說與精闢分析，讓您抓緊世界金融脈動。"
+          },
+          {
+            "content_id": "VOD00369591",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 1998000,
+            "asset_id": "vod50513-000184M001",
+            "title": "鉅亨加密世界",
+            "subtitle": "美國9兆美元投資加密貨幣？新平衡打造退休市場新趨勢！",
+            "ep_number": 184,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762069800000,
+            "vod_channel_description": "帶您了解區塊鏈加密投資的秘辛，牛市來臨前的布局，以及區塊鏈世界的新聞，最新發展趨勢，有趣的事件，讓您一手掌握未來世界生活的顛覆、新的商機與賺錢方式。"
+          },
+          {
+            "content_id": "VOD00338925",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1830000,
+            "asset_id": "vod39117-000191M001",
+            "title": "港股大講堂",
+            "subtitle": "港股 7 月弱勢震盪，三季度是「危」還是「機」 ?",
+            "ep_number": 191,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762071900000,
+            "vod_channel_description": "由香港鉅亨證券的專家帶您認識港股、更加了解這個國際化的資本市場，讓您不再錯過相關的投資機會！"
+          },
+          {
+            "content_id": "VOD00364108",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 559000,
+            "asset_id": "vod40896-000250M001",
+            "title": "財經皓角",
+            "subtitle": "第250集 Q2財報開跑 美台股還能撐？",
+            "ep_number": 250,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762074000000,
+            "vod_channel_description": "《財經皓角》是游庭皓的個人財經脫口秀節目，以財經視角顛覆你對世界的想像，不求偉大理論，只為在短短十分鐘內，為你熬煮一鍋知識濃湯。"
+          },
+          {
+            "content_id": "VOD00325327",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000
+            ],
+            "timecode_duration": [],
+            "length": 2997000,
+            "asset_id": "vod39114-000249M001",
+            "title": "鉅亨看世界",
+            "subtitle": "七成企業獲利超預期 美股後市仍看漲？",
+            "ep_number": 249,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762074900000,
+            "vod_channel_description": "講解國際經濟與投資市場動態，深入淺出的解說與精闢分析，讓您抓緊世界金融脈動。"
+          },
+          {
+            "content_id": "VOD00369592",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2030000,
+            "asset_id": "vod50513-000185M001",
+            "title": "鉅亨加密世界",
+            "subtitle": "ETH以太幣復甦！？美股代幣化已到？金融發展的新變局！",
+            "ep_number": 185,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762078200000,
+            "vod_channel_description": "帶您了解區塊鏈加密投資的秘辛，牛市來臨前的布局，以及區塊鏈世界的新聞，最新發展趨勢，有趣的事件，讓您一手掌握未來世界生活的顛覆、新的商機與賺錢方式。"
+          },
+          {
+            "content_id": "VOD00338926",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 1999000,
+            "asset_id": "vod39117-000192M001",
+            "title": "港股大講堂",
+            "subtitle": "國際股市大幅波動，港股會有危機嗎 ?",
+            "ep_number": 192,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762080300000,
+            "vod_channel_description": "由香港鉅亨證券的專家帶您認識港股、更加了解這個國際化的資本市場，讓您不再錯過相關的投資機會！"
+          },
+          {
+            "content_id": "VOD00371317",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 595000,
+            "asset_id": "vod40896-000251M001",
+            "title": "財經皓角",
+            "subtitle": "第251集 台積電創史高 市場終於樂觀了？",
+            "ep_number": 251,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762082400000,
+            "vod_channel_description": "《財經皓角》是游庭皓的個人財經脫口秀節目，以財經視角顛覆你對世界的想像，不求偉大理論，只為在短短十分鐘內，為你熬煮一鍋知識濃湯。"
+          },
+          {
+            "content_id": "VOD00325328",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000
+            ],
+            "timecode_duration": [],
+            "length": 2681000,
+            "asset_id": "vod39114-000250M001",
+            "title": "鉅亨看世界",
+            "subtitle": "AI龍頭股推升那指創新高 美股將迎來關鍵數據週！",
+            "ep_number": 250,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762083300000,
+            "vod_channel_description": "講解國際經濟與投資市場動態，深入淺出的解說與精闢分析，讓您抓緊世界金融脈動。"
+          },
+          {
+            "content_id": "VOD00369593",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 1901000,
+            "asset_id": "vod50513-000186M001",
+            "title": "鉅亨加密世界",
+            "subtitle": "五⼤國家級加密儲備！掌握關鍵交易訊號？⽜市的核⼼引擎！",
+            "ep_number": 186,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762086300000,
+            "vod_channel_description": "帶您了解區塊鏈加密投資的秘辛，牛市來臨前的布局，以及區塊鏈世界的新聞，最新發展趨勢，有趣的事件，讓您一手掌握未來世界生活的顛覆、新的商機與賺錢方式。"
+          },
+          {
+            "content_id": "VOD00338927",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1884000,
+            "asset_id": "vod39117-000193M001",
+            "title": "港股大講堂",
+            "subtitle": "美國9月進入降息週期，港股有和投資機會?",
+            "ep_number": 193,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762088400000,
+            "vod_channel_description": "由香港鉅亨證券的專家帶您認識港股、更加了解這個國際化的資本市場，讓您不再錯過相關的投資機會！"
+          },
+          {
+            "content_id": "VOD00371318",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 660000,
+            "asset_id": "vod40896-000252M001",
+            "title": "財經皓角",
+            "subtitle": "第252集 關稅戰尾聲 台積新挑戰？",
+            "ep_number": 252,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762090500000,
+            "vod_channel_description": "《財經皓角》是游庭皓的個人財經脫口秀節目，以財經視角顛覆你對世界的想像，不求偉大理論，只為在短短十分鐘內，為你熬煮一鍋知識濃湯。"
+          },
+          {
+            "content_id": "VOD00335917",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000
+            ],
+            "timecode_duration": [],
+            "length": 3416000,
+            "asset_id": "vod39114-000251M001",
+            "title": "鉅亨看世界",
+            "subtitle": "市場預期2024年降息兩碼 但美股「不均衡繁榮」引發擔憂",
+            "ep_number": 251,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762091400000,
+            "vod_channel_description": "講解國際經濟與投資市場動態，深入淺出的解說與精闢分析，讓您抓緊世界金融脈動。"
+          },
+          {
+            "content_id": "VOD00369594",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2283000,
+            "asset_id": "vod50513-000187M001",
+            "title": "鉅亨加密世界",
+            "subtitle": "用數據捕捉短線波動爆發！用數據提前預見行情轉折，比盯K線還管用！？",
+            "ep_number": 187,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762095000000,
+            "vod_channel_description": "帶您了解區塊鏈加密投資的秘辛，牛市來臨前的布局，以及區塊鏈世界的新聞，最新發展趨勢，有趣的事件，讓您一手掌握未來世界生活的顛覆、新的商機與賺錢方式。"
+          },
+          {
+            "content_id": "VOD00338928",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2386000,
+            "asset_id": "vod39117-000194M001",
+            "title": "港股大講堂",
+            "subtitle": "中國超預期政策支持，港股急漲還有空間？",
+            "ep_number": 194,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762097400000,
+            "vod_channel_description": "由香港鉅亨證券的專家帶您認識港股、更加了解這個國際化的資本市場，讓您不再錯過相關的投資機會！"
+          },
+          {
+            "content_id": "VOD00371319",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 843000,
+            "asset_id": "vod40896-000253M001",
+            "title": "財經皓角",
+            "subtitle": "第253集 關稅戰結束 台灣頂得住？",
+            "ep_number": 253,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762100100000,
+            "vod_channel_description": "《財經皓角》是游庭皓的個人財經脫口秀節目，以財經視角顛覆你對世界的想像，不求偉大理論，只為在短短十分鐘內，為你熬煮一鍋知識濃湯。"
+          },
+          {
+            "content_id": "VOD00335918",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000
+            ],
+            "timecode_duration": [],
+            "length": 3665000,
+            "asset_id": "vod39114-000252M001",
+            "title": "鉅亨看世界",
+            "subtitle": "2024下半年美元是否由強轉弱？",
+            "ep_number": 252,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762101300000,
+            "vod_channel_description": "講解國際經濟與投資市場動態，深入淺出的解說與精闢分析，讓您抓緊世界金融脈動。"
+          },
+          {
+            "content_id": "VOD00369595",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2076000,
+            "asset_id": "vod50513-000188M001",
+            "title": "鉅亨加密世界",
+            "subtitle": "交易者看過來！掛單也有學問！？掌握不同行情的交易策略！",
+            "ep_number": 188,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762105200000,
+            "vod_channel_description": "帶您了解區塊鏈加密投資的秘辛，牛市來臨前的布局，以及區塊鏈世界的新聞，最新發展趨勢，有趣的事件，讓您一手掌握未來世界生活的顛覆、新的商機與賺錢方式。"
+          },
+          {
+            "content_id": "VOD00338929",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2321000,
+            "asset_id": "vod39117-000195M001",
+            "title": "港股大講堂",
+            "subtitle": "港股急漲暴跌，牛市行情結束了嗎？",
+            "ep_number": 195,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762107600000,
+            "vod_channel_description": "由香港鉅亨證券的專家帶您認識港股、更加了解這個國際化的資本市場，讓您不再錯過相關的投資機會！"
+          },
+          {
+            "content_id": "VOD00371320",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 616000,
+            "asset_id": "vod40896-000254M001",
+            "title": "財經皓角",
+            "subtitle": "第254集 半導體關稅公布 股市安心了嗎？",
+            "ep_number": 254,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762110000000,
+            "vod_channel_description": "《財經皓角》是游庭皓的個人財經脫口秀節目，以財經視角顛覆你對世界的想像，不求偉大理論，只為在短短十分鐘內，為你熬煮一鍋知識濃湯。"
+          },
+          {
+            "content_id": "VOD00335919",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000
+            ],
+            "timecode_duration": [],
+            "length": 3090000,
+            "asset_id": "vod39114-000253M001",
+            "title": "鉅亨看世界",
+            "subtitle": "下一波多頭即將來臨？ 美國總統大選走向與降息預測",
+            "ep_number": 253,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762110900000,
+            "vod_channel_description": "講解國際經濟與投資市場動態，深入淺出的解說與精闢分析，讓您抓緊世界金融脈動。"
+          },
+          {
+            "content_id": "VOD00369596",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2272000,
+            "asset_id": "vod50513-000189M001",
+            "title": "鉅亨加密世界",
+            "subtitle": "九月降息！？狂歡時刻即將到來？各國對加密貨幣政策方向！",
+            "ep_number": 189,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762114200000,
+            "vod_channel_description": "帶您了解區塊鏈加密投資的秘辛，牛市來臨前的布局，以及區塊鏈世界的新聞，最新發展趨勢，有趣的事件，讓您一手掌握未來世界生活的顛覆、新的商機與賺錢方式。"
+          },
+          {
+            "content_id": "VOD00338930",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1890000,
+            "asset_id": "vod39117-000196M001",
+            "title": "港股大講堂",
+            "subtitle": "川普回歸中美摩擦加劇 ? 港股年前可一路走高 ?",
+            "ep_number": 196,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762116600000,
+            "vod_channel_description": "由香港鉅亨證券的專家帶您認識港股、更加了解這個國際化的資本市場，讓您不再錯過相關的投資機會！"
+          },
+          {
+            "content_id": "VOD00371321",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 675000,
+            "asset_id": "vod40896-000255M001",
+            "title": "財經皓角",
+            "subtitle": "第255集 通膨數據到底準不準？",
+            "ep_number": 255,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762118700000,
+            "vod_channel_description": "《財經皓角》是游庭皓的個人財經脫口秀節目，以財經視角顛覆你對世界的想像，不求偉大理論，只為在短短十分鐘內，為你熬煮一鍋知識濃湯。"
+          },
+          {
+            "content_id": "VOD00335920",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000
+            ],
+            "timecode_duration": [],
+            "length": 3244000,
+            "asset_id": "vod39114-000254M001",
+            "title": "鉅亨看世界",
+            "subtitle": "全球超級央行周揭開序幕 台&美股是否健康回檔？",
+            "ep_number": 254,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762119600000,
+            "vod_channel_description": "講解國際經濟與投資市場動態，深入淺出的解說與精闢分析，讓您抓緊世界金融脈動。"
+          },
+          {
+            "content_id": "VOD00369597",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2141000,
+            "asset_id": "vod50513-000190M001",
+            "title": "鉅亨加密世界",
+            "subtitle": "網格交易你還不會？ 掌握市場方向：用數據抓網格機會！",
+            "ep_number": 190,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762123200000,
+            "vod_channel_description": "帶您了解區塊鏈加密投資的秘辛，牛市來臨前的布局，以及區塊鏈世界的新聞，最新發展趨勢，有趣的事件，讓您一手掌握未來世界生活的顛覆、新的商機與賺錢方式。"
+          },
+          {
+            "content_id": "VOD00338931",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 1964000,
+            "asset_id": "vod39117-000197M001",
+            "title": "港股大講堂",
+            "subtitle": "港股疲軟回跌 恆指近19000點是危還是機呢",
+            "ep_number": 197,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762125600000,
+            "vod_channel_description": "由香港鉅亨證券的專家帶您認識港股、更加了解這個國際化的資本市場，讓您不再錯過相關的投資機會！"
+          },
+          {
+            "content_id": "VOD00371322",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 719000,
+            "asset_id": "vod40896-000256M001",
+            "title": "財經皓角",
+            "subtitle": "第256集 AI泡沫論真的存在嗎？",
+            "ep_number": 256,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762127700000,
+            "vod_channel_description": "《財經皓角》是游庭皓的個人財經脫口秀節目，以財經視角顛覆你對世界的想像，不求偉大理論，只為在短短十分鐘內，為你熬煮一鍋知識濃湯。"
+          },
+          {
+            "content_id": "VOD00335921",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000
+            ],
+            "timecode_duration": [],
+            "length": 2736000,
+            "asset_id": "vod39114-000255M001",
+            "title": "鉅亨看世界",
+            "subtitle": "降息倒數中，經濟衰退疑慮？ 黃金成為避險首選！？",
+            "ep_number": 255,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762128600000,
+            "vod_channel_description": "講解國際經濟與投資市場動態，深入淺出的解說與精闢分析，讓您抓緊世界金融脈動。"
+          },
+          {
+            "content_id": "VOD00376179",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 1932000,
+            "asset_id": "vod50513-000191M001",
+            "title": "鉅亨加密世界",
+            "subtitle": "數兆美元的藍海：穩定幣引爆全球收益新時代！台灣有一席之地？",
+            "ep_number": 191,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762131600000,
+            "vod_channel_description": "帶您了解區塊鏈加密投資的秘辛，牛市來臨前的布局，以及區塊鏈世界的新聞，最新發展趨勢，有趣的事件，讓您一手掌握未來世界生活的顛覆、新的商機與賺錢方式。"
+          },
+          {
+            "content_id": "VOD00338932",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000
+            ],
+            "timecode_duration": [],
+            "length": 2631000,
+            "asset_id": "vod39117-000198M001",
+            "title": "港股大講堂",
+            "subtitle": "港股強勢反彈！技術性牛市來臨，投資者該如何佈局？",
+            "ep_number": 198,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762133700000,
+            "vod_channel_description": "由香港鉅亨證券的專家帶您認識港股、更加了解這個國際化的資本市場，讓您不再錯過相關的投資機會！"
+          },
+          {
+            "content_id": "VOD00371323",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 679000,
+            "asset_id": "vod40896-000257M001",
+            "title": "財經皓角",
+            "subtitle": "第257集 閣揆喊話 央行該放水了嗎？",
+            "ep_number": 257,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762136400000,
+            "vod_channel_description": "《財經皓角》是游庭皓的個人財經脫口秀節目，以財經視角顛覆你對世界的想像，不求偉大理論，只為在短短十分鐘內，為你熬煮一鍋知識濃湯。"
+          },
+          {
+            "content_id": "VOD00335922",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000
+            ],
+            "timecode_duration": [],
+            "length": 3434000,
+            "asset_id": "vod39114-000256M001",
+            "title": "鉅亨看世界",
+            "subtitle": "PCE符合預期 9月走勢如何影響投資決策？",
+            "ep_number": 256,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762137300000,
+            "vod_channel_description": "講解國際經濟與投資市場動態，深入淺出的解說與精闢分析，讓您抓緊世界金融脈動。"
+          },
+          {
+            "content_id": "VOD00376181",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 1904000,
+            "asset_id": "vod50513-000192M001",
+            "title": "鉅亨加密世界",
+            "subtitle": "告別紅色九月！迎接比特幣超級十月！？用數據解析中秋走勢！",
+            "ep_number": 192,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762140900000,
+            "vod_channel_description": "帶您了解區塊鏈加密投資的秘辛，牛市來臨前的布局，以及區塊鏈世界的新聞，最新發展趨勢，有趣的事件，讓您一手掌握未來世界生活的顛覆、新的商機與賺錢方式。"
+          },
+          {
+            "content_id": "VOD00338933",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2120000,
+            "asset_id": "vod39117-000199M001",
+            "title": "港股大講堂",
+            "subtitle": "港股跑贏環球股市！二季度該追還是該撤？",
+            "ep_number": 199,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762143000000,
+            "vod_channel_description": "由香港鉅亨證券的專家帶您認識港股、更加了解這個國際化的資本市場，讓您不再錯過相關的投資機會！"
+          },
+          {
+            "content_id": "VOD00371324",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 887000,
+            "asset_id": "vod40896-000258M001",
+            "title": "財經皓角",
+            "subtitle": "第258集 新青安房貸解封 央行如何接招？",
+            "ep_number": 258,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762145400000,
+            "vod_channel_description": "《財經皓角》是游庭皓的個人財經脫口秀節目，以財經視角顛覆你對世界的想像，不求偉大理論，只為在短短十分鐘內，為你熬煮一鍋知識濃湯。"
+          },
+          {
+            "content_id": "VOD00335923",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000
+            ],
+            "timecode_duration": [],
+            "length": 2862000,
+            "asset_id": "vod39114-000257M001",
+            "title": "鉅亨看世界",
+            "subtitle": "降息兩碼成焦點 央行周能否為美股帶來轉機？",
+            "ep_number": 257,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762146600000,
+            "vod_channel_description": "講解國際經濟與投資市場動態，深入淺出的解說與精闢分析，讓您抓緊世界金融脈動。"
+          },
+          {
+            "content_id": "VOD00376182",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2065000,
+            "asset_id": "vod50513-000193M001",
+            "title": "鉅亨加密世界",
+            "subtitle": "底部尋牛！迎接超級十月！？用巨鯨與板塊輪動捕捉山寨行情！",
+            "ep_number": 193,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762149600000,
+            "vod_channel_description": "帶您了解區塊鏈加密投資的秘辛，牛市來臨前的布局，以及區塊鏈世界的新聞，最新發展趨勢，有趣的事件，讓您一手掌握未來世界生活的顛覆、新的商機與賺錢方式。"
+          },
+          {
+            "content_id": "VOD00338934",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2055000,
+            "asset_id": "vod39117-000200M001",
+            "title": "港股大講堂",
+            "subtitle": "關稅政策下如何調整投資策略，港股前景如何？",
+            "ep_number": 200,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762152000000,
+            "vod_channel_description": "由香港鉅亨證券的專家帶您認識港股、更加了解這個國際化的資本市場，讓您不再錯過相關的投資機會！"
+          },
+          {
+            "content_id": "VOD00371325",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 981000,
+            "asset_id": "vod40896-000259M001",
+            "title": "財經皓角",
+            "subtitle": "第259集 降息潮將至 全球關稅沒通膨？",
+            "ep_number": 259,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762154400000,
+            "vod_channel_description": "《財經皓角》是游庭皓的個人財經脫口秀節目，以財經視角顛覆你對世界的想像，不求偉大理論，只為在短短十分鐘內，為你熬煮一鍋知識濃湯。"
+          },
+          {
+            "content_id": "VOD00335924",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2312000,
+            "asset_id": "vod39114-000258M001",
+            "title": "鉅亨看世界",
+            "subtitle": "Fed大幅降息！經濟將走向「軟著陸」？",
+            "ep_number": 258,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762155600000,
+            "vod_channel_description": "講解國際經濟與投資市場動態，深入淺出的解說與精闢分析，讓您抓緊世界金融脈動。"
+          },
+          {
+            "content_id": "VOD00376183",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 1950000,
+            "asset_id": "vod50513-000194M001",
+            "title": "鉅亨加密世界",
+            "subtitle": "重要的關鍵！？幣種熱點大追蹤！藏私篩選熱點的方法！",
+            "ep_number": 194,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762158000000,
+            "vod_channel_description": "帶您了解區塊鏈加密投資的秘辛，牛市來臨前的布局，以及區塊鏈世界的新聞，最新發展趨勢，有趣的事件，讓您一手掌握未來世界生活的顛覆、新的商機與賺錢方式。"
+          },
+          {
+            "content_id": "VOD00364509",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1871000,
+            "asset_id": "vod39117-000201M001",
+            "title": "港股大講堂",
+            "subtitle": "中美貿易風險不確定，投資策略該如何調整 ?",
+            "ep_number": 201,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762160100000,
+            "vod_channel_description": "由香港鉅亨證券的專家帶您認識港股、更加了解這個國際化的資本市場，讓您不再錯過相關的投資機會！"
+          },
+          {
+            "content_id": "VOD00371326",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 634000,
+            "asset_id": "vod40896-000260M001",
+            "title": "財經皓角",
+            "subtitle": "第260集 聯準會降息後 行情怎麼走？",
+            "ep_number": 260,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762162200000,
+            "vod_channel_description": "《財經皓角》是游庭皓的個人財經脫口秀節目，以財經視角顛覆你對世界的想像，不求偉大理論，只為在短短十分鐘內，為你熬煮一鍋知識濃湯。"
+          },
+          {
+            "content_id": "VOD00335925",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000
+            ],
+            "timecode_duration": [],
+            "length": 3116000,
+            "asset_id": "vod39114-000259M001",
+            "title": "鉅亨看世界",
+            "subtitle": "降息循環啟動後 股債會是機會或風險？",
+            "ep_number": 259,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762163100000,
+            "vod_channel_description": "講解國際經濟與投資市場動態，深入淺出的解說與精闢分析，讓您抓緊世界金融脈動。"
+          },
+          {
+            "content_id": "VOD00376185",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2037000,
+            "asset_id": "vod50513-000195M001",
+            "title": "鉅亨加密世界",
+            "subtitle": "價值儲存：從黃金到比特幣！再到區塊鏈黃金！",
+            "ep_number": 195,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762166400000,
+            "vod_channel_description": "帶您了解區塊鏈加密投資的秘辛，牛市來臨前的布局，以及區塊鏈世界的新聞，最新發展趨勢，有趣的事件，讓您一手掌握未來世界生活的顛覆、新的商機與賺錢方式。"
+          },
+          {
+            "content_id": "VOD00364510",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1680000,
+            "asset_id": "vod39117-000202M001",
+            "title": "港股大講堂",
+            "subtitle": "今周美股創新高，港股有追落後空間嗎？",
+            "ep_number": 202,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762168800000,
+            "vod_channel_description": "由香港鉅亨證券的專家帶您認識港股、更加了解這個國際化的資本市場，讓您不再錯過相關的投資機會！"
+          },
+          {
+            "content_id": "VOD00377913",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 633000,
+            "asset_id": "vod40896-000261M001",
+            "title": "財經皓角",
+            "subtitle": "第261集 黃金+AI 2025最強組合？",
+            "ep_number": 261,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762170600000,
+            "vod_channel_description": "《財經皓角》是游庭皓的個人財經脫口秀節目，以財經視角顛覆你對世界的想像，不求偉大理論，只為在短短十分鐘內，為你熬煮一鍋知識濃湯。"
+          },
+          {
+            "content_id": "VOD00335926",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2320000,
+            "asset_id": "vod39114-000260M001",
+            "title": "鉅亨看世界",
+            "subtitle": "股市迎來多頭曙光 債券面臨利多出盡！",
+            "ep_number": 260,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762171500000,
+            "vod_channel_description": "講解國際經濟與投資市場動態，深入淺出的解說與精闢分析，讓您抓緊世界金融脈動。"
+          },
+          {
+            "content_id": "VOD00376186",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1810000,
+            "asset_id": "vod50513-000196M001",
+            "title": "鉅亨加密世界",
+            "subtitle": "用多空力道找出強弱幣：從交易動能讀出市場節奏！？",
+            "ep_number": 196,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762173900000,
+            "vod_channel_description": "帶您了解區塊鏈加密投資的秘辛，牛市來臨前的布局，以及區塊鏈世界的新聞，最新發展趨勢，有趣的事件，讓您一手掌握未來世界生活的顛覆、新的商機與賺錢方式。"
+          },
+          {
+            "content_id": "VOD00364511",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1546000,
+            "asset_id": "vod39117-000203M001",
+            "title": "港股大講堂",
+            "subtitle": "恒生指數從高位下跌約1000點，現在是入場時機嗎？",
+            "ep_number": 203,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762176000000,
+            "vod_channel_description": "由香港鉅亨證券的專家帶您認識港股、更加了解這個國際化的資本市場，讓您不再錯過相關的投資機會！"
+          },
+          {
+            "content_id": "VOD00377914",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 726000,
+            "asset_id": "vod40896-000262M001",
+            "title": "財經皓角",
+            "subtitle": "第262集 AI和黃金 誰更有價值？",
+            "ep_number": 262,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762177800000,
+            "vod_channel_description": "《財經皓角》是游庭皓的個人財經脫口秀節目，以財經視角顛覆你對世界的想像，不求偉大理論，只為在短短十分鐘內，為你熬煮一鍋知識濃湯。"
+          },
+          {
+            "content_id": "VOD00346495",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000
+            ],
+            "timecode_duration": [],
+            "length": 3508000,
+            "asset_id": "vod39114-000261M001",
+            "title": "鉅亨看世界",
+            "subtitle": "2025川普年 市場機會與商品展望",
+            "ep_number": 261,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762178700000,
+            "vod_channel_description": "講解國際經濟與投資市場動態，深入淺出的解說與精闢分析，讓您抓緊世界金融脈動。"
+          },
+          {
+            "content_id": "VOD00376187",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 2011000,
+            "asset_id": "vod50513-000197M001",
+            "title": "鉅亨加密世界",
+            "subtitle": "你的虧損都來自恐懼與貪婪？新手常犯的3大致命錯誤解析！",
+            "ep_number": 197,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762182300000,
+            "vod_channel_description": "帶您了解區塊鏈加密投資的秘辛，牛市來臨前的布局，以及區塊鏈世界的新聞，最新發展趨勢，有趣的事件，讓您一手掌握未來世界生活的顛覆、新的商機與賺錢方式。"
+          },
+          {
+            "content_id": "VOD00364512",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000
+            ],
+            "timecode_duration": [],
+            "length": 1996000,
+            "asset_id": "vod39117-000204M001",
+            "title": "港股大講堂",
+            "subtitle": "港股持續波動，A股表現亮麗，年底前如何部署？",
+            "ep_number": 204,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762184400000,
+            "vod_channel_description": "由香港鉅亨證券的專家帶您認識港股、更加了解這個國際化的資本市場，讓您不再錯過相關的投資機會！"
+          },
+          {
+            "content_id": "VOD00377915",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 662000,
+            "asset_id": "vod40896-000263M001",
+            "title": "財經皓角",
+            "subtitle": "第263集 11月行情 跟著川普走？",
+            "ep_number": 263,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762186500000,
+            "vod_channel_description": "《財經皓角》是游庭皓的個人財經脫口秀節目，以財經視角顛覆你對世界的想像，不求偉大理論，只為在短短十分鐘內，為你熬煮一鍋知識濃湯。"
+          },
+          {
+            "content_id": "VOD00346496",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000
+            ],
+            "timecode_duration": [],
+            "length": 3040000,
+            "asset_id": "vod39114-000262M001",
+            "title": "鉅亨看世界",
+            "subtitle": "2025巴菲特加碼日本 日圓升值的投資機會",
+            "ep_number": 262,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762187400000,
+            "vod_channel_description": "講解國際經濟與投資市場動態，深入淺出的解說與精闢分析，讓您抓緊世界金融脈動。"
+          }
+        ],
+        "total_length": 116636000,
+        "focus_index": 29,
+        "next_index": 30,
+        "time": 1668391,
+        "focus_program": {
+          "content_id": "VOD00338931",
+          "time_codes": [
+            600000,
+            1200000,
+            1800000
+          ],
+          "timecode_duration": [],
+          "length": 1964000,
+          "asset_id": "vod39117-000197M001",
+          "title": "港股大講堂",
+          "subtitle": "港股疲軟回跌 恆指近19000點是危還是機呢",
+          "ep_number": 197,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762125600000,
+          "vod_channel_description": "由香港鉅亨證券的專家帶您認識港股、更加了解這個國際化的資本市場，讓您不再錯過相關的投資機會！"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "新聞‧財經",
+          "EngName": "News & Finance",
+          "MenuOrder": 3
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii64_mobile_20221110.png",
+      "description": "第1財經頻道，提供您最完整且即時的台股走勢、國際股市。透過全方位選股工具，掌握當日大盤、個股、基金、各類技術面籌碼面財務面排行資訊。",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

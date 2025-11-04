@@ -1,0 +1,353 @@
+{
+  "pageProps": {
+    "contentId": "ofiii202",
+    "channel": {
+      "title": "新聞大白話",
+      "no": 202,
+      "charge_mode": "F",
+      "content_id": "ofiii202",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        5
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3239_ofiii202_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "TVBS 純拆",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6173",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 202,
+        "cdn_code": "ofiii202",
+        "start_time": 1762123200000,
+        "programs": [
+          {
+            "content_id": "VOD00378752",
+            "time_codes": [
+              1021000,
+              2072000,
+              2923000,
+              4003000,
+              4908000,
+              5842000,
+              7065000,
+              8074000,
+              8746000,
+              11366000,
+              11519000
+            ],
+            "timecode_duration": [],
+            "length": 11660000,
+            "asset_id": "vod64270-000808M001",
+            "title": "",
+            "subtitle": "川普秒慫美國要幫中國！賴清德九次巧遇民昏倒！顧立雄默認海鯤艦難產！王義川稱沒出席陸洗腦？",
+            "ep_number": 808,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762123200000,
+            "vod_channel_description": "用你聽得懂的話說給你聽，為觀眾帶來最新政治、時事評析。"
+          },
+          {
+            "content_id": "VOD00378753",
+            "time_codes": [
+              1122000,
+              2114000,
+              2920000,
+              3946000,
+              4851000,
+              5834000,
+              7007000,
+              8013000,
+              8741000,
+              11341000,
+              11539000
+            ],
+            "timecode_duration": [],
+            "length": 11655000,
+            "asset_id": "vod64270-000809M001",
+            "title": "",
+            "subtitle": "韓國瑜成賴清德大心魔！陳其邁又甩鍋給韓國瑜？陳亭妃打臉中央賴清德？美預告台參加環太軍演？",
+            "ep_number": 809,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762135200000,
+            "vod_channel_description": "用你聽得懂的話說給你聽，為觀眾帶來最新政治、時事評析。"
+          },
+          {
+            "content_id": "VOD00378754",
+            "time_codes": [
+              1103000,
+              2083000,
+              2920000,
+              4067000,
+              4985000,
+              5836000,
+              6932000,
+              7904000,
+              8742000,
+              11330000,
+              11538000
+            ],
+            "timecode_duration": [],
+            "length": 11658000,
+            "asset_id": "vod64270-000810M001",
+            "title": "",
+            "subtitle": "賴英九韓其邁最強救援！陳其邁高雄醜事又被揭？蔡英文讓賴惴惴不安了？北車性侵案全網炸鍋了！",
+            "ep_number": 810,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762147200000,
+            "vod_channel_description": "用你聽得懂的話說給你聽，為觀眾帶來最新政治、時事評析。"
+          },
+          {
+            "content_id": "VOD00379886",
+            "time_codes": [
+              1117000,
+              2151000,
+              2919000,
+              4021000,
+              5032000,
+              5834000,
+              6945000,
+              7960000,
+              8740000,
+              11330000,
+              11525000
+            ],
+            "timecode_duration": [],
+            "length": 11657000,
+            "asset_id": "vod64270-000811M001",
+            "title": "",
+            "subtitle": "賴清德當面飆陳亭妃了？賴不屑蔡英文粉紅髮了？邱議瑩被蕉農打腫臉了？陸祭稀土狠招制川普了？",
+            "ep_number": 811,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762159200000,
+            "vod_channel_description": "用你聽得懂的話說給你聽，為觀眾帶來最新政治、時事評析。"
+          },
+          {
+            "content_id": "VOD00379887",
+            "time_codes": [
+              1027000,
+              2067000,
+              2917000,
+              4008000,
+              4879000,
+              5832000,
+              6980000,
+              7928000,
+              8708000,
+              11372000,
+              11449000
+            ],
+            "timecode_duration": [],
+            "length": 11496000,
+            "asset_id": "vod64270-000812M001",
+            "title": "",
+            "subtitle": "賴清德看壘球喊羽毛球！監院5分鐘坑人民135萬！網嘲陳其邁粉紅大峽谷！呂秀蓮警綠南二都沒了？",
+            "ep_number": 812,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762171200000,
+            "vod_channel_description": "用你聽得懂的話說給你聽，為觀眾帶來最新政治、時事評析。"
+          },
+          {
+            "content_id": "VOD00379888",
+            "time_codes": [
+              1064000,
+              1973000,
+              2903000,
+              3988000,
+              4908000,
+              5804000,
+              6924000,
+              7944000,
+              8711000,
+              11416000,
+              11548000
+            ],
+            "timecode_duration": [],
+            "length": 11611000,
+            "asset_id": "vod64270-000813M001",
+            "title": "",
+            "subtitle": "賴清德看壘球喊羽毛球！監院5分鐘坑人民135萬！網嘲陳其邁粉紅大峽谷！呂秀蓮警綠南二都沒了？",
+            "ep_number": 813,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762182900000,
+            "vod_channel_description": "用你聽得懂的話說給你聽，為觀眾帶來最新政治、時事評析。"
+          },
+          {
+            "content_id": "VOD00379889",
+            "time_codes": [
+              1085000,
+              2094000,
+              2904000,
+              3979000,
+              4927000,
+              5807000,
+              6932000,
+              7898000,
+              8706000,
+              11274000,
+              11487000
+            ],
+            "timecode_duration": [],
+            "length": 11604000,
+            "asset_id": "vod64270-000814M001",
+            "title": "",
+            "subtitle": "鄭麗文威脅民進黨政權？賴清德討掌聲學生不甩？韓國瑜被當2028假想敵？陳其邁高雄爆新廢土場？",
+            "ep_number": 814,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762194600000,
+            "vod_channel_description": "用你聽得懂的話說給你聽，為觀眾帶來最新政治、時事評析。"
+          },
+          {
+            "content_id": "VOD00379890",
+            "time_codes": [
+              1006000,
+              2065000,
+              2921000,
+              4015000,
+              4918000,
+              5835000,
+              6965000,
+              7957000,
+              8742000,
+              11331000,
+              11539000
+            ],
+            "timecode_duration": [],
+            "length": 11660000,
+            "asset_id": "vod64270-000815M001",
+            "title": "",
+            "subtitle": "賴清德害怕提鄭麗文了？陳其邁粉飾高雄見光死？海鯤號延期全民掏錢養？韌性預算瞎編小便斗了？",
+            "ep_number": 815,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762206300000,
+            "vod_channel_description": "用你聽得懂的話說給你聽，為觀眾帶來最新政治、時事評析。"
+          },
+          {
+            "content_id": "VOD00379891",
+            "time_codes": [
+              1056000,
+              2074000,
+              2909000,
+              3992000,
+              4890000,
+              5825000,
+              6983000,
+              7953000,
+              8729000,
+              11297000,
+              11475000
+            ],
+            "timecode_duration": [],
+            "length": 11644000,
+            "asset_id": "vod64270-000816M001",
+            "title": "",
+            "subtitle": "賴清德怕鄭麗文選總統？民進黨本命區徹底崩了？吳子嘉讚民進黨被收拾！美大豆農要喝西北風了？",
+            "ep_number": 816,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762218300000,
+            "vod_channel_description": "用你聽得懂的話說給你聽，為觀眾帶來最新政治、時事評析。"
+          },
+          {
+            "content_id": "VOD00379892",
+            "time_codes": [
+              1054000,
+              2119000,
+              2918000,
+              4029000,
+              4883000,
+              5835000,
+              7087000,
+              8016000,
+              8741000,
+              11364000,
+              11550000
+            ],
+            "timecode_duration": [],
+            "length": 11658000,
+            "asset_id": "vod64270-000817M001",
+            "title": "",
+            "subtitle": "豬農嗆賴清德罪魁禍首！高雄邁瑩大峽谷挖稀土？鄭麗文逼萊爾鬥雞現形！韓國瑜喝公督盟退避了！",
+            "ep_number": 817,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762230300000,
+            "vod_channel_description": "用你聽得懂的話說給你聽，為觀眾帶來最新政治、時事評析。"
+          }
+        ],
+        "total_length": 116303000,
+        "focus_index": 9,
+        "next_index": 0,
+        "time": 9685159,
+        "focus_program": {
+          "content_id": "VOD00379892",
+          "time_codes": [
+            1054000,
+            2119000,
+            2918000,
+            4029000,
+            4883000,
+            5835000,
+            7087000,
+            8016000,
+            8741000,
+            11364000,
+            11550000
+          ],
+          "timecode_duration": [],
+          "length": 11658000,
+          "asset_id": "vod64270-000817M001",
+          "title": "",
+          "subtitle": "豬農嗆賴清德罪魁禍首！高雄邁瑩大峽谷挖稀土？鄭麗文逼萊爾鬥雞現形！韓國瑜喝公督盟退避了！",
+          "ep_number": 817,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762230300000,
+          "vod_channel_description": "用你聽得懂的話說給你聽，為觀眾帶來最新政治、時事評析。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "新聞‧財經",
+          "EngName": "News & Finance",
+          "MenuOrder": 3
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3239_ofiii202_mobile_20240131.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

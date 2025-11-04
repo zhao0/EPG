@@ -1,0 +1,848 @@
+{
+  "pageProps": {
+    "contentId": "ofiii85",
+    "channel": {
+      "title": "社會NOW什麼",
+      "no": 85,
+      "charge_mode": "F",
+      "content_id": "ofiii85",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        1,
+        18
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3409_ofiii85_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "NowNews",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6343",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 85,
+        "cdn_code": "ofiii85",
+        "start_time": 1762128900000,
+        "programs": [
+          {
+            "content_id": "VOD00336664",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 646000,
+            "asset_id": "vod72134-000001M001",
+            "title": "",
+            "subtitle": "第1集 台大正妹險被騙包養！潛伏交友網站的高富帥、白富美攏是詐騙集團！這「話術」讓人超難抵抗？讓你掉入愛情陷阱的「心理戰術解密」！",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762128900000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336665",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 892000,
+            "asset_id": "vod72134-000002M001",
+            "title": "",
+            "subtitle": "第2集 私養百名「後宮仙女班」！！信徒甘願奉獻身家跟「女兒」？！教主到底用什麼話術吸納信眾？讓可怕神秘組織越來越大？揭真相！",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762129800000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336666",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 761000,
+            "asset_id": "vod72134-000003M001",
+            "title": "",
+            "subtitle": "第3集 「謝金河 陳文茜教投資」攏係假！被騙上千萬拿不回！詐騙集團戰略：養、套、殺！首腦鑽研腳本、訂KPI業績、砸大錢買臉書廣告！用AI科技 騙你入甕！",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762131000000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336667",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 789000,
+            "asset_id": "vod72134-000004M001",
+            "title": "",
+            "subtitle": "第4集 一個國中生之死！國三生遭割頸「乾哥」當眾行兇！「乾妹」涉嫌教唆 均遭網友肉搜公布照片！兩個皆涉殺人罪移送！鄉民的私刑正義 刨出兩人背景 但解氣後果是？！",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762131900000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336668",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 780000,
+            "asset_id": "vod72134-000005M001",
+            "title": "",
+            "subtitle": "第5集 癡心男示愛尾隨，得不到你就痛下毒手！？真實案例曝光！跟蹤騷擾者終於有法可管！針對「未交往」對象的跟騷行為 終於不用再忍！",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762133100000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336669",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 701000,
+            "asset_id": "vod72134-000006M001",
+            "title": "",
+            "subtitle": "第6集 偽造你聲音！這樣的詐騙電話 親友一定被騙？深偽技術(Deepfake)遭濫用？香港跨國企業財務長被AI假冒 一場視訊會議 要求轉帳15次 騙走8億台幣！",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762134000000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336670",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 691000,
+            "asset_id": "vod72134-000007M001",
+            "title": "",
+            "subtitle": "第7集 驚恐真實案例！老公「買兇」下指導棋要妻子性命 細思極恐的心理思維！原因竟然只為這一個點！讓他們從相愛走到冷血無情？連心理師都難猜透！",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762134900000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336671",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1130000,
+            "asset_id": "vod72134-000008M001",
+            "title": "",
+            "subtitle": "第8集 素昧謀面卻深情不移 甘心掏出身家！身價百億CEO會被愛情詐騙全是大腦惹的禍？美執業心理師陳永儀長期臨床分析 高學歷頂尖菁英遭愛情詐騙 全是這個原因！",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762135800000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336672",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1200000,
+            "asset_id": "vod72134-000009M001",
+            "title": "",
+            "subtitle": "第9集 冷血連續X人的恐怖心態？是先天造成還是後天影響？美執業心理師與罪犯面對面接觸 側寫殺人犯心理情緒 深度剖析！驚人發現竟是這個原因 造成他心態扭曲！",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762137300000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336673",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1339000,
+            "asset_id": "vod72134-000010M001",
+            "title": "",
+            "subtitle": "第10集 精神障礙是犯罪免死金牌？到底誰說了算？台中捷運隨機砍人案 又是精神病患 恐無罪？如何判定犯罪者是精神病 關鍵是這個！？思覺失調患者 真能免刑？美執業心理師談真實個案！",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762138800000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336674",
+            "time_codes": [
+              1183000
+            ],
+            "timecode_duration": [],
+            "length": 1678000,
+            "asset_id": "vod72134-000011M001",
+            "title": "",
+            "subtitle": "第11集 黃豪平嚇壞！少男少女自願獻渣男裸照只為換取遊戲寶物？Netflix 「馴鹿寶貝」事件台灣也發生？家長快看！警局第一現場 青少年恐入陷阱？",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762140600000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336675",
+            "time_codes": [
+              1134000
+            ],
+            "timecode_duration": [],
+            "length": 1606000,
+            "asset_id": "vod72134-000012M001",
+            "title": "",
+            "subtitle": "第12集 老翁被設局遭騙3千萬房產！被騙細節首度曝光！歹徒竟用這兩招騙到一棟房！被騙錢都拿不回來？「車手」是最大關鍵！詐騙應重罰 你同意嗎？!",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762142400000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336676",
+            "time_codes": [
+              1117000,
+              1699000
+            ],
+            "timecode_duration": [],
+            "length": 2000000,
+            "asset_id": "vod72134-000013M001",
+            "title": "",
+            "subtitle": "第13集 富二代斯文高一生 校園賣海洛因 囂張當毒梟！真相是？少年挺險搶當車手 不怕被抓全因刑責太輕？八里桶屍案當年真實細節曝光！你認為「少事法」該更嚴厲嗎？",
+            "ep_number": 13,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762144200000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336677",
+            "time_codes": [
+              1230000,
+              1785000
+            ],
+            "timecode_duration": [],
+            "length": 2212000,
+            "asset_id": "vod72134-000014M001",
+            "title": "",
+            "subtitle": "第14集 校園霸凌連家長也難察覺！台中名校「小學生」遭下毒？！無所不在的同儕霸凌！師長不處理就是幫兇？兒子遭霸凌 資深記者戴志揚霸氣槓上 聽他怎麼做！",
+            "ep_number": 14,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762146300000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336678",
+            "time_codes": [
+              1066000,
+              1772000
+            ],
+            "timecode_duration": [],
+            "length": 2031000,
+            "asset_id": "vod72134-000015M001",
+            "title": "",
+            "subtitle": "第15集 碰瓷詐騙 10年跌倒上千次！靠詐保養大孩子 騙保費超過5千萬 買別墅置產 爽過豪奢生活！刑事局科長揭露神鬼夫妻 詐騙細節！",
+            "ep_number": 15,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762148700000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336679",
+            "time_codes": [
+              952000,
+              1581000
+            ],
+            "timecode_duration": [],
+            "length": 1922000,
+            "asset_id": "vod72134-000016M001",
+            "title": "",
+            "subtitle": "第16集 內湖寵物店老闆輕生悲劇 該如何收場？中山商圈恐滅亡 背後秘辛？租屋開店前必知道的法律常識！哪些營業項目 一定要鄰居同意？",
+            "ep_number": 16,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762150800000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336680",
+            "time_codes": [
+              899000,
+              1438000
+            ],
+            "timecode_duration": [],
+            "length": 1927000,
+            "asset_id": "vod72134-000017M001",
+            "title": "",
+            "subtitle": "第17集 幼兒園施暴、性騷案 嚇壞家長！如何察覺孩子異狀？咬指甲、拔頭髮……？哪些蛛絲馬跡透露 孩子情緒焦慮？又該如何面對習慣藏心事的小孩？",
+            "ep_number": 17,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762152900000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336681",
+            "time_codes": [
+              965000
+            ],
+            "timecode_duration": [],
+            "length": 1471000,
+            "asset_id": "vod72134-000018M001",
+            "title": "",
+            "subtitle": "第18集 泌尿科醫生程威銘分享他的社會新觀察！「這些」特殊行業 連黃豪平都咋舌！私密診間裡 不能說的秘密 難以想像的真實故事 來看診間異語！",
+            "ep_number": 18,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762155000000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336682",
+            "time_codes": [
+              1082000
+            ],
+            "timecode_duration": [],
+            "length": 1835000,
+            "asset_id": "vod72134-000019M001",
+            "title": "",
+            "subtitle": "第19集 婦遭誘導辦「自然人憑證」2千萬房產全遭騙光！只因：「拿錢去救錢」！AI換臉影片假冒名人吳淡如謝金河騙投資詐財！新聞網站竟也被造假 騙錢！",
+            "ep_number": 19,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762156800000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00336683",
+            "time_codes": [
+              1095000
+            ],
+            "timecode_duration": [],
+            "length": 1701000,
+            "asset_id": "vod72134-000020M001",
+            "title": "",
+            "subtitle": "第20集 「賺快錢」的高薪話術 讓年輕女孩身陷！資深社會記者 賈斯定揭露：八大行業潛規則！月入超過10萬 扭曲她們的金錢價值觀！高學歷大學生也深陷其中！",
+            "ep_number": 20,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762158900000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00344026",
+            "time_codes": [
+              1074000
+            ],
+            "timecode_duration": [],
+            "length": 1777000,
+            "asset_id": "vod72134-000021M001",
+            "title": "",
+            "subtitle": "第21集 老父信投資群組 兒女勸不回被騙光老本！詐騙絕招：放長線釣大魚！先給甜頭再坑殺！愛上石油富商一場空 女子借錢500萬全被詐光！詐騙集團「員工訓練」 教戰洗腦成員！",
+            "ep_number": 21,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762160700000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00344027",
+            "time_codes": [
+              1203000
+            ],
+            "timecode_duration": [],
+            "length": 1772000,
+            "asset_id": "vod72134-000022M001",
+            "title": "",
+            "subtitle": "第22集 騙光上億房產！台版地面師猖獗？勾結里長律師警察 專鎖定老婦老翁 盜賣不動產！約被害人到地政事務所 錄影存證 逃脫制裁！",
+            "ep_number": 22,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762162800000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00344028",
+            "time_codes": [
+              1050000
+            ],
+            "timecode_duration": [],
+            "length": 1695000,
+            "asset_id": "vod72134-000023M001",
+            "title": "",
+            "subtitle": "第23集 騙光退休警千萬積蓄 全因理專轉行成詐騙犯？空虛婦竟暈船「太空人」甘心掏近百萬當結婚基金 全是一場空！詐騙絕招一次說清！",
+            "ep_number": 23,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762164900000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00344029",
+            "time_codes": [
+              1159000
+            ],
+            "timecode_duration": [],
+            "length": 1628000,
+            "asset_id": "vod72134-000024M001",
+            "title": "",
+            "subtitle": "第24集 真實案件！少年車手想脫離 遭詐騙集團凌虐毒打 全程直播給媽媽勒索！母付錢後依舊換不回兒！慘到連黃豪平都不敢置信！",
+            "ep_number": 24,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762166700000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00344030",
+            "time_codes": [
+              920000
+            ],
+            "timecode_duration": [],
+            "length": 1681000,
+            "asset_id": "vod72134-000025M001",
+            "title": "",
+            "subtitle": "第25集 名貴寵物貓狗走私 154隻全被撲SA！主嫌曾是海巡署隊員 刑責只判1年半！這樣罰責你同意嗎？律師曝光賺暴利關鍵 嫌犯不畏法鋌而走險！",
+            "ep_number": 25,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762168500000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00344031",
+            "time_codes": [
+              1108000
+            ],
+            "timecode_duration": [],
+            "length": 1750000,
+            "asset_id": "vod72134-000026M001",
+            "title": "",
+            "subtitle": "第26集 周杰倫黃牛票還有漏網之魚 抓不甚抓？黃牛到底有多暴利？比黃牛更可惡是：詐騙網站！最新騙術：抽獎網站先釣你個資 再針對喜好下手詐騙！",
+            "ep_number": 26,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762170300000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00344032",
+            "time_codes": [
+              685000
+            ],
+            "timecode_duration": [],
+            "length": 1225000,
+            "asset_id": "vod72134-000027M001",
+            "title": "",
+            "subtitle": "第27集 太可惡！80歲奶奶棺材本照騙不誤！全因網戀「美國大兵」 掏出上百萬助退休！報警後又再度陷入愛情陷阱！假交友真詐財 騙術又翻新！",
+            "ep_number": 27,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762172400000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00344033",
+            "time_codes": [
+              1141000
+            ],
+            "timecode_duration": [],
+            "length": 1596000,
+            "asset_id": "vod72134-000028M001",
+            "title": "",
+            "subtitle": "第28集 熊熊揭網紅靠這話題必賺翻！被討厭、有爭議才有流量？幕後焦慮一度撐不下去？網路霸凌 酸民留言心理壓力超巨大！做YouTuber不是你想得這樣？",
+            "ep_number": 28,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762173900000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00344034",
+            "time_codes": [
+              1098000
+            ],
+            "timecode_duration": [],
+            "length": 1598000,
+            "asset_id": "vod72134-000029M001",
+            "title": "",
+            "subtitle": "第29集 內湖母女遭詐千萬輕生 內幕曝光！不只向地下錢莊借錢 還抵押房產 最終走上絕路！譚艾珍不投資也遭假檢警詐騙！這句「話術」必定引人上鉤！",
+            "ep_number": 29,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762175700000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00344035",
+            "time_codes": [
+              1001000
+            ],
+            "timecode_duration": [],
+            "length": 1763000,
+            "asset_id": "vod72134-000030M001",
+            "title": "",
+            "subtitle": "第30集 醫美前必知三件事！律師劉韋廷教戰！手術自保必懂三招！防糾紛 打官司 同意書上「這行字」一定要看清楚！小心整容變毀容！抽脂手術糾紛 怎麼解？",
+            "ep_number": 30,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762177500000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00357586",
+            "time_codes": [
+              799000
+            ],
+            "timecode_duration": [],
+            "length": 1442000,
+            "asset_id": "vod72134-000031M001",
+            "title": "",
+            "subtitle": "第31集 桃園副市長親戚也被詐騙1500萬！台灣豬仔竟成詐騙園區「搶手貨」？！豬仔誤信「出國高薪工作 免經驗」話術 勇赴緬泰！業績差 遭毒打、電刑 超慘下場曝光！",
+            "ep_number": 31,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762179600000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00357587",
+            "time_codes": [
+              744000
+            ],
+            "timecode_duration": [],
+            "length": 1495000,
+            "asset_id": "vod72134-000032M001",
+            "title": "",
+            "subtitle": "第32集 超扯！黑市買賣人頭戶 一組喊價上百萬！你被騙的錢 都拿不回 全因詐騙車手數秒就領光！刑事局 串聯全台ATM AI打詐 防堵失聯移工淪車手！",
+            "ep_number": 32,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762181400000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00357588",
+            "time_codes": [
+              1062000
+            ],
+            "timecode_duration": [],
+            "length": 1439000,
+            "asset_id": "vod72134-000033M001",
+            "title": "",
+            "subtitle": "第33集 高雄連環殺人案連殺三婦 嫌犯卻矢口否認犯行 內幕曝光！女教師無屍命案 兇嫌也不認罪 警察與記者集體看見「靈異現象」！戴志揚親身經歷 不可解釋的現場！",
+            "ep_number": 33,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762183200000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00357589",
+            "time_codes": [
+              973000
+            ],
+            "timecode_duration": [],
+            "length": 1466000,
+            "asset_id": "vod72134-000034M001",
+            "title": "",
+            "subtitle": "第34集 3200萬退休金遭詐光！銀行高階主管被騙原因？詐騙集團竟靠「黃金」規避大額提款管制？刑事局揭秘 詐團最愛鎖定退休有積蓄公務員！如何防範？",
+            "ep_number": 34,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762184700000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00357590",
+            "time_codes": [
+              953000
+            ],
+            "timecode_duration": [],
+            "length": 1573000,
+            "asset_id": "vod72134-000035M001",
+            "title": "",
+            "subtitle": "第35集 詭異心靈課程？教主扮「清朝公主」靠算命吸納信徒？教主教友竟都是台大生！？導演廖哲毅走訪20間神秘組織 揭露內幕！繳10萬治氣喘？話術洗腦你借錢上課、買能量水晶！",
+            "ep_number": 35,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762186500000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00357591",
+            "time_codes": [
+              790000
+            ],
+            "timecode_duration": [],
+            "length": 1529000,
+            "asset_id": "vod72134-000036M001",
+            "title": "",
+            "subtitle": "第36集 飆股群深信不疑！2千3百萬房產全被騙！股災趁機要你命！誆幫你保存黃金可以儲值生「高利息」！詐騙還搞人情攻勢 節日收到烏魚子？端午節要小心被「送禮」？藏騙術！",
+            "ep_number": 36,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762188300000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00357592",
+            "time_codes": [
+              950000
+            ],
+            "timecode_duration": [],
+            "length": 1389000,
+            "asset_id": "vod72134-000037M001",
+            "title": "",
+            "subtitle": "第37集 超扯！「員工旅遊」回不去了！？假旅社騙你出國 轉賣詐騙園區當豬仔？出國旅遊陷阱多 出清機票、嘟嘟車全是坑？旅行社也中招 慘賠80萬只因一句話！",
+            "ep_number": 37,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762190100000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00357593",
+            "time_codes": [
+              733000
+            ],
+            "timecode_duration": [],
+            "length": 1440000,
+            "asset_id": "vod72134-000038M001",
+            "title": "",
+            "subtitle": "第38集 三峽車禍疑點重重！肇事78歲老翁恐因「路怒症」脫罪？心理學家揭關鍵！拿人命來換錢 冷血人夫為超高額保金 竟連環毒殺歷任女伴！",
+            "ep_number": 38,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762191600000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00357594",
+            "time_codes": [
+              842000
+            ],
+            "timecode_duration": [],
+            "length": 1309000,
+            "asset_id": "vod72134-000039M001",
+            "title": "",
+            "subtitle": "第39集 光5月全台被詐87億！「假警察」現身視訊筆錄？！罰單簡訊、ETC欠費通知都是陷阱？一招教你辨識真偽！",
+            "ep_number": 39,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762193100000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00357595",
+            "time_codes": [
+              893000
+            ],
+            "timecode_duration": [],
+            "length": 1387000,
+            "asset_id": "vod72134-000040M001",
+            "title": "",
+            "subtitle": "第40集 1.8億全被騙！退休女董座遭假檢警誆捲洗錢案？！連防詐員警也中招 他誤信假黃仁勳「6度面交」 千萬積蓄全蒸發！",
+            "ep_number": 40,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762194600000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00370682",
+            "time_codes": [
+              736000
+            ],
+            "timecode_duration": [],
+            "length": 1286000,
+            "asset_id": "vod72134-000041M001",
+            "title": "",
+            "subtitle": "第41集 24歲辣妹 詐騙157億！全台最大「假出金水房」騙5千人積蓄！跨國攻堅現場：詐騙犯被關地牢 悲慘下場 求台警救命！什麼罪都願意認！",
+            "ep_number": 41,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762196100000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00370683",
+            "time_codes": [
+              719000
+            ],
+            "timecode_duration": [],
+            "length": 1260000,
+            "asset_id": "vod72134-000042M001",
+            "title": "",
+            "subtitle": "第42集 豐原五口命案 被騙投資黃金債揹千萬！討債威脅、月繳8萬卡息壓垮全家！警：「認知錯誤」釀悲劇！",
+            "ep_number": 42,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762197600000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00370684",
+            "time_codes": [
+              960000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod72134-000043M001",
+            "title": "",
+            "subtitle": "第43集 60位上班族集體控訴長官性騷 男主管下場是？職場界線怎拿捏？應酬遇「色客戶」伸魔爪 如何自保？性騷成立標準關鍵？被告能反控誣告？",
+            "ep_number": 43,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762199100000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00370685",
+            "time_codes": [
+              802000
+            ],
+            "timecode_duration": [],
+            "length": 1526000,
+            "asset_id": "vod72134-000044M001",
+            "title": "",
+            "subtitle": "第44集 恐怖伴侶！土城家暴男弒妻子小姨子、信義女公關遭前男友割喉 均是剛申請保護令 卻成催命符！犯罪心理教授戴伸峰揭危險情人 成長背景 還有這一特徵！",
+            "ep_number": 44,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762200900000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00370686",
+            "time_codes": [
+              792000
+            ],
+            "timecode_duration": [],
+            "length": 1493000,
+            "asset_id": "vod72134-000045M001",
+            "title": "",
+            "subtitle": "第45集 「保證高獲利」攏係詐你錢！僥倖不當最後一隻老鼠 真能賺到？虛擬貨幣交易所「幣想」勾詐團吸金23億 話術內幕曝光！川普推穩定幣 又成詐騙新工具？",
+            "ep_number": 45,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762202700000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00370687",
+            "time_codes": [
+              1255000
+            ],
+            "timecode_duration": [],
+            "length": 1902000,
+            "asset_id": "vod72134-000046M001",
+            "title": "",
+            "subtitle": "第46集 真實案／中橫「桶屍案」駭人！焚屍案化青煙成怨魂？桶屍案死者託夢 揭超弔詭靈異內幕！資深社會記者 戴志揚至今不信破案關鍵！",
+            "ep_number": 46,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762204500000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          },
+          {
+            "content_id": "VOD00370688",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1105000,
+            "asset_id": "vod72134-000047M001",
+            "title": "",
+            "subtitle": "第47集 誆「穩定幣」包賺不賠！富婆被詐團盯上！先噓寒問暖 騙取信任後 再刻意不小心洩漏投資訊息 打包票「虧了算我的」 讓富婆深信不疑！被騙1.2億拿不回",
+            "ep_number": 47,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762206600000,
+            "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+          }
+        ],
+        "total_length": 68293000,
+        "focus_index": 27,
+        "next_index": 28,
+        "time": 1212960,
+        "focus_program": {
+          "content_id": "VOD00344033",
+          "time_codes": [
+            1141000
+          ],
+          "timecode_duration": [],
+          "length": 1596000,
+          "asset_id": "vod72134-000028M001",
+          "title": "",
+          "subtitle": "第28集 熊熊揭網紅靠這話題必賺翻！被討厭、有爭議才有流量？幕後焦慮一度撐不下去？網路霸凌 酸民留言心理壓力超巨大！做YouTuber不是你想得這樣？",
+          "ep_number": 28,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762173900000,
+          "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜合",
+          "EngName": "Variety",
+          "MenuOrder": 4
+        },
+        {
+          "Name": "綜藝",
+          "EngName": "Entertainment",
+          "MenuOrder": 8
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_mobile_20240731.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

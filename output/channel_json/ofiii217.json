@@ -1,0 +1,1113 @@
+{
+  "pageProps": {
+    "contentId": "ofiii217",
+    "channel": {
+      "title": "狂人日誌",
+      "no": 217,
+      "charge_mode": "F",
+      "content_id": "ofiii217",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        1
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3522_ofiii217_tv_20241104.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "狂人日誌",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6456",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1730699861.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 217,
+        "cdn_code": "ofiii217",
+        "start_time": 1762164000000,
+        "programs": [
+          {
+            "content_id": "VOD00345438",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 776000,
+            "asset_id": "vod62279-000106M001",
+            "title": "",
+            "subtitle": "這才是最棒的VOLVO旗艦？全新XC90 & EX90瑞典開箱",
+            "ep_number": 106,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762164000000,
+            "vod_channel_description": "千里迢迢來到瑞典「World of VOLVO」，就是為了一睹全新XC90的風采。只是，這口說全新、但實際上卻被不少網友稱為「拉皮車」的VOLVO旗艦，到底還能帶給我們怎樣的驚喜？而同樣身為VOLVO頂級七座旗艦的EX90，賣相又是如何？"
+          },
+          {
+            "content_id": "VOD00345439",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 969000,
+            "asset_id": "vod62279-000107M001",
+            "title": "",
+            "subtitle": "原來最極致的富人都這樣玩車？The MAGARIGAWA Club",
+            "ep_number": 107,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762164900000,
+            "vod_channel_description": "都說，日本人是個會把事情做到極致的民族，而這絕對是亞洲唯一的頂級私人賽道俱樂部「MAGARIGAWA」，顯然正是日本賽車文化的最極致表現。24小時控溫控濕的PIT房、獨棟別墅、一對一的賽車教練、日本老牌洋食餐廳、露營區、親子空間、大眾溫泉、健身房、交誼廳、加油站、能存放超過300輛車的車庫......"
+          },
+          {
+            "content_id": "VOD00345440",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 951000,
+            "asset_id": "vod62279-000108M001",
+            "title": "",
+            "subtitle": "【瑞典旅遊】什麼神邏輯？顛覆三觀的奇異博物館，吹到下巴差點脫臼...World of Volvo, Gothenburg",
+            "ep_number": 108,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762166100000,
+            "vod_channel_description": "早有耳聞，Volvo在自己的hometown設立了座全新的「汽車」博物館，這回，趁著EX90/ XC90的發表，我來到了這座落於瑞典第二大城 - 哥登堡，堪稱近期瑞典旅遊必訪、以與自然界和周遭環境間的連結為出發去規劃、設計的獨特空間，究竟這座顯然不是為了車迷所設立的「汽車」博物館，又會如何詮釋這個主題？"
+          },
+          {
+            "content_id": "VOD00345441",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 837000,
+            "asset_id": "vod62279-000109M001",
+            "title": "",
+            "subtitle": "試車到一半直接躺平睡著？Kia Sorento Turbo-Hybrid Signature",
+            "ep_number": 109,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762167300000,
+            "vod_channel_description": "近年來，Kia的影響力提升有目共睹，特別是靠著接連的電車產品，持續把品牌高度拉拔，不僅在銷售上開出紅盤，更成為市場關注重點。但，真正的戰場，還是在油車。各款大小油車的改朝換代，才是Kia能否守成、甚至是再創高峰的關鍵，而這首當其衝的「開路君」，便是Sorento。"
+          },
+          {
+            "content_id": "VOD00345442",
+            "time_codes": [
+              1315000
+            ],
+            "timecode_duration": [],
+            "length": 1929000,
+            "asset_id": "vod62279-000110M001",
+            "title": "",
+            "subtitle": "西裝暴徒正宗：190E，Mercedes-AMG C-Class與63的力量崇拜 | Because it｀s Mercedes-Benz ft. W201、W202、W204、W205、W206",
+            "ep_number": 110,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762168500000,
+            "vod_channel_description": "聊完了德國坦克的不朽傳奇，接下來，我想聊的是改款後，因取消V8而飽受基本教義派抨擊的C63，當廣大車迷普遍對於Mercedes-AMG的作法感到不可置信，激進者甚至會認為賓士親手詆毀了63多年來在車壇所樹立神聖又不可褻玩、俗稱「西裝暴徒」的狂野形象，究竟，Mercedes-Benz葫蘆裡賣的是什麼藥？"
+          },
+          {
+            "content_id": "VOD00349289",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1486000,
+            "asset_id": "vod62279-000111M001",
+            "title": "",
+            "subtitle": "英法義三國混戰，誰才是真正的MR之王？ALPINE A110 vs LOTUS EMIRA vs ALFA ROMEO 4C",
+            "ep_number": 111,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762170600000,
+            "vod_channel_description": "中置引擎、後輪驅動，以及極其輕量化的車體，所謂的MR小跑車，一直都被奉為駕駛樂趣的範本。而在這領域裡，有專注MR、歷史悠久的正統英國LOTUS EMIRA。以及曾在拉力輝煌一時、如今意欲開闢新車戰場的法國ALPINE A110 。還有充滿熱情、偏執又不顧一切的義大利ALFA ROMEO 4C。這三台車，該怎麼選？"
+          },
+          {
+            "content_id": "VOD00349290",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 734000,
+            "asset_id": "vod62279-000112M001",
+            "title": "",
+            "subtitle": "跟「姐姐」第一次在韓國開車，韓國駕駛這個行為太誇張！ft. KIA EV3",
+            "ep_number": 112,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762172400000,
+            "vod_channel_description": "韓國在2022年2月與台灣簽署了國際駕照相互承認瞭解備忘錄之後，意即位居台灣人最愛旅遊國家第三名的韓國，可以開始進行自駕旅行體驗。順帶一提，來台最多的外國遊客第三名，也是韓國。本次，我們就將首度在韓國進行「自駕」，準備一試KIA第三款純電作品「EV3」。"
+          },
+          {
+            "content_id": "VOD00349291",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 814000,
+            "asset_id": "vod62279-000113M001",
+            "title": "",
+            "subtitle": "中二工程師打造的Fun Car，居然比GR YARIS更有樂趣？HYUNDAI IONIQ 5 N ft.山路痴漢",
+            "ep_number": 113,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762173300000,
+            "vod_channel_description": "總說電動車沒樂趣、沒溝通、沒回饋，是被純種教義派不恥與鄙視的存在。但今天，似乎有一台車將會改變我們的想法，這是被諸多海外媒體甚至是「甩尾王」土屋圭市都一致稱讚的HYUNDAI IONIQ 5 N，只是，她真的有這麼好嗎？\n"
+          },
+          {
+            "content_id": "VOD00349292",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 666000,
+            "asset_id": "vod62279-000114M001",
+            "title": "",
+            "subtitle": "期待已久的大場面，來了！HYUNDAI N & TOYOTA GAZOO Racing Festival",
+            "ep_number": 114,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762174500000,
+            "vod_channel_description": "真的從來沒想過，會有這麼一天，看到不論是賽場或市場上都可堪稱為死對頭的兩個品牌：HYUNDAI N與TOYOTA GAZOO Racing攜手合作，共同演出一場夢幻大秀。兩個品牌的最高領導人同時出席，現場還有諸多WRC、拉力現役廠車，還有免不了的N與GR的量產車、概念車等共襄盛舉，一同打造出專屬於車迷的盛宴。"
+          },
+          {
+            "content_id": "VOD00349293",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1110000,
+            "asset_id": "vod62279-000115M001",
+            "title": "",
+            "subtitle": "835ps全油門，乘客竟睡成一片？全新Aston Martin Vanquish：純種英國V12 GT的最後防線",
+            "ep_number": 115,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762175400000,
+            "vod_channel_description": "在Aston Martin旗下三大車系之中，每每對應改朝換代總顯得姍姍來遲的Vanquish，在相隔九年之後，總算又讓人看到全新姿態。只是，這回的Vanquish，不但一反過往2+2的座位配置，而變成了一款純正雙座GT跑車，就連性能、身形、與氣質，都似乎顯得與過去大相徑庭。顯然，馬丁這次胸有成足要讓人耳目一新。"
+          },
+          {
+            "content_id": "VOD00349294",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 907000,
+            "asset_id": "vod62279-000116M001",
+            "title": "",
+            "subtitle": "在世界上最美的公路，壯遊：Bentley Continental GT Speed的瑞士阿爾卑斯穿越之旅",
+            "ep_number": 116,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762176900000,
+            "vod_channel_description": "這是一段偉大的旅程，儘管全長甚至不到200公里，卻涵蓋著Swiss Alps最精華的路段——這次的主角，是幾經世代更迭、搭載了全新V8 PHEV動力的Bentley Continental GT Speed，場景也換成了瑞士Andermatt周遭幾條全歐洲最著名、歷史悠久且深受車迷追捧的景觀公路，當萬事俱備，又豈有不好好把握的道理？"
+          },
+          {
+            "content_id": "VOD00349295",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 682000,
+            "asset_id": "vod62279-000117M001",
+            "title": "",
+            "subtitle": "捷克人瘋了！堅持要出房車的原因是什麼？SKODA SUPERB海外試駕",
+            "ep_number": 117,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762178100000,
+            "vod_channel_description": "房車，這堪稱代表「汽車」的形式，近幾年已經不只是式微，而是用趨近於沒落的情勢，努力地在市場上獲取一線生機。但就在各大品牌相繼減少甚至是放棄房車產品的當下，捷克人卻依然「勇往直前」的替旗下旗艦產品「SUPERB」進行全新大改款。我們就要來看看，到底這所謂的「房車」，還能玩出什麼新花樣？"
+          },
+          {
+            "content_id": "VOD00349296",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1368000,
+            "asset_id": "vod62279-000118M001",
+            "title": "",
+            "subtitle": "地方爸爸的逆襲！最強普男改造計畫，原來正宗老錢風都這樣穿？ft. Range Rover Evoque",
+            "ep_number": 118,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762179000000,
+            "vod_channel_description": "自從自己的穿搭品味在先前的企劃中被製作單位邀來的「兩性專家」給用力譏笑了一番，我的心裡便一直耿耿於懷，於是，一場搶救地方爸爸的普男改造計畫，就此展開——究竟，要想成為一名恰如其分、自帶西倫敦Old Money氣場的英倫型男，能有多困難？"
+          },
+          {
+            "content_id": "VOD00349297",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 944000,
+            "asset_id": "vod62279-000119M001",
+            "title": "",
+            "subtitle": "高中時負債7000億日圓！？為夢而活，究竟要付出多少代價？",
+            "ep_number": 119,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762180800000,
+            "vod_channel_description": "近日，一段廣告片引起了我們的注意。那是被譽為「台灣飛人」的陳信安與MAZDA CX-60共演，以「堅持挑戰、成就不凡」為主軸，譜出一段與眾不同的故事。但陳信安，除了台灣NBA第一人之外，真的能演釋何謂堅持挑戰成就不凡嗎？為了消彌我們心中的疑惑，我們決定，直接請他來吧！有請「台灣飛人」：陳信安。"
+          },
+          {
+            "content_id": "VOD00349298",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 705000,
+            "asset_id": "vod62279-000120M001",
+            "title": "",
+            "subtitle": "在全世界最神秘的測試中心飄移：Lamborghini URUS SE in Nardò Technical Center",
+            "ep_number": 120,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762182000000,
+            "vod_channel_description": "試車試得多了，卻也是第一次來到這神秘之處：Nardò Technical Center。我們將在這試駕Lamborghini無可避免所推出的「帶電款」：URUS SE。到底這能夠純電行駛的蠻牛休旅，是否可以維持過往，給出蠻牛該有的激情與信仰？又或是將走上不歸路，成為純電浪潮下的犧牲品？"
+          },
+          {
+            "content_id": "VOD00352887",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1005000,
+            "asset_id": "vod62279-000121M001",
+            "title": "",
+            "subtitle": "真正的「多功能車」：從ML到GLE，賓士的休旅大夢。Because it｀s Mercedes-Benz X 狂人講故事",
+            "ep_number": 121,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762182900000,
+            "vod_channel_description": "聊完了C跟E，你是不是以為，我們要講S了？先別著急，今天的主角，是當今琳瑯滿目的各種休旅的源點：賓士ML。正確名稱為「M-Class」的ML，豪華、先進，有空間有動力，能越野能都會，遊走於都市休旅與正統越野車之間，剛推出之餘讓眾人看傻了眼，印證了賓士永遠比別人走在前面的事實。"
+          },
+          {
+            "content_id": "VOD00352888",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1366000,
+            "asset_id": "vod62279-000122M001",
+            "title": "",
+            "subtitle": "最速車媒？賭上狂人的名聲，挑戰原廠街車麗寶最速Time Attack！SUZUKI SWIFT Sport @BC麗寶賽道日",
+            "ep_number": 122,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762184100000,
+            "vod_channel_description": "歡迎收看「我是車手」，這是一個為了上班族們打造的節目內容，為了就是讓一台平民入門車也能在經過簡單的基本改裝之後，就能擁有在賽道上挑戰單圈的樂趣。我們的SUZUKI SWIFT Sport又要升級進化了。為了能在「BC 台灣柏釧- 2024 BC麗寶賽道日」上做驗收，看看我們的努力到底是有所收穫還是付出流水。"
+          },
+          {
+            "content_id": "VOD00352889",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1175000,
+            "asset_id": "vod62279-000123M001",
+            "title": "",
+            "subtitle": "秒上三百？2025 BMW M5，決戰無限速！",
+            "ep_number": 123,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762185900000,
+            "vod_channel_description": "很多人說，新的M5已不再純粹：讓人有些驚嚇的車重也好，案情並不單純的PHEV、電控系統，甚至是首見於M5上的後輪轉向，種種跡象似乎都暗示著這架曾以手腳協調和平衡的動態聞名的Autobahn內線王者早已和以往的M Power走上了截然不同的路線，違背了基本教義派的期待——然而，事實真的是如此嗎？"
+          },
+          {
+            "content_id": "VOD00352890",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 933000,
+            "asset_id": "vod62279-000124M001",
+            "title": "",
+            "subtitle": "不到兩萬元！暢遊全亞洲唯一越野體驗中心 ft. Mercedes-Benz G-Class",
+            "ep_number": 124,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762187400000,
+            "vod_channel_description": "現行量產車中最「正統」的越野車，賓士G-Class肯定要算上一份。不過，這價高稀少的G Car，在國內很難有機會盡情的體驗，特別是越野的部分。所以我們來到位於浙江國際賽車場旁、全亞洲唯一、全世界唯二的「Mercedes-Benz G-Class越野體驗中心」，準備用力的給它催下去！"
+          },
+          {
+            "content_id": "VOD00352891",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1081000,
+            "asset_id": "vod62279-000125M001",
+            "title": "",
+            "subtitle": "騎國產白牌機車一日東進武嶺，史上最硬挑戰：ft. Ivan 吳奕成 & SYM MMBCU",
+            "ep_number": 125,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762188600000,
+            "vod_channel_description": "在2025年的開春，我們與好友、也是三陽工業董事長室經理、產品管理部產品經理吳奕成Ivan，一同跨上全新的小改款「曼巴」MMBCU，準備來一趟從台北出發、東進武嶺的「GT」。對的。排氣量只有150c.c.的國產白牌機車，究竟我們與「曼巴」能否共同挺過這總長超過200公里、海拔落差超過3千公尺的挑戰？"
+          },
+          {
+            "content_id": "VOD00352892",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1383000,
+            "asset_id": "vod62279-000126M001",
+            "title": "",
+            "subtitle": "月光族不用怕！花兩百萬就能擁有輕奢小宅？HYUNDAI Santa Fe",
+            "ep_number": 126,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762190100000,
+            "vod_channel_description": "事實是要能尋得一個「避風港」著實不易，在家面對家人、在公司面對同事、在外面對朋友，何處才能真正的「獨處」？真正的遠離塵囂？真正的審視自我？好在，我們發現了一個經過精心設計、可以利用任何零碎時間、不在乎地點環境、隨時都能開張營業的「林中小屋」。"
+          },
+          {
+            "content_id": "VOD00352893",
+            "time_codes": [
+              1197000
+            ],
+            "timecode_duration": [],
+            "length": 1548000,
+            "asset_id": "vod62279-000127M001",
+            "title": "",
+            "subtitle": "20萬元高級旅遊團，到底值不值得？Ft.大榮旅遊",
+            "ep_number": 127,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762191900000,
+            "vod_channel_description": "雖然我們經常到富士賽道參與相關活動，但若要說在上面開車、親身體驗賽道的絕景與挑戰，還真是從來沒有過。終於，圓夢了。由大榮旅遊獨家代理的日本富士賽道旅遊團，就提出了在富士賽道包場開車的行程，開的還甚至是統一規格賽的真正「賽車」。有此機會豈能錯過！"
+          },
+          {
+            "content_id": "VOD00352894",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 675000,
+            "asset_id": "vod62279-000128M001",
+            "title": "",
+            "subtitle": "舊愛跟新歡，誰才是最愛？2024 Alfa Day",
+            "ep_number": 128,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762193700000,
+            "vod_channel_description": "身為全台灣最知名（自己說）、深愛著「愛快」的男人，不得不說，我對於「愛快」，確實充滿著各種難以言喻的複雜情感，而我愛她的最好方式，就是不要再擁有她。只是，人算不如天算，家父居然入手了一輛「新愛快」，甚至是我的同事也買了一台156，這也讓我再次回到當年那個深陷其中無法自拔的自己。"
+          },
+          {
+            "content_id": "VOD00352895",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 802000,
+            "asset_id": "vod62279-000129M001",
+            "title": "",
+            "subtitle": "花18萬買的中古車，車況能有多糟？阿嚕復活中 Ep.1 with 仲慶汽車",
+            "ep_number": 129,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762194600000,
+            "vod_channel_description": "話說我趁著Vincent出國時「偷買」的1998年SUBARU IMPREZA WRX Wagon，在沒讓他知道真相的情況下，實在很難有後續發展，畢竟班還是得上的。醜媳婦總得見公婆，趁著風光明媚的天氣正好，我也鄭重的邀請Vincent，準備參與一次計劃之外的拍攝，想藉此看看他最真實的反應。但，誰能想到他才剛看到車......"
+          },
+          {
+            "content_id": "VOD00352896",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 730000,
+            "asset_id": "vod62279-000130M001",
+            "title": "",
+            "subtitle": "瑞典自駕：至今最喜歡的 VOLVO純電動車：EX30",
+            "ep_number": 130,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762195800000,
+            "vod_channel_description": "VOLVO在純電動車這條路上，不至於走的遲緩，但也顯然沒有走得太過超強。但還好，他們帶來了專門為了純電生活所打造的EX30。而這相對來講還屬於入門級距的她，依舊秉持著VOLVO那以人為本的風格，在第一眼就讓我們備受好感，嶄新的內裝更把溫馨與科幻結合，再次展現了VOLVO強大的設計功力。"
+          },
+          {
+            "content_id": "VOD00359388",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 796000,
+            "asset_id": "vod62279-000131M001",
+            "title": "",
+            "subtitle": "「馬迷」在哪裡？MAZDA粉絲嘉年華妳一定要來！",
+            "ep_number": 131,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762196700000,
+            "vod_channel_description": "說到「悉心款待」，MAZDA肯定是箇中翹楚，而MAZDA FAN FESTA馬自達粉絲嘉年華，便是MAZDA為了悉心款待所有喜愛馬自達的粉絲們，所精心準備的一場盛會。坦白說，想參與這個活動很久了，今日有幸終於能夠親身蒞臨。果不其然的，在富士賽車場所舉辦的2024 MAZDA FAN FESTA，一下就吸引了我們的目光......"
+          },
+          {
+            "content_id": "VOD00359389",
+            "time_codes": [
+              1450000
+            ],
+            "timecode_duration": [],
+            "length": 2089000,
+            "asset_id": "vod62279-000132M001",
+            "title": "",
+            "subtitle": "搶救品味大作戰！竹科人買車太理性？我們拿Defender去試試看…",
+            "ep_number": 132,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762197900000,
+            "vod_channel_description": "總說竹科貢獻了全台灣最大程度的GDP，似乎應該是個遍地豪車、穿金戴銀的奢華之地。但事實是，到處都是的日本車、以及保值性極高的雙B，才是竹科人的最愛。這真是太糟糕了，我們多希望台灣街頭能夠更有層次與選擇，畢竟我們心中那「美的代表」絕對不會是理性的日本人或德國人。"
+          },
+          {
+            "content_id": "VOD00359390",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 665000,
+            "asset_id": "vod62279-000133M001",
+            "title": "",
+            "subtitle": "日本能，台灣也能！最緊繃車展在台南",
+            "ep_number": 133,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762200300000,
+            "vod_channel_description": "台灣所謂的「改裝車聚」，總容易被社會貼上聚眾、競速、噪音等負面標籤，讓台灣的改裝族群幾乎像是過街老鼠，沒有展現自己的舞台與出口。好在，我們有機會參與一場改裝車的年度盛會：台灣汽車潮流文化祭，這聚集超過400台改裝車的大場面，卻展現了第一流的水準與態度，讓人好不感動。"
+          },
+          {
+            "content_id": "VOD00359391",
+            "time_codes": [
+              976000
+            ],
+            "timecode_duration": [],
+            "length": 1625000,
+            "asset_id": "vod62279-000134M001",
+            "title": "",
+            "subtitle": "終局殺陣！一種MR、三種718：PORSCHE 718 Cayman GT4 RS & Spyder & S 6MT",
+            "ep_number": 134,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762201200000,
+            "vod_channel_description": "在上次的「中局之戰」裡，許多觀眾反應，要講MR小跑車，怎麼可以少了PORSCHE 718？你們的想法跟我們一樣，但也因為718的車型眾多，因此更應該討論的主體是：哪一台718，才是最完美的718？因此，Vincent、Marco、與山路癡漢，特別找來各自心中那最完美的718，要來看看，誰才是最好的那個！"
+          },
+          {
+            "content_id": "VOD00359392",
+            "time_codes": [
+              983000,
+              1674000,
+              2223000
+            ],
+            "timecode_duration": [],
+            "length": 2605000,
+            "asset_id": "vod62279-000135M001",
+            "title": "",
+            "subtitle": "暴走東京三日！為了一場車聚，我們在灣岸飆了三天三夜…｜Car Guys Special",
+            "ep_number": 135,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762203000000,
+            "vod_channel_description": "東京改裝車展絕對是愛車人必訪的盛會，但事實上，在東京這個繁華都市的各個角落以及週邊，隱藏著非常多會讓Car Guy為之瘋狂的場域，可以填補你在東京改裝車展以外的空白。這次，我們就要實際走訪，呈現你完全沒想過的東西樣貌。只是人還在台灣準備登機，卻發生了訂錯機票的糗事......"
+          },
+          {
+            "content_id": "VOD00359393",
+            "time_codes": [
+              1143000
+            ],
+            "timecode_duration": [],
+            "length": 1783000,
+            "asset_id": "vod62279-000136M001",
+            "title": "",
+            "subtitle": "窮遊阿布達比，除了跑賽道之外什麼都要錢？",
+            "ep_number": 136,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762205700000,
+            "vod_channel_description": "大家都想去杜拜感受所謂的奢華，但事實是有個更「物質」的城市叫做「阿布達比」。我們遠道而來為的就是參加 MASERATI 的賽道日，但在活動還沒開始前，在這個水比油貴、物質至上的國度裡，小資如我們，到底該如何度過一天？首先，就從叫一台UBER開始......"
+          },
+          {
+            "content_id": "VOD00359394",
+            "time_codes": [
+              1001000
+            ],
+            "timecode_duration": [],
+            "length": 1203000,
+            "asset_id": "vod62279-000137M001",
+            "title": "",
+            "subtitle": "敞開車頂的那一刻，我決定放縱自己一次...Ferrari 12 Cilindri Spider ，這匹很純！",
+            "ep_number": 137,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762207800000,
+            "vod_channel_description": "Enzo Ferrari曾經說過：「只有V12才能代表法拉利的精神」，也因如此，歷史上的所有V12法拉利不僅都帶有劃時代意義，也象徵法拉利對當代性能、激情、科技、甚至是品味的理解，而在迎接了最新產品12cilindri之後，那更迷人的「12cilindri spider」也如約而至，與我們在葡萄牙里斯本的豔陽下相遇。"
+          },
+          {
+            "content_id": "VOD00359395",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1727000,
+            "asset_id": "vod62279-000138M001",
+            "title": "",
+            "subtitle": "從軍用到頂流，G-Class 憑什麼讓富豪們趨之若鶩？ l Because It｀s Mercedes-Benz x 狂人講故事",
+            "ep_number": 138,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762209300000,
+            "vod_channel_description": "從 C 到 E 到 M，想必你們已經跟我們一起，領略了 Merceds-Benz 對於 Overengineering 的涉獵與執著。只是，若要談論「過度工程化」，又怎能不提那從軍用到民用、從粗曠到精緻、從蠻荒至都市，一路走來看似完全沒變但卻一直在變的「G」。"
+          },
+          {
+            "content_id": "VOD00359396",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1279000,
+            "asset_id": "vod62279-000139M001",
+            "title": "",
+            "subtitle": "M3 Touring，我們終於等到你了...(淚流滿面）",
+            "ep_number": 139,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762211400000,
+            "vod_channel_description": "事實上一直有一款車，在操控、實用、甚至是品味上都能給出完美平衡，也就是BMW 3 Touring。只是當這3 Touring的「高度」上升到了「M3 Touring」，這車迷們敲碗已久的「夢幻座駕」，又真能成為每個人心中那至高無上的完美六邊形戰士？"
+          },
+          {
+            "content_id": "VOD00359397",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1302000,
+            "asset_id": "vod62279-000140M001",
+            "title": "",
+            "subtitle": "又破防了！成為 LUXGEN n7 車主之後才知道的事",
+            "ep_number": 140,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762212900000,
+            "vod_channel_description": "相信狂人粉絲們都已經在之前的社群以及短影音上，知曉了我們入手LUXGEN n7 LR作為全新的公務夥伴。很多人說，這是個有點詫異、甚至是不解的決定，畢竟狂人日誌一直以來都以熱愛著內燃機、捍衛傳統價值自居。我們明白、我們懂。所以，這支影片，我們就說清楚、講明白，告訴你來龍去脈。"
+          },
+          {
+            "content_id": "VOD00364632",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 974000,
+            "asset_id": "vod62279-000141M001",
+            "title": "",
+            "subtitle": "說再見！上班族玩車心法最終章～自己賣車真的比較好？",
+            "ep_number": 141,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762214400000,
+            "vod_channel_description": "在眾多的不捨之下，我們終須告別那讓人非常喜愛、堪稱現代平價迷你鋼砲救贖的SUZUKI SWIFT Sport，迎向下一段旅程。不過，說到賣車，這許多車友們的必經之路，卻往往讓人陷入「自售比較好」的既定印象，只是事實真是如此嗎？我們決定親上火線、直球對決，以實際紀錄告訴大家，到底自售有沒有比較好！"
+          },
+          {
+            "content_id": "VOD00364633",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 647000,
+            "asset_id": "vod62279-000142M001",
+            "title": "",
+            "subtitle": "美國關稅戰，那所謂的「貨物稅」，到底保護了誰？",
+            "ep_number": 142,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762215600000,
+            "vod_channel_description": "台灣車價越來越高，在近期的關稅風波中更醞釀著一股漲價氣氛，也連帶再次引起民間以及部分政治人物對於「取消關稅」、「取消貨物稅」的訴求。而說到貨物稅，多數人就會談及台灣政府那所謂「保護國產車」的議題，只是這貨物稅，保護的到底是誰？是特定企業？還是整個產業鍊？還是政府的收入？"
+          },
+          {
+            "content_id": "VOD00364634",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 697000,
+            "asset_id": "vod62279-000143M001",
+            "title": "",
+            "subtitle": "漏油、拖車、花錢不停！SUBARU的修復之路太刺激：阿嚕復活中 Ep.2 with 桃園仲慶汽車",
+            "ep_number": 143,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762216500000,
+            "vod_channel_description": "只能說「愛到卡慘死」，憑藉著我對於GF8的熱愛，這輛1998年、沒受到妥善照顧的IMPREZA WRX Wagon，多數人眼中嫌棄的「錢坑」，終於正式啟動了「花錢之旅」，為了徹底解決引擎漏油、漏水的重大問題，我又再一次的來到桃園仲慶汽車，準備尋求廠長雄哥的幫助。只是，這次是坐拖車來的......"
+          },
+          {
+            "content_id": "VOD00364635",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1251000,
+            "asset_id": "vod62279-000144M001",
+            "title": "",
+            "subtitle": "從籃球之神到黛安娜王妃，為何每一個大咖都有一台賓士SL？Because it‘s Mercedes-Benz l 狂人講故事",
+            "ep_number": 144,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762217400000,
+            "vod_channel_description": "對許多人而言，賓士除了是身分和地位的表徵，更是夢想的實現，但如果真要從中選出一個「築夢踏實」的象徵，SL絕對是最具夢幻氣質的代表——J-Lo、瑪丹娜、約翰藍儂、麥可喬丹、奧黛麗赫本、席維斯史特龍甚至是黛安娜王妃...等皆人手一台、甚至是不只一台的SL，可謂名副其實的「名人座駕」。"
+          },
+          {
+            "content_id": "VOD00364636",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 485000,
+            "asset_id": "vod62279-000145M001",
+            "title": "",
+            "subtitle": "珍重、再見，我的 JDM（淚流，滿面）",
+            "ep_number": 145,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762218900000,
+            "vod_channel_description": "許久沒拍的GR YARIS內容，終於要更新了，但卻也「暫時」不會再更新了。沒錯，我要賣掉她、讓她投入另一個男人的懷抱。雖然人生至今，總在不停的擁有車輛後再與她們離別，但總有些車，會特別讓人捨不得、特別讓人心煩意亂，懷疑自己的決定是否正確，這輛GR YARIS便是其一。"
+          },
+          {
+            "content_id": "VOD00364637",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1276000,
+            "asset_id": "vod62279-000146M001",
+            "title": "",
+            "subtitle": "那一夜，我們一起膜拜的鬼罕M Power！BMW M5/ Touring的高裝檢之夜！",
+            "ep_number": 146,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762219500000,
+            "vod_channel_description": "史上最大、最重，也是最快、最強、甚至是最省油的「帶電」M5，終於正式在台灣發表。只是，對於這「辦一場少一場」的實體發表會，我們不免充滿想像與好奇，等不及正式開展，我們決定先行探秘。只是印在眼前的，卻不是我們所以為的那輛全新M5......"
+          },
+          {
+            "content_id": "VOD00364638",
+            "time_codes": [
+              867000,
+              1535000
+            ],
+            "timecode_duration": [],
+            "length": 2143000,
+            "asset_id": "vod62279-000147M001",
+            "title": "",
+            "subtitle": "電動車也要磨合？為了「訓車」，五年後我們再度挑戰電車環台24耐…",
+            "ep_number": 147,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762221000000,
+            "vod_channel_description": "五年前，我們與JAGUAR I-PACE共同挑戰24小時環島，結果卻遇上了各種「不測」，不但沒能順利完成，甚至還經歷了諸多慘烈過程，讓人不勝唏噓。如今，考慮到LUXGEN交車時對我們許下的「訓車建議」，我們決定將再次「重溫舊夢」，用一趟扎實的環台24耐來完成兩個心願，究竟，電車24小時環島，能夠成功嗎？"
+          },
+          {
+            "content_id": "VOD00364639",
+            "time_codes": [
+              979000
+            ],
+            "timecode_duration": [],
+            "length": 1695000,
+            "asset_id": "vod62279-000148M001",
+            "title": "",
+            "subtitle": "這些旅行車太狠了！開著V60，走訪台灣最神的Volvo Wagon收藏",
+            "ep_number": 148,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762223400000,
+            "vod_channel_description": "被譽為世界上最懂旅行車的品牌「VOLVO」，不僅將旅行車從「貨車」轉化為生活伴侶，將旅行車的姿態開創了無限可能，狂人日誌的我們，更與 VOLVO Wagon 度過無數的美好。只是，在全球對於休旅與純電的高度追捧之下，那曾被人奉為摯愛的 VOLVO Wagon 也逐漸退出市場，只剩 V60 獨挑大樑。"
+          },
+          {
+            "content_id": "VOD00364640",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1373000,
+            "asset_id": "vod62279-000149M001",
+            "title": "",
+            "subtitle": "人人都愛的 M Power？BMW M2 6MT 大哉問",
+            "ep_number": 149,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762225200000,
+            "vod_channel_description": "在科技日新月異的當下，手排除了情懷、以及手腳並用的快感之外，早就不具任何優勢，更別說台灣這車多地小的壅塞道路環境，對於手排來說是有多不友善。但偏偏，在短暫的相處之後，很快的我們就認為這似乎是史上最適合通勤的 M Power。我們決定，找上一些好友來體驗......"
+          },
+          {
+            "content_id": "VOD00364641",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1080000,
+            "asset_id": "vod62279-000150M001",
+            "title": "",
+            "subtitle": "本田的信仰，又來了：小改款HONDA CIVIC e:HEV",
+            "ep_number": 150,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762227000000,
+            "vod_channel_description": "今天沒有要跟大家分享十件事，而是要告訴大家，在數年前試駕完 HONDA CIVIC e:HEV 之後，我的分享遭受到網友的無情攻擊，造成我諸多的心理創傷。而當小改款 HONDA CIVIC e:HEV 再次地發出試駕邀請，我心中滿是沈重與掙扎，畢竟我不知道自己能不能再次撐過一次創傷。"
+          },
+          {
+            "content_id": "VOD00368256",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 676000,
+            "asset_id": "vod62279-000151M001",
+            "title": "",
+            "subtitle": "台灣賣最好的 Coupé，是台休旅車？Mercedes-Benz GLC Coupé",
+            "ep_number": 151,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762228200000,
+            "vod_channel_description": "在台灣，每賣出三輛賓士，其中一輛就會是 GLC。更驚人的是，每兩輛 GLC 中，會有一輛是 Coupé。這普世人認為要空間沒空間、要性能沒性能、要正統沒正統的離經叛道車款，居然能在台灣創下銷售佳績。到底是台灣人真的太愛賓士，還是 GLC Coupé 有著不為人知的魅力？請看我們詳細拆解。"
+          },
+          {
+            "content_id": "VOD00368257",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 976000,
+            "asset_id": "vod62279-000152M001",
+            "title": "",
+            "subtitle": "在台灣玩老車，心酸誰人知？",
+            "ep_number": 152,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762229100000,
+            "vod_channel_description": "隨著新車價格水漲船高，而且有越來越多的同質性以及溢價，不少玩家開始轉而投入「老車」的懷抱。但，到底什麼是老車？在台灣玩老車到底是好是壞？許多改裝品能買能賣不能裝又會衍生什麼問題？而那吵了多年的「燃料費」到底又該怎麼收呢？\n"
+          },
+          {
+            "content_id": "VOD00368258",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1495000,
+            "asset_id": "vod62279-000153M001",
+            "title": "",
+            "subtitle": "是的，我又買車了，還找回了我的青春",
+            "ep_number": 153,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762230300000,
+            "vod_channel_description": "每個車迷心中，都會有那麼好幾台車，是人生中的夢想清單。但肯定有那麼一台車，是乘載著自身青春與年少的回憶，只等待自己經濟與時間到位，再來重溫舊夢。而我心中的這台車，出現了，還是台「國產車」。沒錯，我又買車了。雖然有人說我對車只是濫情，但事實是，我是對每台車都很專情。Ep.1，開始！"
+          },
+          {
+            "content_id": "VOD00368259",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000
+            ],
+            "timecode_duration": [],
+            "length": 3074000,
+            "asset_id": "vod62279-000154M001",
+            "title": "",
+            "subtitle": "為了追尋自由，我們踏上了久違的壯遊：Maserati GranCabrio、Aston Martin DB12、PORSCHE 911 TARGA",
+            "ep_number": 154,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762232100000,
+            "vod_channel_description": "縱使我們早就不是少年郎，但那內心深處那對於自由的渴望，卻從未停歇。所以在闊別多年，度過疫情、測速、關稅、戰亂等各種天災人禍、好景不常，讓我們本就因工作與家務而疲憊不堪的心，顯得更是滿目瘡痍之時......是時候，來一場壯遊了。"
+          },
+          {
+            "content_id": "VOD00368260",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 955000,
+            "asset_id": "vod62279-000155M001",
+            "title": "",
+            "subtitle": "50 週年！最有靈魂的駕駛者之車？BMW 三系列的變與不變！1975 到 2025，一次看完 BMW 三系列",
+            "ep_number": 155,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762235700000,
+            "vod_channel_description": "或許你沒有 BMW、甚至是不喜歡 BMW，但只要對車稍有認識，都無法否認 BMW 3 Series 在車壇上的重要性。不僅改變世人對於「入門房車」的刻板印象，更證明一輛「普通四門房車」也能提供讓人愛不釋手的駕駛樂趣。而今天，我們便要駕駛一輛經典三系，來參加一場特別為三系列 50 週年所舉辦的生日派對......"
+          },
+          {
+            "content_id": "VOD00368261",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 714000,
+            "asset_id": "vod62279-000156M001",
+            "title": "",
+            "subtitle": "還是日本車嗎？「電油」才是完全體：HONDA HR-V e:HEV",
+            "ep_number": 156,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762236900000,
+            "vod_channel_description": "事實上，面對市場上常見、由日系品牌所推出的「日本車」，卻多數都非為了日本市場而生，而是為東南亞戰略車、亞太規格等。不過，仍有一款車，堅持了日本思維、融入了諸多日式設計，讓人眼睛一亮，就是 HONDA HR-V。而在其 e:HEV 嶄新動力的注入之下，似乎更有說服力與魅力。"
+          },
+          {
+            "content_id": "VOD00368262",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 742000,
+            "asset_id": "vod62279-000157M001",
+            "title": "",
+            "subtitle": "不是我不更新，是網拍買東西等了四個月！難怪車都不會好：阿嚕復活中 Ep.3",
+            "ep_number": 157,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762237800000,
+            "vod_channel_description": "眾所期待（有嗎？）的阿嚕復活記終於又更新了。我人生在世還沒有把一台車放在車廠這麼久的，從安慰自己好事多磨到說服自己其實根本沒有買這台車，才勉強能在夜裡入眠......我從日本購入、等了整整四個月的一樣材料，終於抵達仲慶。我當然馬不停蹄的趕去準備開箱，希望能盡快讓阿嚕返來挖新兵！"
+          },
+          {
+            "content_id": "VOD00368263",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 738000,
+            "asset_id": "vod62279-000158M001",
+            "title": "",
+            "subtitle": "輕量即正義？McLaren Artura Spider",
+            "ep_number": 158,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762238700000,
+            "vod_channel_description": "McLaren預計Spider車型將會佔據Artura車系以半以上的銷量。但事實是，即便經歷過疫情的洗禮，Artura叫好不叫座的現象，確實讓人百思不解，而這採用全新動力、全新碳纖維單體、甚至是品牌全新走向的 Artura Spider，真的能為Artura、甚至是McLaren帶來全新希望？"
+          },
+          {
+            "content_id": "VOD00368264",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1064000,
+            "asset_id": "vod62279-000159M001",
+            "title": "",
+            "subtitle": "鯊魚老歸老，還是能凸麗寶，結果竟然……阿嚕復活中番外篇",
+            "ep_number": 159,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762239600000,
+            "vod_channel_description": "我擁有一輛原廠未改的 HONDA CIVIC EG，這真的是非常稀有。但我覺得更稀有的是，全原廠的 SUBARU IMPREZA GT（GC/GF）。但就是有這樣的玩家，願意把一輛 GC8 維持在近乎全原廠的狀態，它沒有暴力改裝，沒有浮誇套件，只有那份來自九〇年代的純粹機械感。這台全原廠鯊魚，真能讓我感到快樂嗎？"
+          },
+          {
+            "content_id": "VOD00368265",
+            "time_codes": [
+              957000,
+              1617000
+            ],
+            "timecode_duration": [],
+            "length": 2151000,
+            "asset_id": "vod62279-000160M001",
+            "title": "",
+            "subtitle": "說再見！但這次沒有要賣車：故事的最後，我們幫 BAJABLANCA 找到了新家！",
+            "ep_number": 160,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762240800000,
+            "vod_channel_description": "攀爬過水牛坑的交叉坑與爛泥，那種讓人不敢置信的興奮猶記在心。但俗話說得好，天下無不散的宴席，我們終究要說再見，只是等待時機到來。是的，我們要跟這世界唯一的 BAJABLANCA 告別了。只是這次，她的新主人將會非常與眾不同，故事的原點，還得從一位知名的齊先生開始說起......"
+          },
+          {
+            "content_id": "VOD00376055",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1473000,
+            "asset_id": "vod62279-000161M001",
+            "title": "",
+            "subtitle": "油門一拜的巴伐利亞跑車浪漫旅！原來，殺手蘭的傳說是真的…Audi Driving Experience @姐姐愛開車",
+            "ep_number": 161,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762243200000,
+            "vod_channel_description": "很特別的，一趟德國巴伐利亞省的深度遊，居然不是因為寶馬。重點是，這趟為期三天、沿著阿爾卑斯山沿線的 Audi Driving Experience 2025，駕駛里程居然不過 600 公里多一點，行程還圍繞在路德維希二世時期所建的各種城堡，縱使有姐姐愛開車的小蘭相伴，但這到底算是什麼「駕駛體驗」？"
+          },
+          {
+            "content_id": "VOD00376056",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 805000,
+            "asset_id": "vod62279-000162M001",
+            "title": "",
+            "subtitle": "選擇困難？LEXUS NX200 vs VW TIGUAN 280，你選哪一道？",
+            "ep_number": 162,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762245000000,
+            "vod_channel_description": "LEXUS NX200，雖然擁有看似不夠先進的動力組合、以及顯然不夠全面的配備清單。但卻依靠精準的市場定位，以及強大無畏的品牌光環，長年霸佔台灣豪華休旅銷售冠軍。不過，全新TIGUAN她來了！以更多的配備、更好的安全、更新的科技，提供極度誘人的產品吸引力。重點是，售價居然不用150萬元！"
+          },
+          {
+            "content_id": "VOD00376057",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1310000,
+            "asset_id": "vod62279-000163M001",
+            "title": "",
+            "subtitle": "農家阿爾法也要帥一波？「日規化」我的HYUNDAI CUSTIN Vol.2",
+            "ep_number": 163,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762246200000,
+            "vod_channel_description": "作為一台三排七人座 MPV，CUSTIN 的表現可謂非常稱職，她總是樸實又踏實的，讓我與我的家人們創造了許多只能在 MPV 上才能擁有的美好回憶，這也讓她得以用這幾乎初始的樣貌，陪伴我們許久。不過，我心中仍有著一個專屬於她的改裝想法，而現在，正是起而行的時候了......\n"
+          },
+          {
+            "content_id": "VOD00376058",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1142000,
+            "asset_id": "vod62279-000164M001",
+            "title": "",
+            "subtitle": "實測！住在HYUNDAI MUFASA上，看88吋投影",
+            "ep_number": 164,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762247700000,
+            "vod_channel_description": "諸多車廠宣傳時總會強調空間，但用上「兩室一廳」的概念，確實前所未聞。事實上這起於中國、意圖輻射整個亞洲市場的 MUFASA，正是 HYUNDAI 近年來多款強調空間感的產品之一。不得不說，這分區規劃的理念確實巧妙，但也不免讓我們好奇，一輛主打城市的 CUV，到底是何來的自信自稱兩室一廳？"
+          },
+          {
+            "content_id": "VOD00376059",
+            "time_codes": [
+              899000
+            ],
+            "timecode_duration": [],
+            "length": 1569000,
+            "asset_id": "vod62279-000165M001",
+            "title": "",
+            "subtitle": "為了避暑，我們在山裡打造了一個正統的英式酒吧...Ineos Grenadier & Quartermaster的硬漢派對",
+            "ep_number": 165,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762249200000,
+            "vod_channel_description": "被我們譽為地表最強地表上最後一台全新、忠於「傳統」的機械式專業越野車為職志的 Ineos Grenadier，如今卻迎來了他的親兄弟：一架有著純正皮卡身形，身載長 1564mm、寬 1619mm，可輕鬆放下歐規棧板、最大載重 760kg 的「Grenadier Quartermaster」。一起來場男上加男的......硬漢派對！"
+          },
+          {
+            "content_id": "VOD00376060",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1345000,
+            "asset_id": "vod62279-000166M001",
+            "title": "",
+            "subtitle": "百改？為先，原來 LUXGEN n7 跑山可以這麼快！只要你...",
+            "ep_number": 166,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762251000000,
+            "vod_channel_description": "環島之後，縱使我們對於 LUXGEN n7 的舒適性與續航能力是讚譽有佳，卻也對她那天生就偏向溫柔的懸吊避震感到遺憾。顯而易見的，在24耐環島中已經鋪梗要改車的 Vnz，果不其然的已經準備好多項部品，準備好來替 n7 升級。唯一的問題是，這是又要改什麼呢？"
+          },
+          {
+            "content_id": "VOD00376061",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 1038000,
+            "asset_id": "vod62279-000167M001",
+            "title": "",
+            "subtitle": "人生第一場耐久賽，居然就要代表台灣？ft. Michelin",
+            "ep_number": 167,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762252800000,
+            "vod_channel_description": "收到久違的海外試駕，打開活動內容一看，居然是要我與其他四位媒體前輩一同組隊，駕駛 Hyundai 統一規格賽車，挑戰長達四小時的耐久賽？？？重點是場上同時還有其他亞太區媒體組成的「國家隊」，一起爭奪冠軍。我就想問，米其林這「Michelin Passion Experience」，會不會玩太大了點？\n"
+          },
+          {
+            "content_id": "VOD00376062",
+            "time_codes": [
+              600000,
+              1200000
+            ],
+            "timecode_duration": [],
+            "length": 1231000,
+            "asset_id": "vod62279-000168M001",
+            "title": "",
+            "subtitle": "是真愛？夢想車終於到手，這次絕對不賣…",
+            "ep_number": 168,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762254000000,
+            "vod_channel_description": "是的，我又買車了。在你開始數落我之前，先請聽我娓娓道來，畢竟身為一個拍攝團隊的主理人，自當有義務為同事們尋找那能夠陪著我們上山下海、有著充裕空間與靈活機能、宜家宜室、可辣可甜的最完美工作車。所以，我們找到了一台，我們心中最完美的工作車。這次，真的不換！"
+          }
+        ],
+        "total_length": 74769000,
+        "focus_index": 62,
+        "next_index": 0,
+        "time": 27378,
+        "focus_program": {
+          "content_id": "VOD00376062",
+          "time_codes": [
+            600000,
+            1200000
+          ],
+          "timecode_duration": [],
+          "length": 1231000,
+          "asset_id": "vod62279-000168M001",
+          "title": "",
+          "subtitle": "是真愛？夢想車終於到手，這次絕對不賣…",
+          "ep_number": 168,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762254000000,
+          "vod_channel_description": "是的，我又買車了。在你開始數落我之前，先請聽我娓娓道來，畢竟身為一個拍攝團隊的主理人，自當有義務為同事們尋找那能夠陪著我們上山下海、有著充裕空間與靈活機能、宜家宜室、可辣可甜的最完美工作車。所以，我們找到了一台，我們心中最完美的工作車。這次，真的不換！"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜合",
+          "EngName": "Variety",
+          "MenuOrder": 4
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3522_ofiii217_mobile_20241104.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

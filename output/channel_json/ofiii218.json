@@ -1,0 +1,1611 @@
+{
+  "pageProps": {
+    "contentId": "ofiii218",
+    "channel": {
+      "title": "脖子解說 Mr. Neck",
+      "no": 218,
+      "charge_mode": "F",
+      "content_id": "ofiii218",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        1
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3523_ofiii218_tv_20250220.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "脖子解說",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6457",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1730699856.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 218,
+        "cdn_code": "ofiii218",
+        "start_time": 1762104900000,
+        "programs": [
+          {
+            "content_id": "VOD00326000",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 921000,
+            "asset_id": "vod70202-000019M001",
+            "title": "",
+            "subtitle": "2023 MG大會師│太狂了...近500台MG HS全台大會師!! 實際訪問HS車主使用心得+優缺點分析...",
+            "ep_number": 19,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762104900000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326001",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 667000,
+            "asset_id": "vod70202-000020M001",
+            "title": "",
+            "subtitle": "車友改什麼45│福特Focus治鼻塞!? 原廠當派 V.S. 200鉬當派差異在? VP RACING賽用級水箱精更換過程...",
+            "ep_number": 20,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762106100000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326002",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 654000,
+            "asset_id": "vod70202-000021M001",
+            "title": "",
+            "subtitle": "車友改什麼46│福特車友從Focus MK3換到MK4.5 Wagon! 分享改裝中尾段排氣管!! 保留原廠調性又有閥門的超低調升級",
+            "ep_number": 21,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762107000000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326003",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 670000,
+            "asset_id": "vod70202-000022M001",
+            "title": "",
+            "subtitle": "美女業代系列11│還會漏水嗎!? 回覆網友對YARiS CROSS的10大疑問!! YC真的是網友說的「真盤子才買的車」??",
+            "ep_number": 22,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762107900000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326004",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 571000,
+            "asset_id": "vod70202-000023M001",
+            "title": "",
+            "subtitle": "車友改什麼47│ST WAGON SLS限定版改國外「MOUNTUNE 365」動力晶片使用心得，想要換檔更順暢就改XXX!!",
+            "ep_number": 23,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762108800000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326005",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 679000,
+            "asset_id": "vod70202-000024M001",
+            "title": "",
+            "subtitle": "彰化賽車節│福特Focus MK3.5車友爆改「甩尾」!! 內裝改賽車桶椅、訂製鈦合金渦輪管...改善原廠馬力流失及散熱的問題!",
+            "ep_number": 24,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762109700000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326006",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 618000,
+            "asset_id": "vod70202-000025M001",
+            "title": "",
+            "subtitle": "FOCUS MK4.5 & MK4│一次擁有兩台FOCUS的車友!! 分析MK4與MK4.5的差異究竟有哪些? 多了XX卻少了XX，車主後悔買兩台嗎??",
+            "ep_number": 25,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762110600000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326007",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 622000,
+            "asset_id": "vod70202-000026M001",
+            "title": "",
+            "subtitle": "車友改什麼49│人生第一台車為何選擇「二手Focus MK4」? 交車一個月使用心得! 買來馬上跑去「改當派」!!",
+            "ep_number": 26,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762111500000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326008",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 661000,
+            "asset_id": "vod70202-000027M001",
+            "title": "",
+            "subtitle": "車友改什麼50│重拾「老福特車友」回憶!! 當時改車風氣究竟如何? Fiesta & KUGA MK2老車友改車升級經驗談!!",
+            "ep_number": 27,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762112400000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326009",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 834000,
+            "asset_id": "vod70202-000028M001",
+            "title": "",
+            "subtitle": "Mustang Mach-e│福特電馬1萬公里使用心得!! 當初沒買特斯拉MODEL Y會後悔嗎? 車主優、缺點、實際公開分享",
+            "ep_number": 28,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762113300000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326010",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 739000,
+            "asset_id": "vod70202-000029M001",
+            "title": "",
+            "subtitle": "GOLF R VARIANT│前FOCUS車主換200萬的福斯GOLF MK8會後悔嗎!? 半年使用心得+優缺點分享!!",
+            "ep_number": 29,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762114500000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326011",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 803000,
+            "asset_id": "vod70202-000030M001",
+            "title": "",
+            "subtitle": "2024福特大會師│超過650台!! 福特focus wagon車友年度大會師? 實際訪問車主交車到現在「優缺點及使用心得」為何?│ft.FWC",
+            "ep_number": 30,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762115400000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326574",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 805000,
+            "asset_id": "vod70202-000031M001",
+            "title": "",
+            "subtitle": "車友改什麼51│「真」與德同規!? FOCUS MK4.5頂起來底盤解析!! 竟然不分國產、進口...好料一樣有!!",
+            "ep_number": 31,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762116600000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326575",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 740000,
+            "asset_id": "vod70202-000032M001",
+            "title": "",
+            "subtitle": "福特電車V.S油車│車主:電馬GT比KUGA ST-LINE還省!!一年竟可以省XXXXXX元! 車主親自算給你聽...",
+            "ep_number": 32,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762117800000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326576",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 731000,
+            "asset_id": "vod70202-000033M001",
+            "title": "",
+            "subtitle": "車友改什麼52│FOCUS MK4.5 ST 6MT手排使用心得分享!! 擁有過MK2/MK4/MK4.5，這台手嚕的最好玩!!",
+            "ep_number": 33,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762118700000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326577",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 703000,
+            "asset_id": "vod70202-000034M001",
+            "title": "",
+            "subtitle": "車友改什麼53│FOCUS LOMMEL車友分享下麗寶賽道經驗!? 熱熔胎與街胎差異!? 變速箱鎖檔?中冷是什麼東西?",
+            "ep_number": 34,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762119600000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326578",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 656000,
+            "asset_id": "vod70202-000035M001",
+            "title": "",
+            "subtitle": "車友來交車11│納智捷N⁷首批交車!! 車主使用不到一週滿滿的優缺點心得分享! 開過電車真的回不去了??",
+            "ep_number": 35,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762120500000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326579",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 685000,
+            "asset_id": "vod70202-000036M001",
+            "title": "",
+            "subtitle": "小米SU7│這不就來了嗎! 小米SU7實車詳細介紹!! 規格?配備? 現場大陸小姐姐怎麼看這台車??",
+            "ep_number": 36,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762121400000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326580",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 671000,
+            "asset_id": "vod70202-000037M001",
+            "title": "",
+            "subtitle": "車友改什麼54│國產YARiS CROSS竟改造成暴力鴨!? 全台唯一引進「泰包」空力套件...煞車/底盤系統全部做到最最最緊繃!!",
+            "ep_number": 37,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762122300000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326581",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 688000,
+            "asset_id": "vod70202-000038M001",
+            "title": "",
+            "subtitle": "車友改什麼55│Wagon車友從「玩動力」改「玩姿態」? Focus Wagon改車順序很重要! 一步錯就要多繳很多學費......",
+            "ep_number": 38,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762123200000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326582",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 808000,
+            "asset_id": "vod70202-000039M001",
+            "title": "",
+            "subtitle": "車友改什麼56│超炫! 會彈鋼琴的氣壓系統?? 車友分享「氣壓避震改裝指南」! 究竟品牌、價位該怎麼選...?",
+            "ep_number": 39,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762124100000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00326583",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 696000,
+            "asset_id": "vod70202-000040M001",
+            "title": "",
+            "subtitle": "Apple Carplay介面超過癮!! 納智捷N⁷螢幕「10大重點功能」，竟還有「寵物模式」、「露營模式」",
+            "ep_number": 40,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762125300000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00334729",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 678000,
+            "asset_id": "vod70202-000041M001",
+            "title": "",
+            "subtitle": "福特Focus車友嘔心瀝血之作!! 「平價」、「潑水性」、「好操作」手作棕梠蠟，車友都在用!! 實測下大雨效果...",
+            "ep_number": 41,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762126200000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00334730",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 661000,
+            "asset_id": "vod70202-000042M001",
+            "title": "",
+            "subtitle": "雷射防護罩│告別扣牌...測速雷射槍剋星!? 討論度火紅「防護罩」真能擋掉雷射槍? 測試結果出乎意料...究竟原理是什麼? 100%能抵擋? 一次說給你聽!!",
+            "ep_number": 42,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762127100000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00334731",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 752000,
+            "asset_id": "vod70202-000043M001",
+            "title": "",
+            "subtitle": "MG ZS│ZS狹窄停車場大挑戰!! 究竟MG新車該保甲式? 乙式? 還丙式?? 網友討論 : 環景畫質實在...??",
+            "ep_number": 43,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762128000000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00334732",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 656000,
+            "asset_id": "vod70202-000044M001",
+            "title": "",
+            "subtitle": "車友改什麼57│刷新「車涯最速」Focus ST Wagon紀錄!? 超狂! 改水噴/特調411匹動力/全車滿滿鈦合金...",
+            "ep_number": 44,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762128900000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00334733",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 671000,
+            "asset_id": "vod70202-000045M001",
+            "title": "",
+            "subtitle": "美女業代系列12│美女業代親自示範MG HS「充氣床」究竟 「0利率購車」真存在?、「貸款購車」指南為何?",
+            "ep_number": 45,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762129800000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00334734",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 750000,
+            "asset_id": "vod70202-000046M001",
+            "title": "",
+            "subtitle": "車友改什麼58│TOYOTA CC車友追求「日規」!? 從日本空運來台「稀有空力套件-蒙娜麗莎大包」 打造不一樣的TOYOTA",
+            "ep_number": 46,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762130700000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00334735",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 738000,
+            "asset_id": "vod70202-000047M001",
+            "title": "",
+            "subtitle": "車友來交車12│第一批MG4交車!! 99.9萬國產電車大對決~同時擁有兩台競品的「美女車主」分享差異!!",
+            "ep_number": 47,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762131600000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00334736",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 897000,
+            "asset_id": "vod70202-000048M001",
+            "title": "",
+            "subtitle": "車友改什麼59│「Focus Wagon一週年紀念!!」改裝建議?使用優缺點分享? 把MK2.5的玩車經驗套在MK4.5上...避免花冤枉錢",
+            "ep_number": 48,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762132500000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00334737",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 757000,
+            "asset_id": "vod70202-000049M001",
+            "title": "",
+            "subtitle": "車友改什麼60│SYNC3能改大螢幕SYNC4!? 朝聖福特電系升級專家!! 「尾門露營燈」、「神奇小鑰匙」、「刷隱藏功能」全滿足!!",
+            "ep_number": 49,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762133700000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00334738",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 795000,
+            "asset_id": "vod70202-000050M001",
+            "title": "",
+            "subtitle": "MG4 EV旗艦│MG4美女車主一個月使用心得!? 5大優點&5大缺點...同為LUXGEN N7車主究竟有哪些感受!?",
+            "ep_number": 50,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762134600000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00340662",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 702000,
+            "asset_id": "vod70202-000051M001",
+            "title": "",
+            "subtitle": "福特SYNC主機│SYNC3與SYNC4究竟差多少 改款KUGA也將換上SYNC4了!! 優缺點分享...",
+            "ep_number": 51,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762135800000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00340663",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 712000,
+            "asset_id": "vod70202-000052M001",
+            "title": "",
+            "subtitle": "性能街胎評比│究竟...「性能街胎」該怎麼選? 車友都推薦「PS5」、「F1A6」、「PC7」三條差在哪?換輪胎尺寸有小眉角!?",
+            "ep_number": 52,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762136700000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00340664",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 831000,
+            "asset_id": "vod70202-000053M001",
+            "title": "",
+            "subtitle": "車友改什麼61│FOCUS MK4.5 正ST車友追求「動力」!!刷二階輪上3XX匹馬力...增加撞風面積小眉角分享...",
+            "ep_number": 53,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762137600000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00340665",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 902000,
+            "asset_id": "vod70202-000054M001",
+            "title": "",
+            "subtitle": "Mustang Mach-e│福特電馬「全台首聚」!! 好幾波降價割韭X? 車主實際使用心得&改裝分享...",
+            "ep_number": 54,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762138800000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00340666",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 693000,
+            "asset_id": "vod70202-000055M001",
+            "title": "",
+            "subtitle": "車友改什麼62│Focus Vignale車友追求日系素人風!? 直上電馬BREMBO卡鉗+一年半竟換了4組輪框...??",
+            "ep_number": 55,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762140000000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00340667",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 621000,
+            "asset_id": "vod70202-000056M001",
+            "title": "",
+            "subtitle": "車友改什麼63│福特車友必裝「10大熱門配件」...全車鍛造碳纖維、後輪拱小翅膀、保護膜、客製化車標、中尾翼!!!",
+            "ep_number": 56,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762140900000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00340668",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 725000,
+            "asset_id": "vod70202-000057M001",
+            "title": "",
+            "subtitle": "美女業代系列13│誰說韓國車不能買! 與KIA美女業代夜間試駕Sportage X-Line...實測ACC & 180匹馬力的操駕性能!!",
+            "ep_number": 57,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762141800000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00340669",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 701000,
+            "asset_id": "vod70202-000058M001",
+            "title": "",
+            "subtitle": "車友改什麼64│向「硬皮鯊」致敬!? Focus Wagon荒島藍車主全車碳纖維空力套件...一年半竟開了6萬公里?? ft.家洋哥",
+            "ep_number": 58,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762142700000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00340670",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 743000,
+            "asset_id": "vod70202-000059M001",
+            "title": "",
+            "subtitle": "Apple Carplay│新版 iOS 18在Apple Carplay上的「10大實用新功能」...新版Siri超好用!? 但...新功能卻有些卡頓??",
+            "ep_number": 59,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762143600000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00340671",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 688000,
+            "asset_id": "vod70202-000060M001",
+            "title": "",
+            "subtitle": "車友來交車13│福特KUGA 1.5T Vignale首批交車! 同時擁有MG HS...差異為何?? 人生第四台苦尬優缺點心得分享!!",
+            "ep_number": 60,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762144500000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00346997",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 640000,
+            "asset_id": "vod70202-000061M001",
+            "title": "",
+            "subtitle": "老外試駕系列2│帶「澳洲阿兜仔」夜間試駕福特KUGA MK3.5 1.5T Vignale...分享與上次體驗MK3的差異性??",
+            "ep_number": 61,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762145400000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00346998",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 762000,
+            "asset_id": "vod70202-000062M001",
+            "title": "",
+            "subtitle": "車友改什麼65│Wagon版主車!! 開發「雙筒身」中尾段? 一年半改裝項目分享...Vignale優缺點究竟有哪些??",
+            "ep_number": 62,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762146300000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00346999",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 654000,
+            "asset_id": "vod70202-000063M001",
+            "title": "",
+            "subtitle": "馬牌PC7長測│胎噪、抓地力、磨耗?? 20,000公里長期測試...8大使用優缺點分享!!",
+            "ep_number": 63,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762147200000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00347000",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 827000,
+            "asset_id": "vod70202-000064M001",
+            "title": "",
+            "subtitle": "車友改什麼66│少女心爆發啦 堪稱最可愛WAGON...愛心尾飾管/車底氣氛燈/七彩日型燈/樂高側裙??",
+            "ep_number": 64,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762148100000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00347001",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 588000,
+            "asset_id": "vod70202-000065M001",
+            "title": "",
+            "subtitle": "美女業代系列14│TOYOTA美女新人業代夜間試駕!! Corolla Cross改款實用功能...AR擴增實境導航/電子手煞車!!",
+            "ep_number": 65,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762149300000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00347002",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 792000,
+            "asset_id": "vod70202-000066M001",
+            "title": "",
+            "subtitle": "2024 N7車聚│破百台!? LUXGEN N7大會師首聚...不裝了!! 車主心聲老實說，一致想換「LR長程版」!!",
+            "ep_number": 66,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762150200000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00347003",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 710000,
+            "asset_id": "vod70202-000067M001",
+            "title": "",
+            "subtitle": "車友改什麼67│超狂運將大哥!! 不顧油耗開Focus Wagon大改氣壓避震+全車要價2X萬音響...搭過的客人都說超XX",
+            "ep_number": 67,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762151400000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00347004",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 731000,
+            "asset_id": "vod70202-000068M001",
+            "title": "",
+            "subtitle": "車友改什麼68│台東阿美族車友WAGON改裝分享!! BREMBO F55配raffa框、車內改正碳纖維~全村特色!!",
+            "ep_number": 68,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762152300000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00347005",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 789000,
+            "asset_id": "vod70202-000069M001",
+            "title": "",
+            "subtitle": "車友改什麼69│玩車必看!! 降水溫套件「鈦合金飛盤」，有效增加冷卻水「循環速度」!! 皮帶作動原理 & 水循環詳細解說",
+            "ep_number": 69,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762153200000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00347006",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 692000,
+            "asset_id": "vod70202-000070M001",
+            "title": "",
+            "subtitle": "車友改什麼70│改「皮帶盤」真能降水溫!? 99 PLUS飛盤套件-三個月使用心得分享! 與原廠差很大??",
+            "ep_number": 70,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762154400000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00352897",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 738000,
+            "asset_id": "vod70202-000071M001",
+            "title": "",
+            "subtitle": "LUXGEN N7│一路上支持納智捷? 頭批N7車主-10個月使用心得分享!! 究竟缺點有哪些...?",
+            "ep_number": 71,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762155300000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00352898",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 636000,
+            "asset_id": "vod70202-000072M001",
+            "title": "",
+            "subtitle": "美女業代系列15│究竟哪些配備讓TOYOTA CAMRY賣到缺車?? 平價品牌卻有高級配備? 底盤透視環景影像+後鏡頭清潔!!",
+            "ep_number": 72,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762156200000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00352899",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 711000,
+            "asset_id": "vod70202-000073M001",
+            "title": "",
+            "subtitle": "2025彰化賽車節│5代CRV好爸爸用車爆改!? GR YARIS下場設定分享!! 本田MUGEN套件上好上滿...",
+            "ep_number": 73,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762157100000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00352900",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 831000,
+            "asset_id": "vod70202-000074M001",
+            "title": "",
+            "subtitle": "車友改什麼71│車友花50萬改TOYOTA!? 從美國進口套件，全車都要獨一無二打造GR LOOK....TOYOTA COROLLA SPORT",
+            "ep_number": 74,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762158000000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00352901",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 717000,
+            "asset_id": "vod70202-000075M001",
+            "title": "",
+            "subtitle": "美女業代系列16│夜間試駕中華J Space!!「頭家ㄟ車有ACC !?」超乎你我的想像!! 全數位儀表 & LEVEL2",
+            "ep_number": 75,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762159200000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00352902",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 730000,
+            "asset_id": "vod70202-000076M001",
+            "title": "",
+            "subtitle": "車友改什麼72│改到成為廠商Demo Car? 全車質感黑化套件...配蜂巢狀碳纖維紋路/內裝搭配麂皮包覆配氣氛燈??",
+            "ep_number": 76,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762160100000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00352903",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 706000,
+            "asset_id": "vod70202-000077M001",
+            "title": "",
+            "subtitle": "美女業代系列17│夜間試駕!! 堪稱300萬的「歐爸電動車」? 科技配備大滿配...OLED電子後照鏡/第二排旋轉座椅/V2L/標配英國Merdian音響",
+            "ep_number": 77,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762161000000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00352904",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 786000,
+            "asset_id": "vod70202-000078M001",
+            "title": "",
+            "subtitle": "車友改什麼73│首台Focus Wagon女車友「寬體改造計畫」...超緊繃!! 氣壓避震配輪框墊出8.5cm...滿滿JDM風!!",
+            "ep_number": 78,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762161900000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00352905",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 718000,
+            "asset_id": "vod70202-000079M001",
+            "title": "",
+            "subtitle": "2025 Focus Wagon│極端實測!! 全新「FAPA主動式停車輔助系統2.0」真的好用嗎? 小改款降6萬元對車友來說...誠意滿滿!?",
+            "ep_number": 79,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762163100000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00352906",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 665000,
+            "asset_id": "vod70202-000080M001",
+            "title": "",
+            "subtitle": "車友改什麼74│百改降為先!? LEXUS NX200好爸爸用車竟可這樣改...全車鍛造碳纖維+音響改裝，配上進口WORK雙片式輪框...",
+            "ep_number": 80,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762164000000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00358742",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 633000,
+            "asset_id": "vod70202-000081M001",
+            "title": "",
+            "subtitle": "25年式旅玩家│夜間試駕! 福特7座MPV Tourneo Connect竟出Active版…百萬級距豪華配備，還是歐洲進口!!",
+            "ep_number": 81,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762164900000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00358743",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 661000,
+            "asset_id": "vod70202-000082M001",
+            "title": "",
+            "subtitle": "車友改什麼75│阿美族Wagon車友成功說服老婆「改氣壓避震」?? 超質感後廂裝潢+閃電霹靂車童年回憶...全車設定分享",
+            "ep_number": 82,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762165800000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00358744",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 829000,
+            "asset_id": "vod70202-000083M001",
+            "title": "",
+            "subtitle": "車友改什麼76│姿態改!! 結合日系JDM風 & 美規元素的Corolla Sport~全車日本進口「蒙娜麗莎Modellista」大包+FeelAir氣壓避震...",
+            "ep_number": 83,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762166700000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00358745",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 674000,
+            "asset_id": "vod70202-000084M001",
+            "title": "",
+            "subtitle": "美女業代系列18│不用200萬!! 美女業代介紹25年式BMW iX1 eDrive20/30大滿配亮點...原廠OS9主機隱藏功能分享~",
+            "ep_number": 84,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762167900000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00358746",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 860000,
+            "asset_id": "vod70202-000085M001",
+            "title": "",
+            "subtitle": "2025 Luxgen n⁷大會師│「納智捷強勢回歸?」330台n⁷齊聚一堂...原廠代表竟共同參與傾聽車主心聲...首波交車LR車主們有好多話想說~",
+            "ep_number": 85,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762168800000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00358747",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 642000,
+            "asset_id": "vod70202-000086M001",
+            "title": "",
+            "subtitle": "SUZUKI JIMNY(JB74)│夜間試駕~堪稱2025年依舊保值的神車!? SUZUKI JIMNY...曾經竟然被炒作到1XX萬",
+            "ep_number": 86,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762170000000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00358748",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 749000,
+            "asset_id": "vod70202-000087M001",
+            "title": "",
+            "subtitle": "25年式KUGA│小福還有競爭力嗎? 究竟KUGA MK3.5要怎麼選? 1.5T Active V.S. 2.0T ST-Line規格配備大比拚...",
+            "ep_number": 87,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762170900000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00358749",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 721000,
+            "asset_id": "vod70202-000088M001",
+            "title": "",
+            "subtitle": "Android Auto│原系統就內建遊戲?? 誰說Android Auto不好用?? 10大亮點整理...特殊隱藏功能一次解說",
+            "ep_number": 88,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762171800000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00358750",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 588000,
+            "asset_id": "vod70202-000089M001",
+            "title": "",
+            "subtitle": "CROWN ESTATE│TOYOTA皇冠竟出WAGON版本旅行車?? 直衝日本開箱皇冠家族最後一塊拼圖...PHEV版本折合台幣才140萬...",
+            "ep_number": 89,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762172700000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00358751",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 609000,
+            "asset_id": "vod70202-000090M001",
+            "title": "",
+            "subtitle": "RANGER WILDTRAK│「南非生產」福特皮卡RANGER竟有「FAPA2.0自動停車!?」搭載直立式SYNC4/完整ACC/120V電源...",
+            "ep_number": 90,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762173600000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00364622",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 667000,
+            "asset_id": "vod70202-000091M001",
+            "title": "",
+            "subtitle": "美女業代系列19│夜間試駕!! 韓國進口小改款Picanto竟不到60萬?? 究竟值不值得買...亮點重點整理...科技配備超級滿!!",
+            "ep_number": 91,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762174500000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00364623",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 807000,
+            "asset_id": "vod70202-000092M001",
+            "title": "",
+            "subtitle": "福特大保養│「里程越高,越多眉角?」福特Focus七萬公里大保養更換建議!! 水箱精&機油慎選...避免渦輪水塞漏水 & 機油泵補皮帶屑",
+            "ep_number": 92,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762175400000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00364624",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 772000,
+            "asset_id": "vod70202-000093M001",
+            "title": "",
+            "subtitle": "iOS18.5│CarPlay Ultra 終於來了!! Apple Carplay在 iOS18.5 上的八大重點更新!! 超狂系統整合...版本、相容性詳細解說!!",
+            "ep_number": 93,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762176600000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00364625",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 608000,
+            "asset_id": "vod70202-000094M001",
+            "title": "",
+            "subtitle": "紐柏林限定版│福特Wagon再後一波改款!? 究竟是「限定版」「貼紙版」? 你不能不知道的10大改款亮點分析...",
+            "ep_number": 94,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762177500000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00364626",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 733000,
+            "asset_id": "vod70202-000095M001",
+            "title": "",
+            "subtitle": "iOS26│搶先體驗!! iOS 26在Apple CarPlay上的10大優缺點變化!! 有驚喜也有地雷...究竟該不該升級?",
+            "ep_number": 95,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762178400000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00364627",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 862000,
+            "asset_id": "vod70202-000096M001",
+            "title": "",
+            "subtitle": "MODEL Y│2025 Tesla Model Y Long Range值得入手嗎 完整試駕體驗!!一次看懂改款配備及自動駕駛實測",
+            "ep_number": 96,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762179300000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00364628",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 707000,
+            "asset_id": "vod70202-000097M001",
+            "title": "",
+            "subtitle": "Ford Territory│福特Territory接班Kuga有影無!? 網友台61捕獲實車照+5大戰略大解析",
+            "ep_number": 97,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762180500000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00364629",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 671000,
+            "asset_id": "vod70202-000098M001",
+            "title": "",
+            "subtitle": "美女業代系列20│進口SUV神車TOYOTA RAV4拚了!! 關稅+貨物稅雙殺...究竟還有競爭力嗎? 試駕體驗「AR擴增實境導航+完整TSS」",
+            "ep_number": 98,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762181400000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00364630",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 778000,
+            "asset_id": "vod70202-000099M001",
+            "title": "",
+            "subtitle": "MAXUS G50 PLUS│國產七人座MPV新選擇? 中華MAXUS G50 PLUS值不值得等? 解決好「自製率」準備逆襲? 5大觀點分析...",
+            "ep_number": 99,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762182300000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00364631",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 724000,
+            "asset_id": "vod70202-000100M001",
+            "title": "",
+            "subtitle": "LUXGEN N5│為什麼大家都在等這台納智捷N5? 國產純電掀背CP值炸裂? 網友論點詳細分析...",
+            "ep_number": 100,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762183200000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00371355",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 771000,
+            "asset_id": "vod70202-000101M001",
+            "title": "",
+            "subtitle": "LEXUS RX大會師│超過300台的質感車聚!? 5代車主分享真實用車經驗...誰說開LEXUS的車主不會改車?",
+            "ep_number": 101,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762184100000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00371356",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 745000,
+            "asset_id": "vod70202-000102M001",
+            "title": "",
+            "subtitle": "ApplePie Touch│一插即用!! 2025最值入手車機媒體擴充神器...搭載首創觸控面板、Android14系統，追劇、打麻將、逛蝦皮都適用!!",
+            "ep_number": 102,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762185000000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00371357",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 753000,
+            "asset_id": "vod70202-000103M001",
+            "title": "",
+            "subtitle": "比亞迪來襲│便宜治百病? 比亞迪高端品牌-騰勢D9/N8悄悄送驗...究竟對車市有哪些挑戰? 優劣勢及配備詳細剖析!!",
+            "ep_number": 103,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762185900000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00371358",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 705000,
+            "asset_id": "vod70202-000104M001",
+            "title": "",
+            "subtitle": "車友來交車14│為何放棄福特!?「KUGA」車友換「特斯拉 Model Y」...完整交車實錄+福特5年使用優缺點真實分享!!",
+            "ep_number": 104,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762186800000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00371359",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 777000,
+            "asset_id": "vod70202-000105M001",
+            "title": "",
+            "subtitle": "MG G50 PLUS│這不就來了嗎? 與美女一起開箱MG百萬MPV G50 PLUS...究竟「沒有側滑門」是好還不好? 隱藏亮點大統整!!",
+            "ep_number": 105,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762187700000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00371360",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 785000,
+            "asset_id": "vod70202-000106M001",
+            "title": "",
+            "subtitle": "Model Y│【車主必看】2025特斯拉煥新Y必買配件開箱...隔熱紙究竟該怎麼貼? 超強罰單終結神器實測...",
+            "ep_number": 106,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762188600000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00371361",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 642000,
+            "asset_id": "vod70202-000107M001",
+            "title": "",
+            "subtitle": "XFORCE│Mitsubishi XFORCE值得等嗎?? 百萬跨界SUV準備大洗牌!! YARiS CROSS/KICKS/HRV設計、配備、空間全解析...",
+            "ep_number": 107,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762189800000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00371362",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 746000,
+            "asset_id": "vod70202-000108M001",
+            "title": "",
+            "subtitle": "車友改什麼77│Focus全車客製化!! 誰說五門Hatchback不能玩氣壓避震!? 帥氣姿態與舒適日常的完美平衡設定分享!",
+            "ep_number": 108,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762190700000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00371363",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 771000,
+            "asset_id": "vod70202-000109M001",
+            "title": "",
+            "subtitle": "IOS26 Carplay│堪稱史上最有感升級!? IOS26更新後開車竟可以看歌詞了...IOS26在Apple Carplay上的8大亮點解說",
+            "ep_number": 109,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762191600000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00371364",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 749000,
+            "asset_id": "vod70202-000110M001",
+            "title": "",
+            "subtitle": "Territory Hybrid│福特油電可靠嗎? 福特Territory確定搭載Hybrid...台灣上市前先看菲律賓媒體怎麼說...優缺點及切入點詳盡分析!",
+            "ep_number": 110,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762192500000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00382237",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 680000,
+            "asset_id": "vod70202-000111M001",
+            "title": "",
+            "subtitle": "NISSAN SENTRA│日系房車反攻! 北美新改款SENTRA終於有感進化...改款亮點、優劣勢分析一次看懂!!",
+            "ep_number": 111,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762193400000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00382238",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 672000,
+            "asset_id": "vod70202-000112M001",
+            "title": "",
+            "subtitle": "iOS26 CarPlay│【你一定沒發現】iOS26在CARPLAY上的8大隱藏功能...從設定到操作，一次學會!! 用過之後回不去了!!",
+            "ep_number": 112,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762194300000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00382239",
+            "time_codes": [],
+            "timecode_duration": [],
+            "length": 559000,
+            "asset_id": "vod70202-000113M001",
+            "title": "",
+            "subtitle": "台灣福特│停產潮 & 政府貨物稅補助...台灣福特還撐得下去嗎!? 現況市場分享...究竟新車Territory何時能亮相??",
+            "ep_number": 113,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762195200000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          },
+          {
+            "content_id": "VOD00382240",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 860000,
+            "asset_id": "vod70202-000114M001",
+            "title": "",
+            "subtitle": "2025福特大會師│超扯!! 開心!! 竟超過700台福特大會師在吊車大王啟德機械齊聚一堂!? 再給車友們一次機會，還會選福特嗎??",
+            "ep_number": 114,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762196100000,
+            "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+          }
+        ],
+        "total_length": 69228000,
+        "focus_index": 87,
+        "next_index": 88,
+        "time": 676549,
+        "focus_program": {
+          "content_id": "VOD00371360",
+          "time_codes": [
+            600000
+          ],
+          "timecode_duration": [],
+          "length": 785000,
+          "asset_id": "vod70202-000106M001",
+          "title": "",
+          "subtitle": "Model Y│【車主必看】2025特斯拉煥新Y必買配件開箱...隔熱紙究竟該怎麼貼? 超強罰單終結神器實測...",
+          "ep_number": 106,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762188600000,
+          "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜合",
+          "EngName": "Variety",
+          "MenuOrder": 4
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3523_ofiii218_mobile_20241104.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

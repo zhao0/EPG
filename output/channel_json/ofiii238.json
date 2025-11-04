@@ -1,0 +1,1910 @@
+{
+  "pageProps": {
+    "contentId": "ofiii238",
+    "channel": {
+      "title": "世界第一等",
+      "no": 238,
+      "charge_mode": "F",
+      "content_id": "ofiii238",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        18
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3567_ofiii238_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "八大2023",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6501",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1733898761.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 238,
+        "cdn_code": "ofiii238",
+        "start_time": 1762057200000,
+        "programs": [
+          {
+            "content_id": "VOD00240763",
+            "time_codes": [
+              633000,
+              1198000,
+              1984000,
+              2553000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001034M001",
+            "title": "",
+            "subtitle": "第1034集 【新竹】碩果僅存 討海人",
+            "ep_number": 1034,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762057200000,
+            "vod_channel_description": "不蓋你們，看看我們男人中的男人碩哥鄭人碩，也是從頭到腳全身包緊緊，就知道冬天這裡有多冷，風有多強。不過也只有這個時候，咱們所在的竹南中港溪出海口，才能看到有別於北部，捕撈白金鰻苗的特有方式。"
+          },
+          {
+            "content_id": "VOD00240764",
+            "time_codes": [
+              641000,
+              1260000,
+              2243000,
+              2496000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001035M001",
+            "title": "",
+            "subtitle": "第1035集 【花蓮】FUN野趣",
+            "ep_number": 1035,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762060200000,
+            "vod_channel_description": "旅行的方式有很多。可以一人獨享，也能揪三五好友一起瘋。不管你是哪一種，或許，可以用花蓮人的日常，去重新認識花蓮，讓旅行回歸在地，從日常開始探索。"
+          },
+          {
+            "content_id": "VOD00240765",
+            "time_codes": [
+              575000,
+              1106000,
+              1653000,
+              2593000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001036M001",
+            "title": "",
+            "subtitle": "第1036集 【雲林】山海瘋玩中台灣",
+            "ep_number": 1036,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762063200000,
+            "vod_channel_description": "此次小剛找來了他的好麻吉兄弟-黃尚禾，一起來體驗《世界第一等》最真實的外景節目，身為東道主的小剛，絕對準備了許多有趣的體驗要讓尚禾大開眼界！讓旅行回歸在地，從日常開始探索。"
+          },
+          {
+            "content_id": "VOD00240766",
+            "time_codes": [
+              650000,
+              1759000,
+              2140000,
+              2645000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001037M001",
+            "title": "",
+            "subtitle": "第1037集 【南投】兄弟逍遙遊",
+            "ep_number": 1037,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762066200000,
+            "vod_channel_description": "話說，平常主持《世界第一等》都是一人走跳，這回和我的好哥們鄭人碩-碩哥，逗陣出遊才發現，行走江湖，真的得靠朋友力挺。"
+          },
+          {
+            "content_id": "VOD00240767",
+            "time_codes": [
+              860000,
+              2125000,
+              2417000,
+              2565000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001038M001",
+            "title": "",
+            "subtitle": "第1038集 【中台灣】山野職人 瘋狂築夢",
+            "ep_number": 1038,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762069200000,
+            "vod_channel_description": "相信很多人跟我們一樣，年輕時總有著天馬行空的夢想，努力規劃追求，希望有一天能夢想成真，然而隨著年紀的增長，環境的改變，能夠一本初衷的人卻是少之又少，今天和我的好友尚禾，向南部出發，拜訪那些為了築夢而瘋狂的山野職人們，看看他們為了追尋自己的夢想，如何的付出與堅持。"
+          },
+          {
+            "content_id": "VOD00240768",
+            "time_codes": [
+              634000,
+              1104000,
+              2010000,
+              2417000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001039M001",
+            "title": "",
+            "subtitle": "第1039集 【北台灣】野味特搜 玩轉烏來",
+            "ep_number": 1039,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762072200000,
+            "vod_channel_description": "沿著北台灣的南勢溪往上游方向前行，我們跟著暗夜槍響的狩獵足跡一路品嚐部落美食，體驗纜車風情。這裡不但有溫泉，還有著全台最高負離子含量的瀑布森林，以及來自國寶職人之手的銅鑼音療聲波浴，現在就跟著我們一起野味特搜玩轉烏來吧。"
+          },
+          {
+            "content_id": "VOD00240769",
+            "time_codes": [
+              1816000,
+              2222000,
+              2455000,
+              2630000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001040M001",
+            "title": "",
+            "subtitle": "第1040集 【南投】天空之城",
+            "ep_number": 1040,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762075200000,
+            "vod_channel_description": "如果說，旅行需要動機的話，南投的瑞岩部落，就是引起我們好奇的原因，坐擁山巒的環境，不只被稱為天空部落，更是泰雅族的發源地，老實說，這很像走訪馬丘比丘，雲霧繚繞的神祕面紗下，了解泰雅的日常。不過想當勇士前，得先跟著在地好朋友，試試不一樣的夜生活。"
+          },
+          {
+            "content_id": "VOD00248579",
+            "time_codes": [
+              630000,
+              1409000,
+              1829000,
+              2447000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001041M001",
+            "title": "",
+            "subtitle": "第1041集 【新北貢寮】逐風破浪尋美味",
+            "ep_number": 1041,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762078200000,
+            "vod_channel_description": "東北角的海岸線，相信大家對它的印象大多是碧海藍天的夏季好風光，知名的台2線更是一條可以滿足旅人看山、看海、串聯許多景點的景觀公路，不過一旦進入秋冬的季節，美麗的藍色公路少了鼎沸的人潮，卻多了幾分浪漫的蕭瑟之美，和許多變換多端的刺激旅程，今天就跟著小剛和好友震亞一起逐風破浪尋美味。"
+          },
+          {
+            "content_id": "VOD00248580",
+            "time_codes": [
+              1388000,
+              2157000,
+              2344000,
+              2641000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001042M001",
+            "title": "",
+            "subtitle": "第1042集 【彰化】百業人生 古法傳承",
+            "ep_number": 1042,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762081200000,
+            "vod_channel_description": "五虎將最後一虎來踢館啦！小剛找來了演員好友-張再興，來到彰化先挑戰大尾的！號稱航空母艦等級的澎湖黃金鯧，由小剛與阿興兩位PK決勝負，看誰能釣最大尾？！這次阿興帶小剛上山砍竹？製作出即將失傳，每個都是獨一無二的竹頭筊；以及全台首創、百年古法傳承「土窯雞」製作，讓人吮指回味。"
+          },
+          {
+            "content_id": "VOD00248581",
+            "time_codes": [
+              1184000,
+              1765000,
+              2264000,
+              2642000
+            ],
+            "timecode_duration": [],
+            "length": 2702000,
+            "asset_id": "vod10857-001043M001",
+            "title": "",
+            "subtitle": "第1043集 【中台灣】山海野遊趣",
+            "ep_number": 1043,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762084200000,
+            "vod_channel_description": "俗話說得好，出遊這回事，只要人對了，怎樣都好玩！這回我和來賓李懿逗陣出遊，特別幫她規劃了一系列的Outdoor行，從上山下海，到在地好料，通通包羅萬象，想要成為真正的凹逗人，這樣玩，最在地~"
+          },
+          {
+            "content_id": "VOD00248582",
+            "time_codes": [
+              1206000,
+              1817000,
+              2355000,
+              2634000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001044M001",
+            "title": "",
+            "subtitle": "第1044集 【中台灣】山海百工魂",
+            "ep_number": 1044,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762087200000,
+            "vod_channel_description": "經過上一次外景的默契配合，這次換小剛帶張再興-阿興來到新竹和南投冒險啦~這次不僅往山中砍甘蔗製糖，品味最天然的蔗糖料理，更搭船出海抓當季黑格。兩兄弟辛苦的跟著達人上山下海後，小剛也不忘帶阿興去吃目前新竹最夯「龍蝦吃到飽」，讓阿興直呼：太幸福啦！"
+          },
+          {
+            "content_id": "VOD00248583",
+            "time_codes": [
+              934000,
+              1783000,
+              2134000,
+              2436000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001045M001",
+            "title": "",
+            "subtitle": "第1045集 【花蓮】隱藏版山珍海味",
+            "ep_number": 1045,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762090200000,
+            "vod_channel_description": "天下之大、無奇不有，我們闖蕩世界這麼多年，花蓮，怎麼可能還有《世界第一等》小剛我不知道的隱藏版美食呢？！究竟是什麼樣的山珍海味，可以讓美食界里長伯毛哥，拍胸補打包票？這趟，就讓我們躦巷底、好好把這些大食小吃通通嚐一遍！"
+          },
+          {
+            "content_id": "VOD00248584",
+            "time_codes": [
+              923000,
+              1897000,
+              2143000,
+              2552000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001046M001",
+            "title": "",
+            "subtitle": "第1046集 【桃園、新竹】趕海攻瀑 極限挑戰",
+            "ep_number": 1046,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762093200000,
+            "vod_channel_description": "經過上一趟外景的默契配合，體能好的尚禾表示，可以再挑戰更困難的行程；而身為好朋友又熱愛戶外體驗的小剛，當然安排了一連串、各行各業的達人與夢想家們，要帶尚禾一塊挑戰自我、挑戰極限，本集就一起看看這些箇中好手們，葫蘆裡賣的是什麼藥呢？！"
+          },
+          {
+            "content_id": "VOD00248585",
+            "time_codes": [
+              1485000,
+              2209000,
+              2452000,
+              2660000
+            ],
+            "timecode_duration": [],
+            "length": 2702000,
+            "asset_id": "vod10857-001047M001",
+            "title": "",
+            "subtitle": "第1047集 【南台灣】翻轉玩樂趣",
+            "ep_number": 1047,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762096200000,
+            "vod_channel_description": "炎炎夏日即將來到，提到墾丁，除了碧海藍天，新鮮海味絕對讓人垂涎三尺，這回，我和李懿前往南台灣，據說有一鮮，可是當地老饕激推，而且它還有個匪夷所思的名字，叫黑牌？據說想吃…還得找對門路才行。"
+          },
+          {
+            "content_id": "VOD00248586",
+            "time_codes": [
+              1108000,
+              1866000,
+              2353000,
+              2603000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001048M001",
+            "title": "",
+            "subtitle": "第1048集 【嘉義】勇腳踏尋山水滋味",
+            "ep_number": 1048,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762099200000,
+            "vod_channel_description": "歡迎~~第一次來世界第一等作客的Mark古程丰，要跟著外景好手小剛一起玩翻嘉義拉，此次除了挑戰嘉義小百岳之外，獻出第一次釣魚體驗的Mark，挑戰活蹦亂跳的健壯土虱；拜訪全亞洲唯一有機嘉寶果園，嘉義必吃的火雞肉，達人試範親自抓火雞，雞爪大的跟手臂一樣!"
+          },
+          {
+            "content_id": "VOD00248587",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000
+            ],
+            "timecode_duration": [],
+            "length": 2701000,
+            "asset_id": "vod10857-001049M001",
+            "title": "",
+            "subtitle": "第1049集 【南臺灣】LOCAL玩味趣",
+            "ep_number": 1049,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762102200000,
+            "vod_channel_description": "提到南臺灣，除了艷陽高照，藍天大海，有時候跟著達人走，絕對能玩出另一番最LOCAL的STYLE，最多在地玩法！"
+          },
+          {
+            "content_id": "VOD00248588",
+            "time_codes": [
+              710000,
+              1525000,
+              2070000,
+              2339000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001050M001",
+            "title": "",
+            "subtitle": "第1050集 【台南】奇幻嘉南跳島趣",
+            "ep_number": 1050,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762105500000,
+            "vod_channel_description": "原名糖南的台南到底為什麼那麼愛糖？樣樣都要加糖來吃，從台南將軍港坐船只要1個多小時，便能享受澎湖的陽光、沙灘與海水，這可是少人知的航線，夏日就是要到南方四島之的東吉，享受海底薰衣草的美麗震撼和島上特殊文化與美食，本週跟著在地人曾甜一起玩翻南台灣。"
+          },
+          {
+            "content_id": "VOD00254913",
+            "time_codes": [
+              1508000,
+              2258000,
+              2469000,
+              2652000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001051M001",
+            "title": "",
+            "subtitle": "第1051集 【花蓮】部落FUN野趣",
+            "ep_number": 1051,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762108500000,
+            "vod_channel_description": "主持美食節目郭彥均很在行，但答應要代班：台灣最硬的行腳節目世界第一等時，郭彥均還是特忑不安 ，沒想到開拍第一站，就說要帶他吃好料?!你當哥我是第一天出來走跳嗎? 這案情肯定不單純~"
+          },
+          {
+            "content_id": "VOD00254914",
+            "time_codes": [
+              1430000,
+              2195000,
+              2498000,
+              2652000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001052M001",
+            "title": "",
+            "subtitle": "第1052集 【雲林】千錘百鍊 傳承美味",
+            "ep_number": 1052,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762111500000,
+            "vod_channel_description": "身為外景好手的彥均，本身出生於雲林，這次透過代班世界第一等，回到自己既熟悉又陌生的家鄉，獻出許多人生初體驗! 本次更拜訪雲林一群職人，他們不僅用一生志業，締造台灣奇蹟，更透過新一代的理念，開啟全新價值觀，雲林的好吃好玩，就跟著彥均一起冒險去！"
+          },
+          {
+            "content_id": "VOD00254915",
+            "time_codes": [
+              636000,
+              936000,
+              1629000,
+              2039000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001053M001",
+            "title": "",
+            "subtitle": "第1053集 【台南】走訪糖南 瘋玩台南",
+            "ep_number": 1053,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762114500000,
+            "vod_channel_description": "說到有糖南之稱的台南，除了有濃厚的古都文化之外，經常也讓人感受到空氣中瀰漫著一股，甜甜的浪漫氛圍，本週和甜姐兒李懿一起走訪糖南、瘋玩台南，體驗最傳統的古早味黑糖，最天然的糖葫蘆以及高難度製作的糖蔥技藝，還有即將失傳的鴿笭民俗活動，，體驗台南古都的熱情，一起尋探永不退色的傳統文化。"
+          },
+          {
+            "content_id": "VOD00254916",
+            "time_codes": [
+              1084000,
+              2153000,
+              2396000,
+              2586000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001054M001",
+            "title": "",
+            "subtitle": "第1054集 【雲林】在地高手 頂級珍饈",
+            "ep_number": 1054,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762117500000,
+            "vod_channel_description": "這次不僅造訪「台灣特有獨一無二的鰻魚村」，更體驗餵食頂級胭脂饅；還有跟臉一樣大，在地雲林人必推，誠意十足的爆漿波羅麵包；以及最終極的釣巨物挑戰，來到超狂海釣場，體驗釣特殊漁種目標魚「龍膽石班」，除了釣魚外，老闆更拿出壓箱寶，一盤要破千元的龍膽肝還有龍膽喉嚨！"
+          },
+          {
+            "content_id": "VOD00254917",
+            "time_codes": [
+              891000,
+              1782000,
+              2123000,
+              2392000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001055M001",
+            "title": "",
+            "subtitle": "第1055集 【澎湖】勇闖金銀島淘寶趣",
+            "ep_number": 1055,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762120500000,
+            "vod_channel_description": "澎湖海洋資源豐富，在地人以海為生，孕育出不同的產業，吸引著不同國家的人們，來到這座美麗島嶼旅行，甚至還有一群人，飄洋過海來這裡尋找掏金夢！根據小道消息，澎湖有顆發財果，擁有它，便能一夜致富發大財……。"
+          },
+          {
+            "content_id": "VOD00254918",
+            "time_codes": [
+              1476000,
+              2301000,
+              2566000,
+              2646000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001056M001",
+            "title": "",
+            "subtitle": "第1056集 【綠島】海中惡霸 食蟹鰻",
+            "ep_number": 1056,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762123500000,
+            "vod_channel_description": "距離台灣東南方，33公里的海面上，有座島嶼，稱為綠島。 特殊的火山岩和珊瑚礁地形，不僅打造絕美的水下聖地，崎嶇的海岸線，更暗藏海中惡霸，食蟹鰻。究竟食蟹鰻是有何本事，能夠先發制人，成為岩蟹死對頭? 絕對是個狠角色!"
+          },
+          {
+            "content_id": "VOD00254919",
+            "time_codes": [
+              1025000,
+              1826000,
+              2091000,
+              2378000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001057M001",
+            "title": "",
+            "subtitle": "第1057集 【澎湖】夏日跳島消暑趣",
+            "ep_number": 1057,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762126500000,
+            "vod_channel_description": "夏天當然要衝向離島與大海！今天要去澎湖進行跳島旅行，而且更厲害的是，這次我們整理了澎湖島上限時、限定、限量版路線，假如沒有把握好時機，錯過了！可是要等一整年！不想後悔的朋友，趕快跟上我們的腳步，出發吧！"
+          },
+          {
+            "content_id": "VOD00254920",
+            "time_codes": [
+              1464000,
+              1964000,
+              2369000,
+              2631000
+            ],
+            "timecode_duration": [],
+            "length": 2702000,
+            "asset_id": "vod10857-001058M001",
+            "title": "",
+            "subtitle": "第1058集 【高雄屏東】南島港灣 極鮮海味",
+            "ep_number": 1058,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762129500000,
+            "vod_channel_description": "功夫班傑回來啦!!這次小剛聯合久違的班傑，一起拜訪熱情的南台灣，究竟會擦出什麼樣精彩的火花呢?"
+          },
+          {
+            "content_id": "VOD00254921",
+            "time_codes": [
+              1005000,
+              2106000,
+              2499000,
+              2659000
+            ],
+            "timecode_duration": [],
+            "length": 2701000,
+            "asset_id": "vod10857-001059M001",
+            "title": "",
+            "subtitle": "第1059集 【綠島】-野FUN綠島",
+            "ep_number": 1059,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762132500000,
+            "vod_channel_description": "說到主持外景，最好玩的，就是跟著職人，深入日常生活， 尤其走訪綠島才發現，不只隔行如隔山，這山海之間，根本就是 Welcome to the wild side~ 果然女神出馬，就是不一樣，不只海豚夾道歡迎，不按牌底出牌的劇情，讓所有人都想唱愛你！"
+          },
+          {
+            "content_id": "VOD00254922",
+            "time_codes": [
+              1486000,
+              1978000,
+              2307000,
+              2530000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001060M001",
+            "title": "",
+            "subtitle": "第1060集 【高雄、屏東】南國職人 高屏築夢",
+            "ep_number": 1060,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762135500000,
+            "vod_channel_description": "本週一樣是由班傑與小剛玩翻高雄屏東； 第一站由在地達人鸚哥，來到一處神秘海灘，用腳上功夫找海味? 不巧碰到滂沱大雨，但因禍得福回到鸚哥秘密基地釣大魚?!"
+          },
+          {
+            "content_id": "VOD00288245",
+            "time_codes": [
+              1322000,
+              2129000,
+              2485000,
+              2655000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001086M001",
+            "title": "",
+            "subtitle": "第1086集 【中南台灣】女神同行 FUN遊台灣",
+            "ep_number": 1086,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762138500000,
+            "vod_channel_description": "女神同行第二回，李千娜外景沒在怕！不但素顏上陣，第一次釣魚，就跳級高段班，對抗凶狠的金錢鰻。娜娜一句話，剛剛馬上倒立主持，究竟女神魅力如何席捲眾人？"
+          },
+          {
+            "content_id": "VOD00288246",
+            "time_codes": [
+              1240000,
+              2301000,
+              2500000,
+              2649000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001087M001",
+            "title": "",
+            "subtitle": "第1087集 【嘉義台南】兄弟逍遙遊",
+            "ep_number": 1087,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762141500000,
+            "vod_channel_description": "【兄弟逗陣逍遙遊】走訪台灣，有趣的是，你總會在不同人事物的生活中，發現驚喜！俗話說的好，跟對人很重要，尤其有達人帶路，很多巷仔內的好料，往往出乎意料！"
+          },
+          {
+            "content_id": "VOD00288247",
+            "time_codes": [
+              1016000,
+              1810000,
+              2136000,
+              2366000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001088M001",
+            "title": "",
+            "subtitle": "第1088集 【屏東】南台灣 熱血玩瘋秘境",
+            "ep_number": 1088,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762144500000,
+            "vod_channel_description": "探險世界，飛躍地球的每個角落，看看世界其他國家的風俗奇景，帶觀眾一睹當地文化和傳統。"
+          },
+          {
+            "content_id": "VOD00288248",
+            "time_codes": [
+              1229000,
+              1920000,
+              2353000,
+              2630000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001089M001",
+            "title": "",
+            "subtitle": "第1089集 【竹苗】山海之境 百味職人",
+            "ep_number": 1089,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762147500000,
+            "vod_channel_description": "探險世界，飛躍地球的每個角落，看看世界其他國家的風俗奇景，帶觀眾一睹當地文化和傳統。"
+          },
+          {
+            "content_id": "VOD00288249",
+            "time_codes": [
+              1272000,
+              2015000,
+              2371000,
+              2646000
+            ],
+            "timecode_duration": [],
+            "length": 2696000,
+            "asset_id": "vod10857-001090M001",
+            "title": "",
+            "subtitle": "第1090集 【中台灣】世代傳承 民間高手",
+            "ep_number": 1090,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762150500000,
+            "vod_channel_description": "探險世界，飛躍地球的每個角落，看看世界其他國家的風俗奇景，帶觀眾一睹當地文化和傳統。"
+          },
+          {
+            "content_id": "VOD00288250",
+            "time_codes": [
+              1266000,
+              2076000,
+              2475000,
+              2592000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001091M001",
+            "title": "",
+            "subtitle": "第1091集 【中部】逗陣FUN台灣",
+            "ep_number": 1091,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762153500000,
+            "vod_channel_description": "探險世界，飛躍地球的每個角落，看看世界其他國家的風俗奇景，帶觀眾一睹當地文化和傳統。"
+          },
+          {
+            "content_id": "VOD00288251",
+            "time_codes": [
+              1229000,
+              1761000,
+              2218000,
+              2418000
+            ],
+            "timecode_duration": [],
+            "length": 2701000,
+            "asset_id": "vod10857-001092M001",
+            "title": "",
+            "subtitle": "第1092集 【中台灣】特搜英雄任務",
+            "ep_number": 1092,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762156500000,
+            "vod_channel_description": "探險世界，飛躍地球的每個角落，看看世界其他國家的風俗奇景，帶觀眾一睹當地文化和傳統。"
+          },
+          {
+            "content_id": "VOD00288252",
+            "time_codes": [
+              1269000,
+              1891000,
+              2380000,
+              2616000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001093M001",
+            "title": "",
+            "subtitle": "第1093集 【竹苗】縱橫西北 山海百味",
+            "ep_number": 1093,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762159500000,
+            "vod_channel_description": "探險世界，飛躍地球的每個角落，看看世界其他國家的風俗奇景，帶觀眾一睹當地文化和傳統。"
+          },
+          {
+            "content_id": "VOD00288253",
+            "time_codes": [
+              1291000,
+              2204000,
+              2503000,
+              2644000
+            ],
+            "timecode_duration": [],
+            "length": 2697000,
+            "asset_id": "vod10857-001094M001",
+            "title": "",
+            "subtitle": "第1094集 【中部】百工新職魂",
+            "ep_number": 1094,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762162500000,
+            "vod_channel_description": "探險世界，飛躍地球的每個角落，看看世界其他國家的風俗奇景，帶觀眾一睹當地文化和傳統。"
+          },
+          {
+            "content_id": "VOD00288254",
+            "time_codes": [
+              1242000,
+              1535000,
+              2025000,
+              2416000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001095M001",
+            "title": "",
+            "subtitle": "第1095集 【中台灣】制霸山河大冒險",
+            "ep_number": 1095,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762165500000,
+            "vod_channel_description": "台灣中部地區是一個天然的寶庫，無論是高山林茂、還是人文地景，都令人讚嘆，從名勝百岳到城市海岸線，這次跟著釣魚達人一起到國姓溪流尋找黃金鯉魚，前往台灣唯一專業越野土坡場的日南國中跟著國手一起挑戰腎上腺素，品嘗夜市裡的巨無霸泰式火山排骨和南投埔里美人腿創意吃法。"
+          },
+          {
+            "content_id": "VOD00288255",
+            "time_codes": [
+              1257000,
+              2034000,
+              2366000,
+              2613000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001096M001",
+            "title": "",
+            "subtitle": "第1096集 【中台灣】另類中台灣 國際頂級名物",
+            "ep_number": 1096,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762168500000,
+            "vod_channel_description": "小剛、阿興兄弟倆來到中台灣，甩尾達人砲哥帥氣迎接，體驗駕駛復古車，來場超刺激的技術甩尾！飼養超過數十種，各國特殊雞種達人，從全世界最大到最小的雞品種都有，模樣逗趣又新奇； 以及特殊海水養殖，營養價值超高的黑蜆；拜訪即將失傳的傳統技藝，雞毛撢子達人，兄弟倆合作無間的默契，絕對精采！"
+          },
+          {
+            "content_id": "VOD00288256",
+            "time_codes": [
+              1247000,
+              1792000,
+              2135000,
+              2411000
+            ],
+            "timecode_duration": [],
+            "length": 2697000,
+            "asset_id": "vod10857-001097M001",
+            "title": "",
+            "subtitle": "第1097集 【花蓮】海闊天空勇闖花東",
+            "ep_number": 1097,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762171500000,
+            "vod_channel_description": "花蓮好山好水大家都曉得，不過你知道這裡還有花蓮限定、限量商品嗎？本周由代班主持人郭彥均、李懿，將要一起玩遍花蓮，出海體驗釣魚拉桿的快感、尋找肥美的旭蟹、體驗台灣第一人銅門刀的製作、捉拿鯉魚潭的珍奇猛獸，還要學習花蓮百年的醬油秘方製作，體驗多元族群融合造就花蓮的美好。"
+          },
+          {
+            "content_id": "VOD00288257",
+            "time_codes": [
+              1322000,
+              2047000,
+              2406000,
+              2662000
+            ],
+            "timecode_duration": [],
+            "length": 2696000,
+            "asset_id": "vod10857-001098M001",
+            "title": "",
+            "subtitle": "第1098集 【中北台灣】玩嘉FUN野趣",
+            "ep_number": 1098,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762174500000,
+            "vod_channel_description": "探險世界，飛躍地球的每個角落，看看世界其他國家的風俗奇景，帶觀眾一睹當地文化和傳統。"
+          },
+          {
+            "content_id": "VOD00288258",
+            "time_codes": [
+              1237000,
+              1849000,
+              2183000,
+              2454000
+            ],
+            "timecode_duration": [],
+            "length": 2696000,
+            "asset_id": "vod10857-001099M001",
+            "title": "",
+            "subtitle": "第1099集 【花蓮】荒山野趣花蓮行",
+            "ep_number": 1099,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762177500000,
+            "vod_channel_description": "本週代班主持人郭彥均、李懿，出發尋找山海溪流匯集的好所在，沿著台灣蘇花公路前行，欣賞太平洋的壯闊及中央山脈的雄偉，這回《世界第一等》追隨著台灣後山綿延寬闊的溪流，跟著一群專業的溪谷獵人來到有著兇猛掠食性淡水魚的「花蓮溪」尋找夢幻魚種。"
+          },
+          {
+            "content_id": "VOD00288259",
+            "time_codes": [
+              1355000,
+              2051000,
+              2278000,
+              2670000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001100M001",
+            "title": "",
+            "subtitle": "第1100集 【台灣】野FUN西海岸",
+            "ep_number": 1100,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762180500000,
+            "vod_channel_description": "走跳台灣，想玩得不一樣，當個最local的玩家，找對人很重要~這次我跟李懿走跳西海岸，透過三哥介紹才知道，想嘗鮮，往這挖寶，簡直不敢相信~"
+          },
+          {
+            "content_id": "VOD00290792",
+            "time_codes": [
+              1256000,
+              1877000,
+              2196000,
+              2586000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001101M001",
+            "title": "",
+            "subtitle": "第1101集 【泰國】泰國大縱走之旅",
+            "ep_number": 1101,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762183500000,
+            "vod_channel_description": "睽違三年，《世界第一等》全新樣貌，重新出發！小剛搭檔潘君侖，以公路旅行的實境方式，開啟泰國南北大縱走！俗話說的好，計畫永遠趕不上變化，沒想到抵達泰國的第一站，兩人就被製作單位丟包在尖竹汶府…"
+          },
+          {
+            "content_id": "VOD00290793",
+            "time_codes": [
+              1297000,
+              1942000,
+              2296000,
+              2484000
+            ],
+            "timecode_duration": [],
+            "length": 2685000,
+            "asset_id": "vod10857-001102M001",
+            "title": "",
+            "subtitle": "第1102集 【泰國】泰國大縱走 東部Local Way",
+            "ep_number": 1102,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762186500000,
+            "vod_channel_description": "睽違三年，《世界第一等》全新樣貌，重新出發！小剛搭檔潘君侖，以公路旅行的實境方式，開啟泰國南北大縱走！第二集開著復古皮卡車來到泰國的東部尖竹汶，接下來還有什麼樣的挑戰，在等待兄弟倆，泰國大縱走之旅未完待續。"
+          },
+          {
+            "content_id": "VOD00290794",
+            "time_codes": [
+              1229000,
+              1816000,
+              2220000,
+              2576000
+            ],
+            "timecode_duration": [],
+            "length": 2688000,
+            "asset_id": "vod10857-001103M001",
+            "title": "",
+            "subtitle": "第1103集 【泰國】泰國大縱走 泰瘋FUN野趣",
+            "ep_number": 1103,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762189500000,
+            "vod_channel_description": "睽違三年，《世界第一等》全新樣貌，重新出發！小剛搭檔潘君侖，以公路旅行的實境方式，開啟泰國南北大縱走！第三集到達芭達雅，騎著重機在海邊的小剛和君侖當然不能錯過這裡的海鮮，泰國的海鮮市場居然乾淨明亮而且標價明確，旁邊還有代客料理，讓兩位主持讚不絕口，好吃到停不下來。"
+          },
+          {
+            "content_id": "VOD00290795",
+            "time_codes": [
+              1205000,
+              1937000,
+              2420000,
+              2664000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001104M001",
+            "title": "",
+            "subtitle": "第1104集 【泰國】泰國大縱走 玩瘋泰驚奇",
+            "ep_number": 1104,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762192500000,
+            "vod_channel_description": "睽違三年，《世界第一等》全新樣貌，重新出發！小剛搭檔潘君侖，以公路旅行的實境方式，開啟泰國南北大縱走！第四集騎著重機要拜訪泰國的魚王，他擁有的鯰魚居然比人還要大，而且不是只有一隻，是擁有一池！這裡還有一個很厲害的喇叭人，到底這喇叭人有多厲害，就讓小剛和君侖一探究竟。"
+          },
+          {
+            "content_id": "VOD00290796",
+            "time_codes": [
+              1277000,
+              1948000,
+              2346000,
+              2580000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001105M001",
+            "title": "",
+            "subtitle": "第1105集 【泰國】泰國大縱走 極限挑戰之旅",
+            "ep_number": 1105,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762195500000,
+            "vod_channel_description": "探險世界，飛躍地球的每個角落，看看世界其他國家的風俗奇景，帶觀眾一睹當地文化和傳統。"
+          },
+          {
+            "content_id": "VOD00290797",
+            "time_codes": [
+              1242000,
+              2295000,
+              2491000,
+              2627000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001106M001",
+            "title": "",
+            "subtitle": "第1106集 【泰國】泰國大縱走 泰瘋嬉遊記",
+            "ep_number": 1106,
+            "rating": 2,
+            "content_type": "show",
+            "p_start": 1762198500000,
+            "vod_channel_description": "經過上一集的默契合作之後，班傑與君侖的默契是不是愈來愈好了呢？！本集兩人挑戰泰國最夯體驗，零距離餵食長頸鹿與斑馬，還有超刺激水上F1賽船，品嘗在地激推必買點心，以及導遊段哥推薦，另類臭肉美食，光是味道就讓兩人驚呆了，究竟品嘗起來是什麼滋味呢？"
+          },
+          {
+            "content_id": "VOD00290798",
+            "time_codes": [
+              1278000,
+              1962000,
+              2280000,
+              2498000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001107M001",
+            "title": "",
+            "subtitle": "第1107集 【泰國】泰國大縱走 前進泰北秘境",
+            "ep_number": 1107,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762201500000,
+            "vod_channel_description": "享受完泰國東北部的各種冒險旅程與美食之後， 本週班傑與君侖要踏上最道地的泰國火車，來一場過夜臥鋪體驗，前往許多旅人都愛的地區-清邁！沿途風景美不勝收，臥鋪火車絕對是一生一定要體驗的行程之一； 除此之外，兩人更體驗了泰北最特殊的火療按摩？！搭乘泰北雙條車到大象園幫大象洗澡~~"
+          },
+          {
+            "content_id": "VOD00290799",
+            "time_codes": [
+              1251000,
+              2100000,
+              2375000,
+              2577000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001108M001",
+            "title": "",
+            "subtitle": "第1108集 【泰國】泰國大縱走 泰北不思議",
+            "ep_number": 1108,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762204500000,
+            "vod_channel_description": "本週泰國的最後一站，班傑和君侖在泰國第二大城-清邁；第一站來到老虎園，緊張的兩人，直接面對幫小老虎擦澡，用特殊逗貓棒逗大老虎；接著前往泰國最大釣場，挑戰跟台灣的釣魚場有何不同，但這裡的釣餌非常特殊，達人還保證可以釣到巨魚？！晚上導遊更帶兩人，抵達一處神秘地點，跟著當地人找黃金？！"
+          },
+          {
+            "content_id": "VOD00290800",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001109M001",
+            "title": "",
+            "subtitle": "第1109集 【韓國】韓國西海岸之旅 全羅南道",
+            "ep_number": 1109,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762207500000,
+            "vod_channel_description": "小剛與君侖，前往韓國~~兩人首次挑戰在韓國開車自駕，第一站往南韓國糧倉之稱的全羅南道冒險去！拜訪韓國最大的鮑魚產地，凌晨出海幫忙採收，船上品嘗生吃鮑魚，口味鮮甜令兩人驚豔不已！更透過當地人介紹，拜訪當季農作物溫室種植番茄，以及最頂級的燒烤韓牛，讓兩人味蕾大爆發，直呼太幸福。"
+          },
+          {
+            "content_id": "VOD00290801",
+            "time_codes": [
+              1346000,
+              1945000,
+              2323000,
+              2531000
+            ],
+            "timecode_duration": [],
+            "length": 2697000,
+            "asset_id": "vod10857-001110M001",
+            "title": "",
+            "subtitle": "第1110集 【韓國】韓國西海岸 重機探索之旅",
+            "ep_number": 1110,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762210500000,
+            "vod_channel_description": "在上一趟韓國享受完頂級美食之旅後，本集由超帥氣重機開場， 重機馳騁中邊欣賞全羅南道的沿途美景，過程不只有許多可以拍照的網美景點，還有當地達人們帶領的漁村活動可以體驗， 兩人前往當地著名潮間帶抓當地貝類，達人大哥更出動自己的漁船，讓小剛與君侖體驗特殊陷阱捕撈，居然撈到這個海鮮？！"
+          },
+          {
+            "content_id": "VOD00298986",
+            "time_codes": [
+              1485000,
+              2143000,
+              2474000,
+              2630000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001111M001",
+            "title": "",
+            "subtitle": "第1111集 【韓國】韓國西海岸 穿越時空之旅",
+            "ep_number": 1111,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762213500000,
+            "vod_channel_description": "本週來到全羅南道，最具特色的古蹟「樂安邑城」住一晚，樂安邑城不只是許多經典韓劇的拍攝場景，更保留最原始的建築樣貌，彷彿穿越時空一樣，此次讓小剛與君侖體驗古人的生活方式，透過導遊李哥的協助，自給自足生火料理；除此之外，更拜訪全韓國最大的天日鹽產地，沒想到鹽也可以做這麼多體驗！"
+          },
+          {
+            "content_id": "VOD00298987",
+            "time_codes": [
+              1341000,
+              1943000,
+              2356000,
+              2585000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001112M001",
+            "title": "",
+            "subtitle": "第1112集 【韓國】韓國西海岸 道地Local Way",
+            "ep_number": 1112,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762216500000,
+            "vod_channel_description": "本集雙帥繼續自駕出發，前往全羅南道最著名的順天灣濕地，跟著當地大哥大姐體驗最在地的漁民生活，兩人全副武裝！挑戰溼地中的「四大天王」；前往韓國傳統市場品嘗各式特色小吃；到全羅南道南原市，體驗傳統韓服，逛經典韓劇拍攝景點，最後抵達群山精釀啤酒廠，邊欣賞日落邊喝啤酒，畫下完美的旅途。"
+          },
+          {
+            "content_id": "VOD00298988",
+            "time_codes": [
+              1264000,
+              1972000,
+              2407000,
+              2557000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001113M001",
+            "title": "",
+            "subtitle": "第1113集 【韓國】韓國西海岸 百年傳承之旅",
+            "ep_number": 1113,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762219500000,
+            "vod_channel_description": "探險世界，飛躍地球的每個角落，看看世界其他國家的風俗奇景，帶觀眾一睹當地文化和傳統。"
+          },
+          {
+            "content_id": "VOD00298989",
+            "time_codes": [
+              1397000,
+              2119000,
+              2322000,
+              2584000
+            ],
+            "timecode_duration": [],
+            "length": 2697000,
+            "asset_id": "vod10857-001114M001",
+            "title": "",
+            "subtitle": "第1114集 【韓國】韓國西海岸 跳島旅行",
+            "ep_number": 1114,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762222500000,
+            "vod_channel_description": "本周雙帥出發跳島旅程，第一站來到全羅北道的渡假勝地，夏季必訪的超美麗島嶼「仙游島」，島上充滿著度假風情，小剛和君侖更體驗了溜索、哈雷電動車環島；而仙游島的海鮮也是一絕，藉由導遊李哥的帶領，認識當地漁船大哥，不僅熱情的介紹當天豐盛的漁獲，更邀請兩人到家做客，品嘗最美味的漁人料理！"
+          },
+          {
+            "content_id": "VOD00298990",
+            "time_codes": [
+              1248000,
+              2110000,
+              2442000,
+              2607000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001115M001",
+            "title": "",
+            "subtitle": "第1115集 【韓國】韓國西海岸 仁川自駕遊",
+            "ep_number": 1115,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762225500000,
+            "vod_channel_description": "本週來到韓國的最終站，雙帥來一場最特別的仁川之旅；第一站先來到有名的蘇萊浦口綜合魚市場，各種新鮮海產令人食指大動，導遊李哥推薦了特別的鰻魚生魚片，光口感和鮮度都是一等一！吃飽喝足後，兩人自駕前往江華島，去採收韓國第一個人蔘，沒想到光從養殖到採收就需要用這麼多工，果然非常珍貴。"
+          },
+          {
+            "content_id": "VOD00298991",
+            "time_codes": [
+              1225000,
+              2106000,
+              2490000,
+              2634000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001116M001",
+            "title": "",
+            "subtitle": "第1116集 【印尼】跳島之旅 女子嬉遊記",
+            "ep_number": 1116,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762228500000,
+            "vod_channel_description": "印尼身處世界最大的群島國家，廣闊的海域環境，造就東爪哇成為海鮮控的首選聖地~面對茫茫樹海，我們要赤腳走紅樹林~真的只能哀哀人生~原來大哥口中的卡必定，指的是紅樹林螃蟹，而且印尼可是世界上，優質螃蟹的生產國之一。"
+          },
+          {
+            "content_id": "VOD00298992",
+            "time_codes": [
+              1306000,
+              2246000,
+              2527000,
+              2635000
+            ],
+            "timecode_duration": [],
+            "length": 2701000,
+            "asset_id": "vod10857-001117M001",
+            "title": "",
+            "subtitle": "第1117集 【印尼】跳島之旅 瘋玩東爪哇",
+            "ep_number": 1117,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762231500000,
+            "vod_channel_description": "俗話說的好，民以食為天，透過吃，絕對是最快的方式，尤其這片藍色大海，對大哥而言，就是家裡的冰箱。這古力達是有多餓？一般都用魚肉當誘餌，想不到…石頭牠也嗑？！以牠戰鬥力，對決我們小菜雞 ~海派的漁人，還有另一樣限定壓箱寶，就看眼力好不好囉！"
+          },
+          {
+            "content_id": "VOD00298993",
+            "time_codes": [
+              1258000,
+              1931000,
+              2353000,
+              2571000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001118M001",
+            "title": "",
+            "subtitle": "第1118集 【印尼】跳島之旅 玩味東爪哇",
+            "ep_number": 1118,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762234500000,
+            "vod_channel_description": "民以食為天，想了解在地生活，怎麼吃，絕對是最快方法，尤其印尼是擁有最多紅樹林的國度，只要找對人，整片海洋都是我的食堂。找竹蟶~就是你把我灌醉的概念，抓準退潮的關鍵時刻，眼明手快才行！來印尼，最常見的飲食單字，就是soto ayum，地位等級等同台灣的滷肉飯，國民小吃，絕對人見人愛~"
+          },
+          {
+            "content_id": "VOD00298994",
+            "time_codes": [
+              1228000,
+              2055000,
+              2359000,
+              2624000
+            ],
+            "timecode_duration": [],
+            "length": 2703000,
+            "asset_id": "vod10857-001119M001",
+            "title": "",
+            "subtitle": "第1119集 【印尼】東爪哇Local way",
+            "ep_number": 1119,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762237500000,
+            "vod_channel_description": "印尼有道國寶美食，大家絕對聽過，那就是沙嗲！跟台灣飲食習慣類似，印尼人也有吃蛇文化，就食補來看，眼鏡蛇肉能養顏，所以他們不只喝蛇血，蛇膽，更把沙嗲概念，套用在其中~正因為眼鏡蛇有風險，加上肉量不多，所以一串眼鏡蛇沙嗲，要價將近台幣1千塊，完全就是天花板的身價~"
+          },
+          {
+            "content_id": "VOD00298995",
+            "time_codes": [
+              1322000,
+              2226000,
+              2456000,
+              2648000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001120M001",
+            "title": "",
+            "subtitle": "第1120集 【印尼】職人帶路 FUN玩印尼",
+            "ep_number": 1120,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762240500000,
+            "vod_channel_description": "探險世界，飛躍地球的每個角落，看看世界其他國家的風俗奇景，帶觀眾一睹當地文化和傳統。"
+          },
+          {
+            "content_id": "VOD00308666",
+            "time_codes": [
+              1317000,
+              2020000,
+              2448000,
+              2667000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001121M001",
+            "title": "",
+            "subtitle": "第1121集 【印尼】職人FUN遊趣",
+            "ep_number": 1121,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762243500000,
+            "vod_channel_description": "這回走訪印尼東爪哇，打聽到有位達人，可說是叱吒商場的吸金高手，光靠這招，不論是中國，香港，或新加坡~都是他的事業版圖~3顆百年老欉榴槤，只要台幣100塊！懂吃的老饕都知道，40年以上的老欉榴槤樹，相當稀少，更別提100多年老樹，所以當它熟成落果，可說是結合天時，地利，人和的寶貝啊。"
+          },
+          {
+            "content_id": "VOD00308667",
+            "time_codes": [
+              1317000,
+              2020000,
+              2448000,
+              2667000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001122M001",
+            "title": "",
+            "subtitle": "第1122集 【印尼】東爪哇驚奇之旅",
+            "ep_number": 1122,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762246500000,
+            "vod_channel_description": "印尼傳統舞蹈Reog，又稱虎面孔雀羽冠舞，是世界上最大的面具舞蹈！東爪哇Ponorogo就是面具舞的起源地。但面具只用牙齒咬ㄟ，等等還要跳舞喔，這合理嗎？面具上還可以坐人！這簡直是大力士等級。認識面具舞，你會發現東爪哇的熱情，就像張開雙手的巨人，毫不保留的給你熱情擁抱。"
+          },
+          {
+            "content_id": "VOD00308668",
+            "time_codes": [
+              1359000,
+              2205000,
+              2423000,
+              2545000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001123M001",
+            "title": "",
+            "subtitle": "第1123集 【印尼】野FUN東爪哇",
+            "ep_number": 1123,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762249500000,
+            "vod_channel_description": "有句話說得好，靠山吃山，靠海吃海，不同環境，人們總有辦法找到適應的方式。浩浩蕩蕩的車隊，搞得跟娶老婆一樣盛大，原來要深入漁村得經過一段off road挑戰，完全得靠村民們的騎車技術，而且深入漁村才發現，走進大海，就是一個海鮮buffet的概念~"
+          },
+          {
+            "content_id": "VOD00308669",
+            "time_codes": [
+              1411000,
+              2215000,
+              2550000,
+              2670000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001124M001",
+            "title": "",
+            "subtitle": "第1124集 【印尼】峇里島FUN遊趣",
+            "ep_number": 1124,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762252500000,
+            "vod_channel_description": "千島之國印尼，不同島嶼，不同生活，就像五顏六色的調色盤，畫出不同面貌，坐擁山海的東爪哇，山上人家的日常，完全就是生活智慧王~靠山吃山的生活，還能把水果變成蝦餅？炒熱的果核得趁熱去皮，抓緊時間壓扁成型，後續曬一個禮拜，享用前再油炸，過程純手作，味道實在讓人好奇~"
+          },
+          {
+            "content_id": "VOD00308670",
+            "time_codes": [
+              1332000,
+              2103000,
+              2331000,
+              2602000
+            ],
+            "timecode_duration": [],
+            "length": 2701000,
+            "asset_id": "vod10857-001125M001",
+            "title": "",
+            "subtitle": "第1125集 【印尼】哈囉峇里！女神嘻遊記",
+            "ep_number": 1125,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762255500000,
+            "vod_channel_description": "印尼跳島行，終於來到最期待的峇里島，而這座位於中部的城市，烏布，在峇里島語，有醫學的意思，因為擁有豐富的藥用植物，所以也有人說，走進山城烏布，寧靜的環境，是個洗滌身心的好地方~"
+          },
+          {
+            "content_id": "VOD00308671",
+            "time_codes": [
+              1513000,
+              2127000,
+              2542000,
+              2639000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001126M001",
+            "title": "",
+            "subtitle": "第1126集 【印尼】度假天堂 峇里島",
+            "ep_number": 1126,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762258500000,
+            "vod_channel_description": "印尼跳島行，來到度假勝地峇里島，喜歡Outdoor的朋友，絕對會愛上這裡，峇里島最棒的，不論你是山系愛好者，或是海派的海人，都能滿足~烏布開老爺車遊山城，只能算是基本款，別忘囉，等等要去的不僅是烏布必訪，更是世界聞名~層層堆疊的德哥拉朗梯田，不僅被列為世界文化遺產，更是打卡必訪聖地。"
+          },
+          {
+            "content_id": "VOD00308672",
+            "time_codes": [
+              1360000,
+              2035000,
+              2336000,
+              2590000
+            ],
+            "timecode_duration": [],
+            "length": 2701000,
+            "asset_id": "vod10857-001127M001",
+            "title": "",
+            "subtitle": "第1127集 【印尼】再見 峇里島",
+            "ep_number": 1127,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762261500000,
+            "vod_channel_description": "印尼跳島行，來到度假天堂峇里島，包山包海的環境，不只讓人放鬆身心，香氣四溢，五花八門的南洋料理，更是老饕尋寶的好地方，這次來到Denpasar的廣場夜市，想要吃得最道地，來這就對啦~世界美景，海神廟的夕陽，更是人生必訪清單~強烈建議，最好早早卡位，不怕太無聊，到處走走晃晃，都好玩~"
+          },
+          {
+            "content_id": "VOD00308673",
+            "time_codes": [
+              1257000,
+              2053000,
+              2394000,
+              2530000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001128M001",
+            "title": "",
+            "subtitle": "第1128集 【馬來西亞】多元文化之旅",
+            "ep_number": 1128,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762264500000,
+            "vod_channel_description": "想要深入了解馬來西亞，就不能不知道這裡的三大種族，也因為多元文化的交流融合，讓這裡的食衣住行，充滿了多樣風情，此次就讓我們由南而北，沿著麻六甲海峽，將各個州屬的特色玩透透。"
+          },
+          {
+            "content_id": "VOD00308674",
+            "time_codes": [
+              1277000,
+              2007000,
+              2382000,
+              2552000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001129M001",
+            "title": "",
+            "subtitle": "第1129集 【馬來西亞】道地Local Life",
+            "ep_number": 1129,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762267500000,
+            "vod_channel_description": "相信經過我們的上周馬來西亞第一集的介紹，大家對於馬來西亞的三大種族，應該都有初步的認識，但說到各行各業中的佼佼者，更是不乏華人的身影，繼上週拜訪過獅王蕭師父，這周的主角更是大有來頭，可說是馬來西亞的第一車王，私人收藏的車子破百台，各式名車、骨董車通通有，這次可是獨家採訪大馬車王。"
+          },
+          {
+            "content_id": "VOD00308675",
+            "time_codes": [
+              1239000,
+              2168000,
+              2509000,
+              2659000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001130M001",
+            "title": "",
+            "subtitle": "第1130集 【馬來西亞】名物之旅",
+            "ep_number": 1130,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762270500000,
+            "vod_channel_description": "說到馬來西亞，一共有13個州屬，包括柔佛、吉打、麻六甲、雪蘭莪…等等，而此次咱們選擇由南而北從雪蘭莪州出發，除了因為這裡有豐富的地形地貌，多樣的產業特色，更有橫跨三大種族的生活方式及文化信仰，光是從早餐就能看出端倪…"
+          },
+          {
+            "content_id": "VOD00316146",
+            "time_codes": [
+              1194000,
+              1985000,
+              2288000,
+              2610000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001131M001",
+            "title": "",
+            "subtitle": "第1131集 【馬來西亞】大馬山海冒險趣",
+            "ep_number": 1131,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762273500000,
+            "vod_channel_description": "探險世界，飛躍地球的每個角落，看看世界其他國家的風俗奇景，帶觀眾一睹當地文化和傳統。"
+          },
+          {
+            "content_id": "VOD00316147",
+            "time_codes": [
+              1293000,
+              2025000,
+              2449000,
+              2593000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001132M001",
+            "title": "",
+            "subtitle": "第1132集 【馬來西亞】大馬世代傳承之旅",
+            "ep_number": 1132,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762276500000,
+            "vod_channel_description": "繼上週離開雪蘭莪州，我們來到好山好水的霹靂州，在老朋友魚王王大哥的介紹下，不但認識了更多馬來西亞的特色產業，更品嚐到美味的國寶魚。不只如此，據說這裡還有世界上獨一無二的龍香文化，想了解它就得從馬來西亞的宗教開始講起。"
+          },
+          {
+            "content_id": "VOD00316148",
+            "time_codes": [
+              1264000,
+              1930000,
+              2383000,
+              2578000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001133M001",
+            "title": "",
+            "subtitle": "第1133集 【馬來西亞】大馬深度旅行 檳城",
+            "ep_number": 1133,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762279500000,
+            "vod_channel_description": "探險世界，飛躍地球的每個角落，看看世界其他國家的風俗奇景，帶觀眾一睹當地文化和傳統。"
+          },
+          {
+            "content_id": "VOD00316149",
+            "time_codes": [
+              1434000,
+              2203000,
+              2426000,
+              2619000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001134M001",
+            "title": "",
+            "subtitle": "第1134集 【馬來西亞】瘋海島 蘭卡威",
+            "ep_number": 1134,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762282500000,
+            "vod_channel_description": "沒錯~來到風光明媚，島嶼成群的馬來西亞，怎麼能不登上離島，好好感受渡假海島的悠閒氛圍，所以此次馬來西亞之旅的最終站，我們將帶大家好好一窺，蘭卡威的神秘面紗。"
+          },
+          {
+            "content_id": "VOD00316150",
+            "time_codes": [
+              1346000,
+              2087000,
+              2469000,
+              2564000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001135M001",
+            "title": "",
+            "subtitle": "第1135集 【馬來西亞】海島之旅",
+            "ep_number": 1135,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762285500000,
+            "vod_channel_description": "說到馬來西亞的渡假天堂離島風光，當然不能不提到蘭卡威，位於西馬北邊由99個島嶼所組成，不管是潔白無暇的沙灘，還是活力十足的大自然活動，都吸引了世界各國無數遊客前來，繼上週體驗當地人的生活之後，今天我們要帶大家好好探訪這裡必去的景點。"
+          },
+          {
+            "content_id": "VOD00316151",
+            "time_codes": [
+              1224000,
+              2079000,
+              2437000,
+              2657000
+            ],
+            "timecode_duration": [],
+            "length": 2696000,
+            "asset_id": "vod10857-001136M001",
+            "title": "",
+            "subtitle": "第1136集 【帛琉】Alii Palau哈囉帛琉",
+            "ep_number": 1136,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762288500000,
+            "vod_channel_description": "《世界第一等》久違的帛琉之旅！這次由新搭檔楊一展和鄒承恩，兩位從戲劇中結識的好兄弟，一同踏上有「上帝的水族箱」之稱的島國帛琉；來一場深入、刺激又難忘的旅程。"
+          },
+          {
+            "content_id": "VOD00316152",
+            "time_codes": [
+              1289000,
+              2074000,
+              2550000,
+              2650000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001137M001",
+            "title": "",
+            "subtitle": "第1137集 【帛琉】荒島露營記",
+            "ep_number": 1137,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762291500000,
+            "vod_channel_description": "物產豐富的帛琉，最著名的，就是雞腿螯紅蟹，據說光一隻蟹螯，等同雞腿粗～只是好料不好找，得深入紅樹林深處，才能找到這好料，究竟兩位新手上陣，能不能替自己加菜成功？ 還是會深陷紅樹林，無功而返呢？"
+          },
+          {
+            "content_id": "VOD00316153",
+            "time_codes": [
+              1248000,
+              2086000,
+              2395000,
+              2631000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001138M001",
+            "title": "",
+            "subtitle": "第1138集 【帛琉】FUN野趣",
+            "ep_number": 1138,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762294500000,
+            "vod_channel_description": "在帛琉，有個傳說挑戰，有間直徑超過30公分，巨無霸漢堡名店，必須提前一天預訂，店家才能備料準備！兩位主持人拜師學藝，現學現賣～究竟兩位默契可不可，能否扛住這項考驗呢？挑戰完大胃王的美食饗宴後，馬不停蹄直接換裝變身為帛琉戰士，體驗最local的傳統戰士舞！"
+          },
+          {
+            "content_id": "VOD00316154",
+            "time_codes": [
+              1303000,
+              1921000,
+              2324000,
+              2584000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001139M001",
+            "title": "",
+            "subtitle": "第1139集 【帛琉】山海Local Way",
+            "ep_number": 1139,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762297500000,
+            "vod_channel_description": "對帛琉來說，大海就是市場，今天想吃什麼，現釣最新鮮！只是所謂的大海市場，走一個盲選的概念，兩位主持人繼上一趟的小試身手後，這次再度挑戰傳統手線釣，看看是誰的手氣比較好？ 釣運靠不靠譜囉？"
+          },
+          {
+            "content_id": "VOD00316155",
+            "time_codes": [
+              1565000,
+              2232000,
+              2544000,
+              2612000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001140M001",
+            "title": "",
+            "subtitle": "第1140集 【帛琉】天堂秘境 凱漾島",
+            "ep_number": 1140,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762300500000,
+            "vod_channel_description": "帛琉最北端的Kayangel Island凱漾島，占地僅1.78平方公里，由4座小島組成，距離帛琉大島約40公里，往返二島間的物資補給船一週僅一次，因交通較不便造訪的觀光客稀少，迄今仍維持著原始純樸的樣貌。這裡是遺世獨立的樂土，湛藍漸層的環礁潟湖，彷彿是上帝遺落人間的寶石灑落在西太平洋上。"
+          },
+          {
+            "content_id": "VOD00325059",
+            "time_codes": [
+              1255000,
+              2069000,
+              2438000,
+              2649000
+            ],
+            "timecode_duration": [],
+            "length": 2697000,
+            "asset_id": "vod10857-001141M001",
+            "title": "",
+            "subtitle": "第1141集 【帛琉】凱漾島Long Stay",
+            "ep_number": 1141,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762303500000,
+            "vod_channel_description": "《世界第一等》Long Stay~前往帛琉最北端，凱漾島，在這被稱為人間淨土之一的島嶼，跟著在地朋友-拉薩認識島民生活，一大早，他就說要帶我們去找帛琉之寶，聽說這可是家家戶戶生活必需~此外拉薩更帶兩位參觀他收集25年的海廢拖鞋沙灘，以及夜晚精彩的抓陸蟹行程，讓此趟的凱漾島留下滿滿美好回憶！"
+          },
+          {
+            "content_id": "VOD00325060",
+            "time_codes": [
+              1261000,
+              1956000,
+              2337000,
+              2650000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001142M001",
+            "title": "",
+            "subtitle": "第1142集 【海.陸.空玩帛琉】",
+            "ep_number": 1142,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762306500000,
+            "vod_channel_description": "帛琉海島行，本周第一站先來體驗海上腳踏車SUP，用不同的方式認識帛琉的海域與美景，走進山中湖、體驗穿越山洞；消耗完體力後，由在地達人帶路找美食，兩位主持人前往紅樹林，尋鮮嚐好料，傳聞中巴掌大的大白蛤，到底是都市傳說？還是真有其事？想當在地老饕，得自己找過才知道～"
+          },
+          {
+            "content_id": "VOD00325061",
+            "time_codes": [
+              1099000,
+              2111000,
+              2366000,
+              2649000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001143M001",
+            "title": "",
+            "subtitle": "第1143集 【帛琉】暢遊海島趣",
+            "ep_number": 1143,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762309500000,
+            "vod_channel_description": "探險世界，飛躍地球的每個角落，看看世界其他國家的風俗奇景，帶觀眾一睹當地文化和傳統。"
+          },
+          {
+            "content_id": "VOD00325062",
+            "time_codes": [
+              1338000,
+              2192000,
+              2395000,
+              2499000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001144M001",
+            "title": "",
+            "subtitle": "第1144集 【導遊帶路 FUN帛琉】",
+            "ep_number": 1144,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762312500000,
+            "vod_channel_description": "首站先填飽五臟廟，來到一間超人氣燒烤店，連當地人都讚不絕口的限量美食！吃飽喝足後，導遊帶領一展與承恩，搭船前往帛琉私房水下花園「烏龍水道」，讓兩位主持人以體驗潛水的方式，深度感受帛琉海底的美景。"
+          },
+          {
+            "content_id": "VOD00325063",
+            "time_codes": [
+              1323000,
+              1964000,
+              2248000,
+              2514000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001145M001",
+            "title": "",
+            "subtitle": "第1145集 【菲比尋常浪遊記 呂宋島】",
+            "ep_number": 1145,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762315500000,
+            "vod_channel_description": "「菲律賓」一個擁有上百個民族，受不同外國殖民統治影響的國度，形成了如今的獨特文化，JR和卞慶華首次攜手搭檔，浪遊菲律賓，究竟會擦出什麼樣的火花~菲律賓有著千島之國的稱號，大致分為呂宋、維薩亞和民答那峨三大島群，而我們這次也要走遍千座島嶼中。"
+          },
+          {
+            "content_id": "VOD00325064",
+            "time_codes": [
+              1346000,
+              2084000,
+              2336000,
+              2593000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001146M001",
+            "title": "",
+            "subtitle": "第1146集 【菲去不可 最強呂宋攻略】",
+            "ep_number": 1146,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762318500000,
+            "vod_channel_description": "來到菲律賓呂宋的克拉克，除了各種美式風格的體驗，最不能錯過的就是火山的相關行程~由於克拉克火山曾受到火山灰燼和岩漿的破壞，也因此搭乘吉普車，奔馳在火山地形是絕對不能錯過的刺激體驗。火山腳下充滿菲式風情的小部落，光一顆透心涼的椰子就讓我們驚艷，更別說到處都是小動物，完全融化人心。"
+          },
+          {
+            "content_id": "VOD00325065",
+            "time_codes": [
+              1202000,
+              1986000,
+              2307000,
+              2466000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001147M001",
+            "title": "",
+            "subtitle": "第1147集 【千島之國 菲常探險】",
+            "ep_number": 1147,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762321500000,
+            "vod_channel_description": "菲比尋常浪遊記，正式邁入在呂宋島的第4天，今天的行程據了解，跟在地華人有很大的關係。而且聽導遊陳哥說，其實早在16世紀就有福建和廣東人來此從事跨海貿易，他自己也是第三代的華人，所以幾乎整個菲律賓都有他們的身影。走進全世界最古老的唐人街，馬尼拉唐人街探索在地生活文化。"
+          },
+          {
+            "content_id": "VOD00325066",
+            "time_codes": [
+              1218000,
+              2028000,
+              2406000,
+              2597000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001148M001",
+            "title": "",
+            "subtitle": "第1148集 【菲律賓最美淨土 科隆島】",
+            "ep_number": 1148,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762324500000,
+            "vod_channel_description": "本週旅程兩位主持人搭上由馬尼拉航向科隆島的過夜渡輪，大家的心情就像參加國小畢業旅行一樣，既興奮又期待！渡輪提早半夜抵達的插曲，讓我們有機會欣賞科隆的夜色和曙光，科隆訂好的民宿，一樣是由咱們台灣鄉親經營，才能讓我們提早CHECK IN。趕緊整裝出發，要一探它最知名的海洋世界。"
+          },
+          {
+            "content_id": "VOD00325067",
+            "time_codes": [
+              1256000,
+              1934000,
+              2243000,
+              2601000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001149M001",
+            "title": "",
+            "subtitle": "第1149集 【科隆 尋找海洋寶藏】",
+            "ep_number": 1149,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762327500000,
+            "vod_channel_description": "科隆清晨的海景就像潑墨山水畫一樣，真的是百看不膩。而且聽正哥說，科隆有許多，對生長環境要求非常嚴格的特色產物，是別的地方看不到的。除了體驗享譽世界的特色產物，沒想到菲律賓人的烤肉攤，也是豪邁無比，打包帶回民宿頂樓品嚐，一邊享受夏夜晚風和海島夜色，真的是再愜意不過啦。"
+          },
+          {
+            "content_id": "VOD00325068",
+            "time_codes": [
+              1235000,
+              2093000,
+              2302000,
+              2591000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001150M001",
+            "title": "",
+            "subtitle": "第1150集 【科隆 海島部落探險家】",
+            "ep_number": 1150,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762330500000,
+            "vod_channel_description": "原始紅樹林的生態也太豐富了吧，不同區域都有適合生存的物種，也難怪聽Tiffany說，之前可以在這裡一住3個月都不用出去。這種泥龍蝦全名叫做「特異海蛄蝦」也叫鬼蝦，跟瀨尿蝦算是親戚，主要生長在紅樹林沼澤區，個性更是不好惹，還好獵人眼明手快，避免被牠逃回洞中。"
+          },
+          {
+            "content_id": "VOD00333213",
+            "time_codes": [
+              1275000,
+              2000000,
+              2347000,
+              2515000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001151M001",
+            "title": "",
+            "subtitle": "第1151集 【山海玩轉 薄荷島】",
+            "ep_number": 1151,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762333500000,
+            "vod_channel_description": "帶著依依不捨的心情，卞慶華和JR紀言愷告別了科隆，準備邁向此行的第三座島嶼「薄荷島」。說到薄荷島上的巧克力山和眼鏡猴，相信很多人都不陌生，不過我們既然是深度旅行，當然也要體驗獨家的SPECIAL！"
+          },
+          {
+            "content_id": "VOD00333214",
+            "time_codes": [
+              1369000,
+              2101000,
+              2440000,
+              2607000
+            ],
+            "timecode_duration": [],
+            "length": 2698000,
+            "asset_id": "vod10857-001152M001",
+            "title": "",
+            "subtitle": "第1152集 【薄荷島 自駕奇幻旅程】",
+            "ep_number": 1152,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762336500000,
+            "vod_channel_description": "Good morning Bohol，小島風情就是這麼舒適自在，沒有車水馬龍的喧囂，也沒有生活壓力的煩躁，貼心的民宿老闆更出借他們的鎮店之寶「海洋風吉普尼」，為我們的薄荷島自駕之旅拉開序幕。來此之前就聽說菲律賓的吉普尼，是最具特色的交通工具，開起來滿滿的復古懷舊感。"
+          },
+          {
+            "content_id": "VOD00333215",
+            "time_codes": [
+              1283000,
+              2171000,
+              2502000,
+              2606000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod10857-001153M001",
+            "title": "",
+            "subtitle": "第1153集 【薄荷島 海陸遊蹤】",
+            "ep_number": 1153,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762339500000,
+            "vod_channel_description": "不誇張~前一晚大家都是懷著忐忑的心情入睡，因為早在出國之前，今天的氣瓶潛水行程，就已經完成序號登記，無法更改時間及日期，如果因為天氣狀況被迫取消，也只能自認倒楣。世界最著名的潛點之一「巴里卡薩」，被譽為潛水者的天堂，除了有豐富的海洋生物，更以大斷層潛水聞名，吸引無數遊客前來朝聖。"
+          },
+          {
+            "content_id": "VOD00333216",
+            "time_codes": [
+              1308000,
+              2010000,
+              2345000,
+              2483000
+            ],
+            "timecode_duration": [],
+            "length": 2699000,
+            "asset_id": "vod10857-001154M001",
+            "title": "",
+            "subtitle": "第1154集 【呂宋島 穿越時空之旅】",
+            "ep_number": 1154,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762342500000,
+            "vod_channel_description": "結束薄荷島的奇幻之旅，再度回到呂宋島，準備迎接歸途前的壓軸行程。相信大家應該還記得蔡哥家的吉普尼吧，我們今天的第一站可是與它息息相關，甚至這裡可以說是全菲律賓吉普尼的再生父母。我們所在的地方就是全菲律賓第一家，改裝吉普尼的工廠。"
+          }
+        ],
+        "total_length": 259082000,
+        "focus_index": 66,
+        "next_index": 67,
+        "time": 2283766,
+        "focus_program": {
+          "content_id": "VOD00308670",
+          "time_codes": [
+            1332000,
+            2103000,
+            2331000,
+            2602000
+          ],
+          "timecode_duration": [],
+          "length": 2701000,
+          "asset_id": "vod10857-001125M001",
+          "title": "",
+          "subtitle": "第1125集 【印尼】哈囉峇里！女神嘻遊記",
+          "ep_number": 1125,
+          "rating": 1,
+          "content_type": "show",
+          "p_start": 1762255500000,
+          "vod_channel_description": "印尼跳島行，終於來到最期待的峇里島，而這座位於中部的城市，烏布，在峇里島語，有醫學的意思，因為擁有豐富的藥用植物，所以也有人說，走進山城烏布，寧靜的環境，是個洗滌身心的好地方~"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "綜藝",
+          "EngName": "Entertainment",
+          "MenuOrder": 8
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3567_ofiii238_mobile_20241211.png",
+      "description": "90年代初，孤女簡愛輾轉來到廣州打工，憑藉聰明、善良以及敢打敢拼的鬥志，成長為出色業務經理。後來還成立了自己的外貿公司，依託中國大陸改革開放的成果，不斷蓬勃發展的中國外貿大勢，回鄉創業，創立民族品牌，最終成長為跨國集團老總。而她與方恆之的感情，也在經歷了風雨之後，終成為人生伴侶。",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

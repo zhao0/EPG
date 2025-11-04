@@ -1,0 +1,379 @@
+{
+  "pageProps": {
+    "contentId": "ofiii76",
+    "channel": {
+      "title": "Golden影迷台",
+      "no": 76,
+      "charge_mode": "F",
+      "content_id": "ofiii76",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        19
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3880_ofiii76_tv_20250924.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6814",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1758696720.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 76,
+        "cdn_code": "ofiii76",
+        "start_time": 1762158300000,
+        "programs": [
+          {
+            "content_id": "VOD00289469",
+            "time_codes": [
+              890000,
+              1832000,
+              2681000,
+              3664000,
+              4555000,
+              5415000,
+              6313000,
+              7233000
+            ],
+            "timecode_duration": [],
+            "length": 7815000,
+            "asset_id": "vod63137-000000M001",
+            "title": "粉紅殺機",
+            "subtitle": "Pink",
+            "ep_number": 0,
+            "rating": 5,
+            "content_type": "movie",
+            "p_start": 1762158300000,
+            "vod_channel_description": "三名年輕女性受邀參加一場晚餐聚會，卻遭到幾名男性非禮。其中一人為求自保出手反擊，豈料事後竟被指控謀殺未遂，一場是非顛倒的訴訟就此展開。退休老律師迪帕知曉此事後，對於印度社會根深蒂固的性別歧視感到不滿，決定挺身而出為他們辯護。他能為無辜的受害者討回公道嗎？"
+          },
+          {
+            "content_id": "VOD00323705",
+            "time_codes": [
+              916000,
+              1817000,
+              2684000,
+              3635000,
+              4522000,
+              5408000
+            ],
+            "timecode_duration": [],
+            "length": 6430000,
+            "asset_id": "vod69596-000000M001",
+            "title": "科西嘉的那個夏天",
+            "subtitle": "Homecoming",
+            "ep_number": 0,
+            "rating": 5,
+            "content_type": "movie",
+            "p_start": 1762166400000,
+            "vod_channel_description": "15年前，嘉迪加母女三人因一段悲慘遭遇，黯然離開科西嘉島；15年後，嘉迪加為巴黎的一個富裕家庭所雇用並照顧他們的孩子，一家也有了再度登島的機會。然而，當兩個女兒還沉溺於情竇初開的滋味及意外邂逅的喜悅時，母親卻努力掙扎著面對遙遠的回憶。隨著時間過去，過去未解的神秘問題漸漸浮上檯面…"
+          },
+          {
+            "content_id": "VOD00300573",
+            "time_codes": [
+              982000,
+              1808000,
+              2674000,
+              3648000,
+              4540000
+            ],
+            "timecode_duration": [],
+            "length": 5386000,
+            "asset_id": "vod65157-000000M001",
+            "title": "泛泛女孩",
+            "subtitle": "Inbetween Girl",
+            "ep_number": 0,
+            "rating": 1,
+            "content_type": "movie",
+            "p_start": 1762173000000,
+            "vod_channel_description": "父母突然離婚之後，感到無所適從的16歲藝術家安琪，竟背著他深愛的社交媒體網紅女友雪莉，勾搭上了校園中當紅的運動員。過程中，安琪慢慢摸索出自己到底想要什麼，也知道自己想要成為怎樣的人…"
+          },
+          {
+            "content_id": "VOD00321589",
+            "time_codes": [
+              916000,
+              1744000,
+              2679000,
+              3657000,
+              4504000,
+              5422000
+            ],
+            "timecode_duration": [],
+            "length": 6029000,
+            "asset_id": "vod69088-000000M001",
+            "title": "天使寶貝法蘭絲",
+            "subtitle": "Saint Frances",
+            "ep_number": 0,
+            "rating": 5,
+            "content_type": "movie",
+            "p_start": 1762178700000,
+            "vod_channel_description": "年過30歲仍對人生充滿困惑的布萊姬決定接下保母工作，照顧一對拉子情侶的6歲女孩。在某晚派對上意亂情迷邂逅男大生，意外懷孕的布萊姬旋即決定墮胎。儘管布萊姬的生活一團亂，他卻在與古靈精怪女孩的朝夕相處中，逐漸建立起一段暖心的友誼，和這家人的羈絆也愈加深厚，讓他重新思考自己的人生命題…"
+          },
+          {
+            "content_id": "VOD00279810",
+            "time_codes": [
+              925000,
+              1832000,
+              2749000,
+              3613000,
+              4489000,
+              5445000
+            ],
+            "timecode_duration": [],
+            "length": 5792000,
+            "asset_id": "vod60899-000000M001",
+            "title": "南方碼頭",
+            "subtitle": "South Terminal",
+            "ep_number": 0,
+            "rating": 5,
+            "content_type": "movie",
+            "p_start": 1762185000000,
+            "vod_channel_description": "在陷入武裝衝突的國家中，一名醫生試圖傾盡他的職責，克服一切困難，只為了救更多人，然而等來的卻是命運被顛覆的那一天…"
+          },
+          {
+            "content_id": "VOD00290952",
+            "time_codes": [
+              922000,
+              1770000,
+              2722000,
+              3648000,
+              4533000
+            ],
+            "timecode_duration": [],
+            "length": 5559000,
+            "asset_id": "vod63612-000000M001",
+            "title": "盜照風波",
+            "subtitle": "Lucas",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762191000000,
+            "vod_channel_description": "父親過世後，頓失一切的盧卡斯瀕臨崩潰邊緣。某日，他遇見了一名怪異男子阿爾瓦羅，對方提議用錢向他購買幾張個人照片，更明白表示要用這些照片創建假帳號，在社群媒體上和未成年少女聊聊。迫切需要一筆金錢的盧卡斯，在一時衝動下答應了他的請求，卻也為此備受煎熬…"
+          },
+          {
+            "content_id": "VOD00172030",
+            "time_codes": [
+              909000,
+              1844000,
+              2723000,
+              3631000,
+              4482000,
+              5451000,
+              6292000
+            ],
+            "timecode_duration": [],
+            "length": 7133000,
+            "asset_id": "vod41677-000000M001",
+            "title": "今夜，我們無罪",
+            "subtitle": "Oh Mercy!",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762196700000,
+            "vod_channel_description": "今年魯貝市的耶誕夜不平靜，警長達烏德在這座他從小長大的城市內來回奔波，燒毀的車輛、起衝突的人們讓他疲於奔命。一起線索不多的年長女性謀殺案引起他的關注，抽絲剝繭後，他發現死者的年輕鄰居涉有重嫌：她們是酒鬼、毒蟲，也是一對熱戀中的情侶。她們真的有殺人嗎？警探能還她們清白嗎？"
+          },
+          {
+            "content_id": "VOD00226160",
+            "time_codes": [
+              893000,
+              1850000,
+              2710000,
+              3704000,
+              4531000,
+              5442000
+            ],
+            "timecode_duration": [],
+            "length": 6019000,
+            "asset_id": "vod50600-000000M001",
+            "title": "白色暗箱",
+            "subtitle": "White on White",
+            "ep_number": 0,
+            "rating": 2,
+            "content_type": "movie",
+            "p_start": 1762203900000,
+            "vod_channel_description": "佩德羅前往一處偏遠牧場，為大地主波特先生以及他年幼的未婚妻莎拉拍攝婚禮照片。隨著時間過去，波特先生始終不出面，婚禮也無法舉行。過程中，佩德羅對莎拉產生情愫，而遭私刑教訓。同時間，佩德羅也發現波特先生的手下肆意殘殺當地原住民。無力反抗的佩德羅，只能被迫以相機紀錄下這場血腥屠殺…"
+          },
+          {
+            "content_id": "VOD00354233",
+            "time_codes": [
+              909000,
+              1819000,
+              2707000,
+              3592000,
+              4549000
+            ],
+            "timecode_duration": [],
+            "length": 5778000,
+            "asset_id": "vod75815-000000M001",
+            "title": "他們的意外旅程",
+            "subtitle": "End of Sentence",
+            "ep_number": 0,
+            "rating": 1,
+            "content_type": "movie",
+            "p_start": 1762210200000,
+            "vod_channel_description": "法蘭克弗格爾依循亡妻的遺願，帶甫出獄的兒子尚恩飛到她的故鄉愛爾蘭，計畫將骨灰灑在她心底的一座湖。本來就水火不容的父子兩人，在途中結識一名妙齡女子搭順風車後，讓這趟公路之旅變得更加曲折顛簸。隨著母親生前的祕密在旅途中逐漸被揭露，衝突不斷的兩人能否解開心結，順利完成任務？"
+          },
+          {
+            "content_id": "VOD00300569",
+            "time_codes": [
+              942000,
+              1846000,
+              2720000,
+              3621000,
+              4513000
+            ],
+            "timecode_duration": [],
+            "length": 5378000,
+            "asset_id": "vod65153-000000M001",
+            "title": "米奇和熊",
+            "subtitle": "Mickey and the Bear",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762216200000,
+            "vod_channel_description": "在美國蒙大拿的小鎮上，少女米奇（卡蜜拉莫羅尼）一肩扛起照顧父親的責任，不顧一切地付出，只為了維持最基本的家庭生計。他的父親是一名曾參與伊拉克戰爭的退役軍人，沒想到如今卻成了癮君子。當米奇獲得了一個機會，可以離開小鎮追尋更好的人生，他該如何抉擇？"
+          },
+          {
+            "content_id": "VOD00255671",
+            "time_codes": [
+              942000,
+              1780000,
+              2689000,
+              3602000,
+              4517000
+            ],
+            "timecode_duration": [],
+            "length": 5022000,
+            "asset_id": "vod55931-000000M001",
+            "title": "那些被留下的人",
+            "subtitle": "Those Who Remained",
+            "ep_number": 0,
+            "rating": 5,
+            "content_type": "movie",
+            "p_start": 1762221900000,
+            "vod_channel_description": "二戰結束後，42歲的醫生奧多科納從勞改營中返回布達佩斯。失去親人的他，在悲痛與孤單的反覆侵蝕下，對未來早已看不見希望，也失去了生活的熱情。直到遇見有著同樣境遇的孤兒克菈菈，兩人開始在對方身上找到溫暖，但這段微妙的關係卻引來非議。尤其在蘇聯政府控制下的社會，一舉一動都被緊密監督著…"
+          },
+          {
+            "content_id": "VOD00262853",
+            "time_codes": [
+              909000,
+              1810000,
+              2689000,
+              3565000,
+              4511000,
+              5432000,
+              6286000,
+              7189000
+            ],
+            "timecode_duration": [],
+            "length": 7898000,
+            "asset_id": "vod57231-000000M001",
+            "title": "天才女伶",
+            "subtitle": "Bolshoy",
+            "ep_number": 0,
+            "rating": 1,
+            "content_type": "movie",
+            "p_start": 1762227000000,
+            "vod_channel_description": "白拉迪曾是萬眾矚目的明星舞者，卻因事業不順而開始酗酒。某天，他偶遇了來自鄉下、看似問題少女的歐莉亞，並看見了他與生俱來的驚人天賦，遂決定帶他到莫斯科的芭蕾舞蹈學院學舞。在芭蕾舞界激烈的競爭之下，歐莉亞展開了追尋夢想的艱辛旅程，更歷經了殘酷的人生百態。他最終能否找到屬於自己的舞台？"
+          },
+          {
+            "content_id": "VOD00226157",
+            "time_codes": [
+              928000,
+              1874000,
+              2790000,
+              3645000,
+              4532000,
+              5400000,
+              6399000
+            ],
+            "timecode_duration": [],
+            "length": 7446000,
+            "asset_id": "vod50597-000000M001",
+            "title": "馬德里心旅行",
+            "subtitle": "The August Virgin",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762235100000,
+            "vod_channel_description": "熾熱8月，馬德里人紛紛外出避暑，將整個城市留給遊客和一年一度的聖母節。即將滿33歲的艾娃來到城裡，拉著行李住進短租公寓，恣意地探索這個城市。然而，當度假的歡欣漸漸沉澱，不論是放逐他鄉的徘徊，或是因街頭巧遇前任而被撥亂的心緒，都讓艾娃忍不住反覆沉吟，她該如何活出真實的自己？"
+          },
+          {
+            "content_id": "VOD00272699",
+            "time_codes": [
+              865000,
+              1821000,
+              2792000,
+              3668000,
+              4534000
+            ],
+            "timecode_duration": [],
+            "length": 5556000,
+            "asset_id": "vod59712-000000M001",
+            "title": "逐夢自行車",
+            "subtitle": "Coureur",
+            "ep_number": 0,
+            "rating": 5,
+            "content_type": "movie",
+            "p_start": 1762242900000,
+            "vod_channel_description": "菲利斯的父親是自行車老將，他從小在自行車選手圍繞的環境長大，看多了酒精、暴力與違禁藥物的放縱生活。菲利斯夢想成為職業車手，希望能超越父親的成就。成年之後，他展現了無比的天賦，順利取得國內青少年組冠軍，來到青少年自行車競賽的聖地義大利。然而，殘忍的競爭和個人健康狀況正威脅他的夢想…"
+          }
+        ],
+        "total_length": 87241000,
+        "focus_index": 12,
+        "next_index": 13,
+        "time": 4694878,
+        "focus_program": {
+          "content_id": "VOD00226157",
+          "time_codes": [
+            928000,
+            1874000,
+            2790000,
+            3645000,
+            4532000,
+            5400000,
+            6399000
+          ],
+          "timecode_duration": [],
+          "length": 7446000,
+          "asset_id": "vod50597-000000M001",
+          "title": "馬德里心旅行",
+          "subtitle": "The August Virgin",
+          "ep_number": 0,
+          "rating": 3,
+          "content_type": "movie",
+          "p_start": 1762235100000,
+          "vod_channel_description": "熾熱8月，馬德里人紛紛外出避暑，將整個城市留給遊客和一年一度的聖母節。即將滿33歲的艾娃來到城裡，拉著行李住進短租公寓，恣意地探索這個城市。然而，當度假的歡欣漸漸沉澱，不論是放逐他鄉的徘徊，或是因街頭巧遇前任而被撥亂的心緒，都讓艾娃忍不住反覆沉吟，她該如何活出真實的自己？"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "電影",
+          "EngName": "Movie",
+          "MenuOrder": 5
+        }
+      ]
+    },
+    "introduction": null,
+    "recommends": null,
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

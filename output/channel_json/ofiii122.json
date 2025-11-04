@@ -1,0 +1,661 @@
+{
+  "pageProps": {
+    "contentId": "ofiii122",
+    "channel": {
+      "title": "請叫我總監《11/5即將下架》",
+      "no": 122,
+      "charge_mode": "F",
+      "content_id": "ofiii122",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        4
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3445_ofiii122_tv_20250221.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "龍華",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6379",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1725594367.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 1,
+      "vod_channel_schedule": {
+        "channel_id": 122,
+        "cdn_code": "ofiii122",
+        "start_time": 1762110684000,
+        "programs": [
+          {
+            "content_id": "VOD00253625",
+            "time_codes": [
+              685000,
+              1306000,
+              1888000
+            ],
+            "timecode_duration": [],
+            "length": 2531000,
+            "asset_id": "vod55483-000001M001",
+            "title": "",
+            "subtitle": "第1集",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761592200000,
+            "vod_channel_description": "《請叫我總監》陸劇線上看。成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253626",
+            "time_codes": [
+              790000,
+              1578000,
+              2240000
+            ],
+            "timecode_duration": [],
+            "length": 2618000,
+            "asset_id": "vod55483-000002M001",
+            "title": "",
+            "subtitle": "第2集",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761594900000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253627",
+            "time_codes": [
+              663000,
+              1383000,
+              2108000
+            ],
+            "timecode_duration": [],
+            "length": 2700000,
+            "asset_id": "vod55483-000003M001",
+            "title": "",
+            "subtitle": "第3集",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761597600000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253628",
+            "time_codes": [
+              756000,
+              1417000,
+              2166000
+            ],
+            "timecode_duration": [],
+            "length": 2565000,
+            "asset_id": "vod55483-000004M001",
+            "title": "",
+            "subtitle": "第4集",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761600600000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253629",
+            "time_codes": [
+              779000,
+              1408000,
+              2182000
+            ],
+            "timecode_duration": [],
+            "length": 2591000,
+            "asset_id": "vod55483-000005M001",
+            "title": "",
+            "subtitle": "第5集",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761603300000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253630",
+            "time_codes": [
+              666000,
+              1449000,
+              2147000
+            ],
+            "timecode_duration": [],
+            "length": 2701000,
+            "asset_id": "vod55483-000006M001",
+            "title": "",
+            "subtitle": "第6集",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761606000000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253631",
+            "time_codes": [
+              705000,
+              1430000,
+              2148000
+            ],
+            "timecode_duration": [],
+            "length": 2632000,
+            "asset_id": "vod55483-000007M001",
+            "title": "",
+            "subtitle": "第7集",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761609000000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253632",
+            "time_codes": [
+              759000,
+              1413000,
+              2100000
+            ],
+            "timecode_duration": [],
+            "length": 2738000,
+            "asset_id": "vod55483-000008M001",
+            "title": "",
+            "subtitle": "第8集",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761611700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253633",
+            "time_codes": [
+              731000,
+              1431000,
+              2123000
+            ],
+            "timecode_duration": [],
+            "length": 2780000,
+            "asset_id": "vod55483-000009M001",
+            "title": "",
+            "subtitle": "第9集",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761614700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253634",
+            "time_codes": [
+              687000,
+              1400000,
+              2121000
+            ],
+            "timecode_duration": [],
+            "length": 2770000,
+            "asset_id": "vod55483-000010M001",
+            "title": "",
+            "subtitle": "第10集",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761617700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253635",
+            "time_codes": [
+              749000,
+              1444000,
+              2214000
+            ],
+            "timecode_duration": [],
+            "length": 2696000,
+            "asset_id": "vod55483-000011M001",
+            "title": "",
+            "subtitle": "第11集",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761620700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253636",
+            "time_codes": [
+              736000,
+              1404000,
+              2122000
+            ],
+            "timecode_duration": [],
+            "length": 2684000,
+            "asset_id": "vod55483-000012M001",
+            "title": "",
+            "subtitle": "第12集",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761623700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253637",
+            "time_codes": [
+              708000,
+              1468000,
+              2104000
+            ],
+            "timecode_duration": [],
+            "length": 2666000,
+            "asset_id": "vod55483-000013M001",
+            "title": "",
+            "subtitle": "第13集",
+            "ep_number": 13,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761626700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253638",
+            "time_codes": [
+              681000,
+              1403000,
+              2155000
+            ],
+            "timecode_duration": [],
+            "length": 2710000,
+            "asset_id": "vod55483-000014M001",
+            "title": "",
+            "subtitle": "第14集",
+            "ep_number": 14,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761629700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253639",
+            "time_codes": [
+              702000,
+              1449000,
+              2127000
+            ],
+            "timecode_duration": [],
+            "length": 2692000,
+            "asset_id": "vod55483-000015M001",
+            "title": "",
+            "subtitle": "第15集",
+            "ep_number": 15,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761632700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253640",
+            "time_codes": [
+              735000,
+              1441000,
+              2186000
+            ],
+            "timecode_duration": [],
+            "length": 2684000,
+            "asset_id": "vod55483-000016M001",
+            "title": "",
+            "subtitle": "第16集",
+            "ep_number": 16,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761635700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253641",
+            "time_codes": [
+              718000,
+              1456000,
+              2180000
+            ],
+            "timecode_duration": [],
+            "length": 2753000,
+            "asset_id": "vod55483-000017M001",
+            "title": "",
+            "subtitle": "第17集",
+            "ep_number": 17,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761638700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253642",
+            "time_codes": [
+              706000,
+              1482000,
+              2162000
+            ],
+            "timecode_duration": [],
+            "length": 2759000,
+            "asset_id": "vod55483-000018M001",
+            "title": "",
+            "subtitle": "第18集",
+            "ep_number": 18,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761641700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253643",
+            "time_codes": [
+              676000,
+              1448000,
+              2136000
+            ],
+            "timecode_duration": [],
+            "length": 2740000,
+            "asset_id": "vod55483-000019M001",
+            "title": "",
+            "subtitle": "第19集",
+            "ep_number": 19,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761644700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253644",
+            "time_codes": [
+              705000,
+              1466000,
+              2171000
+            ],
+            "timecode_duration": [],
+            "length": 2650000,
+            "asset_id": "vod55483-000020M001",
+            "title": "",
+            "subtitle": "第20集",
+            "ep_number": 20,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761647700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253645",
+            "time_codes": [
+              677000,
+              1415000,
+              2117000
+            ],
+            "timecode_duration": [],
+            "length": 2765000,
+            "asset_id": "vod55483-000021M001",
+            "title": "",
+            "subtitle": "第21集",
+            "ep_number": 21,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761650700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253646",
+            "time_codes": [
+              668000,
+              1428000,
+              2155000
+            ],
+            "timecode_duration": [],
+            "length": 2715000,
+            "asset_id": "vod55483-000022M001",
+            "title": "",
+            "subtitle": "第22集",
+            "ep_number": 22,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761653700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253647",
+            "time_codes": [
+              723000,
+              1464000,
+              2104000
+            ],
+            "timecode_duration": [],
+            "length": 2730000,
+            "asset_id": "vod55483-000023M001",
+            "title": "",
+            "subtitle": "第23集",
+            "ep_number": 23,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761656700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253648",
+            "time_codes": [
+              679000,
+              1433000,
+              2099000
+            ],
+            "timecode_duration": [],
+            "length": 2721000,
+            "asset_id": "vod55483-000024M001",
+            "title": "",
+            "subtitle": "第24集",
+            "ep_number": 24,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761659700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253649",
+            "time_codes": [
+              705000,
+              1442000,
+              2180000
+            ],
+            "timecode_duration": [],
+            "length": 2724000,
+            "asset_id": "vod55483-000025M001",
+            "title": "",
+            "subtitle": "第25集",
+            "ep_number": 25,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761662700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253650",
+            "time_codes": [
+              696000,
+              1442000,
+              2141000
+            ],
+            "timecode_duration": [],
+            "length": 2753000,
+            "asset_id": "vod55483-000026M001",
+            "title": "",
+            "subtitle": "第26集",
+            "ep_number": 26,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761665700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253651",
+            "time_codes": [
+              767000,
+              1385000,
+              2167000
+            ],
+            "timecode_duration": [],
+            "length": 2776000,
+            "asset_id": "vod55483-000027M001",
+            "title": "",
+            "subtitle": "第27集",
+            "ep_number": 27,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761668700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253652",
+            "time_codes": [
+              724000,
+              1449000,
+              2151000
+            ],
+            "timecode_duration": [],
+            "length": 2743000,
+            "asset_id": "vod55483-000028M001",
+            "title": "",
+            "subtitle": "第28集",
+            "ep_number": 28,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761671700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253653",
+            "time_codes": [
+              731000,
+              1390000,
+              2154000
+            ],
+            "timecode_duration": [],
+            "length": 2745000,
+            "asset_id": "vod55483-000029M001",
+            "title": "",
+            "subtitle": "第29集",
+            "ep_number": 29,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761674700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253654",
+            "time_codes": [
+              672000,
+              1487000,
+              2129000
+            ],
+            "timecode_duration": [],
+            "length": 2759000,
+            "asset_id": "vod55483-000030M001",
+            "title": "",
+            "subtitle": "第30集",
+            "ep_number": 30,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761677700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253655",
+            "time_codes": [
+              734000,
+              1445000,
+              2144000
+            ],
+            "timecode_duration": [],
+            "length": 2657000,
+            "asset_id": "vod55483-000031M001",
+            "title": "",
+            "subtitle": "第31集",
+            "ep_number": 31,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761680700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          },
+          {
+            "content_id": "VOD00253656",
+            "time_codes": [
+              694000,
+              1446000,
+              2124000
+            ],
+            "timecode_duration": [],
+            "length": 2666000,
+            "asset_id": "vod55483-000032M001",
+            "title": "",
+            "subtitle": "第32集",
+            "ep_number": 32,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1761683700000,
+            "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+          }
+        ],
+        "total_length": 86414000,
+        "focus_index": 15,
+        "next_index": 16,
+        "time": 169469,
+        "focus_program": {
+          "content_id": "VOD00253640",
+          "time_codes": [
+            735000,
+            1441000,
+            2186000
+          ],
+          "timecode_duration": [],
+          "length": 2684000,
+          "asset_id": "vod55483-000016M001",
+          "title": "",
+          "subtitle": "第16集",
+          "ep_number": 16,
+          "rating": 1,
+          "content_type": "drama",
+          "p_start": 1761635700000,
+          "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "戲劇",
+          "EngName": "Drama",
+          "MenuOrder": 7
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_mobile_20240906.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

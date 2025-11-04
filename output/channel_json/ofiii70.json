@@ -1,0 +1,416 @@
+{
+  "pageProps": {
+    "contentId": "ofiii70",
+    "channel": {
+      "title": "Golden 強片台",
+      "no": 70,
+      "charge_mode": "F",
+      "content_id": "ofiii70",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        19
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3562_ofiii70_tv_20241203.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6496",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1733120632.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 70,
+        "cdn_code": "ofiii70",
+        "start_time": 1762133400000,
+        "programs": [
+          {
+            "content_id": "VOD00020935",
+            "time_codes": [
+              899000,
+              1768000,
+              2704000,
+              3654000,
+              4503000,
+              5455000,
+              6360000,
+              7213000
+            ],
+            "timecode_duration": [],
+            "length": 7630000,
+            "asset_id": "vod8584-000000M001",
+            "title": "翻滾吧！阿信",
+            "subtitle": "Jump A-Shin!",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762133400000,
+            "vod_channel_description": "阿信（彭于晏）從小生長在宜蘭小鎮，他是母親最寵愛的長子、弟弟景仰的偶像。年紀輕輕的他就加入學校體操隊，每日努力練習，只為了能夠進入國家代表隊。然而，一路走來到了青春叛逆時期，阿信居然誤入歧途而放棄成為國手的夢想，就在失去摯友後，他決定重拾對體操的熱情，給自己人生一次重來的機會…"
+          },
+          {
+            "content_id": "VOD00286593",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000,
+              3600000,
+              4200000,
+              4800000,
+              5400000
+            ],
+            "timecode_duration": [],
+            "length": 5500000,
+            "asset_id": "vod62352-000000M001",
+            "title": "友你才精彩",
+            "subtitle": "Beautiful Minds",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762141200000,
+            "vod_channel_description": "盡忠職守的禮儀師路易，每天過著機械式般的孤獨生活；患有先天腦癱的伊高，個性積極樂觀，對生命有著獨到見解。一場交通意外，路易將騎著自行車的伊高撞進了水溝。兩人因這場意外結緣，且在陰錯陽差下展開一段「護送大體」的冒險旅程，從冷漠到相惜，這段超乎預期的友誼也徹底改變了他們的人生…"
+          },
+          {
+            "content_id": "VOD00211052",
+            "time_codes": [
+              922000,
+              1839000,
+              2776000,
+              3596000,
+              4544000,
+              5456000
+            ],
+            "timecode_duration": [],
+            "length": 6392000,
+            "asset_id": "vod46098-000000M001",
+            "title": "親愛的房客",
+            "subtitle": "Dear Tenant",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762147500000,
+            "vod_channel_description": "林健一（莫子儀）不只看護生病的房東周秀玉（陳淑芳），還收養她9歲的孫子王悠宇（白潤音）。他的行為看似超出普通房客，但其實這都是他思念一個人的方式。然而在周秀玉過世之後，他的動機開始受到質疑。在檢警調查之下，發現越來越多對健一不利的證據…"
+          },
+          {
+            "content_id": "VOD00234145",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000,
+              3600000,
+              4200000,
+              4800000,
+              5400000,
+              6000000
+            ],
+            "timecode_duration": [],
+            "length": 6402000,
+            "asset_id": "vod51856-000000M001",
+            "title": "抓狂演訓班",
+            "subtitle": "The Big Hit",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762154100000,
+            "vod_channel_description": "事業不順的導演到監獄舉辦戲劇工作坊，打算從零開始訓練囚犯，演出經典荒謬劇《等待果陀》。他該如何讓這群毫無演出經驗的不法之徒，記住台詞又遵守他的訓練方式？隨著演出的成功，這群被社會鄙棄的犯人，繼續受邀巡迴，最後他們即將站上舉世聞名的巴黎奧德翁劇院，一場令人嘆為觀止的終演即將開幕…"
+          },
+          {
+            "content_id": "VOD00198884",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000,
+              3600000,
+              4200000,
+              4800000,
+              5400000,
+              6000000,
+              6600000
+            ],
+            "timecode_duration": [],
+            "length": 7133000,
+            "asset_id": "vod44758-000000M001",
+            "title": "幻愛",
+            "subtitle": "Beyond the Dream",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762161300000,
+            "vod_channel_description": "思覺失調症復原者阿樂（劉俊謙）渴望愛情，但從來不敢與人有更進一步的關係。直到某日，阿樂在街頭偶遇了清新脫俗的欣欣（蔡思韵），對她一見鍾情卻掙扎是否該託出自身病史。這時阿樂又再次復發，更發現她竟然是位工於心計的心理系研究生。在幻覺與真實世界，兩人陷入了一場如幻似真的懸疑禁戀中…"
+          },
+          {
+            "content_id": "VOD00329307",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000,
+              3600000,
+              4200000,
+              4800000,
+              5400000
+            ],
+            "timecode_duration": [],
+            "length": 5927000,
+            "asset_id": "vod70872-000000M001",
+            "title": "失控教室",
+            "subtitle": "The Teachers｀ Lounge",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762169400000,
+            "vod_channel_description": "新任導師卡拉（萊奧妮貝內施）懷著滿腔熱血進入學院想著作育英才，未料校園頻傳連續偷竊事件，矛頭更指向他班上的學生。卡拉決定私下找出真相，卻意外發現更多不為人知的祕密，一場風暴悄然形成…"
+          },
+          {
+            "content_id": "VOD00170142",
+            "time_codes": [
+              904000,
+              1806000,
+              2729000,
+              3565000,
+              4496000,
+              5425000
+            ],
+            "timecode_duration": [],
+            "length": 6169000,
+            "asset_id": "vod41513-000000M001",
+            "title": "返校",
+            "subtitle": "Detention",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762176000000,
+            "vod_channel_description": "寂寥而肅殺的1962年，高三生方芮欣與老師張明暉相戀，在問題叢生的家庭及學校中，他成為她唯一的出路。至於張明暉，則另與師生殷翠涵、魏仲廷等人組織讀書會，冒著生死攸關的風險研讀禁書。一夜，方芮欣與魏仲廷在暴雨中的校園甦醒，卻發現校園逐漸從熟悉的世界剝離，而他們也被迫面對可怖的真相…"
+          },
+          {
+            "content_id": "VOD00066513",
+            "time_codes": [
+              875000,
+              1794000,
+              2704000,
+              3633000,
+              4545000,
+              5468000,
+              6295000,
+              7218000
+            ],
+            "timecode_duration": [],
+            "length": 8341000,
+            "asset_id": "vod19659-000000M001",
+            "title": "鋼鐵英雄",
+            "subtitle": "Hacksaw Ridge",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762182300000,
+            "vod_channel_description": "1945年春天，二戰進入最後階段，但在沖繩島的美軍遭遇前所未見的慘烈苦戰。士兵戴斯蒙杜斯（安德魯加菲爾德）因信仰而拒絕拿任何武器上戰場，數度被同袍恥笑霸凌。此時，上級下達撤退命令，當部隊所有人都離開時，只有他獨自留下來，憑藉一己之力，來回穿梭槍林彈雨中，拯救75名重傷同袍的生命…"
+          },
+          {
+            "content_id": "VOD00147670",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000,
+              3600000,
+              4200000,
+              4800000,
+              5400000,
+              6000000,
+              6600000
+            ],
+            "timecode_duration": [],
+            "length": 6686000,
+            "asset_id": "vod38672-000000M001",
+            "title": "近敵",
+            "subtitle": "Close Enemies",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762191000000,
+            "vod_channel_description": "馬紐爾（馬提亞斯修奈爾）與崔斯（赫達卡特伯）從小在巴黎中下階層邊緣社會一起長大，兩人情同兄弟。長大後，選擇的人生道路卻截然不同：崔斯當上了警察，馬紐爾仍在幫派生活中浮浮沉沉。當一場毒品交易發生意外後，原本身處正邪兩邊的兄弟，才發現兩人都需要靠對方，才能在狗咬狗世界繼續生存下去…"
+          },
+          {
+            "content_id": "VOD00286595",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000,
+              3600000,
+              4200000,
+              4800000,
+              5400000,
+              6000000
+            ],
+            "timecode_duration": [],
+            "length": 6203000,
+            "asset_id": "vod62354-000000M001",
+            "title": "丟包大作戰",
+            "subtitle": "You Keep The Kids!",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762198500000,
+            "vod_channel_description": "芙蘿拉和維特是一對人人稱羨的模範夫妻，沒想到卻在聖誕前夕，丟出了「離婚震撼彈」！不僅如此，為了出國實踐夢想、享受單身自由，誰都不想要孩子的監護權。遲遲無法決定的兩人，只能讓孩子們自己選擇要跟著誰，也因此這對夫妻展開了「丟包大作戰」，各自使出賤招、比拼「最爛家長」頭銜！"
+          },
+          {
+            "content_id": "VOD00158441",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000,
+              3600000,
+              4200000,
+              4800000,
+              5400000
+            ],
+            "timecode_duration": [],
+            "length": 5825000,
+            "asset_id": "vod39988-000000M001",
+            "title": "鬼入鏡：靈之鬼跡",
+            "subtitle": "DreadOut",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762205400000,
+            "vod_channel_description": "為了在社群的直播影片上獲得關注，一群高中生踏進荒廢已久的公寓，打算用手機拍攝他們的冒險經歷影片。他們四處搜索，並在房間裡發現了一張老舊的牛皮紙。唯一看得懂牛皮紙上文字的琳達，在朗讀紙上的咒語後，一個神秘的入口突然出現，眾人這才發現自己無意間打開了通往神秘世界的入口…"
+          },
+          {
+            "content_id": "VOD00271860",
+            "time_codes": [
+              600000,
+              1200000,
+              1800000,
+              2400000,
+              3000000,
+              3600000,
+              4200000,
+              4800000,
+              5400000,
+              6000000,
+              6600000
+            ],
+            "timecode_duration": [],
+            "length": 6865000,
+            "asset_id": "vod59531-000000M001",
+            "title": "該死的阿修羅",
+            "subtitle": "Goddamned Asura",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762212000000,
+            "vod_channel_description": "詹文在18歲生日這天犯下夜市隨機殺人案，唯一死者是遊戲直播主小盛；接到未婚夫死訊的Vita感到愧疚，卻又意外察覺小盛生前可能有出軌；太妹琳琳與記者黴菌在夜市約訪，讓他意外成了制伏兇手的目擊證人；阿興深信摯友不是故意殺人，希望能為他找到證明。一樁夜市殺人案，讓6個人的人生出現轉折…"
+          },
+          {
+            "content_id": "VOD00163038",
+            "time_codes": [
+              1001000,
+              1793000,
+              2719000,
+              3572000,
+              4568000
+            ],
+            "timecode_duration": [],
+            "length": 5526000,
+            "asset_id": "vod40519-000000M001",
+            "title": "4X4危機四伏",
+            "subtitle": "4x4",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762219800000,
+            "vod_channel_description": "平凡不過的鄰區街道上，一台再正常不過的四輪驅動房車，一個男人輕鬆地撬開門鎖而入，大肆搜刮了車內任何值錢的東西。當他打算滿載而出時，突然發現整台車的車門全都反鎖死，且用盡力氣也無法敲破車窗。這時，車內通話突然響起：「你好，歡迎上車！」男子這才發現自己掉入了車主所設下的陷阱…"
+          },
+          {
+            "content_id": "VOD00034617",
+            "time_codes": [
+              910000,
+              1819000,
+              2807000,
+              3653000,
+              4515000
+            ],
+            "timecode_duration": [],
+            "length": 5262000,
+            "asset_id": "vod10055-000000M001",
+            "title": "甜心殺手",
+            "subtitle": "Miss Meadows",
+            "ep_number": 0,
+            "rating": 3,
+            "content_type": "movie",
+            "p_start": 1762225500000,
+            "vod_channel_description": "梅德絲小姐（凱蒂荷姆絲）搬到一個和平美麗的小鎮裡，並在小學任教。美麗開朗的梅德絲小姐，奉行著一絲不苟的生活模式，優秀的表現也讓她成為模範市民。但在梅德絲小姐甜美的微笑底下，包含著的卻是毫不手軟的私法制裁。然而好景不常，警察跟罪犯已經開始在追查這個神祕「甜心殺手」的真實身分…"
+          }
+        ],
+        "total_length": 89861000,
+        "focus_index": 2,
+        "next_index": 3,
+        "time": 832463,
+        "focus_program": {
+          "content_id": "VOD00211052",
+          "time_codes": [
+            922000,
+            1839000,
+            2776000,
+            3596000,
+            4544000,
+            5456000
+          ],
+          "timecode_duration": [],
+          "length": 6392000,
+          "asset_id": "vod46098-000000M001",
+          "title": "親愛的房客",
+          "subtitle": "Dear Tenant",
+          "ep_number": 0,
+          "rating": 3,
+          "content_type": "movie",
+          "p_start": 1762147500000,
+          "vod_channel_description": "林健一（莫子儀）不只看護生病的房東周秀玉（陳淑芳），還收養她9歲的孫子王悠宇（白潤音）。他的行為看似超出普通房客，但其實這都是他思念一個人的方式。然而在周秀玉過世之後，他的動機開始受到質疑。在檢警調查之下，發現越來越多對健一不利的證據…"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "電影",
+          "EngName": "Movie",
+          "MenuOrder": 5
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3562_ofiii70_mobile_20241203.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

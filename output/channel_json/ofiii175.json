@@ -1,0 +1,1075 @@
+{
+  "pageProps": {
+    "contentId": "ofiii175",
+    "channel": {
+      "title": "怪醫黑傑克TV(中文版)",
+      "no": 175,
+      "charge_mode": "F",
+      "content_id": "ofiii175",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        109
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWCHILDOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3811_ofiii175_tv_20250729.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "木棉花",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6745",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1753780501.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 0,
+      "vod_channel_schedule": {
+        "channel_id": 175,
+        "cdn_code": "ofiii175",
+        "start_time": 1762089900000,
+        "programs": [
+          {
+            "content_id": "VOD00022864",
+            "time_codes": [
+              688000
+            ],
+            "timecode_duration": [],
+            "length": 1455000,
+            "asset_id": "vod8844-000001M001",
+            "title": "",
+            "subtitle": "第1集 消失的針",
+            "ep_number": 1,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762089900000,
+            "vod_channel_description": "皮諾可無意中救了被同學欺負的寫樂，決定訓練他堅強起來，沒想到寫樂突然發病，群醫束手無策，皮諾可懇求黑傑克救她的朋友，結果手術很成功，沒想到推出手術房時，卻發生意外撞斷了針頭，讓針頭跑進了血管…"
+          },
+          {
+            "content_id": "VOD00022865",
+            "time_codes": [
+              723000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000002M001",
+            "title": "",
+            "subtitle": "第2集 螞蟻之足",
+            "ep_number": 2,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762091700000,
+            "vod_channel_description": "行動不便的少年光男，決定仿效書上的某個病人，從廣島獨自步行到大阪，一路上黑傑克一直默默跟著他，光男早已聽說黑傑克死要錢的惡名，所以對黑傑克置之不理，沒想到黑傑克竟然就是書上的那個病人…"
+          },
+          {
+            "content_id": "VOD00022866",
+            "time_codes": [
+              689000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000003M001",
+            "title": "",
+            "subtitle": "第3集 狗扒手",
+            "ep_number": 3,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762093500000,
+            "vod_channel_description": "有隻流浪狗突然咬走了皮諾可的小錢包，皮諾可和她的朋友急忙想要追牠，結果那隻流浪狗被車子撞到，皮諾可求黑傑克醫生一定要救救那隻狗後來狗狗果然痊癒了還被取名為拉格，不過牠愛搶別人東西的壞毛病似乎還是改不過來…"
+          },
+          {
+            "content_id": "VOD00022867",
+            "time_codes": [
+              679000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000004M001",
+            "title": "",
+            "subtitle": "第4集 醫生遊戲",
+            "ep_number": 4,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762095300000,
+            "vod_channel_description": "金剛的妹妹罹患怪病，醫院醫生向黑傑克求援，黑傑克卻置之不理，另一方面，在妹妹的懇求下，金剛四處尋找黑傑克，最後只好懇求話劇社同學基頓假扮成黑傑克，讓妹妹高興，沒想到這時，黑傑克真的出現了…"
+          },
+          {
+            "content_id": "VOD00022868",
+            "time_codes": [
+              663000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000005M001",
+            "title": "",
+            "subtitle": "第5集 六等星的男人",
+            "ep_number": 5,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762097100000,
+            "vod_channel_description": "真中醫院的院長突然去世，院內為了推選新院長，展開明爭暗鬥，唯有椎竹醫生依舊默默奉獻，黑傑克在偶然中發現椎竹高明的醫技，正巧這時煙火大會出了意外，黑傑克命救護車把傷患送去真中醫院，這才讓大家發現，椎竹醫生就像渺小的六等星，默默綻放光芒…"
+          },
+          {
+            "content_id": "VOD00022869",
+            "time_codes": [
+              696000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000006M001",
+            "title": "",
+            "subtitle": "第6集 師生之間",
+            "ep_number": 6,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762098900000,
+            "vod_channel_description": "男童久男的級任老師村正，教學非常嚴格，令久男心生畏懼，裝病不肯上學，最後他甚至衝到車前自殺導致重傷，必須切除雙腿，面惡心善的村正，透過手塚醫生的介紹找上黑傑克，懇求他去救久男，甚至不惜犧牲自己生命用保險金來付醫療費用…"
+          },
+          {
+            "content_id": "VOD00022870",
+            "time_codes": [
+              744000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000007M001",
+            "title": "",
+            "subtitle": "第7集 小白獅",
+            "ep_number": 7,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762100700000,
+            "vod_channel_description": "小白獅魯那魯那是動物園最受歡迎的明星，卻罹患怪病日漸衰弱，心疼牠的老飼育員，懇求黑傑克治好牠，黑傑克遂將牠帶回家觀察，這才發現小白獅得的是心病，唯一的藥方就是讓牠回到家鄉非洲，但此舉卻遭到皮諾可反對…"
+          },
+          {
+            "content_id": "VOD00022871",
+            "time_codes": [
+              720000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000008M001",
+            "title": "",
+            "subtitle": "第8集 奇蹟的手臂",
+            "ep_number": 8,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762102500000,
+            "vod_channel_description": "阿拓是個優秀的壽司師傅，歷經多年努力，他終於決定返鄉實踐諾言，捏出全國最棒的壽司給失明的母親吃，不料路上竟被卡車司機阿明撞傷，失去了雙臂，阿拓要求阿明代替他的雙臂捏壽司給母親吃，從此阿明就在阿拓的訓練下拼命苦練，好不容易二人終於成為最佳拍擋，阿明竟為了救人命喪火場…"
+          },
+          {
+            "content_id": "VOD00022872",
+            "time_codes": [
+              713000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000009M001",
+            "title": "",
+            "subtitle": "第9集 求人之水",
+            "ep_number": 9,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762104300000,
+            "vod_channel_description": "皮諾可和寫樂偶然邂逅一位老婆婆，原來她的兒子開醫院，媳婦卻不願跟她同住，遂安排她住在醫院，當病人需要病床時，她便只好出門去朋友家借宿，可是次數多了大家都避不見面，她只好央求黑傑克送她去以前住的深山別墅，不料當晚豪雨引起土石流壓垮別墅，老婆婆也性命垂危…"
+          },
+          {
+            "content_id": "VOD00022873",
+            "time_codes": [
+              742000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000010M001",
+            "title": "",
+            "subtitle": "第10集 火鳥傳說",
+            "ep_number": 10,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762106100000,
+            "vod_channel_description": "黑傑克接到女子米莉安的委託，請他去醫治一個二百歲的老人，據說這名老人是因為年輕時喝過火鳥的血才能長生不死，黑傑克斥之為迷信，米莉安卻深信不疑，一心想獵捕火鳥藉此發財，但老人卻向黑傑克吐露真相，說他根本沒喝過火鳥血，火鳥窩裡只有可怕的毒蛇…"
+          },
+          {
+            "content_id": "VOD00022874",
+            "time_codes": [
+              760000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000011M001",
+            "title": "",
+            "subtitle": "第11集 殺人鯨的禮物",
+            "ep_number": 11,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762107900000,
+            "vod_channel_description": "拉格從海邊撿來珍珠，令皮諾可很驚奇，追問醫生之下，才知道十年前黑傑克剛搬來海邊時，沒人找他看診，他的第一個病人竟是一尾殺人鯨，從此他和殺人鯨托利頓結為好友，但不久之後，他發現托利頓竟是擾亂漁村的兇手…"
+          },
+          {
+            "content_id": "VOD00022875",
+            "time_codes": [
+              719000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000012M001",
+            "title": "",
+            "subtitle": "第12集 把哥哥還給我",
+            "ep_number": 12,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762109700000,
+            "vod_channel_description": "小學男童行男的哥哥高男，是在超人影片中扮演怪物葛拉斯的演員，由於葛拉斯是壞蛋，使得行男受到同學的嘲笑，這時高男的腿莫名腫大，留在黑傑克的診所檢查，行男跑去找哥哥，竟以為黑傑克是壞蛋首領，而哥哥真的變成改造人了…"
+          },
+          {
+            "content_id": "VOD00022876",
+            "time_codes": [
+              667000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000013M001",
+            "title": "",
+            "subtitle": "第13集 海盜手",
+            "ep_number": 13,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762111500000,
+            "vod_channel_description": "高中生和男是眾人矚目的體操界明日之星，在學校也是女生愛慕的對象，不料比賽前夕他的手臂日漸腫脹，在青梅竹馬的敏江極力勸說下才勉強就醫，但他不顧醫生勸阻仍繼續練體操，導致壞疽惡化性命垂危，在敏江的懇求下，黑傑克替他開刀截肢，給他裝上了一支像海盜鐵手的義肢…"
+          },
+          {
+            "content_id": "VOD00022877",
+            "time_codes": [
+              705000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000014M001",
+            "title": "",
+            "subtitle": "第14集 動吧!所羅門",
+            "ep_number": 14,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762113300000,
+            "vod_channel_description": "皮諾可跟著寫樂去游泳差點溺斃，幸好被一名青年救起，原來這名青年武藏是卡通繪製者，立志畫出栩栩如生的卡通，但他精心繪製的獅子所羅門卻被製片公司退稿，令他頗為灰心，好不容易在皮諾可和寫樂的鼓勵下振作起來，卻突然病發…"
+          },
+          {
+            "content_id": "VOD00022878",
+            "time_codes": [
+              770000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000015M001",
+            "title": "",
+            "subtitle": "第15集 虛偽的婚禮",
+            "ep_number": 15,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762115100000,
+            "vod_channel_description": "少女小滿罹患癌症，只剩下不到一個月的生命，她唯一的心願就是結婚，父母拗不過她只好答應讓她跟第一個走進病房的男人舉行婚禮，沒想到進來的竟是受託替她開刀的黑傑克，為了激發她的求生意志，黑傑克只好答應配合，舉行假婚禮…"
+          },
+          {
+            "content_id": "VOD00022879",
+            "time_codes": [
+              699000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000016M001",
+            "title": "",
+            "subtitle": "第16集 皮諾可失蹤記",
+            "ep_number": 16,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762116900000,
+            "vod_channel_description": "黑傑克外出時，家裡跑來一個小偷源吉，由於經商失敗，源吉心灰意冷，妻子受不了他的頹廢也帶著女兒回娘家，皮諾可聽了之後心生同情，向黑傑克要錢送去給源吉，甚至陪著源吉跑去妻子娘家，另一方面，不知情的黑傑克以為皮諾可遭人綁架，為了尋找皮諾可甚至放棄重獲醫師執照的機會…"
+          },
+          {
+            "content_id": "VOD00022880",
+            "time_codes": [
+              714000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000017M001",
+            "title": "",
+            "subtitle": "第17集 失聲的偶像",
+            "ep_number": 17,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762118700000,
+            "vod_channel_description": "高中女生小麗擁有美妙的聲音，是全校崇拜的偶像，但她的聲音卻出了問題，經過黑傑克診治原來是喉嚨長了息肉，開刀後黑傑克要求她必須禁聲二週，但小麗禁不住同學的懇求卻開口唱歌，導致聲音沙啞，而且可能再也無法復原…"
+          },
+          {
+            "content_id": "VOD00022881",
+            "time_codes": [
+              745000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000018M001",
+            "title": "",
+            "subtitle": "第18集 網路友情",
+            "ep_number": 18,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762120500000,
+            "vod_channel_description": "小純罹患先天性疾病行動不便，必須等長大才能開刀，酷愛棒球的他交了一個外國網友，總是在網上吹噓自己棒球打得多好，不料某天，網友湯姆通知他即將來日本，小純為了怕湯姆發現他的謊言，竟不惜跟湯姆絕交…"
+          },
+          {
+            "content_id": "VOD00022882",
+            "time_codes": [
+              710000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000019M001",
+            "title": "",
+            "subtitle": "第19集 加油吧!古和醫院",
+            "ep_number": 19,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762122300000,
+            "vod_channel_description": "黑傑克和皮諾可旅行途中，因皮諾可肚子痛，來到山中診所看病，此地只有古和醫生這麼一個老醫生，深受居民愛戴，但他其實是個密醫，對醫術沒有自信，因此不敢替病人開刀割除甲狀腺，在黑傑克的鼓勵和協助下，終於完成手術，古和醫生也決定去唸醫學系拿到正式執照…"
+          },
+          {
+            "content_id": "VOD00022883",
+            "time_codes": [
+              689000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000020M001",
+            "title": "",
+            "subtitle": "第20集 山手線的阿哲",
+            "ep_number": 20,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762124100000,
+            "vod_channel_description": "友引刑警跟蹤黑傑克來到湯姆咖啡店企圖逮捕他，赫然發現咖啡店老闆就是以前山手線電車上出名的扒手阿哲，原來當年友引在追捕阿哲的過程中，阿哲的手指不幸割斷，正是友引出面拜託黑傑克替他接回去，好讓友引能親手逮捕他，但黑傑克卻謊稱他的手指已無法復原…"
+          },
+          {
+            "content_id": "VOD00022884",
+            "time_codes": [
+              700000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000021M001",
+            "title": "",
+            "subtitle": "第21集 第一陣春風",
+            "ep_number": 21,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762125900000,
+            "vod_channel_description": "久美子的左眼突然失明，經過黑傑克開刀移植眼角膜後順利康復，沒想到久美子從此開始看到一個陌生男子盯著她，眾人起先以為是她的幻覺，沒想到竟然真有此人，寫樂甚至懷疑此人就是殺害角膜捐贈者的兇手，久美子是否也會有危險呢…"
+          },
+          {
+            "content_id": "VOD00022885",
+            "time_codes": [
+              715000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000022M001",
+            "title": "",
+            "subtitle": "第22集 皮諾可長大計劃",
+            "ep_number": 22,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762127700000,
+            "vod_channel_description": "皮諾可急著長大談戀愛，偶然認識男童小椿後，就拉著小椿玩起成年人的戀愛遊戲，想藉此刺激黑傑克，把寫樂急得團團轉，一天，小椿的父母突然帶著小椿來求救，原來小椿體內器官全都位置顛倒，令黑傑克開刀時傷透了腦筋…"
+          },
+          {
+            "content_id": "VOD00022886",
+            "time_codes": [
+              684000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000023M001",
+            "title": "",
+            "subtitle": "第23集 豪雨期間的戀情",
+            "ep_number": 23,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762129500000,
+            "vod_channel_description": "黑傑克來到小島，想報答某醫生的贈刀之恩，不料該醫生已死，由他的妹妹清美繼承遺志，由於風雨交加無法開船，黑傑克被困在島上數日，清美也逐漸對他產生情愫，甚至想為他離開小島，這時，豪雨造成山崩，清美為了救小孩遭到活埋性命垂危…"
+          },
+          {
+            "content_id": "VOD00022887",
+            "time_codes": [
+              746000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000024M001",
+            "title": "",
+            "subtitle": "第24集 那達雷的挑戰",
+            "ep_number": 24,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762131300000,
+            "vod_channel_description": "大江戶大吾是個生物專家，研究如何促進大腦發達，為了做實驗，他請黑傑克替他視如家人的小鹿那達雷開刀，把大腦取出放入腹腔，雖然手術成功，那達雷有了跟人類一樣的智慧，但卻也開始憎恨人類，甚至嫉妒起大吾的未婚妻美嘉…"
+          },
+          {
+            "content_id": "VOD00022888",
+            "time_codes": [
+              682000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000025M001",
+            "title": "",
+            "subtitle": "第25集 霍亂風波",
+            "ep_number": 25,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762133100000,
+            "vod_channel_description": "黑傑克搭機返國，在機場巧遇剛從東南亞返國的醫生朋友安東，硬被安東拉去喝了一杯，不料隨即聽說安東和同團的旅客都得了霍亂相繼發病，黑傑克擔心自己也被傳染，連忙自我隔離，但這時家中卻有女病人登門求診病危昏倒，把皮諾可急得手忙腳亂…"
+          },
+          {
+            "content_id": "VOD00022889",
+            "time_codes": [
+              696000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000026M001",
+            "title": "",
+            "subtitle": "第26集 算盤天才",
+            "ep_number": 26,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762134900000,
+            "vod_channel_description": "映兒是個頗有算盤天份的男孩，手指卻天生行動不便，為了讓映兒打算盤，黑傑克在映兒父親和老師的懇求下替他動了手術，術後映兒熬過艱苦的復建，終於實現心願晉級全國珠算大賽，黑傑克也應邀出席，但他預言映兒的手指無法長時間使用，很快就會動彈不得，映兒該如何繼續比賽…"
+          },
+          {
+            "content_id": "VOD00022890",
+            "time_codes": [
+              690000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000027M001",
+            "title": "",
+            "subtitle": "第27集 尖端科技的悲劇",
+            "ep_number": 27,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762136700000,
+            "vod_channel_description": "黑傑克為了要一筆醫療費，來到一個名叫虎之門的社長口中所謂的尖端大樓。虎之門不想付帳，希望能用三年的租金來取代這筆醫療費，因此被困在這棟大樓的地下室、為了求生每個人都展現了人性醜陋的一面…"
+          },
+          {
+            "content_id": "VOD00022891",
+            "time_codes": [
+              697000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000028M001",
+            "title": "",
+            "subtitle": "第28集 荒野的傳染病",
+            "ep_number": 28,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762138500000,
+            "vod_channel_description": "黑傑克這次要前往一處農場，為他曾經動過手術的病患檢查奇特的發熱和出診現象，沒想到卻因此感染了一種在荒野上流傳的傳染病。在他幾經思索之後，發現這是某種變種的寄生蟲所引發的疾病，便在荒野上為自己開腸剖腹…"
+          },
+          {
+            "content_id": "VOD00022892",
+            "time_codes": [
+              687000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000029M001",
+            "title": "",
+            "subtitle": "第29集 生命之花",
+            "ep_number": 29,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762140300000,
+            "vod_channel_description": "永湖清水是永湖流插花的宗師，為了培養自己女兒永湖園成為宗師，證明她曾經存在過世上，藉以名流千古，不惜逼她撐著虛弱的身體不停的插花。最後永湖園還是在皮諾可的啟發下，找到了生存意志，請傑克為她開刀…"
+          },
+          {
+            "content_id": "VOD00022893",
+            "time_codes": [
+              672000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000030M001",
+            "title": "",
+            "subtitle": "第30集 雷雲中的手術",
+            "ep_number": 30,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762142100000,
+            "vod_channel_description": "皮諾可和傑克一起到一個山中飯店渡假，沒想到剛好遇上飯店職員全體罷工，而一名房客在高爾夫球遭到雷擊又被大樹壓到受到重傷，情急之下，傑克只有在雷電交加的郊外替他進行手術…"
+          },
+          {
+            "content_id": "VOD00022894",
+            "time_codes": [
+              681000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000031M001",
+            "title": "",
+            "subtitle": "第31集 20年後的暗示",
+            "ep_number": 31,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762143900000,
+            "vod_channel_description": "傑克小時候曾經因為誤觸未爆彈使手部受到不可復原的傷害，但在本間醫生的努力後，奇蹟似的完全復原，誰知？因為本間的同事淺草醫生的一句話，在當年的黑傑克心裡留下了一個暗示、讓他在20年之後手部突然出現僵硬現象…"
+          },
+          {
+            "content_id": "VOD00022895",
+            "time_codes": [
+              720000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000032M001",
+            "title": "",
+            "subtitle": "第32集 藍色大海的恐怖",
+            "ep_number": 32,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762145700000,
+            "vod_channel_description": "傑克帶著皮諾可回到自己買的一個小島上，意外碰到島上的少年太一在刺魚時被貝殼夾住，傑克在無計可施之餘，只有這個巨大的貝類動手術，切除它的貝柱好讓蚌殼開嘴…"
+          },
+          {
+            "content_id": "VOD00022896",
+            "time_codes": [
+              735000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000033M001",
+            "title": "",
+            "subtitle": "第33集 來自空中的侵略者",
+            "ep_number": 33,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762147500000,
+            "vod_channel_description": "小悟的腎臟長了腫瘤，常常會不自覺的產生一些幻覺，認為醫院裡的醫生和自己的媽媽都變成了來自宇宙的侵略者。還好黑傑克即時幫他摘除腫瘤，救回他一條命…"
+          },
+          {
+            "content_id": "VOD00022897",
+            "time_codes": [
+              714000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000034M001",
+            "title": "",
+            "subtitle": "第34集 搖晃的手術室",
+            "ep_number": 34,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762149300000,
+            "vod_channel_description": "黑傑克巧遇一名住在鐵道附近的居民，他的太太突然劇烈腹痛，必須緊急動手術，但是每隔兩分鐘經過的特快車帶來巨大的噪音和震動，手術根本無法進行…"
+          },
+          {
+            "content_id": "VOD00022898",
+            "time_codes": [
+              765000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000035M001",
+            "title": "",
+            "subtitle": "第35集 劫持醫院",
+            "ep_number": 35,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762151100000,
+            "vod_channel_description": "黑傑克受託到金滿醫院為一名腸閉塞的小孩執刀動手術，此時醫院卻遭到歹徒佔領，向警方要求贖金，否則不准他們動手術，眼看時間緊迫，黑傑克只有摸黑動手術…"
+          },
+          {
+            "content_id": "VOD00022899",
+            "time_codes": [
+              699000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000036M001",
+            "title": "",
+            "subtitle": "第36集 未完成的海岬之家",
+            "ep_number": 36,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762152900000,
+            "vod_channel_description": "皮諾可看到醫生在海岬上的房子舊得可以，不管怎麼清都清不乾淨，就決定找人來重新修建，卻遭到醫生嚴厲的反對，娓娓道出十年前買下這棟房子時，請一位木匠師父修建的過去…"
+          },
+          {
+            "content_id": "VOD00022900",
+            "time_codes": [
+              680000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000037M001",
+            "title": "",
+            "subtitle": "第37集 海豚與強盜集團",
+            "ep_number": 37,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762154700000,
+            "vod_channel_description": "黑傑克在回到家之前遭到強盜集團的綁架，來到海上的一艘船，替強盜集團的弟弟治療槍傷。但當晚適逢暴風雨，將船上的食物飲水都沖走了，也因此引發強盜集團的內鬨，最後眾人是在黑傑克搭救的一隻海豚幫助下才得以回到陸地…"
+          },
+          {
+            "content_id": "VOD00022901",
+            "time_codes": [
+              713000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000038M001",
+            "title": "",
+            "subtitle": "第38集 向未知者的挑戰",
+            "ep_number": 38,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762156500000,
+            "vod_channel_description": "寫樂從事考古研究的老爸邀請黑傑克到他挖掘的現場，誰知當天晚上寫樂就像被附身了一樣，進入古蹟中，做了外星人的翻譯，要黑傑克替外星人的妻子開刀動手術…"
+          },
+          {
+            "content_id": "VOD00022902",
+            "time_codes": [
+              705000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000039M001",
+            "title": "",
+            "subtitle": "第39集 永不停止的戰爭",
+            "ep_number": 39,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762158300000,
+            "vod_channel_description": "黑傑克受託到伊爾國去為一名病患診斷，發現他必須要開刀才能夠有機會重新站起來，但是他的母親卻老是逼他走路，讓他的病情更加惡化，後來傑克才明白這一切都是因為他們家遭到監視，這位母親才會做這些違心之論…"
+          },
+          {
+            "content_id": "VOD00022903",
+            "time_codes": [
+              705000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000040M001",
+            "title": "",
+            "subtitle": "第40集 假人與警官",
+            "ep_number": 40,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762160100000,
+            "vod_channel_description": "鈴田警官是個做事一板一眼的人，工作上盡職的他，因為這樣的個性得罪了不少人，但他看待一個用來維護交通的警用假人比什麼都還重要，卻因此遭到車禍波及，還好有黑傑克醫生為他開刀，他也因為這場車禍意外的取得了一個當護士的美嬌娘…"
+          },
+          {
+            "content_id": "VOD00022904",
+            "time_codes": [
+              663000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000041M001",
+            "title": "",
+            "subtitle": "第41集 手術與電影的奇蹟",
+            "ep_number": 41,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762161900000,
+            "vod_channel_description": "天馬導演的兒子明日人患有膠原病症候群，是世人認定的不治之症，天馬醫生找上傑克，出五億元請他動刀，並且希望將它紀錄下來，供給全世界的醫生當作教材，拯救無數相同病症患者的性命…"
+          },
+          {
+            "content_id": "VOD00022905",
+            "time_codes": [
+              683000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000042M001",
+            "title": "",
+            "subtitle": "第42集 人生的誤診",
+            "ep_number": 42,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762163700000,
+            "vod_channel_description": "太腹醫院的第二任院長自從接手醫院之後，靠著縮減醫生人數增加住院病人使得業績成長不少，但是極少動刀的他，在一名被他判定得了闌尾炎的病人病情急轉直下時束手無策，只有將手術交由黑傑克繼續進行，才挽救了病人一命，也挽回了醫院的名聲…"
+          },
+          {
+            "content_id": "VOD00022906",
+            "time_codes": [
+              731000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000043M001",
+            "title": "",
+            "subtitle": "第43集 萎縮",
+            "ep_number": 43,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762165500000,
+            "vod_channel_description": "曾經教過黑傑克的老師-戶隱醫生，在一個窮鄉僻壤遇到了奇怪的傳染病，最後連他自己都因為感染，身體不斷的縮小，黑傑克不斷嘗試各種方法，希望能夠解開這個病因，拯救自己老師一命…"
+          },
+          {
+            "content_id": "VOD00022907",
+            "time_codes": [
+              676000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000044M001",
+            "title": "",
+            "subtitle": "第44集 皮諾可誕生",
+            "ep_number": 44,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762167300000,
+            "vod_channel_description": "皮諾可和姐姐原本是一對雙胞胎，但她在胚胎時期沒有成形，寄生到姐姐身上從母體誕生，在18年的歲月中逐漸形成姐姐身上的一個腫塊，黑傑克將它取出之後賦予她生命，從此留在黑傑克醫生身邊…"
+          },
+          {
+            "content_id": "VOD00022908",
+            "time_codes": [
+              736000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000045M001",
+            "title": "",
+            "subtitle": "第45集 愛笑的同學",
+            "ep_number": 45,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762169100000,
+            "vod_channel_description": "黑傑克過去就讀國中時，是個從來沒有笑過的學生，因為他的人生意義就在於報仇，但是同班的哈哈卻以樂觀的態度和開朗的個性改變了他，誰知在一次高利貸討債的時候黑傑克為了保護哈哈竟然用飛鏢誤傷了他，導致他永遠無法再笑…"
+          },
+          {
+            "content_id": "VOD00022909",
+            "time_codes": [
+              660000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000046M001",
+            "title": "",
+            "subtitle": "第46集 文化祭的保鏢",
+            "ep_number": 46,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762170900000,
+            "vod_channel_description": "裘斯原本是專門在文化祭裡帶頭鬧事的不良少年，但在某次心臟病發，被黑傑克醫生救活之後，經過同校學生和登的建議，開始幫忙保護文化祭，讓大家都覺得非常不可思議…"
+          },
+          {
+            "content_id": "VOD00022910",
+            "time_codes": [
+              758000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000047M001",
+            "title": "",
+            "subtitle": "第47集 雪原上的小提琴",
+            "ep_number": 47,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762172700000,
+            "vod_channel_description": "黑傑克搭乘的飛機這天因故障而迫降雪原上，機長在經過判斷後，決定讓乘客不帶行李先步行到附近的愛斯基摩村等待救援，但機上一名音樂家莫洛索夫卻堅持帶著小提琴上路，又因救了皮諾可讓琴飛走，事後執意要提琴，將雙手的手指都凍傷了…"
+          },
+          {
+            "content_id": "VOD00022911",
+            "time_codes": [
+              726000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000048M001",
+            "title": "",
+            "subtitle": "第48集 知更鳥與少年",
+            "ep_number": 48,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762174500000,
+            "vod_channel_description": "一名少年在送報的途中救了一隻翅膀受傷的知更鳥，後來生病之後，竟然因為這隻知更鳥的伴侶不斷撿錢給黑傑克，為他看醫治病…"
+          },
+          {
+            "content_id": "VOD00022912",
+            "time_codes": [
+              671000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000049M001",
+            "title": "",
+            "subtitle": "第49集 人面瘡的真心話",
+            "ep_number": 49,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762176300000,
+            "vod_channel_description": "黑傑克醫生這次受到病人請求幫他治療自己臉上的人面瘡，當黑傑克為他開刀割除之後，拆除繃帶時竟然又長出來了，原來這個人是個殺手，而他的良心卻化成了人面瘡出現，阻止他繼續從事殺手的工作…"
+          },
+          {
+            "content_id": "VOD00022913",
+            "time_codes": [
+              731000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000050M001",
+            "title": "",
+            "subtitle": "第50集 分裂的兄弟",
+            "ep_number": 50,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762178100000,
+            "vod_channel_description": "英三和英一原本是相依為命的兄弟，因父親死於癌症，故兩兄弟決定成為醫生，卻因英一必須繼承家業，而把希望全寄託在英三身上，英三無法達成而逃走，多年後成立了大公司，得知大哥罹患癌症，便僱用黑傑克假裝自己的兒子，為大哥醫病…"
+          },
+          {
+            "content_id": "VOD00022914",
+            "time_codes": [
+              702000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000051M001",
+            "title": "",
+            "subtitle": "第51集 傳聞中的瞎子醫生",
+            "ep_number": 51,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762179900000,
+            "vod_channel_description": "琵琶丸是個針灸師，自認從來沒有出過錯，到處為人針灸當作是行善，但這次卻碰到一名對針有極度恐懼的小女孩，而她正好是黑傑克的病人，幸好黑傑克及時趕到，給予緊急治療才免除她痙攣的痛苦，而琵琶丸也為黑傑克針灸當作是回報…"
+          },
+          {
+            "content_id": "VOD00022915",
+            "time_codes": [
+              733000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000052M001",
+            "title": "",
+            "subtitle": "第52集 目擊者",
+            "ep_number": 52,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762181700000,
+            "vod_channel_description": "車站爆炸案造成多人受傷，其中一名在距離月台最近的販賣部值班的員工：裕子曾經看過放置爆裂物歹徒，但她因為爆炸案造成眼球永遠的傷害，黑傑克在警方的重金要求下，為她動手術，在短短的五分鐘內指認了犯人，也看到她此生最後的夕陽美景…"
+          },
+          {
+            "content_id": "VOD00022916",
+            "time_codes": [
+              737000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000053M001",
+            "title": "",
+            "subtitle": "第53集 鐵櫃的搖籃",
+            "ep_number": 53,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762183500000,
+            "vod_channel_description": "不良少女真紀用壞朋友搶回來的置物櫃鑰匙，發現置物櫃裡竟然有個氣息微弱的小嬰兒，真紀不忍心對這個棄嬰見死不救，可是又不敢報警處理於是登門求黑傑克醫生救救他，黑傑克醫生答應救這名小嬰兒，卻無法繼續照顧他…"
+          },
+          {
+            "content_id": "VOD00022917",
+            "time_codes": [
+              733000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000054M001",
+            "title": "",
+            "subtitle": "第54集 虛假母子的幸與不幸",
+            "ep_number": 54,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762185300000,
+            "vod_channel_description": "阿吉吉原本是沙漠的導遊有次帶一名日本富有的技師天堂出遊，不料天堂突然遭遇不幸死去，於是阿吉吉拿天堂的錢異想天開請黑傑克醫生幫他動整型手術，並且以天堂的身份回到日本與母親相見…"
+          },
+          {
+            "content_id": "VOD00022918",
+            "time_codes": [
+              706000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000055M001",
+            "title": "",
+            "subtitle": "第55集 生命的月台",
+            "ep_number": 55,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762187100000,
+            "vod_channel_description": "黑傑克和皮諾可有次趕不及最後一班電車，偶遇一名重症病患花村和惠，後來得知和惠原本是名模在國外過著夢境生活，最後卻落到狼狽逃回日本並且被醫生宣佈得到重症，不過就在她絕望時遇到了怪醫黑傑克救回她一命…"
+          },
+          {
+            "content_id": "VOD00022919",
+            "time_codes": [
+              699000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000056M001",
+            "title": "",
+            "subtitle": "第56集 縫合皮膚的捐贈者",
+            "ep_number": 56,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762188900000,
+            "vod_channel_description": "黑傑克來到國外進行醫療，沒想到意外遇到他兒時的好友同時也是他的救命恩人，黑傑克小時候炸傷就是這個叫做貴治的朋友捐出皮膚救他，他們兩人原本約定好長大後都要成為醫生，如今貴治卻成為激進環保組織的成員…"
+          },
+          {
+            "content_id": "VOD00022920",
+            "time_codes": [
+              724000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000057M001",
+            "title": "",
+            "subtitle": "第57集 皮諾可的考試日記",
+            "ep_number": 57,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762190700000,
+            "vod_channel_description": "雖然皮諾可的外表看來很幼稚，但是其實她已經18歲（雖然戶籍上只有1歲）她很渴望像其他小孩一樣上學讀書，並且花錢買了空中教學課程的國中畢業證書一心想要進高中就讀，最後黑傑克醫生也決定幫助她完成這個心願…"
+          },
+          {
+            "content_id": "VOD00022921",
+            "time_codes": [
+              683000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000058M001",
+            "title": "",
+            "subtitle": "第58集 老人與大樹",
+            "ep_number": 58,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762192500000,
+            "vod_channel_description": "皮諾可他們到鄰鎮森林公園玩，遇見一位老爺爺聽到老爺爺提起他與那邊的大櫸樹之間的故事，覺得非常感動，沒想到那棵大櫸樹竟然面臨到被砍伐的命運，皮諾可他們盡力想挽救那棵樹仍然不成功，最後老爺爺決定陪著他的大櫸樹一起離開這個世界…"
+          },
+          {
+            "content_id": "VOD00022922",
+            "time_codes": [
+              730000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000059M001",
+            "title": "",
+            "subtitle": "第59集 黑皇后",
+            "ep_number": 59,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762194300000,
+            "vod_channel_description": "某家醫院出現了一個被稱為女黑傑克的外科醫師因為她冷酷無情準確的手術手法與黑傑克很相像不過她最後卻面臨到要切除自己心愛男友的腳的困境，由於因緣際會黑傑克也剛好來到那家醫院，黑傑克醫生的出現救了這個女黑傑克醫師…"
+          },
+          {
+            "content_id": "VOD00022923",
+            "time_codes": [
+              701000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000060M001",
+            "title": "",
+            "subtitle": "第60集 擁有過去的兩人再次重逢",
+            "ep_number": 60,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762196100000,
+            "vod_channel_description": "一個叫做橘透的年輕人，在路上救了一名被撞之後棄置路中間不管的女性，又剛好巧遇皮諾可所以就把她送到黑傑克醫生那裡治療，沒想到她的傷勢痊癒後卻失去了記憶，橘透還是對她很照顧他們因此一起生活，不過沒想到當她恢復記憶後就消失不見了…"
+          },
+          {
+            "content_id": "VOD00022924",
+            "time_codes": [
+              669000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000061M001",
+            "title": "",
+            "subtitle": "第61集 兩個皮諾可",
+            "ep_number": 61,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762197900000,
+            "vod_channel_description": "黑傑克醫生在某個小鎮工廠社長的邀請下，來到這裡為他們的員工進行手術，黑傑克醫生來到這裡竟然遇見一個和皮諾可長得一模一樣的女孩，而這名女孩竟然也和那名患者罹患同樣的病，原來他們都是工廠的污染ZETA金屬中毒…"
+          },
+          {
+            "content_id": "VOD00022925",
+            "time_codes": [
+              698000
+            ],
+            "timecode_duration": [],
+            "length": 1454000,
+            "asset_id": "vod8844-000062M001",
+            "title": "",
+            "subtitle": "第62集 樹海的鐮鼬(完)",
+            "ep_number": 62,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762199700000,
+            "vod_channel_description": "黑傑克醫生為了幫一位克隆尼博士做複診，來到一座美麗的森林，沒想到這個地區卻發生連續殺人案，更詭異的是竟然沒有任何一個被害者看到兇手，就在此時克隆尼博士似乎發現其中的秘密但是他竟然也立刻死亡，害隨後趕到的黑傑克被認為就是兇手…"
+          }
+        ],
+        "total_length": 90149000,
+        "focus_index": 39,
+        "next_index": 40,
+        "time": 724612,
+        "focus_program": {
+          "content_id": "VOD00022903",
+          "time_codes": [
+            705000
+          ],
+          "timecode_duration": [],
+          "length": 1454000,
+          "asset_id": "vod8844-000040M001",
+          "title": "",
+          "subtitle": "第40集 假人與警官",
+          "ep_number": 40,
+          "rating": 2,
+          "content_type": "comic",
+          "p_start": 1762160100000,
+          "vod_channel_description": "鈴田警官是個做事一板一眼的人，工作上盡職的他，因為這樣的個性得罪了不少人，但他看待一個用來維護交通的警用假人比什麼都還重要，卻因此遭到車禍波及，還好有黑傑克醫生為他開刀，他也因為這場車禍意外的取得了一個當護士的美嬌娘…"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "動漫",
+          "EngName": "Animate",
+          "MenuOrder": 109
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_mobile_20230802.png",
+      "description": "",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

@@ -1,0 +1,641 @@
+{
+  "pageProps": {
+    "contentId": "ofiii101",
+    "channel": {
+      "title": "韶華若錦",
+      "no": 101,
+      "charge_mode": "F",
+      "content_id": "ofiii101",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        4
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3778_ofiii101_tv_20250626.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "龍華",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6712",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1750908985.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 1,
+      "vod_channel_schedule": {
+        "channel_id": 101,
+        "cdn_code": "ofiii101",
+        "start_time": 1762173384000,
+        "programs": [
+          {
+            "content_id": "VOD00364710",
+            "time_codes": [
+              706000,
+              1413000,
+              2151000
+            ],
+            "timecode_duration": [],
+            "length": 2806000,
+            "asset_id": "vod78092-000001M001",
+            "title": "",
+            "subtitle": "第1集",
+            "ep_number": 1,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751296200000,
+            "vod_channel_description": "明檀不滿與梁家的婚事，藉機拆穿聘禮作假，巧拒婚書。為取梁子宣與表妹私通證據，她潛入寒煙寺，意外遇刺並獲定北王江緒相救。途中江緒為避敵追藏身馬車，兩人共歷生死。明檀返家後發現證據遺失，決定潛入國公府調查，竟再遇江緒，誤以為對方是盜匪。"
+          },
+          {
+            "content_id": "VOD00364711",
+            "time_codes": [
+              761000,
+              1583000,
+              2076000
+            ],
+            "timecode_duration": [],
+            "length": 2813000,
+            "asset_id": "vod78092-000002M001",
+            "title": "",
+            "subtitle": "第2集",
+            "ep_number": 2,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751299200000,
+            "vod_channel_description": "江緒宴上當眾揭露官員與山匪勾結，令國公等人惶恐。明檀疑婚事另有圖謀，意圖退婚卻落水，江緒救人後悄然掩蓋真相。梁家為穩婚事設局，江緒與明檀暗中聯手探查。梁子宣欲藉落水逼婚未果，梁府急送珠兒離京，明檀察覺內情，誓與江緒共查真相。"
+          },
+          {
+            "content_id": "VOD00364712",
+            "time_codes": [
+              758000,
+              1494000,
+              2374000
+            ],
+            "timecode_duration": [],
+            "length": 2810000,
+            "asset_id": "vod78092-000003M001",
+            "title": "",
+            "subtitle": "第3集",
+            "ep_number": 3,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751302200000,
+            "vod_channel_description": "宿文淳欲滅口珠兒，卻被江緒兩度救下。珠兒產下一子，決心隨明檀回京爭回一切。明楚對江緒一見鍾情，回府後屢次作妖。明檀家宴巧挫柳氏母女，展現手腕。江緒決意動梁啟，明檀也查得上元夜推她落水者為陳四。明亭遠得知梁子宣另有婚事，震怒之下決意退婚。"
+          },
+          {
+            "content_id": "VOD00364713",
+            "time_codes": [
+              769000,
+              1618000,
+              2133000
+            ],
+            "timecode_duration": [],
+            "length": 2817000,
+            "asset_id": "vod78092-000004M001",
+            "title": "",
+            "subtitle": "第4集",
+            "ep_number": 4,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751305200000,
+            "vod_channel_description": "明亭遠與白敬遠上門退婚，江緒暗中設局讓珠兒現身，逼梁家讓步。皇上欲為明檀賜婚，江緒竟自薦迎娶，令眾人震驚。為避婚局，明檀出走寒煙寺，卻巧遇江緒與皇上。表哥沈玉突現求親被拒，江緒大怒將他貶至馬廄。太后與宿文淳也密謀賜婚，白敏敏勸明檀擇婿，卻在酒樓撞見江緒與章懷玉同席。"
+          },
+          {
+            "content_id": "VOD00364714",
+            "time_codes": [
+              732000,
+              1441000,
+              2137000
+            ],
+            "timecode_duration": [],
+            "length": 2791000,
+            "asset_id": "vod78092-000005M001",
+            "title": "",
+            "subtitle": "第5集",
+            "ep_number": 5,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751308200000,
+            "vod_channel_description": "皇上為明檀賜婚，明亭遠無奈接受江緒為婿。賜婚當日，明檀驚見新郎竟是江緒，氣急暈倒。為退婚，明檀喬裝探營，卻被江緒一語道破，並稱兩人天作之合。明檀心煩意亂，懷疑江緒動機。江緒堅定表態要護她一生，明檀漸被打動，卻仍對這段婚事心存猶疑，獨自向母親靈位傾訴心聲。"
+          },
+          {
+            "content_id": "VOD00364715",
+            "time_codes": [
+              740000,
+              1449000,
+              2192000
+            ],
+            "timecode_duration": [],
+            "length": 2811000,
+            "asset_id": "vod78092-000006M001",
+            "title": "",
+            "subtitle": "第6集",
+            "ep_number": 6,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751311200000,
+            "vod_channel_description": "明楚不滿明檀婚事，與陸停相看時針鋒相對，鬧得不歡而散。明檀寺中偶遇定北王江緒，被明楚揭破身份後當眾失態。返京途中遭山匪，明楚暗害，江緒出手相救，明檀心生傾慕。事後明楚惡人先告狀，江緒挺身護明檀，揭柳氏設局真相，明亭遠震怒，決定另為明楚覓婚事。"
+          },
+          {
+            "content_id": "VOD00364716",
+            "time_codes": [
+              765000,
+              1402000,
+              2100000
+            ],
+            "timecode_duration": [],
+            "length": 2778000,
+            "asset_id": "vod78092-000007M001",
+            "title": "",
+            "subtitle": "第7集",
+            "ep_number": 7,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751314200000,
+            "vod_channel_description": "江緒替明楚選婿，柳氏也被送走。明檀驚訝背後安排，猜到是江緒所為。婚期將至，暗流湧動，江緒簽下婚約契書。明檀赴別玉樓學琴，巧遇江緒現身相護。夜裡試裝時卻突遭綁架，江緒懷疑海幽門所為，明檀醒來已在馬車之中。"
+          },
+          {
+            "content_id": "VOD00364717",
+            "time_codes": [
+              661000,
+              1382000,
+              2137000
+            ],
+            "timecode_duration": [],
+            "length": 2785000,
+            "asset_id": "vod78092-000008M001",
+            "title": "",
+            "subtitle": "第8集",
+            "ep_number": 8,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751317200000,
+            "vod_channel_description": "大婚當日明檀失蹤，明府緊急佯裝應對。江緒憑簪子尋回明檀，順利迎親。二人成婚，明檀被封為王妃。江緒作詩博她一笑，明檀暗自感動。江緒識出綁架者柳陌，暗藏危機。新婚夜，兩人羞澀對坐，春宮圖鬧出誤會，明檀懊惱，江緒則細心體貼。"
+          },
+          {
+            "content_id": "VOD00364718",
+            "time_codes": [
+              826000,
+              1459000,
+              2162000
+            ],
+            "timecode_duration": [],
+            "length": 2790000,
+            "asset_id": "vod78092-000009M001",
+            "title": "",
+            "subtitle": "第9集",
+            "ep_number": 9,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751320200000,
+            "vod_channel_description": "新婚翌日江緒忙於軍務，明檀獨守空房卻處處為夫著想，逐漸動情卻困於契約。她為替九柔求情欲見承恩侯，江緒雖口硬心軟仍親送她出門。夜裡明檀精心打扮卻被江緒冷落，更懷疑他有隱疾。次日入宮謝恩，明檀憑機為九柔母女辯白，卻察覺皇后似對她另有所圖。"
+          },
+          {
+            "content_id": "VOD00364719",
+            "time_codes": [
+              650000,
+              1382000,
+              2120000
+            ],
+            "timecode_duration": [],
+            "length": 2810000,
+            "asset_id": "vod78092-000010M001",
+            "title": "",
+            "subtitle": "第10集",
+            "ep_number": 10,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751323200000,
+            "vod_channel_description": "承恩侯獄中猝死，唯一在場的九柔遭疑，明檀請江緒照拂。九柔突失蹤，明檀與白敏敏出城尋人，發現其為救兄遭騙險遇害，幸江緒即時趕到。黑衣人現身，竟是曾劫持明檀之人。江緒對明檀日漸關懷，她也開始動搖。回門日江緒巧遇誤會他有隱疾的對話，尷尬萬分。"
+          },
+          {
+            "content_id": "VOD00364720",
+            "time_codes": [
+              713000,
+              1412000,
+              2118000
+            ],
+            "timecode_duration": [],
+            "length": 2820000,
+            "asset_id": "vod78092-000011M001",
+            "title": "",
+            "subtitle": "第11集",
+            "ep_number": 11,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751326200000,
+            "vod_channel_description": "章懷玉救下明檀等人受傷，白敏敏對他情愫初現。明檀誤會江緒拿九柔當餌，後知他是為助九柔母女脫罪，心生愧疚。江緒溫柔照顧受傷的明檀，關係漸近。九柔母女獲赦離京。朝中有人提議調任明亭遠，宿文淳借水患之機欲算計他。明檀發現難民眾多，江緒上奏朝廷，利州賑災任務落到明亭遠肩上。"
+          },
+          {
+            "content_id": "VOD00364721",
+            "time_codes": [
+              693000,
+              1437000,
+              2226000
+            ],
+            "timecode_duration": [],
+            "length": 2797000,
+            "asset_id": "vod78092-000012M001",
+            "title": "",
+            "subtitle": "第12集",
+            "ep_number": 12,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751329200000,
+            "vod_channel_description": "明檀吃魚過敏卻不忍拂江緒好意，江緒悉心照料後心生情愫。為賑濟難民，明檀與白敏敏合寫話本籌錢，邀舒景然助陣引來江緒吃醋。明檀送衣回禮，江緒畫眉表心意卻鬧出笑話。白敏敏與奉昭同去相看，明檀陪同並試圖撮合她與章懷玉，奉昭也對明檀動了心思。"
+          },
+          {
+            "content_id": "VOD00364722",
+            "time_codes": [
+              709000,
+              1523000,
+              2173000
+            ],
+            "timecode_duration": [],
+            "length": 2783000,
+            "asset_id": "vod78092-000013M001",
+            "title": "",
+            "subtitle": "第13集",
+            "ep_number": 13,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751332200000,
+            "vod_channel_description": "白敏敏與章懷玉鬥嘴試探情意，章懷玉脫口表白引白敏敏心動。明檀遭奉昭設局綁架，江緒及時救下並重傷高琛。白敏敏巧妙反將奉昭入局，江緒為救明檀受杖責六十。太后派雲姨娘入江府，明檀面對「情敵」雲旖暗生不安。江緒隱瞞傷情，明檀怒中帶憂，決意親自上藥探明心意。"
+          },
+          {
+            "content_id": "VOD00364723",
+            "time_codes": [
+              718000,
+              1642000,
+              2188000
+            ],
+            "timecode_duration": [],
+            "length": 2783000,
+            "asset_id": "vod78092-000014M001",
+            "title": "",
+            "subtitle": "第14集",
+            "ep_number": 14,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751335200000,
+            "vod_channel_description": "明檀誤會江緒與雲旖關係，鬧著要替他納側妃，江緒急解釋雲旖是暗衛保護她。兩人和好如初，感情升溫。明檀與柳陌重逢，察覺當日綁架氣味，江緒即時趕到護她離開。為彌補誤會，江緒體貼陪伴。明檀參與賑災卻險遭難民圍攻，京城局勢風波再起。"
+          },
+          {
+            "content_id": "VOD00364724",
+            "time_codes": [
+              644000,
+              1450000,
+              2209000
+            ],
+            "timecode_duration": [],
+            "length": 2793000,
+            "asset_id": "vod78092-000015M001",
+            "title": "",
+            "subtitle": "第15集",
+            "ep_number": 15,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751338200000,
+            "vod_channel_description": "難民鬧事，明亭遠被控賑災不力遭押解入京，途中險被滅口。明檀為保靖安侯府四處奔走，卻無力阻止查抄。江緒查出背後有人操控，懷疑另有陰謀。明亭遠被貶為庶人，明檀苦求宿文淳無果，宿卻反指江緒欲置明亭遠於死地。局勢撲朔迷離，危機步步緊逼。"
+          },
+          {
+            "content_id": "VOD00364725",
+            "time_codes": [
+              682000,
+              1446000,
+              2360000
+            ],
+            "timecode_duration": [],
+            "length": 2780000,
+            "asset_id": "vod78092-000016M001",
+            "title": "",
+            "subtitle": "第16集",
+            "ep_number": 16,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751341200000,
+            "vod_channel_description": "明檀失望於宿文淳無情絕決，明亭遠通敵罪成將斬，江緒四處奔走仍難翻案。聖上暗查宿家財政命章懷玉赴靈州，意欲削其根基。明檀痛苦欲見父最後一面，卻被拒。江緒籌謀見宿文淳，欲掀翻局勢。權謀漩渦中，親情、信任漸被撕裂。"
+          },
+          {
+            "content_id": "VOD00364726",
+            "time_codes": [
+              768000,
+              1345000,
+              2195000
+            ],
+            "timecode_duration": [],
+            "length": 2809000,
+            "asset_id": "vod78092-000017M001",
+            "title": "",
+            "subtitle": "第17集",
+            "ep_number": 17,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751344200000,
+            "vod_channel_description": "明亭遠與宿文淳最後對峙後中毒身亡，明檀悲痛欲絕，認定宿文淳下毒。她撕毀契約，斷絕與江緒往來，獨自守靈寒煙寺。江緒無言守護。明檀返靖安侯府，堅信亡父魂歸會來，白敏敏陪她守夜。雲旖道出真相，明亭遠未帶她出征是因不忍她年幼受苦，父女誤解終成永訣。"
+          },
+          {
+            "content_id": "VOD00364727",
+            "time_codes": [
+              647000,
+              1417000,
+              2153000
+            ],
+            "timecode_duration": [],
+            "length": 2779000,
+            "asset_id": "vod78092-000018M001",
+            "title": "",
+            "subtitle": "第18集",
+            "ep_number": 18,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751347200000,
+            "vod_channel_description": "明檀拒見江緒，沉浸喪父之痛。江緒為保她安全隱瞞真相，防範宿文淳。明檀懷疑某鋪販賣走私簪飾，查出供貨線索。章懷玉失聯，江緒決定赴靈州尋人，明檀堅持同行。江緒為她準備十輛馬車，卻被她一語削去鋪張。情未解，兩人卻踏上同路。"
+          },
+          {
+            "content_id": "VOD00364728",
+            "time_codes": [
+              762000,
+              1378000,
+              2188000
+            ],
+            "timecode_duration": [],
+            "length": 2793000,
+            "asset_id": "vod78092-000019M001",
+            "title": "",
+            "subtitle": "第19集",
+            "ep_number": 19,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751350200000,
+            "vod_channel_description": "明檀質問江緒獄中阻她見父，江緒帶她見仍在世的明亭遠，真相大白，誤會冰釋。二人情愫升溫，攜手前往靈州。章懷玉等人循線趕往靈州揭宿家罪證。雲旖與舒景然誤會鬧趣，感情漸暖。白敏敏被孩童帶往戲臺，神秘人現身，似有後續玄機。"
+          },
+          {
+            "content_id": "VOD00364729",
+            "time_codes": [
+              733000,
+              1536000,
+              2167000
+            ],
+            "timecode_duration": [],
+            "length": 2821000,
+            "asset_id": "vod78092-000020M001",
+            "title": "",
+            "subtitle": "第20集",
+            "ep_number": 20,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751353200000,
+            "vod_channel_description": "章懷玉遇害消息傳回，白敏敏悲痛不已。江緒護送明檀途中遇刺，雲旖被擄，舒景然重傷。眾人趕赴靈州查人，發現宿家橫行霸道。明檀喬裝潛入，江緒痛擊惡官立威。白敏敏決心守護章懷玉留下的聞濤閣。靈州局勢詭譎，江緒等人暗中佈局，準備迎戰宿家勢力。"
+          },
+          {
+            "content_id": "VOD00364730",
+            "time_codes": [
+              670000,
+              1382000,
+              2111000
+            ],
+            "timecode_duration": [],
+            "length": 2793000,
+            "asset_id": "vod78092-000021M001",
+            "title": "",
+            "subtitle": "第21集",
+            "ep_number": 21,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751356200000,
+            "vod_channel_description": "江緒揭破章懷玉假死真相，引起宿家震動；明檀潛查走私案，與神秘人聞宗結識。江緒在宴上識破喻伯忠身手不凡，後於東廟揭其為海幽門中人。舒景然救出重傷的雲旖，守護左右，卻想帶她離開津雲衛。江緒拒絕，明檀勸他先想清去路。明檀發現江緒一直佩戴她昔日遺落的烏恒玉，心中微動。"
+          },
+          {
+            "content_id": "VOD00364731",
+            "time_codes": [
+              764000,
+              1404000,
+              2192000
+            ],
+            "timecode_duration": [],
+            "length": 2800000,
+            "asset_id": "vod78092-000022M001",
+            "title": "",
+            "subtitle": "第22集",
+            "ep_number": 22,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751359200000,
+            "vod_channel_description": "明檀查出假料出自福祿金樓，疑聞宗涉走私。金樓巧遇明楚親姊橫行，江緒出手解圍並送簪子。宿爾榮誤認明檀為突破口設宴試探，安排聞宗見她。江緒吃醋借酒掩飾，明檀暗自腹誹。宴後江緒派人責斥明楚，將軍震怒，風波初起。"
+          },
+          {
+            "content_id": "VOD00364732",
+            "time_codes": [
+              660000,
+              1454000,
+              2203000
+            ],
+            "timecode_duration": [],
+            "length": 2822000,
+            "asset_id": "vod78092-000023M001",
+            "title": "",
+            "subtitle": "第23集",
+            "ep_number": 23,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751362200000,
+            "vod_channel_description": "明楚仗勢遭禁足，江緒暗示情深卻讓明檀誤會，宴上吃清羽夾菜更令她憤怒離席。江緒設局引出喻伯忠，與宿爾榮合力剿滅海幽門。聞宗對明檀另有圖謀，江緒嫉妒不已，尾隨兩人一整日。明檀查首飾來源，聞宗從旁協助。舒景然與雲旖感情升溫，宿爾榮見江緒動情，決定安排明檀入府再探虛實。"
+          },
+          {
+            "content_id": "VOD00364733",
+            "time_codes": [
+              749000,
+              1362000,
+              2167000
+            ],
+            "timecode_duration": [],
+            "length": 2813000,
+            "asset_id": "vod78092-000024M001",
+            "title": "",
+            "subtitle": "第24集",
+            "ep_number": 24,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751365200000,
+            "vod_channel_description": "聞宗設局查宿家，宿爾榮設計江緒與明檀共處一夜，兩人假戲真做，成功迷惑對手。舒景然與雲旖趁機轉移注意，暗中探查章懷玉下落。江緒截獲機密書信，得知宿家已懷疑明檀真實身分，決定冒險反制。唱賣會上，江緒反將宿家一軍，亮出彈劾奏章，要求交出證據，為明檀鋪路脫險。"
+          },
+          {
+            "content_id": "VOD00364734",
+            "time_codes": [
+              676000,
+              1451000,
+              2185000
+            ],
+            "timecode_duration": [],
+            "length": 2793000,
+            "asset_id": "vod78092-000025M001",
+            "title": "",
+            "subtitle": "第25集",
+            "ep_number": 25,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751368200000,
+            "vod_channel_description": "唱賣會暗藏走私，明檀揭穿聞宗計謀。江緒遭設局，被誣殺官失德。宿爾榮欲借此定罪，不料清羽翻供，秋月現身作證宿家陰謀。明檀身份曝光，直指宿家罪行。明楚涉案被馮小將軍責斥，心懷怨恨。譚大人封鎖現場，宿家陰謀逐步瓦解。"
+          },
+          {
+            "content_id": "VOD00364735",
+            "time_codes": [
+              683000,
+              1457000,
+              2206000
+            ],
+            "timecode_duration": [],
+            "length": 2822000,
+            "asset_id": "vod78092-000026M001",
+            "title": "",
+            "subtitle": "第26集",
+            "ep_number": 26,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751371200000,
+            "vod_channel_description": "秋月揭露名錄刺於背，宿家為奪名錄殺人滅口。江緒暗佈後手，殷大人與舒景然攜證據揭宿家貪腐。宿爾榮行刺清羽失敗落網，聞宗未涉案。明檀遭遇刺殺，江緒為她擋箭。聞宗實為南律之人，伺機取代宿家。明楚被幽禁，章懷玉、清羽皆離開靈州。江緒與明檀互訴心意，譚大人攜證進京，宿文淳危機逼近。"
+          },
+          {
+            "content_id": "VOD00364736",
+            "time_codes": [
+              822000,
+              1470000,
+              2139000
+            ],
+            "timecode_duration": [],
+            "length": 2817000,
+            "asset_id": "vod78092-000027M001",
+            "title": "",
+            "subtitle": "第27集",
+            "ep_number": 27,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751374200000,
+            "vod_channel_description": "宿家案發酵，宿文淳隱忍布局。章懷玉救下白敏敏後表明心意，欲提親迎娶。中秋夜，明檀為江緒準備驚喜，煙火與琴聲共賞。柳陌獄中認罪，聖上現身揭其父死因另有隱情，真兇直指宿文淳。柳陌悲憤交加，欲與宿文淳對質，卻只見昔日恩人思大哥來送死。舊恩與真相交錯，命運翻湧。"
+          },
+          {
+            "content_id": "VOD00364737",
+            "time_codes": [
+              687000,
+              1443000,
+              2135000
+            ],
+            "timecode_duration": [],
+            "length": 2791000,
+            "asset_id": "vod78092-000028M001",
+            "title": "",
+            "subtitle": "第28集",
+            "ep_number": 28,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751377200000,
+            "vod_channel_description": "柳陌願指證宿文淳，宿遭逮捕。江緒急返京應變，明亭遠護送明檀途中靈州失陷，聞宗現身軟禁明檀，欲逼她投降並隨返南律。章懷玉夜闖宮救亂局，皇后擬另立新君。明檀拒絕聞宗，堅守定北王妃之身。舒景然等設計脫困，明亭遠化身南律將軍潛入靈州城。"
+          },
+          {
+            "content_id": "VOD00364738",
+            "time_codes": [
+              727000,
+              1437000,
+              2258000
+            ],
+            "timecode_duration": [],
+            "length": 2821000,
+            "asset_id": "vod78092-000029M001",
+            "title": "",
+            "subtitle": "第29集",
+            "ep_number": 29,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751380200000,
+            "vod_channel_description": "明亭遠率軍收復靈州，聞宗自盡保明檀。明楚與明檀釋懷，願重新開始。郭炳茂謀害皇帝失敗，宿文淳、柳陌、思大哥三人同歿，朝局平定。太后自盡，江緒救駕有功。一月後，江緒於寒山寺驚聞明檀有孕，喜極而奔赴相見。夫妻重逢，情深意濃，江緒悉心照料，白敏敏見狀氣憤難平。"
+          },
+          {
+            "content_id": "VOD00364739",
+            "time_codes": [
+              688000,
+              1420000,
+              2125000
+            ],
+            "timecode_duration": [],
+            "length": 2809000,
+            "asset_id": "vod78092-000030M001",
+            "title": "",
+            "subtitle": "第30集",
+            "ep_number": 30,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751383200000,
+            "vod_channel_description": "明檀懷孕，江緒緊張備至；舒景然為追愛雲旖，請命赴靈州，雲旖終接受同行。明檀與雲旖依依不捨，江緒準備嫁妝。孩子取名江定，六年後兄妹情深、家庭溫馨，眾人歡喜圓滿。"
+          },
+          {
+            "content_id": "VOD00367297",
+            "time_codes": [
+              600000
+            ],
+            "timecode_duration": [],
+            "length": 928000,
+            "asset_id": "vod78092-000031M001",
+            "title": "",
+            "subtitle": "番外篇",
+            "ep_number": 31,
+            "rating": 1,
+            "content_type": "drama",
+            "p_start": 1751386200000,
+            "vod_channel_description": "成康十一年，定北王江緒為查軍餉貪墨案返京，迎娶將門之女明檀穩住朝局。隨調查深入，牽出貪腐勢力盤根錯節，關乎朝廷經濟命脈。江緒誓言連根拔起，卻致明家遭誣陷滅門。為昭雪冤屈，江緒與明檀攜手揭真相，歷經生死與陰謀，終將主謀繩之以法，守護百姓，也收穫摯愛情深。"
+          }
+        ],
+        "total_length": 84978000,
+        "focus_index": 22,
+        "next_index": 23,
+        "time": 2331011,
+        "focus_program": {
+          "content_id": "VOD00364732",
+          "time_codes": [
+            660000,
+            1454000,
+            2203000
+          ],
+          "timecode_duration": [],
+          "length": 2822000,
+          "asset_id": "vod78092-000023M001",
+          "title": "",
+          "subtitle": "第23集",
+          "ep_number": 23,
+          "rating": 1,
+          "content_type": "drama",
+          "p_start": 1751362200000,
+          "vod_channel_description": "明楚仗勢遭禁足，江緒暗示情深卻讓明檀誤會，宴上吃清羽夾菜更令她憤怒離席。江緒設局引出喻伯忠，與宿爾榮合力剿滅海幽門。聞宗對明檀另有圖謀，江緒嫉妒不已，尾隨兩人一整日。明檀查首飾來源，聞宗從旁協助。舒景然與雲旖感情升溫，宿爾榮見江緒動情，決定安排明檀入府再探虛實。"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "戲劇",
+          "EngName": "Drama",
+          "MenuOrder": 7
+        }
+      ]
+    },
+    "introduction": {
+      "image": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii101_mobile_20230329.png",
+      "description": "《琅琊榜》陸劇線上看。梅長蘇從12年前梅嶺慘烈戰場的噩夢中驚醒。琅琊閣閣主藺晨收到北燕六皇子冊封為太子的消息。與此同時，大梁七珠親王譽王也獲悉，此次六皇子冊封，是因為獲得了琅琊閣錦囊中「麒麟才子，得之可得天下」的秘密。",
+      "href_maps": []
+    },
+    "recommends": [],
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}

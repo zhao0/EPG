@@ -1,0 +1,239 @@
+{
+  "pageProps": {
+    "contentId": "ofiii200",
+    "channel": {
+      "title": "劣人傳之詭計",
+      "no": 200,
+      "charge_mode": "F",
+      "content_id": "ofiii200",
+      "content_type": "vod-channel",
+      "epg_categories": [
+        4
+      ],
+      "genres": [
+        {
+          "id": "",
+          "name": "VOD_CHANNEL",
+          "logo": ""
+        }
+      ],
+      "liad_id": "VODCHNEWOFIWEB",
+      "package_info_id": "VOD_CHANNEL_DELUX",
+      "picture": "pics/vod_channel/logo_3783_ofiii200_tv_20250626.png",
+      "provider": [
+        {
+          "id": "",
+          "name": "靖天",
+          "logo": ""
+        }
+      ],
+      "quality": "HD",
+      "station_id": "station6717",
+      "trial": "",
+      "selectable": 1,
+      "tr_logo": "pics/vod_channel/tr_logo_1750908962.png",
+      "tl_logo": "",
+      "br_logo": "",
+      "bl_logo": "",
+      "menu_type": 1,
+      "vod_channel_schedule": {
+        "channel_id": 200,
+        "cdn_code": "ofiii200",
+        "start_time": 1762173840000,
+        "programs": [
+          {
+            "content_id": "VOD00050183",
+            "time_codes": [
+              913000
+            ],
+            "timecode_duration": [],
+            "length": 1487000,
+            "asset_id": "vod11463-000001M001",
+            "title": "",
+            "subtitle": "第1集",
+            "ep_number": 1,
+            "rating": 2,
+            "content_type": "drama",
+            "p_start": 1751295900000,
+            "vod_channel_description": "世明一個人躺在病床上，感覺有人向他逼近，不安感遍佈身體每一寸肌膚，突然他的床單下出現一個人形，緩緩靠近世明，他驚恐地大叫，下床逃離。 他逃到停車場，驚恐發動車子駛離，在大雨的夜裡在路上慌張竄逃，卻突然看見小時候霸凌過的女同學汪小英鬼魂，竟趴在自己車前..."
+          },
+          {
+            "content_id": "VOD00050184",
+            "time_codes": [
+              659000
+            ],
+            "timecode_duration": [],
+            "length": 1219000,
+            "asset_id": "vod11463-000002M001",
+            "title": "",
+            "subtitle": "第2集",
+            "ep_number": 2,
+            "rating": 2,
+            "content_type": "drama",
+            "p_start": 1751297700000,
+            "vod_channel_description": "煒翔接到家豪電話，才發現大家都收到一樣的信。信裡記載著每個人不同死法及順序，五人見面後相互推敲線索，相信這一切都是世明在生前因精神錯亂所為。冰冰帶頭將信燒毀，卻發現五封信都有一股香味，與時光寶盒飄出的味道不謀而合…"
+          },
+          {
+            "content_id": "VOD00050185",
+            "time_codes": [
+              830000
+            ],
+            "timecode_duration": [],
+            "length": 1346000,
+            "asset_id": "vod11463-000003M001",
+            "title": "",
+            "subtitle": "第3集",
+            "ep_number": 3,
+            "rating": 2,
+            "content_type": "drama",
+            "p_start": 1751299200000,
+            "vod_channel_description": "在KTV的聚會中，家豪其實對若涵不懷好意，聚會結束後跟煒翔搶著送若涵回家，但若涵卻選擇讓煒翔送回。家豪因被若涵拒絕感到憤怒，這時角落卻傳來一陣陣的哭泣聲，家豪害怕的大喊，卻被模糊的形體吞沒。 若涵擔心失聯的家豪，找去家豪住處一探究竟，推開門卻看到怵目驚心的一幕…"
+          },
+          {
+            "content_id": "VOD00050186",
+            "time_codes": [
+              564000
+            ],
+            "timecode_duration": [],
+            "length": 986000,
+            "asset_id": "vod11463-000004M001",
+            "title": "",
+            "subtitle": "第4集",
+            "ep_number": 4,
+            "rating": 2,
+            "content_type": "drama",
+            "p_start": 1751300700000,
+            "vod_channel_description": "煒翔看著畢業紀念冊，想起小時候大家霸凌汪小英的過往…那時家豪、世明竟慫恿煒翔拿打火機用火嚇小英。若涵回憶起小時候他們圍著小英打罵她、嘲笑她，為求自保小英拿起掃把隨意亂揮，沒想到卻劃破若涵額頭，世明跟家豪把弱智男拉進廁所與小英關在一起後，不久便傳來小英淒厲的哭叫聲…"
+          },
+          {
+            "content_id": "VOD00050187",
+            "time_codes": [
+              540000
+            ],
+            "timecode_duration": [],
+            "length": 1014000,
+            "asset_id": "vod11463-000005M001",
+            "title": "",
+            "subtitle": "第5集",
+            "ep_number": 5,
+            "rating": 2,
+            "content_type": "drama",
+            "p_start": 1751301900000,
+            "vod_channel_description": "從世明出車禍、慘死的家豪到臉色蒼白已經失去意識的若涵，看到現在是不是開始覺得事情不單純了呢？而留下來照顧若涵的冰冰兩個人獨自在家又會遇到什麼詭異的事呢?"
+          },
+          {
+            "content_id": "VOD00050188",
+            "time_codes": [
+              869000
+            ],
+            "timecode_duration": [],
+            "length": 1188000,
+            "asset_id": "vod11463-000006M001",
+            "title": "",
+            "subtitle": "第6集",
+            "ep_number": 6,
+            "rating": 2,
+            "content_type": "drama",
+            "p_start": 1751303100000,
+            "vod_channel_description": "冰冰睡醒後，發現狀況不佳的若涵消失了，而自己手上卻沾滿了鮮血。透過監視器冰冰發現自己昨晚夢遊拿著刀要殺若涵！老師直指汪小英的冤魂冤氣很重，所以就算做鬼也不會放過曾經傷害她的人，要煒翔、冰冰、慧芬重新好好安葬她；循線來到了海邊找尋若涵，卻看到她竟從懸崖一墜而下！"
+          },
+          {
+            "content_id": "VOD00050189",
+            "time_codes": [
+              744000
+            ],
+            "timecode_duration": [],
+            "length": 1236000,
+            "asset_id": "vod11463-000007M001",
+            "title": "",
+            "subtitle": "第7集",
+            "ep_number": 7,
+            "rating": 2,
+            "content_type": "drama",
+            "p_start": 1751304600000,
+            "vod_channel_description": "煒翔、慧芬、冰冰入住恐怖旅舍...在恐怖信中曾被預言會在水裡淹死的慧芬，對於水變得異常敏感、歇斯底里！而冰冰對煒翔主動示好，煒翔會接受她嗎？他們三個人真的能安然度過這個夜晚嗎？又有甚麼可怕的事情即將發生？"
+          },
+          {
+            "content_id": "VOD00050190",
+            "time_codes": [
+              643000
+            ],
+            "timecode_duration": [],
+            "length": 1045000,
+            "asset_id": "vod11463-000008M001",
+            "title": "",
+            "subtitle": "第8集",
+            "ep_number": 8,
+            "rating": 2,
+            "content_type": "drama",
+            "p_start": 1751306100000,
+            "vod_channel_description": "到底出車禍的世明、慘死的家豪、跳崖的若涵、溺水的慧芬跟吊死的冰冰到底是誰殺的？難道真的是汪小英的鬼魂來報仇嗎？想要找出真相的煒翔，躲過在家樓下埋伏的警方，出門前去找汪母的好友阿珠釐清事實。阿珠回憶過往，道出汪母早在多年前過世，但令人震驚的是…"
+          },
+          {
+            "content_id": "VOD00050191",
+            "time_codes": [
+              593000
+            ],
+            "timecode_duration": [],
+            "length": 1232000,
+            "asset_id": "vod11463-000009M001",
+            "title": "",
+            "subtitle": "第9集",
+            "ep_number": 9,
+            "rating": 2,
+            "content_type": "drama",
+            "p_start": 1751307300000,
+            "vod_channel_description": "煒翔來到汪小英曾住過的療養院房間，氣氛冰冷詭異還種滿一盆盆似曾相似的花朵，桌上擺放著調製藥品的容器、各種液體，越往裡走，不安的感覺就越是強烈。他在小英房裡的桌上發現一張照片，照片裡有個女生打扮樸素，但那張臉竟然就是這段日子在他們身邊最熟悉的人..."
+          },
+          {
+            "content_id": "VOD00050192",
+            "time_codes": [
+              540000
+            ],
+            "timecode_duration": [],
+            "length": 1442000,
+            "asset_id": "vod11463-000010M001",
+            "title": "",
+            "subtitle": "第10集",
+            "ep_number": 10,
+            "rating": 2,
+            "content_type": "drama",
+            "p_start": 1751308800000,
+            "vod_channel_description": "陽光一如往常刺眼，一切充滿生機，當年在大樹下埋下時光寶盒，畫面仍歷歷在目，大家開開心心聚在一起說著將來夢想...汪小英的夢想是甚麼呢？多年過去...現在的她終於擁有了嗎？"
+          }
+        ],
+        "total_length": 12195000,
+        "focus_index": 2,
+        "next_index": 3,
+        "time": 3859,
+        "focus_program": {
+          "content_id": "VOD00050185",
+          "time_codes": [
+            830000
+          ],
+          "timecode_duration": [],
+          "length": 1346000,
+          "asset_id": "vod11463-000003M001",
+          "title": "",
+          "subtitle": "第3集",
+          "ep_number": 3,
+          "rating": 2,
+          "content_type": "drama",
+          "p_start": 1751299200000,
+          "vod_channel_description": "在KTV的聚會中，家豪其實對若涵不懷好意，聚會結束後跟煒翔搶著送若涵回家，但若涵卻選擇讓煒翔送回。家豪因被若涵拒絕感到憤怒，這時角落卻傳來一陣陣的哭泣聲，家豪害怕的大喊，卻被模糊的形體吞沒。 若涵擔心失聯的家豪，找去家豪住處一探究竟，推開門卻看到怵目驚心的一幕…"
+        }
+      },
+      "station_categories": [
+        {
+          "Name": "戲劇",
+          "EngName": "Drama",
+          "MenuOrder": 7
+        }
+      ]
+    },
+    "introduction": null,
+    "recommends": null,
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "__N_SSP": true
+}
