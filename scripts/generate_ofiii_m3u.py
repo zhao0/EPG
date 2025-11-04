@@ -21,29 +21,29 @@ def get_channel_data(channel_id):
         return None
 
 def save_channel_json(channel_id, channel_data, json_dir):
-    """將頻道JSON資料保存為檔案"""
+    """將頻道JSON資料儲存為檔案"""
     try:
         json_file = json_dir / f"{channel_id}.json"
         with open(json_file, 'w', encoding='utf-8') as f:
             json.dump(channel_data, f, ensure_ascii=False, indent=2)
         return True
     except Exception as e:
-        print(f"❌ 保存頻道 {channel_id} JSON檔案失敗: {e}")
+        print(f"❌ 儲存頻道 {channel_id} JSON檔案失敗: {e}")
         return False
 
 def create_channel_zip(json_dir, output_dir):
     """將所有頻道JSON檔案壓縮成ZIP"""
     try:
-        zip_path = output_dir / "off_channel.zip"
+        zip_path = output_dir / "ofiii_channel.zip"
         
         with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zipf:
             for json_file in json_dir.glob("*.json"):
                 zipf.write(json_file, json_file.name)
         
-        print(f"✅ 成功創建壓縮檔: {zip_path}")
+        print(f"✅ 成功建立壓縮檔: {zip_path}")
         return True
     except Exception as e:
-        print(f"❌ 創建壓縮檔失敗: {e}")
+        print(f"❌ 建立壓縮檔失敗: {e}")
         return False
 
 def get_display_name(title, subtitle):
@@ -218,7 +218,6 @@ def main():
         "ofiii237","ofiii238","ofiii239","ofiii240","ofiii241","ofiii242","ofiii243",
         "ofiii244","ofiii245","ofiii246","ofiii247","ofiii248","ofiii250","ofiii251",
         "ofiii252","ofiii254","ofiii255",
-        # 新增頻道
         "nnews-zh",
         "4gtv-4gtv009",
         "4gtv-4gtv066",
@@ -252,7 +251,7 @@ def main():
         "daystar"
     ]
     
-    # M3U文件頭
+    # M3U檔案頭
     m3u_content = ['#EXTM3U x-tvg-url=""']
     channel_data = {}
     
@@ -275,10 +274,10 @@ def main():
         channel_json = get_channel_data(channel_id)
         
         if channel_json:
-            # 保存頻道JSON資料
+            # 儲存頻道JSON資料
             if save_channel_json(channel_id, channel_json, json_dir):
                 saved_json_files += 1
-                print(f"💾 已保存 {channel_id}.json")
+                print(f"💾 已儲存 {channel_id}.json")
             
             # 獲取頻道基本資訊
             channel_info = get_channel_info(channel_json, channel_id)
@@ -320,22 +319,22 @@ def main():
     print("\n🔄 生成ofiii_playout-channel.json...")
     playout_channel_data = generate_playout_channel_json(channel_ids)
     
-    # 寫入M3U文件
+    # 寫入M3U檔案
     with open(m3u_file, 'w', encoding='utf-8') as f:
         f.write('\n'.join(m3u_content))
     
-    # 寫入channel.json文件
+    # 寫入channel.json檔案
     with open(channel_json_file, 'w', encoding='utf-8') as f:
         json.dump(unique_channel_data, f, ensure_ascii=False, indent=2)
     
-    # 寫入ofiii_playout-channel.json文件
+    # 寫入ofiii_playout-channel.json檔案
     with open(playout_channel_json_file, 'w', encoding='utf-8') as f:
         json.dump(playout_channel_data, f, ensure_ascii=False, indent=2)
     
-    # 創建頻道JSON壓縮檔
-    print(f"\n🗜️ 創建頻道JSON壓縮檔...")
+    # 建立頻道JSON壓縮檔
+    print(f"\n🗜️ 建立頻道JSON壓縮檔...")
     if create_channel_zip(json_dir, output_dir):
-        print(f"✅ 成功創建 off_channel.zip，包含 {saved_json_files} 個頻道JSON檔案")
+        print(f"✅ 成功建立 ofiii_channel.zip，包含 {saved_json_files} 個頻道JSON檔案")
     
     print(f"\n🎉 檔案生成完成！")
     print(f"📊 統計資訊:")
@@ -345,12 +344,12 @@ def main():
     print(f"   📺 總節目數: {total_programs} 個節目")
     print(f"   🔄 唯一頻道數: {len(unique_channel_data)} 個頻道")
     print(f"   🔄 跳過重複asset_id: {total_duplicate_assets} 個")
-    print(f"   💾 保存JSON檔案: {saved_json_files} 個")
+    print(f"   💾 儲存JSON檔案: {saved_json_files} 個")
     print(f"   📁 輸出檔案:")
     print(f"      - {m3u_file}")
     print(f"      - {channel_json_file}")
     print(f"      - {playout_channel_json_file}")
-    print(f"      - {output_dir / 'off_channel.zip'}")
+    print(f"      - {output_dir / 'ofiii_channel.zip'}")
 
 if __name__ == "__main__":
     main()
