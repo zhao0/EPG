@@ -2,6 +2,7 @@ import requests
 import json
 import time
 import os
+import random
 from pathlib import Path
 import zipfile
 
@@ -45,6 +46,26 @@ def create_channel_zip(json_dir, output_dir):
     except Exception as e:
         print(f"❌ 建立壓縮檔失敗: {e}")
         return False
+
+def cleanup_json_files(json_dir):
+    """清理JSON暫存檔案"""
+    try:
+        deleted_count = 0
+        for json_file in json_dir.glob("*.json"):
+            json_file.unlink()
+            deleted_count += 1
+        
+        # 嘗試刪除目錄（如果為空）
+        try:
+            json_dir.rmdir()
+        except OSError:
+            pass  # 目錄不為空，不刪除
+            
+        print(f"🧹 已清理 {deleted_count} 個暫存JSON檔案")
+        return deleted_count
+    except Exception as e:
+        print(f"❌ 清理JSON檔案失敗: {e}")
+        return 0
 
 def get_display_name(title, subtitle):
     """根據標題和副標題生成顯示名稱"""
@@ -105,7 +126,7 @@ def generate_m3u_content(channel_data, channel_id, asset_seen):
             # 生成顯示名稱
             display_name = get_display_name(title, subtitle)
             
-            # 生成M3U條目
+            # 生成M3U條目 - 使用實際獲取的content_id
             extinf_line = f'#EXTINF:-1 tvg-id="{name}" tvg-name="{name}" tvg-logo="https://p-cdnstatic.svc.litv.tv/{picture}" group-title="{name}",{display_name}'
             url_line = f'http://localhost:5050/play/{content_id}/index.m3u8?episode_id={asset_id}'
             
@@ -129,11 +150,13 @@ def get_channel_info(channel_data, channel_id):
         
         name = channel_info.get('title', 'Unknown')
         picture = channel_info.get('picture', '')
+        content_id = channel_info.get('content_id', channel_id)
         
         return {
             'name': name,
             'picture': f'https://p-cdnstatic.svc.litv.tv/{picture}',
-            'group_title': name
+            'group_title': name,
+            'content_id': content_id
         }
     except Exception as e:
         print(f"❌ 獲取頻道 {channel_id} 資訊時發生錯誤: {e}")
@@ -185,6 +208,16 @@ def generate_playout_channel_json(channel_ids):
     
     return playout_data
 
+def generate_ofiii_channel_ids(start=13, end=255):
+    """動態生成ofiii頻道ID列表"""
+    return [f"ofiii{i}" for i in range(start, end + 1)]
+
+def human_delay():
+    """模擬人類行為的隨機延遲（3-15秒）"""
+    delay_time = random.uniform(3, 15)
+    print(f"⏳ 隨機延遲 {delay_time:.1f} 秒...")
+    time.sleep(delay_time)
+
 def main():
     # 確保輸出目錄存在
     output_dir = ensure_output_dir()
@@ -193,31 +226,11 @@ def main():
     channel_json_file = output_dir / 'ofiii_channel.json'
     playout_channel_json_file = output_dir / 'ofiii_playout-channel.json'
     
-    # 頻道ID列表（包含新增頻道）
-    channel_ids = [
-        "ofiii13","ofiii16","ofiii22","ofiii23","ofiii24","ofiii31","ofiii32",
-        "ofiii36","ofiii38","ofiii39","ofiii1048","ofiii50","ofiii55","ofiii64","ofiii70",
-        "ofiii73","ofiii74","ofiii75","ofiii76","ofiii81","ofiii82","ofiii83","ofiii85",
-        "ofiii88","ofiii89","ofiii91","ofiii92","ofiii94","ofiii95","ofiii96","ofiii97",
-        "ofiii99","ofiii100","ofiii101","ofiii102","ofiii103","ofiii104","ofiii105",
-        "ofiii106","ofiii107","ofiii108","ofiii109","ofiii110","ofiii111","ofiii112",
-        "ofiii113","ofiii114","ofiii115","ofiii116","ofiii117","ofiii118","ofiii119",
-        "ofiii120","ofiii121","ofiii122","ofiii123","ofiii124","ofiii125","ofiii126",
-        "ofiii127","ofiii128","ofiii129","ofiii131","ofiii132","ofiii133","ofiii134",
-        "ofiii135","ofiii136","ofiii137","ofiii139","ofiii140","ofiii141","ofiii142",
-        "ofiii143","ofiii144","ofiii145","ofiii146","ofiii147","ofiii148","ofiii150",
-        "ofiii151","ofiii152","ofiii153","ofiii154","ofiii155","ofiii156","ofiii157",
-        "ofiii158","ofiii159","ofiii160","ofiii161","ofiii162","ofiii163","ofiii164",
-        "ofiii165","ofiii166","ofiii167","ofiii168","ofiii169","ofiii170","ofiii171",
-        "ofiii172","ofiii173","ofiii174","ofiii175","ofiii177","ofiii178","ofiii179",
-        "ofiii180","ofiii182","ofiii183","ofiii184","ofiii185","ofiii186","ofiii187",
-        "ofiii192","ofiii195","ofiii196","ofiii198","ofiii200","ofiii201","ofiii202",
-        "ofiii203","ofiii204","ofiii205","ofiii206","ofiii207","ofiii208","ofiii209",
-        "ofiii210","ofiii211","ofiii212","ofiii215","ofiii216","ofiii217","ofiii218",
-        "ofiii225","ofiii226","ofiii227","ofiii228","ofiii234","ofiii235","ofiii236",
-        "ofiii237","ofiii238","ofiii239","ofiii240","ofiii241","ofiii242","ofiii243",
-        "ofiii244","ofiii245","ofiii246","ofiii247","ofiii248","ofiii250","ofiii251",
-        "ofiii252","ofiii254","ofiii255",
+    # 動態生成ofiii頻道ID列表（13-255）
+    ofiii_channels = generate_ofiii_channel_ids(13, 255)
+    
+    # 頻道ID列表（包含動態生成的ofiii頻道和其他頻道）
+    channel_ids = ofiii_channels + [
         # 新增頻道
         "nnews-zh",
         "4gtv-4gtv009",
@@ -260,6 +273,7 @@ def main():
     asset_seen = set()
     
     print("🚀 開始獲取頻道資料...")
+    print(f"📊 總共 {len(channel_ids)} 個頻道需要處理")
     successful_channels = 0
     failed_channels = 0
     skipped_channels = 0
@@ -270,6 +284,10 @@ def main():
     # 遍歷所有頻道ID
     for i, channel_id in enumerate(channel_ids, 1):
         print(f"\n📋 處理頻道 {i}/{len(channel_ids)}: {channel_id}")
+        
+        # 隨機延遲模擬人類行為
+        if i > 1:  # 第一個請求不需要延遲
+            human_delay()
         
         # 獲取頻道資料
         channel_json = get_channel_data(channel_id)
@@ -306,11 +324,10 @@ def main():
                     print(f"✅ 成功添加頻道 {channel_id} ({added_programs} 個節目)")
             else:
                 skipped_channels += 1
+                print(f"⚠️ 跳過頻道 {channel_id} (無有效節目)")
         else:
             failed_channels += 1
-        
-        # 添加延遲避免請求過快
-        time.sleep(0.5)
+            print(f"❌ 無法獲取頻道 {channel_id} 資料")
     
     # 去除重複的頻道資料
     print("\n🔄 檢查並移除重複頻道...")
@@ -337,6 +354,10 @@ def main():
     if create_channel_zip(json_dir, output_dir):
         print(f"✅ 成功建立 ofiii_channel.zip，包含 {saved_json_files} 個頻道JSON檔案")
     
+    # 清理暫存JSON檔案
+    print(f"\n🧹 清理暫存檔案...")
+    cleaned_files = cleanup_json_files(json_dir)
+    
     print(f"\n🎉 檔案生成完成！")
     print(f"📊 統計資訊:")
     print(f"   ✅ 成功處理: {successful_channels} 個頻道")
@@ -346,6 +367,7 @@ def main():
     print(f"   🔄 唯一頻道數: {len(unique_channel_data)} 個頻道")
     print(f"   🔄 跳過重複asset_id: {total_duplicate_assets} 個")
     print(f"   💾 儲存JSON檔案: {saved_json_files} 個")
+    print(f"   🧹 清理暫存檔案: {cleaned_files} 個")
     print(f"   📁 輸出檔案:")
     print(f"      - {m3u_file}")
     print(f"      - {channel_json_file}")
