@@ -2,8 +2,8 @@ name: Generate ofiii-M3U Playlist and Channel Data
 
 on:
   schedule:
-    # 每4小時運行一次（UTC時間）
-    - cron: '0 */4 * * *'
+    # 每12小時運行一次（UTC時間）
+    - cron: '0 */12 * * *'
   workflow_dispatch: # 允許手動觸發
 
 jobs:
