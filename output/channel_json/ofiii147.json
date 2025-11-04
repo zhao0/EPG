@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 147,
         "cdn_code": "ofiii147",
-        "start_time": 1762150566000,
+        "start_time": 1762211845000,
         "programs": [
           {
             "content_id": "VOD00345640",
@@ -348,26 +348,26 @@
           }
         ],
         "total_length": 61279000,
-        "focus_index": 14,
-        "next_index": 15,
-        "time": 1593213,
+        "focus_index": 6,
+        "next_index": 7,
+        "time": 69739,
         "focus_program": {
-          "content_id": "VOD00345654",
+          "content_id": "VOD00345646",
           "time_codes": [
-            717000,
-            1467000,
-            2169000,
-            2862000
+            730000,
+            1381000,
+            2164000,
+            2936000
           ],
           "timecode_duration": [],
-          "length": 3647000,
-          "asset_id": "vod73902-000015M001",
+          "length": 3729000,
+          "asset_id": "vod73902-000007M001",
           "title": "",
-          "subtitle": "第15集",
-          "ep_number": 15,
+          "subtitle": "第7集",
+          "ep_number": 7,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740514200000,
+          "p_start": 1740482400000,
           "vod_channel_description": "大正律師事務所人氣離婚律師車恩京與新人律師韓宥利，兩人初見面就互不對盤，更經常因為對案件的看法不同產生激烈衝突，直到韓宥利意外撞見車恩京的秘密，她才發現原來兩人有許多共通點，從此兩人漸漸了解彼此..."
         }
       },
@@ -385,7 +385,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "CriteoBot/0.1 (+https://www.criteo.com/criteo-crawler/)"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

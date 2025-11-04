@@ -49,82 +49,7 @@
       "Schedule": [
         {
           "StationId": 1173,
-          "ProgramId": "00000001000079",
-          "AirDateTime": "2025-11-04T10:00:00Z",
-          "Duration": 21600,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00000001000079",
-            "Title": "當日立法院會議轉播",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1173,
           "ProgramId": "00000001000080",
-          "AirDateTime": "2025-11-04T16:00:00Z",
-          "Duration": 18000,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00000001000080",
-            "Title": "前日立法院會議轉播",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1173,
-          "ProgramId": "00000001000080",
-          "AirDateTime": "2025-11-04T21:00:00Z",
-          "Duration": 13620,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00000001000080",
-            "Title": "前日立法院會議轉播",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1173,
-          "ProgramId": "00000001000082",
           "AirDateTime": "2025-11-05T00:47:00Z",
           "Duration": 780,
           "PartNumber": 0,
@@ -142,14 +67,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000082",
+            "ProgramId": "00000001000080",
             "Title": "週三會議預報",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000078",
+          "ProgramId": "00000001000077",
           "AirDateTime": "2025-11-05T01:00:00Z",
           "Duration": 32400,
           "PartNumber": 0,
@@ -167,14 +92,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000078",
+            "ProgramId": "00000001000077",
             "Title": "立法院會議直播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000079",
+          "ProgramId": "00000001000078",
           "AirDateTime": "2025-11-05T10:00:00Z",
           "Duration": 21600,
           "PartNumber": 0,
@@ -192,14 +117,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000079",
+            "ProgramId": "00000001000078",
             "Title": "當日立法院會議轉播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000080",
+          "ProgramId": "00000001000079",
           "AirDateTime": "2025-11-05T16:00:00Z",
           "Duration": 18000,
           "PartNumber": 0,
@@ -217,14 +142,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000080",
+            "ProgramId": "00000001000079",
             "Title": "前日立法院會議轉播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000080",
+          "ProgramId": "00000001000079",
           "AirDateTime": "2025-11-05T21:00:00Z",
           "Duration": 13620,
           "PartNumber": 0,
@@ -242,14 +167,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000080",
+            "ProgramId": "00000001000079",
             "Title": "前日立法院會議轉播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000083",
+          "ProgramId": "00000001000081",
           "AirDateTime": "2025-11-06T00:47:00Z",
           "Duration": 780,
           "PartNumber": 0,
@@ -267,14 +192,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000083",
+            "ProgramId": "00000001000081",
             "Title": "週四會議預報",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000078",
+          "ProgramId": "00000001000077",
           "AirDateTime": "2025-11-06T01:00:00Z",
           "Duration": 32400,
           "PartNumber": 0,
@@ -292,14 +217,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000078",
+            "ProgramId": "00000001000077",
             "Title": "立法院會議直播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000079",
+          "ProgramId": "00000001000078",
           "AirDateTime": "2025-11-06T10:00:00Z",
           "Duration": 21600,
           "PartNumber": 0,
@@ -317,14 +242,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000079",
+            "ProgramId": "00000001000078",
             "Title": "當日立法院會議轉播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000080",
+          "ProgramId": "00000001000079",
           "AirDateTime": "2025-11-06T16:00:00Z",
           "Duration": 18000,
           "PartNumber": 0,
@@ -342,14 +267,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000080",
+            "ProgramId": "00000001000079",
             "Title": "前日立法院會議轉播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000080",
+          "ProgramId": "00000001000079",
           "AirDateTime": "2025-11-06T21:00:00Z",
           "Duration": 13620,
           "PartNumber": 0,
@@ -367,14 +292,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000080",
+            "ProgramId": "00000001000079",
             "Title": "前日立法院會議轉播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000084",
+          "ProgramId": "00000001000082",
           "AirDateTime": "2025-11-07T00:47:00Z",
           "Duration": 780,
           "PartNumber": 0,
@@ -392,14 +317,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000084",
+            "ProgramId": "00000001000082",
             "Title": "週五會議預報",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000078",
+          "ProgramId": "00000001000077",
           "AirDateTime": "2025-11-07T01:00:00Z",
           "Duration": 32400,
           "PartNumber": 0,
@@ -417,14 +342,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000078",
+            "ProgramId": "00000001000077",
             "Title": "立法院會議直播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000079",
+          "ProgramId": "00000001000078",
           "AirDateTime": "2025-11-07T10:00:00Z",
           "Duration": 21600,
           "PartNumber": 0,
@@ -442,14 +367,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000079",
+            "ProgramId": "00000001000078",
             "Title": "當日立法院會議轉播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000080",
+          "ProgramId": "00000001000079",
           "AirDateTime": "2025-11-07T16:00:00Z",
           "Duration": 18000,
           "PartNumber": 0,
@@ -467,14 +392,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000080",
+            "ProgramId": "00000001000079",
             "Title": "前日立法院會議轉播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000085",
+          "ProgramId": "00000001000083",
           "AirDateTime": "2025-11-07T21:00:00Z",
           "Duration": 14400,
           "PartNumber": 0,
@@ -492,14 +417,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000085",
+            "ProgramId": "00000001000083",
             "Title": "本週立法院會議轉播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000085",
+          "ProgramId": "00000001000083",
           "AirDateTime": "2025-11-08T01:00:00Z",
           "Duration": 14400,
           "PartNumber": 0,
@@ -517,14 +442,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000085",
+            "ProgramId": "00000001000083",
             "Title": "本週立法院會議轉播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000085",
+          "ProgramId": "00000001000083",
           "AirDateTime": "2025-11-08T05:00:00Z",
           "Duration": 14400,
           "PartNumber": 0,
@@ -542,14 +467,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000085",
+            "ProgramId": "00000001000083",
             "Title": "本週立法院會議轉播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000085",
+          "ProgramId": "00000001000083",
           "AirDateTime": "2025-11-08T09:00:00Z",
           "Duration": 14400,
           "PartNumber": 0,
@@ -567,14 +492,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000085",
+            "ProgramId": "00000001000083",
             "Title": "本週立法院會議轉播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000085",
+          "ProgramId": "00000001000083",
           "AirDateTime": "2025-11-08T13:00:00Z",
           "Duration": 14400,
           "PartNumber": 0,
@@ -592,14 +517,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000085",
+            "ProgramId": "00000001000083",
             "Title": "本週立法院會議轉播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000085",
+          "ProgramId": "00000001000083",
           "AirDateTime": "2025-11-08T17:00:00Z",
           "Duration": 14400,
           "PartNumber": 0,
@@ -617,14 +542,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000085",
+            "ProgramId": "00000001000083",
             "Title": "本週立法院會議轉播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000085",
+          "ProgramId": "00000001000083",
           "AirDateTime": "2025-11-08T21:00:00Z",
           "Duration": 14400,
           "PartNumber": 0,
@@ -642,14 +567,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000085",
+            "ProgramId": "00000001000083",
             "Title": "本週立法院會議轉播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000085",
+          "ProgramId": "00000001000083",
           "AirDateTime": "2025-11-09T01:00:00Z",
           "Duration": 14400,
           "PartNumber": 0,
@@ -667,14 +592,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000085",
+            "ProgramId": "00000001000083",
             "Title": "本週立法院會議轉播",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1173,
-          "ProgramId": "00000001000085",
+          "ProgramId": "00000001000083",
           "AirDateTime": "2025-11-09T05:00:00Z",
           "Duration": 14400,
           "PartNumber": 0,
@@ -692,8 +617,158 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000085",
+            "ProgramId": "00000001000083",
             "Title": "本週立法院會議轉播",
+            "ShowType": "1"
+          }
+        },
+        {
+          "StationId": 1173,
+          "ProgramId": "00000001000083",
+          "AirDateTime": "2025-11-09T09:00:00Z",
+          "Duration": 14400,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00000001000083",
+            "Title": "本週立法院會議轉播",
+            "ShowType": "1"
+          }
+        },
+        {
+          "StationId": 1173,
+          "ProgramId": "00000001000083",
+          "AirDateTime": "2025-11-09T13:00:00Z",
+          "Duration": 14400,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00000001000083",
+            "Title": "本週立法院會議轉播",
+            "ShowType": "1"
+          }
+        },
+        {
+          "StationId": 1173,
+          "ProgramId": "00000001000083",
+          "AirDateTime": "2025-11-09T17:00:00Z",
+          "Duration": 14400,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00000001000083",
+            "Title": "本週立法院會議轉播",
+            "ShowType": "1"
+          }
+        },
+        {
+          "StationId": 1173,
+          "ProgramId": "00000001000079",
+          "AirDateTime": "2025-11-09T21:00:00Z",
+          "Duration": 13620,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00000001000079",
+            "Title": "前日立法院會議轉播",
+            "ShowType": "1"
+          }
+        },
+        {
+          "StationId": 1173,
+          "ProgramId": "00000001000084",
+          "AirDateTime": "2025-11-10T00:47:00Z",
+          "Duration": 780,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00000001000084",
+            "Title": "週一會議預報",
+            "ShowType": "1"
+          }
+        },
+        {
+          "StationId": 1173,
+          "ProgramId": "00000001000077",
+          "AirDateTime": "2025-11-10T01:00:00Z",
+          "Duration": 32400,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00000001000077",
+            "Title": "立法院會議直播",
             "ShowType": "1"
           }
         }
@@ -713,7 +788,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

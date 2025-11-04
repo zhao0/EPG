@@ -1294,28 +1294,27 @@
           }
         ],
         "total_length": 243718000,
-        "focus_index": 58,
-        "next_index": 59,
-        "time": 3212369,
+        "focus_index": 3,
+        "next_index": 4,
+        "time": 1641315,
         "focus_program": {
-          "content_id": "VOD00376876",
+          "content_id": "VOD00336698",
           "time_codes": [
-            930000,
-            1601000,
-            2174000,
-            2674000,
-            3099000
+            1086000,
+            1989000,
+            2793000,
+            3542000
           ],
           "timecode_duration": [],
-          "length": 3758000,
-          "asset_id": "vod72135-000112M001",
+          "length": 4117000,
+          "asset_id": "vod72135-000057M001",
           "title": "",
-          "subtitle": "第112集 黃國昌養狗仔疑雲 影響藍白合？黃暐瀚：牌在柯文哲手上！柳采葳挺郝龍斌穩了?剝雞：鄭麗文支持度高到讓人害怕！綠白合作？林亮君：黃國昌跟綠樑子大了！",
-          "ep_number": 112,
+          "subtitle": "第57集 柯文哲列被告！檢搜索住處應曉薇 收押！葉元之：京華城案將收網！民眾黨怎麼辦？黃暐瀚獻一策！前幕僚柯昱安：清廉形象蕩然無存！",
+          "ep_number": 57,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762275000000,
-          "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
+          "p_start": 1762050600000,
+          "vod_channel_description": "鎖定。   「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
         }
       },
       "station_categories": [
@@ -1337,7 +1336,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "CriteoBot/0.1 (+https://www.criteo.com/criteo-crawler/)"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"
   },
   "__N_SSP": true
 }

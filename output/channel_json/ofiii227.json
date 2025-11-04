@@ -1770,26 +1770,26 @@
           }
         ],
         "total_length": 273257000,
-        "focus_index": 51,
-        "next_index": 52,
-        "time": 947363,
+        "focus_index": 61,
+        "next_index": 62,
+        "time": 1294326,
         "focus_program": {
-          "content_id": "VOD00345866",
+          "content_id": "VOD00354152",
           "time_codes": [
-            693000,
-            1591000,
-            2366000
+            760000,
+            1713000,
+            2510000
           ],
           "timecode_duration": [],
-          "length": 2849000,
-          "asset_id": "vod64339-000212M001",
+          "length": 2832000,
+          "asset_id": "vod64339-000223M001",
           "title": "",
-          "subtitle": "第212集 台中山線一哥！豐原有錢人都吃什麼？",
-          "ep_number": 212,
+          "subtitle": "第223集 搞定麻煩女友趴兔！來花蓮大丈夫囉！",
+          "ep_number": 223,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762274700000,
-          "vod_channel_description": "今天帶著大家一起來到豐原，首先來朝聖近4年建造完成的「夢幻民宿」，再開吃主打「日式料理」的食堂、全台唯一絕美「雪冰」、在地經營50年「菱角酥」、大顆肥美「蚵仔煎」，還有超浮誇滿料「海鮮粥」、隱藏版千則好評「牛肉麵店」、在地人超愛的「招牌肉粥」，通通都不能錯過呀～"
+          "p_start": 1762304700000,
+          "vod_channel_description": "今天主持人以及嘉賓麻由帶著大家一起到花蓮，吃別的地方都沒有的特色美食！包含在Dcard票選第一的「拉麵」、超好拍的「網美咖啡廳」、花蓮人冬天補身必吃「烏骨雞老店」、花蓮廚神開的4.9星好評「川菜手路菜」，還有比手掌大的「巨無霸土虱頭」、超澎派的「泰式海鮮」都要吃吃看！"
         }
       },
       "station_categories": [
@@ -1806,7 +1806,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

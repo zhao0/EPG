@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 255,
         "cdn_code": "ofiii255",
-        "start_time": 1762181700000,
+        "start_time": 1762269600000,
         "programs": [
           {
             "content_id": "VOD00369785",
@@ -59,14 +59,14 @@
             "ep_number": 1,
             "rating": 1,
             "content_type": "others",
-            "p_start": 1762181700000,
+            "p_start": 1762269600000,
             "vod_channel_description": "大自然的聲音－潺潺流水聲無間斷，療癒系助眠紓壓「白噪音」\r\n溪水潺潺，彷彿置身山林間，靜聽流水淨化心靈，洗滌一整天的疲憊\r\n#流水聲 #自然白噪音 #放空冥想 #深度睡眠音樂 #助眠音樂 #讀書專注必備"
           }
         ],
         "total_length": 3965000,
         "focus_index": 0,
         "next_index": 0,
-        "time": 3008624,
+        "time": 3232637,
         "focus_program": {
           "content_id": "VOD00369785",
           "time_codes": [
@@ -85,7 +85,7 @@
           "ep_number": 1,
           "rating": 1,
           "content_type": "others",
-          "p_start": 1762181700000,
+          "p_start": 1762269600000,
           "vod_channel_description": "大自然的聲音－潺潺流水聲無間斷，療癒系助眠紓壓「白噪音」\r\n溪水潺潺，彷彿置身山林間，靜聽流水淨化心靈，洗滌一整天的疲憊\r\n#流水聲 #自然白噪音 #放空冥想 #深度睡眠音樂 #助眠音樂 #讀書專注必備"
         }
       },
@@ -99,7 +99,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

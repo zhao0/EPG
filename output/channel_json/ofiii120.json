@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 120,
         "cdn_code": "ofiii120",
-        "start_time": 1762184991000,
+        "start_time": 1762270268000,
         "programs": [
           {
             "content_id": "VOD00361550",
@@ -617,26 +617,26 @@
           }
         ],
         "total_length": 85277000,
-        "focus_index": 30,
-        "next_index": 31,
-        "time": 1538720,
+        "focus_index": 9,
+        "next_index": 10,
+        "time": 1875205,
         "focus_program": {
-          "content_id": "VOD00361580",
+          "content_id": "VOD00361559",
           "time_codes": [
-            689000,
-            1382000,
-            2109000
+            720000,
+            1431000,
+            2175000
           ],
           "timecode_duration": [],
-          "length": 2624000,
-          "asset_id": "vod77314-000031M001",
+          "length": 2580000,
+          "asset_id": "vod77314-000010M001",
           "title": "",
-          "subtitle": "第31集",
-          "ep_number": 31,
+          "subtitle": "第10集",
+          "ep_number": 10,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1746665400000,
-          "vod_channel_description": "王家兩姐妹自小性格迥異，姐姐王焱優秀自強，卻因先天性的貧血症背負著沉重包袱；妹妹王靈均為救姐姐而生，任性頑劣，在姐姐的陰影中長大。天生就水火不容的二人在成年後也走上了不同的人生軌跡。不甘心在老家蹉跎青春的王靈均不顧反對獨自來到深圳，打破了同在深圳的王焱看似平靜的生活..."
+          "p_start": 1746605700000,
+          "vod_channel_description": "王焱父母終於同意王靈均留在深圳。曹坤坤與男友魏大勝爭吵，因對方忽視家庭、承諾不兌現而失望。高謙與黎菲成功扭轉菱悅案件危機，王焱準備與葉蓁接洽。高謙提醒她，方勵正安插新人到公司，試圖動搖他的位置。王靈均正式擔任護工，開始思考前途。廖繁木請王焱幫忙安排賈長安侄女工作，王焱爽快答應。"
         }
       },
       "station_categories": [
@@ -653,7 +653,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

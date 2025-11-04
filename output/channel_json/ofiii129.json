@@ -1867,26 +1867,26 @@
           }
         ],
         "total_length": 259136000,
-        "focus_index": 50,
-        "next_index": 51,
-        "time": 94991,
+        "focus_index": 60,
+        "next_index": 61,
+        "time": 1792668,
         "focus_program": {
-          "content_id": "VOD00358357",
+          "content_id": "VOD00375509",
           "time_codes": [
-            514000,
-            1181000,
-            1698000,
-            2199000
+            629000,
+            1263000,
+            1718000,
+            2207000
           ],
           "timecode_duration": [],
-          "length": 2699000,
-          "asset_id": "vod9985-003212M001",
+          "length": 2700000,
+          "asset_id": "vod9985-003301M001",
           "title": "",
-          "subtitle": "第3212集 各國誰是生活智慧王?! 改變生活品質小物大比拚",
-          "ep_number": 3212,
+          "subtitle": "第3301集 出國旅遊別再吃老梗料理!! 這些才是真正的隱藏版美味?!",
+          "ep_number": 3301,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762282800000,
+          "p_start": 1762312800000,
           "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
         }
       },
@@ -1904,7 +1904,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

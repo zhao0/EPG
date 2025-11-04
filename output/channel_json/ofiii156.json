@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 156,
         "cdn_code": "ofiii156",
-        "start_time": 1762108936000,
+        "start_time": 1762196472000,
         "programs": [
           {
             "content_id": "VOD00296214",
@@ -583,25 +583,25 @@
           }
         ],
         "total_length": 87536000,
-        "focus_index": 24,
-        "next_index": 25,
-        "time": 1619448,
+        "focus_index": 4,
+        "next_index": 5,
+        "time": 1013070,
         "focus_program": {
-          "content_id": "VOD00296238",
+          "content_id": "VOD00296218",
           "time_codes": [
-            697000,
-            1418000,
-            2164000
+            688000,
+            1550000,
+            2158000
           ],
           "timecode_duration": [],
-          "length": 3020000,
-          "asset_id": "vod64653-000025M001",
+          "length": 2890000,
+          "asset_id": "vod64653-000005M001",
           "title": "",
-          "subtitle": "第25集",
-          "ep_number": 25,
+          "subtitle": "第5集",
+          "ep_number": 5,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740210300000,
+          "p_start": 1740149400000,
           "vod_channel_description": "1970年代，走過戰火與重建的基隆港，此時正走向前所未有的蓬勃與發展；港裡停泊著許多各式各樣的商船與軍艦，不分晝夜都有大船在進出，船笛聲此起彼落，呈現出一片繁華景象，而支撐這一切的，正是一群生活在社會基層的勞動者——苦力。"
         }
       },
@@ -619,7 +619,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

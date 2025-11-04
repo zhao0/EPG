@@ -2411,24 +2411,24 @@
           }
         ],
         "total_length": 209360000,
-        "focus_index": 130,
-        "next_index": 131,
-        "time": 422590,
+        "focus_index": 4,
+        "next_index": 5,
+        "time": 656734,
         "focus_program": {
-          "content_id": "VOD00021438",
+          "content_id": "VOD00021252",
           "time_codes": [
-            676000
+            705000
           ],
           "timecode_duration": [],
-          "length": 1414000,
-          "asset_id": "vod8652-000131M001",
+          "length": 1415000,
+          "asset_id": "vod8652-000005M001",
           "title": "",
-          "subtitle": "第131集 怒火×與×亮光",
-          "ep_number": 131,
+          "subtitle": "第5集 西索x悄悄接近",
+          "ep_number": 5,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762275900000,
-          "vod_channel_description": "「快讓凱特恢復原狀啊，求求妳了！」小傑邊流淚，邊向彼多懇求，而彼多的腳邊，是一動也不動的凱特。彼多修復了自己的左手後，對小傑說：「我很遺憾，但是我必須殺了你才行，為了陛下。」小傑訝異地看著彼多，他讓氣纏繞自己身軀，口中喃喃說著：「騙子…」室內的燭光熄滅，開始刮起陣陣強風…。"
+          "p_start": 1762086900000,
+          "vod_channel_description": "在通過漫長的地下隧道後，出現在考生面前的是濃霧瀰漫的濕地地帶。由於視線不佳，考生們一直遭到各式各樣的怪物襲擊。小傑與奇犽跑在前頭，但在後方的酷拉皮卡跟雷歐力眼前，卻看到西索被其他考生團團包圍。"
         }
       },
       "station_categories": [
@@ -2445,7 +2445,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

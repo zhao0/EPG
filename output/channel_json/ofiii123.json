@@ -817,25 +817,25 @@
           }
         ],
         "total_length": 113643000,
-        "focus_index": 35,
-        "next_index": 36,
-        "time": 2257718,
+        "focus_index": 5,
+        "next_index": 6,
+        "time": 773343,
         "focus_program": {
-          "content_id": "VOD00190378",
+          "content_id": "VOD00190348",
           "time_codes": [
-            704000,
-            1483000,
-            2210000
+            749000,
+            1467000,
+            2179000
           ],
           "timecode_duration": [],
-          "length": 2706000,
-          "asset_id": "vod43738-000036M001",
+          "length": 2705000,
+          "asset_id": "vod43738-000006M001",
           "title": "",
-          "subtitle": "第36集",
-          "ep_number": 36,
+          "subtitle": "第6集",
+          "ep_number": 6,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1748975700000,
+          "p_start": 1748887200000,
           "vod_channel_description": "顧佳她是令人艷羨的金字塔上層，把老公從煙花設計師打造成「許總」，也把自己打造成裡外一把手的全職太太。然而這個家有了入侵者。王漫妮則是特立獨行的叛逆者，深信自己既有顏值又有腦子，永遠值得更好的。鍾曉芹是個平凡妻子，但流產跟生活隔闔漸漸壓垮婚姻..."
         }
       },
@@ -853,7 +853,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

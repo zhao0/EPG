@@ -1867,27 +1867,27 @@
           }
         ],
         "total_length": 259082000,
-        "focus_index": 77,
-        "next_index": 78,
-        "time": 940960,
+        "focus_index": 88,
+        "next_index": 89,
+        "time": 1924481,
         "focus_program": {
-          "content_id": "VOD00316151",
+          "content_id": "VOD00325065",
           "time_codes": [
-            1224000,
-            2079000,
-            2437000,
-            2657000
+            1202000,
+            1986000,
+            2307000,
+            2466000
           ],
           "timecode_duration": [],
-          "length": 2696000,
-          "asset_id": "vod10857-001136M001",
+          "length": 2700000,
+          "asset_id": "vod10857-001147M001",
           "title": "",
-          "subtitle": "第1136集 【帛琉】Alii Palau哈囉帛琉",
-          "ep_number": 1136,
+          "subtitle": "第1147集 【千島之國 菲常探險】",
+          "ep_number": 1147,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762288500000,
-          "vod_channel_description": "《世界第一等》久違的帛琉之旅！這次由新搭檔楊一展和鄒承恩，兩位從戲劇中結識的好兄弟，一同踏上有「上帝的水族箱」之稱的島國帛琉；來一場深入、刺激又難忘的旅程。"
+          "p_start": 1762321500000,
+          "vod_channel_description": "菲比尋常浪遊記，正式邁入在呂宋島的第4天，今天的行程據了解，跟在地華人有很大的關係。而且聽導遊陳哥說，其實早在16世紀就有福建和廣東人來此從事跨海貿易，他自己也是第三代的華人，所以幾乎整個菲律賓都有他們的身影。走進全世界最古老的唐人街，馬尼拉唐人街探索在地生活文化。"
         }
       },
       "station_categories": [
@@ -1904,7 +1904,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

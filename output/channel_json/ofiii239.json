@@ -1866,27 +1866,27 @@
           }
         ],
         "total_length": 259240000,
-        "focus_index": 33,
-        "next_index": 34,
-        "time": 1152944,
+        "focus_index": 43,
+        "next_index": 44,
+        "time": 2620083,
         "focus_program": {
-          "content_id": "VOD00311091",
+          "content_id": "VOD00319957",
           "time_codes": [
-            990000,
-            1815000,
-            2229000,
-            2633000
+            1515000,
+            2153000,
+            2573000,
+            2636000
           ],
           "timecode_duration": [],
-          "length": 2700000,
-          "asset_id": "vod10119-000521M001",
+          "length": 2701000,
+          "asset_id": "vod10119-000531M001",
           "title": "",
-          "subtitle": "第521集 嘉義【蟹界袋鼠媽媽「台灣南海溪蟹」顧小蟹獨特奇景！】",
-          "ep_number": 521,
+          "subtitle": "第531集 台中【全台唯一必比登全牛餐！最狂「黃牛王」吃水果 大火炙燒自帶奶香】",
+          "ep_number": 531,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762275000000,
-          "vod_channel_description": "雙手伸出，指骨嶙峋，這是嘉義牛斗山種植蓮藕農，他們長年練就的「老鷹之手」。為什麼種蓮藕就會出現老鷹之手呢？只要跟著他們，當一日藕農就可以知道。除了牛斗山的老鷹之手，在嘉義觸口竟然也有人發揮巧思，製作出「鷹語翻譯機」。試試看，跟雄壯的大冠鷲來場「鷹語」會話吧。"
+          "p_start": 1762305000000,
+          "vod_channel_description": "對於愛吃牛肉料理的老饕來說，美國當然首選安格斯牛，日本一定要吃和牛，但是，台灣呢？難道台灣就沒有好的牛種了嗎？不不不！其實，老饕級的牛肉控都知道，台灣要吃本土牛肉，黃牛絕對是不二選擇，一口咬下，奶香四溢，完全不輸外國牛肉！"
         }
       },
       "station_categories": [
@@ -1903,7 +1903,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

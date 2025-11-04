@@ -51,110 +51,6 @@
       "Schedule": [
         {
           "StationId": 1188,
-          "ProgramId": "00000001000111",
-          "AirDateTime": "2025-11-04T14:20:00Z",
-          "Duration": 6000,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00000001000111",
-            "Title": "雷鳥神機隊之太空歷險記",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1188,
-          "ProgramId": "00175479000000",
-          "AirDateTime": "2025-11-04T16:00:00Z",
-          "Duration": 7200,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00175479000000",
-            "Title": "私人戰爭",
-            "SubTitle": "A Private War",
-            "Description": "為了報導斯里蘭卡內戰，記者瑪麗科爾文（羅莎蒙派克）被戰火波及而失去左眼。然而她不因此示弱，反而自豪地戴上黑色眼罩，與戰地攝影師保羅康羅伊（傑米道南）繼續在戰場上穿梭。這樣的生活方式，讓瑪麗深受「創傷後壓力症候群」折磨，即使如此，那股報導真相的強烈慾望，還是一次次地把她拉回戰場中…",
-            "ShowType": "98"
-          }
-        },
-        {
-          "StationId": 1188,
-          "ProgramId": "00030437000000",
-          "AirDateTime": "2025-11-04T18:00:00Z",
-          "Duration": 14400,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00030437000000",
-            "Title": "收播",
-            "SubTitle": "aka:系統測試",
-            "Description": "目前無播出節目。",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1188,
-          "ProgramId": "00000001000112",
-          "AirDateTime": "2025-11-04T22:00:00Z",
-          "Duration": 7200,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00000001000112",
-            "Title": "天地民心(19-20)",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1188,
           "ProgramId": "00022817000000",
           "AirDateTime": "2025-11-05T00:00:00Z",
           "Duration": 9600,
@@ -208,7 +104,7 @@
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000113",
+          "ProgramId": "00000001000107",
           "AirDateTime": "2025-11-05T04:20:00Z",
           "Duration": 10200,
           "PartNumber": 0,
@@ -226,14 +122,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000113",
+            "ProgramId": "00000001000107",
             "Title": "藍徽特攻隊",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000114",
+          "ProgramId": "00000001000108",
           "AirDateTime": "2025-11-05T07:10:00Z",
           "Duration": 6600,
           "PartNumber": 0,
@@ -251,7 +147,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000114",
+            "ProgramId": "00000001000108",
             "Title": "摩斯拉",
             "ShowType": "1"
           }
@@ -285,7 +181,7 @@
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000112",
+          "ProgramId": "00000001000106",
           "AirDateTime": "2025-11-05T11:00:00Z",
           "Duration": 7200,
           "PartNumber": 0,
@@ -303,14 +199,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000112",
+            "ProgramId": "00000001000106",
             "Title": "天地民心(19-20)",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000115",
+          "ProgramId": "00000001000109",
           "AirDateTime": "2025-11-05T13:00:00Z",
           "Duration": 12000,
           "PartNumber": 0,
@@ -328,14 +224,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000115",
+            "ProgramId": "00000001000109",
             "Title": "聖保羅炮艇",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000116",
+          "ProgramId": "00000001000110",
           "AirDateTime": "2025-11-05T16:20:00Z",
           "Duration": 6000,
           "PartNumber": 0,
@@ -353,7 +249,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000116",
+            "ProgramId": "00000001000110",
             "Title": "國家寶庫：帝國崛起",
             "ShowType": "1"
           }
@@ -387,7 +283,7 @@
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000117",
+          "ProgramId": "00000001000111",
           "AirDateTime": "2025-11-05T22:00:00Z",
           "Duration": 7200,
           "PartNumber": 0,
@@ -405,7 +301,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000117",
+            "ProgramId": "00000001000111",
             "Title": "天地民心(21-22)",
             "ShowType": "1"
           }
@@ -439,7 +335,7 @@
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000118",
+          "ProgramId": "00000001000112",
           "AirDateTime": "2025-11-06T02:15:00Z",
           "Duration": 7800,
           "PartNumber": 0,
@@ -457,7 +353,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000118",
+            "ProgramId": "00000001000112",
             "Title": "登陸安齊奧",
             "ShowType": "1"
           }
@@ -544,7 +440,7 @@
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000117",
+          "ProgramId": "00000001000111",
           "AirDateTime": "2025-11-06T11:00:00Z",
           "Duration": 7200,
           "PartNumber": 0,
@@ -562,7 +458,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000117",
+            "ProgramId": "00000001000111",
             "Title": "天地民心(21-22)",
             "ShowType": "1"
           }
@@ -596,7 +492,7 @@
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000119",
+          "ProgramId": "00000001000113",
           "AirDateTime": "2025-11-06T14:50:00Z",
           "Duration": 5100,
           "PartNumber": 0,
@@ -614,14 +510,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000119",
+            "ProgramId": "00000001000113",
             "Title": "外太空九號計畫",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000120",
+          "ProgramId": "00000001000114",
           "AirDateTime": "2025-11-06T16:15:00Z",
           "Duration": 6300,
           "PartNumber": 0,
@@ -639,7 +535,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000120",
+            "ProgramId": "00000001000114",
             "Title": "國家寶庫：黃金權杖",
             "ShowType": "1"
           }
@@ -673,7 +569,7 @@
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000121",
+          "ProgramId": "00000001000115",
           "AirDateTime": "2025-11-06T22:00:00Z",
           "Duration": 7200,
           "PartNumber": 0,
@@ -691,14 +587,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000121",
+            "ProgramId": "00000001000115",
             "Title": "天地民心(23-24)",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000122",
+          "ProgramId": "00000001000116",
           "AirDateTime": "2025-11-07T00:00:00Z",
           "Duration": 7200,
           "PartNumber": 0,
@@ -716,7 +612,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000122",
+            "ProgramId": "00000001000116",
             "Title": "朋友再見",
             "ShowType": "1"
           }
@@ -750,7 +646,7 @@
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000123",
+          "ProgramId": "00000001000117",
           "AirDateTime": "2025-11-07T04:15:00Z",
           "Duration": 10500,
           "PartNumber": 0,
@@ -768,14 +664,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000123",
+            "ProgramId": "00000001000117",
             "Title": "血染雪山堡",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000124",
+          "ProgramId": "00000001000118",
           "AirDateTime": "2025-11-07T07:10:00Z",
           "Duration": 7800,
           "PartNumber": 0,
@@ -793,7 +689,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000124",
+            "ProgramId": "00000001000118",
             "Title": "爆破死亡谷",
             "ShowType": "1"
           }
@@ -827,7 +723,7 @@
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000121",
+          "ProgramId": "00000001000115",
           "AirDateTime": "2025-11-07T11:00:00Z",
           "Duration": 7200,
           "PartNumber": 0,
@@ -845,14 +741,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000121",
+            "ProgramId": "00000001000115",
             "Title": "天地民心(23-24)",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000113",
+          "ProgramId": "00000001000107",
           "AirDateTime": "2025-11-07T13:00:00Z",
           "Duration": 10200,
           "PartNumber": 0,
@@ -870,7 +766,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000113",
+            "ProgramId": "00000001000107",
             "Title": "藍徽特攻隊",
             "ShowType": "1"
           }
@@ -1144,7 +1040,7 @@
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000125",
+          "ProgramId": "00000001000119",
           "AirDateTime": "2025-11-08T14:25:00Z",
           "Duration": 6300,
           "PartNumber": 0,
@@ -1162,7 +1058,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000125",
+            "ProgramId": "00000001000119",
             "Title": "太空英雌",
             "ShowType": "1"
           }
@@ -1223,7 +1119,7 @@
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000126",
+          "ProgramId": "00000001000120",
           "AirDateTime": "2025-11-08T22:00:00Z",
           "Duration": 9000,
           "PartNumber": 0,
@@ -1241,7 +1137,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000126",
+            "ProgramId": "00000001000120",
             "Title": "西蒙娜：世紀之聲",
             "ShowType": "1"
           }
@@ -1274,7 +1170,7 @@
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000127",
+          "ProgramId": "00000001000121",
           "AirDateTime": "2025-11-09T02:20:00Z",
           "Duration": 12000,
           "PartNumber": 0,
@@ -1292,14 +1188,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000127",
+            "ProgramId": "00000001000121",
             "Title": "黃昏三鏢客",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000128",
+          "ProgramId": "00000001000122",
           "AirDateTime": "2025-11-09T05:40:00Z",
           "Duration": 4500,
           "PartNumber": 0,
@@ -1317,14 +1213,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000128",
+            "ProgramId": "00000001000122",
             "Title": "末日錶盤",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1188,
-          "ProgramId": "00000001000129",
+          "ProgramId": "00000001000123",
           "AirDateTime": "2025-11-09T06:55:00Z",
           "Duration": 6000,
           "PartNumber": 0,
@@ -1342,8 +1238,295 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000129",
+            "ProgramId": "00000001000123",
             "Title": "地球攻擊命令：哥吉拉對蓋剛",
+            "ShowType": "1"
+          }
+        },
+        {
+          "StationId": 1188,
+          "ProgramId": "00000001000124",
+          "AirDateTime": "2025-11-09T08:35:00Z",
+          "Duration": 8700,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00000001000124",
+            "Title": "鐵拉瑪九壯士",
+            "ShowType": "1"
+          }
+        },
+        {
+          "StationId": 1188,
+          "ProgramId": "00000001000125",
+          "AirDateTime": "2025-11-09T11:00:00Z",
+          "Duration": 7200,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00000001000125",
+            "Title": "盲女驚魂記",
+            "ShowType": "1"
+          }
+        },
+        {
+          "StationId": 1188,
+          "ProgramId": "00061127000000",
+          "AirDateTime": "2025-11-09T13:00:00Z",
+          "Duration": 7500,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00061127000000",
+            "Title": "警網鐵金剛",
+            "SubTitle": "Bullitt",
+            "Description": "改編自羅伯派克的犯罪小說。多虧導演彼得葉慈出色的執導及史提夫麥昆（「惡魔島」）的完美詮釋，才能將這本精彩的小說經由大銀幕呈現在觀眾眼前。",
+            "ShowType": "98"
+          }
+        },
+        {
+          "StationId": 1188,
+          "ProgramId": "00195422000000",
+          "AirDateTime": "2025-11-09T15:05:00Z",
+          "Duration": 4500,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00195422000000",
+            "Title": "哮天神犬勇闖龍宮",
+            "SubTitle": "Xiao Tian Dog Fight in The Dragon Palace",
+            "Description": "哮天犬（龐景峰）因救龍王三太子有功，得到龍王贈予龍珠。化為人形的哮天犬生性善良，誤中貓妖的詭計被其逃出天牢。玉帝震怒，問責二郎神（錢小豪）的同時將哮天犬貶入人間，令其彌補過失。哮天犬下凡後勇闖銷魂閣捉拿貓妖，卻血戰不敵節節敗退，關鍵時刻二郎神忽然現身…",
+            "ShowType": "98"
+          }
+        },
+        {
+          "StationId": 1188,
+          "ProgramId": "00000001000126",
+          "AirDateTime": "2025-11-09T16:20:00Z",
+          "Duration": 6000,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00000001000126",
+            "Title": "大洪荒",
+            "ShowType": "1"
+          }
+        },
+        {
+          "StationId": 1188,
+          "ProgramId": "00030437000000",
+          "AirDateTime": "2025-11-09T18:00:00Z",
+          "Duration": 14400,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00030437000000",
+            "Title": "收播",
+            "SubTitle": "aka:系統測試",
+            "Description": "目前無播出節目。",
+            "ShowType": "1"
+          }
+        },
+        {
+          "StationId": 1188,
+          "ProgramId": "00000001000127",
+          "AirDateTime": "2025-11-09T22:00:00Z",
+          "Duration": 7200,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00000001000127",
+            "Title": "天地民心(25-26)",
+            "ShowType": "1"
+          }
+        },
+        {
+          "StationId": 1188,
+          "ProgramId": "00118197000000",
+          "AirDateTime": "2025-11-10T00:00:00Z",
+          "Duration": 7800,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00118197000000",
+            "Title": "馴悍記",
+            "SubTitle": "The Taming of the Shrew",
+            "Description": "改編自莎翁筆下的同名喜劇。十六世紀的維洛納窮紳士彼特魯喬（李察波頓），看上了富商千金凱特琳娜（伊麗莎白泰勒）豐厚的嫁妝，因此不管她個性兇悍暴躁的名聲，對她展開熱烈追求。卻在婚後，開始設法馴服這位惡名昭彰的悍婦…",
+            "ShowType": "98"
+          }
+        },
+        {
+          "StationId": 1188,
+          "ProgramId": "00174341000000",
+          "AirDateTime": "2025-11-10T02:10:00Z",
+          "Duration": 8100,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00174341000000",
+            "Title": "極地先鋒",
+            "SubTitle": "Amundsen",
+            "Description": "舉世聞名的極地探險家阿蒙森，致力於探索人類未知的世界。即使忍受飢餓、渾身凍瘡，他還是憑藉堅強的意志力，成為史上首位征服南極的人。璀璨的成就讓他留名千古，甚至連月球的山脈都以他來命名。不過作為一個男人，阿蒙森的故事卻不止於此，透過他的弟弟與妻子的不同視角，阿蒙森的爭議人生逐一揭曉…",
+            "ShowType": "98"
+          }
+        },
+        {
+          "StationId": 1188,
+          "ProgramId": "00034460000000",
+          "AirDateTime": "2025-11-10T04:25:00Z",
+          "Duration": 11100,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00034460000000",
+            "Title": "狂沙十萬里",
+            "SubTitle": "Once Upon A Time In The West",
+            "Description": "義大利西部片宗師里昂尼的經典之作，被譽為影史上最偉大的西部片。一名神祕客（查理士布朗遜）光臨猶他州一處小鎮，被捲入一名寡婦與鐵路大亨的土地搶奪戰…一向形象正義的亨利方達，在片中顛覆形象，飾演反派的冷面殺手。",
+            "ShowType": "98"
+          }
+        },
+        {
+          "StationId": 1188,
+          "ProgramId": "00000001000128",
+          "AirDateTime": "2025-11-10T07:30:00Z",
+          "Duration": 6900,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00000001000128",
+            "Title": "蝙蝠俠1966",
             "ShowType": "1"
           }
         }
@@ -1368,7 +1551,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

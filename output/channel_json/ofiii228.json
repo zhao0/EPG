@@ -1774,26 +1774,26 @@
           }
         ],
         "total_length": 273146000,
-        "focus_index": 76,
-        "next_index": 77,
-        "time": 1805126,
+        "focus_index": 86,
+        "next_index": 87,
+        "time": 1961090,
         "focus_program": {
-          "content_id": "VOD00374085",
+          "content_id": "VOD00374095",
           "time_codes": [
-            972000,
-            1534000,
-            2700000
+            948000,
+            1569000,
+            2630000
           ],
           "timecode_duration": [],
           "length": 2850000,
-          "asset_id": "vod64341-000250M001",
+          "asset_id": "vod64341-000260M001",
           "title": "",
-          "subtitle": "第250集 桃園新竹異國神廚PK大戰",
-          "ep_number": 250,
+          "subtitle": "第260集 台灣最強美食重鎮PK！台南 vs 高雄！誰才是你心中的NO.1？",
+          "ep_number": 260,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762278900000,
-          "vod_channel_description": "想吃最道地的異國料理哪裡找？這次熱血團隊特搜桃園、新竹6間由異國老闆經營的店家！除了有泰國50年老字號「泰式腿庫飯」，還有隱藏台式簡餐店內、五六日限定的「阿拉伯烤雞」，更有全台最巨「馬鈴薯排骨湯」、神級「越南法國麵包」、沒有預訂吃不到的「德國豬腳」、一天限量2份的「巨無霸戰斧牛排」！"
+          "p_start": 1762308900000,
+          "vod_channel_description": "「熱血團隊」歷經5年的熱血征戰，這次要來場史上最強PK——台南VS高雄，2大美食重鎮一決高下！上半場由台南率先出擊，開吃美容院改建的復古餐廳、藏著爆量餡料的「炸牡蠣三明治」；以及炒飯比賽亞軍得主、視覺超浮誇「小卷炒飯」；還有桌邊點火秀直接升級，讓你目睹「真正會燃燒」的東坡肉火焰秀！"
         }
       },
       "station_categories": [
@@ -1810,7 +1810,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

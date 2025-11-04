@@ -1800,24 +1800,23 @@
           }
         ],
         "total_length": 246646000,
-        "focus_index": 80,
-        "next_index": 81,
-        "time": 1213730,
+        "focus_index": 98,
+        "next_index": 99,
+        "time": 842479,
         "focus_program": {
-          "content_id": "VOD00360596",
+          "content_id": "VOD00360615",
           "time_codes": [
-            628000,
-            1376000
+            785000
           ],
           "timecode_duration": [],
-          "length": 1873000,
-          "asset_id": "vod76621-010018M001",
+          "length": 1284000,
+          "asset_id": "vod76621-010036M001",
           "title": "木曜4超玩 下班去吃飯",
-          "subtitle": "第1季第18集 這次不打球！熟悉的桌球界英雄們再次登場！feat. 莊智淵、陳思羽",
-          "ep_number": 18,
+          "subtitle": "第1季第36集 盈萱現場直接評論邰哥演技！老人禁得起劇場女神這樣ㄉㄧㄤ嗎...！？ feat. 謝盈萱",
+          "ep_number": 36,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762284900000,
+          "p_start": 1762317900000,
           "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
         }
       },
@@ -1831,7 +1830,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

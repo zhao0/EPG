@@ -39,30 +39,22 @@ http://localhost:5050/play/ofiii13/index.m3u8?episode_id=vod64651-000009M001
 http://localhost:5050/play/ofiii13/index.m3u8?episode_id=vod64650-000010M001
 #EXTINF:-1 tvg-id="公視金獎台" tvg-name="公視金獎台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3068_ofiii13_tv_20230920.png" group-title="公視金獎台",你的孩子不是你的孩子-第10集 必須過動
 http://localhost:5050/play/ofiii13/index.m3u8?episode_id=vod64651-000010M001
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",空中英語教室-In Honor of the Humble Sandwich  三明治萬歲！
-http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34440-251101M001
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Info Cloud
-http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34558-230811M001
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",大家說英語-Saturday Review本週課程複習
-http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34441-251101M001
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Calendar Phrase
-http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34548-181210M001
 #EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",空中英語教室-A Bunny’s Tale  小兔的故事（上）
 http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34440-251103M001
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",大家說英語-How to Use a Fire Extinguisher  如何使用滅火器
-http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34441-251103M001
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",空中英語教室-From Smoke Signals to Global Mail   郵政大事記（下）
-http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34440-251031M001
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",大家說英語-Less Screen Time, More Free Time  減少螢幕時間的小撇步（下）
-http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34441-251031M001
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",空中英語教室-A Bunny’s Tale  小兔的故事（下）
-http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34440-251104M001
 #EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Info Cloud
 http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34558-230812M001
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",大家說英語-Living on the Ground Floor or a Higher Floor?  住一樓好還是住高樓層佳？
-http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34441-251104M001
+#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",大家說英語-How to Use a Fire Extinguisher  如何使用滅火器
+http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34441-251103M001
 #EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Calendar Phrase
 http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34548-181211M001
+#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",空中英語教室-A Bunny’s Tale  小兔的故事（下）
+http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34440-251104M001
+#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",大家說英語-Living on the Ground Floor or a Higher Floor?  住一樓好還是住高樓層佳？
+http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34441-251104M001
+#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",空中英語教室-In Honor of the Humble Sandwich  三明治萬歲！
+http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34440-251101M001
+#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",大家說英語-Saturday Review本週課程複習
+http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34441-251101M001
 #EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",空中英語教室-Pippi Longstocking Turns 80!  長襪皮皮80歲了！（上）
 http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34440-251105M001
 #EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Info Cloud
@@ -95,6 +87,10 @@ http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34558-230817M001
 http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34441-251108M001
 #EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Calendar Phrase
 http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34548-181218M001
+#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Info Cloud
+http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34558-230818M001
+#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="空中英語教室HD頻道",Calendar Phrase
+http://localhost:5050/play/ofiii16/index.m3u8?episode_id=vod34548-181219M001
 #EXTINF:-1 tvg-id="哆啦Ａ夢台" tvg-name="哆啦Ａ夢台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png" group-title="哆啦Ａ夢台",電影哆啦A夢：大雄與惑星之迷(國)-Doraemon the Movie: Nobita and the Animal Planet
 http://localhost:5050/play/ofiii22/index.m3u8?episode_id=vod75705-000000M001
 #EXTINF:-1 tvg-id="哆啦Ａ夢台" tvg-name="哆啦Ａ夢台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png" group-title="哆啦Ａ夢台",電影哆啦A夢：大雄與迷宮之旅(國)-Doraemon the Movie: Nobita and the Tin Labyrinth
@@ -927,18 +923,6 @@ http://localhost:5050/play/ofiii36/index.m3u8?episode_id=vod57169-000058M001
 http://localhost:5050/play/ofiii36/index.m3u8?episode_id=vod38131-002093M001
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="中天亞洲精采台",我想去看看-第88集 2024台北人氣最旺耶誕打卡地：寶麗廣場白雪聖誕秘境+統一時代 英倫風聖誕+新光三越耶誕精靈之森：會動的20米主樹 +水晶心願球
 http://localhost:5050/play/ofiii36/index.m3u8?episode_id=vod57166-000088M001
-#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",女人不哭-第1集
-http://localhost:5050/play/ofiii38/index.m3u8?episode_id=vod61757-000001M001
-#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",女人不哭-第2集
-http://localhost:5050/play/ofiii38/index.m3u8?episode_id=vod61757-000002M001
-#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",歲月如金-第23集
-http://localhost:5050/play/ofiii38/index.m3u8?episode_id=vod37442-000023M001
-#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",歲月如金-第24集
-http://localhost:5050/play/ofiii38/index.m3u8?episode_id=vod37442-000024M001
-#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",傳奇大掌櫃-第1集
-http://localhost:5050/play/ofiii38/index.m3u8?episode_id=vod54018-000001M001
-#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",傳奇大掌櫃-第2集
-http://localhost:5050/play/ofiii38/index.m3u8?episode_id=vod54018-000002M001
 #EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",女人不哭-第3集
 http://localhost:5050/play/ofiii38/index.m3u8?episode_id=vod61757-000003M001
 #EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",女人不哭-第4集
@@ -999,6 +983,18 @@ http://localhost:5050/play/ofiii38/index.m3u8?episode_id=vod37442-000034M001
 http://localhost:5050/play/ofiii38/index.m3u8?episode_id=vod54018-000011M001
 #EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",傳奇大掌櫃-第12集
 http://localhost:5050/play/ofiii38/index.m3u8?episode_id=vod54018-000012M001
+#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",女人不哭-第13集
+http://localhost:5050/play/ofiii38/index.m3u8?episode_id=vod61757-000013M001
+#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",女人不哭-第14集
+http://localhost:5050/play/ofiii38/index.m3u8?episode_id=vod61757-000014M001
+#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",歲月如金-第35集
+http://localhost:5050/play/ofiii38/index.m3u8?episode_id=vod37442-000035M001
+#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",歲月如金-第36集
+http://localhost:5050/play/ofiii38/index.m3u8?episode_id=vod37442-000036M001
+#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",傳奇大掌櫃-第13集
+http://localhost:5050/play/ofiii38/index.m3u8?episode_id=vod54018-000013M001
+#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="經典劇場",傳奇大掌櫃-第14集
+http://localhost:5050/play/ofiii38/index.m3u8?episode_id=vod54018-000014M001
 #EXTINF:-1 tvg-id="短劇馬拉松" tvg-name="短劇馬拉松" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3689_ofiii39_tv_20250328.png" group-title="短劇馬拉松",佔有姜西-第1集
 http://localhost:5050/play/ofiii39/index.m3u8?episode_id=vod76555-000001M001
 #EXTINF:-1 tvg-id="短劇馬拉松" tvg-name="短劇馬拉松" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3689_ofiii39_tv_20250328.png" group-title="短劇馬拉松",佔有姜西-第2集
@@ -1199,24 +1195,6 @@ http://localhost:5050/play/ofiii39/index.m3u8?episode_id=vod76268-000008M001
 http://localhost:5050/play/ofiii39/index.m3u8?episode_id=vod76268-000009M001
 #EXTINF:-1 tvg-id="短劇馬拉松" tvg-name="短劇馬拉松" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3689_ofiii39_tv_20250328.png" group-title="短劇馬拉松",了不起的女俠-第10集
 http://localhost:5050/play/ofiii39/index.m3u8?episode_id=vod76268-000010M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第9集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79263-000009M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第10集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79263-000010M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第11集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79263-000011M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第12集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79263-000012M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",藏藥令(30分鐘版)-第4集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod72948-000004M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第5集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79007-000005M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第6集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79007-000006M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第16集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000016M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第17集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000017M001
 #EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第13集
 http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79263-000013M001
 #EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第14集
@@ -1295,14 +1273,18 @@ http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79007-000016M001
 http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000026M001
 #EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第27集
 http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000027M001
-#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",大大平評理-貿易協議中國吃大虧？稀土管制延緩 美股嗨翻！
-http://localhost:5050/play/ofiii50/index.m3u8?episode_id=vod69896-000302M001
-#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",台灣1001個故事-第二十五集-炒粉漿蛋餅
-http://localhost:5050/play/ofiii50/index.m3u8?episode_id=vod64567-000025M001
-#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",52直播間-「身心靈」淪詐騙關鍵字？知名學院命案大解密！
-http://localhost:5050/play/ofiii50/index.m3u8?episode_id=vod69643-010082M001
-#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",人生從此不一樣-第十六集
-http://localhost:5050/play/ofiii50/index.m3u8?episode_id=vod57381-000016M001
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",安樂傳-第5集 賭上仕途的控訴
+http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod64646-000005M001
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",安樂傳-第6集 英雄惜英雄
+http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod64646-000006M001
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第17集
+http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79007-000017M001
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第18集
+http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79007-000018M001
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第28集
+http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000028M001
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第29集
+http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000029M001
 #EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",大大平評理-川習會後中國要算大帳？台灣從美國籌碼變負債？
 http://localhost:5050/play/ofiii50/index.m3u8?episode_id=vod69896-000303M001
 #EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",台灣1001個故事-第二十六集-鐵漢柔情的大廚辦桌菜
@@ -1319,6 +1301,8 @@ http://localhost:5050/play/ofiii50/index.m3u8?episode_id=vod79599-000004M001
 http://localhost:5050/play/ofiii50/index.m3u8?episode_id=vod69896-000298M001
 #EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",台灣百大景點系列-第6集 台灣最偏遠的部落
 http://localhost:5050/play/ofiii50/index.m3u8?episode_id=vod65402-000006M001
+#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",大大平評理-貿易協議中國吃大虧？稀土管制延緩 美股嗨翻！
+http://localhost:5050/play/ofiii50/index.m3u8?episode_id=vod69896-000302M001
 #EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",健康大錢線-褪黑激素與白內障
 http://localhost:5050/play/ofiii50/index.m3u8?episode_id=vod79599-000005M001
 #EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",【52直播間｜歷史哥】-第82集
@@ -1335,6 +1319,10 @@ http://localhost:5050/play/ofiii50/index.m3u8?episode_id=vod69896-000299M001
 http://localhost:5050/play/ofiii50/index.m3u8?episode_id=vod79599-000008M001
 #EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",幸福空間-第87集
 http://localhost:5050/play/ofiii50/index.m3u8?episode_id=vod70063-000087M001
+#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",幸福空間-第五十九集
+http://localhost:5050/play/ofiii50/index.m3u8?episode_id=vod70063-000058M001
+#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",健康大錢線-擺脫洗腎與聰明打疫苗
+http://localhost:5050/play/ofiii50/index.m3u8?episode_id=vod79599-000003M001
 #EXTINF:-1 tvg-id="國際大小事" tvg-name="國際大小事" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3560_ofiii55_tv_20241202.png" group-title="國際大小事",寰宇新聞-尼泊爾示威演變警民衝突傳傷亡！社群媒體禁令急轉彎總理請辭
 http://localhost:5050/play/ofiii55/index.m3u8?episode_id=vod48446-005486M001
 #EXTINF:-1 tvg-id="國際大小事" tvg-name="國際大小事" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3560_ofiii55_tv_20241202.png" group-title="國際大小事",寰宇新聞-石破茂辭總裁自民黨改選！前首相之子.安倍愛徒呼聲高
@@ -4953,84 +4941,58 @@ http://localhost:5050/play/ofiii116/index.m3u8?episode_id=vod61027-000038M001
 http://localhost:5050/play/ofiii116/index.m3u8?episode_id=vod61027-000039M001
 #EXTINF:-1 tvg-id="去有風的地方" tvg-name="去有風的地方" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2591_ofiii116_tv_20250221.png" group-title="去有風的地方",第40集
 http://localhost:5050/play/ofiii116/index.m3u8?episode_id=vod61027-000040M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第1集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000001M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第2集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000002M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第3集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000003M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第4集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000004M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第5集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000005M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第6集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000006M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第7集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000007M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第8集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000008M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第9集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000009M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第10集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000010M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第11集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000011M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第12集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000012M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第13集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000013M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第14集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000014M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第15集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000015M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第16集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000016M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第17集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000017M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第18集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000018M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第19集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000019M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第20集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000020M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第21集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000021M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第22集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000022M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第23集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000023M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第24集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000024M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第25集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000025M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第26集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000026M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第27集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000027M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第28集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000028M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第29集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000029M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第30集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000030M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第31集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000031M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第32集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000032M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第33集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000033M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第34集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000034M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第35集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000035M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第36集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000036M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第37集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000037M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第38集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000038M001
-#EXTINF:-1 tvg-id="向風而行《11/5即將下架》" tvg-name="向風而行《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20250221.png" group-title="向風而行《11/5即將下架》",第39集
-http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod60692-000039M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第1集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000001M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第2集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000002M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第3集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000003M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第4集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000004M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第5集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000005M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第6集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000006M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第7集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000007M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第8集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000008M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第9集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000009M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第10集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000010M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第11集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000011M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第12集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000012M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第13集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000013M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第14集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000014M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第15集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000015M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第16集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000016M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第17集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000017M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第18集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000018M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第19集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000019M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第20集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000020M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第21集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000021M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第22集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000022M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第23集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000023M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第24集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000024M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第25集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000025M001
+#EXTINF:-1 tvg-id="深情眼" tvg-name="深情眼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3903_ofiii118_tv_20251028.png" group-title="深情眼",第26集
+http://localhost:5050/play/ofiii118/index.m3u8?episode_id=vod79685-000026M001
 #EXTINF:-1 tvg-id="以家人之名" tvg-name="以家人之名" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3023_ofiii119_tv_20250221.png" group-title="以家人之名",第1集
 http://localhost:5050/play/ofiii119/index.m3u8?episode_id=vod43544-000001M001
 #EXTINF:-1 tvg-id="以家人之名" tvg-name="以家人之名" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3023_ofiii119_tv_20250221.png" group-title="以家人之名",第2集
@@ -5215,70 +5177,38 @@ http://localhost:5050/play/ofiii121/index.m3u8?episode_id=vod76898-000018M001
 http://localhost:5050/play/ofiii121/index.m3u8?episode_id=vod76898-000019M001
 #EXTINF:-1 tvg-id="我的差評女友" tvg-name="我的差評女友" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3781_ofiii121_tv_20250626.png" group-title="我的差評女友",第20集
 http://localhost:5050/play/ofiii121/index.m3u8?episode_id=vod76898-000020M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第1集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000001M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第2集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000002M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第3集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000003M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第4集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000004M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第5集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000005M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第6集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000006M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第7集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000007M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第8集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000008M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第9集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000009M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第10集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000010M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第11集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000011M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第12集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000012M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第13集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000013M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第14集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000014M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第15集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000015M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第16集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000016M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第17集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000017M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第18集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000018M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第19集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000019M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第20集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000020M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第21集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000021M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第22集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000022M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第23集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000023M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第24集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000024M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第25集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000025M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第26集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000026M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第27集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000027M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第28集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000028M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第29集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000029M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第30集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000030M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第31集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000031M001
-#EXTINF:-1 tvg-id="請叫我總監《11/5即將下架》" tvg-name="請叫我總監《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20250221.png" group-title="請叫我總監《11/5即將下架》",第32集
-http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod55483-000032M001
+#EXTINF:-1 tvg-id="不眠日" tvg-name="不眠日" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3904_ofiii122_tv_20251028.png" group-title="不眠日",第1集
+http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod80359-000001M001
+#EXTINF:-1 tvg-id="不眠日" tvg-name="不眠日" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3904_ofiii122_tv_20251028.png" group-title="不眠日",第2集
+http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod80359-000002M001
+#EXTINF:-1 tvg-id="不眠日" tvg-name="不眠日" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3904_ofiii122_tv_20251028.png" group-title="不眠日",第3集
+http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod80359-000003M001
+#EXTINF:-1 tvg-id="不眠日" tvg-name="不眠日" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3904_ofiii122_tv_20251028.png" group-title="不眠日",第4集
+http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod80359-000004M001
+#EXTINF:-1 tvg-id="不眠日" tvg-name="不眠日" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3904_ofiii122_tv_20251028.png" group-title="不眠日",第5集
+http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod80359-000005M001
+#EXTINF:-1 tvg-id="不眠日" tvg-name="不眠日" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3904_ofiii122_tv_20251028.png" group-title="不眠日",第6集
+http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod80359-000006M001
+#EXTINF:-1 tvg-id="不眠日" tvg-name="不眠日" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3904_ofiii122_tv_20251028.png" group-title="不眠日",第7集
+http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod80359-000007M001
+#EXTINF:-1 tvg-id="不眠日" tvg-name="不眠日" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3904_ofiii122_tv_20251028.png" group-title="不眠日",第8集
+http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod80359-000008M001
+#EXTINF:-1 tvg-id="不眠日" tvg-name="不眠日" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3904_ofiii122_tv_20251028.png" group-title="不眠日",第9集
+http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod80359-000009M001
+#EXTINF:-1 tvg-id="不眠日" tvg-name="不眠日" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3904_ofiii122_tv_20251028.png" group-title="不眠日",第10集
+http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod80359-000010M001
+#EXTINF:-1 tvg-id="不眠日" tvg-name="不眠日" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3904_ofiii122_tv_20251028.png" group-title="不眠日",第11集
+http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod80359-000011M001
+#EXTINF:-1 tvg-id="不眠日" tvg-name="不眠日" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3904_ofiii122_tv_20251028.png" group-title="不眠日",第12集
+http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod80359-000012M001
+#EXTINF:-1 tvg-id="不眠日" tvg-name="不眠日" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3904_ofiii122_tv_20251028.png" group-title="不眠日",第13集
+http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod80359-000013M001
+#EXTINF:-1 tvg-id="不眠日" tvg-name="不眠日" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3904_ofiii122_tv_20251028.png" group-title="不眠日",第14集
+http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod80359-000014M001
+#EXTINF:-1 tvg-id="不眠日" tvg-name="不眠日" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3904_ofiii122_tv_20251028.png" group-title="不眠日",第15集
+http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod80359-000015M001
+#EXTINF:-1 tvg-id="不眠日" tvg-name="不眠日" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3904_ofiii122_tv_20251028.png" group-title="不眠日",第16集
+http://localhost:5050/play/ofiii122/index.m3u8?episode_id=vod80359-000016M001
 #EXTINF:-1 tvg-id="三十而已" tvg-name="三十而已" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3748_ofiii123_tv_20250529.png" group-title="三十而已",第1集
 http://localhost:5050/play/ofiii123/index.m3u8?episode_id=vod43738-000001M001
 #EXTINF:-1 tvg-id="三十而已" tvg-name="三十而已" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3748_ofiii123_tv_20250529.png" group-title="三十而已",第2集
@@ -9745,6 +9675,8 @@ http://localhost:5050/play/ofiii160/index.m3u8?episode_id=vod60388-020014M001
 http://localhost:5050/play/ofiii160/index.m3u8?episode_id=vod60388-020015M001
 #EXTINF:-1 tvg-id="擁有超常技能的異世界流浪美食家" tvg-name="擁有超常技能的異世界流浪美食家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3331_ofiii160_tv_20250221.png" group-title="擁有超常技能的異世界流浪美食家",第2季第16集 迷宮與熟食同在
 http://localhost:5050/play/ofiii160/index.m3u8?episode_id=vod60388-020016M001
+#EXTINF:-1 tvg-id="擁有超常技能的異世界流浪美食家" tvg-name="擁有超常技能的異世界流浪美食家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3331_ofiii160_tv_20250221.png" group-title="擁有超常技能的異世界流浪美食家",第2季第17集 
+http://localhost:5050/play/ofiii160/index.m3u8?episode_id=vod60388-020017M001
 #EXTINF:-1 tvg-id="離開A級隊伍的我，和從前的弟子往迷宮深處邁進" tvg-name="離開A級隊伍的我，和從前的弟子往迷宮深處邁進" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3883_ofiii161_tv_20250924.png" group-title="離開A級隊伍的我，和從前的弟子往迷宮深處邁進",第1季第1集 四葉草誕生
 http://localhost:5050/play/ofiii161/index.m3u8?episode_id=vod75249-010001M001
 #EXTINF:-1 tvg-id="離開A級隊伍的我，和從前的弟子往迷宮深處邁進" tvg-name="離開A級隊伍的我，和從前的弟子往迷宮深處邁進" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3883_ofiii161_tv_20250924.png" group-title="離開A級隊伍的我，和從前的弟子往迷宮深處邁進",第1季第2集 魔獸棲息的森林
@@ -12621,86 +12553,6 @@ http://localhost:5050/play/ofiii184/index.m3u8?episode_id=vod52780-060024M001
 http://localhost:5050/play/ofiii184/index.m3u8?episode_id=vod52780-060025M001
 #EXTINF:-1 tvg-id="新忍者哈特利" tvg-name="新忍者哈特利" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3634_ofiii184_tv_20250221.png" group-title="新忍者哈特利",第6季第26集 哈特利離開了/全力！接力外送披薩
 http://localhost:5050/play/ofiii184/index.m3u8?episode_id=vod52780-060026M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第1集 奧斯卡 玫瑰的命運
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010001M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第2集 飛舞吧 奧地利的蝴蝶
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010002M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第3集 凡爾賽出現火花
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010003M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第4集 玫瑰、酒、詭計
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010004M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第5集 淚水中蘊含的高貴
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010005M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第6集 絲綢洋裝與破衣服
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010006M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第7集 情書出自誰手
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010007M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第8集 我心中的奧斯卡
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010008M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第9集 日落 日出
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010009M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第10集 美麗的惡魔瓊妮
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010010M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第11集 菲爾遜歸去北國
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010011M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第12集 決鬥的早晨 奧斯卡將…?
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010012M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第13集 阿拉斯的風啊 回答我
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010013M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第14集 天使的秘密
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010014M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第15集 賭場的伯爵夫人
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010015M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第16集 母親的名字是…?
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010016M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第17集 碰巧相逢之時
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010017M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第18集 猶如伊卡洛斯突從天降
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010018M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第19集 再見了 我的妹妹
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010019M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第20集 菲爾遜惜別的圓舞曲
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010020M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第21集 黑玫瑰於夜晚盛開
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010021M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第22集 散發不吉利光芒的項鍊
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010022M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第23集 很奸詐也很強悍
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010023M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第24集 再會了 我的青春
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010024M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第25集 單戀的小步舞曲
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010025M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第26集 我要見黑騎士
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010026M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第27集 即便失去光明…
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010027M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第28集 安德烈 苦情之果
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010028M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第29集 開始邁步的人偶
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010029M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第30集 你是光 我是影
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010030M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第31集 開於軍營的紫丁香花
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010031M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第32集 暴風雨的前奏曲
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010032M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第33集 日暮時分的喪鐘
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010033M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第34集 網球場宣言
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010034M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第35集 奧斯卡 此刻便是離巢之時
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010035M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第36集 說好了再見
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010036M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第37集 熱情宣誓之夜
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010037M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第38集 站在命運大門之前
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010038M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第39集 那抹微笑已然不再
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010039M001
-#EXTINF:-1 tvg-id="凡爾賽玫瑰《11/5即將下架》" tvg-name="凡爾賽玫瑰《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="凡爾賽玫瑰《11/5即將下架》",第1季第40集 再見了 親愛的奧斯卡
-http://localhost:5050/play/ofiii185/index.m3u8?episode_id=vod76547-010040M001
 #EXTINF:-1 tvg-id="城市獵人" tvg-name="城市獵人" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3751_ofiii186_tv_20250529.png" group-title="城市獵人",第1季第1集
 http://localhost:5050/play/ofiii186/index.m3u8?episode_id=vod39104-010001M001
 #EXTINF:-1 tvg-id="城市獵人" tvg-name="城市獵人" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3751_ofiii186_tv_20250529.png" group-title="城市獵人",第1季第2集
@@ -13299,46 +13151,6 @@ http://localhost:5050/play/ofiii196/index.m3u8?episode_id=vod9098-000019M001
 http://localhost:5050/play/ofiii196/index.m3u8?episode_id=vod9098-000020M001
 #EXTINF:-1 tvg-id="不良笑花" tvg-name="不良笑花" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3631_ofiii196_tv_20250225.png" group-title="不良笑花",第21集
 http://localhost:5050/play/ofiii196/index.m3u8?episode_id=vod9098-000021M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第1集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000001M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第2集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000002M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第3集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000003M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第4集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000004M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第5集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000005M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第6集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000006M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第7集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000007M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第8集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000008M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第9集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000009M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第10集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000010M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第11集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000011M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第12集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000012M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第13集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000013M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第14集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000014M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第15集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000015M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第16集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000016M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第17集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000017M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第18集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000018M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第19集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000019M001
-#EXTINF:-1 tvg-id="王子看見二公主《11/5即將下架》" tvg-name="王子看見二公主《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="王子看見二公主《11/5即將下架》",第20集
-http://localhost:5050/play/ofiii198/index.m3u8?episode_id=vod75147-000020M001
 #EXTINF:-1 tvg-id="劣人傳之詭計" tvg-name="劣人傳之詭計" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3783_ofiii200_tv_20250626.png" group-title="劣人傳之詭計",第1集
 http://localhost:5050/play/ofiii200/index.m3u8?episode_id=vod11463-000001M001
 #EXTINF:-1 tvg-id="劣人傳之詭計" tvg-name="劣人傳之詭計" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3783_ofiii200_tv_20250626.png" group-title="劣人傳之詭計",第2集
@@ -13459,46 +13271,6 @@ http://localhost:5050/play/ofiii205/index.m3u8?episode_id=vod64682-000117M001
 http://localhost:5050/play/ofiii205/index.m3u8?episode_id=vod64682-000118M001
 #EXTINF:-1 tvg-id="文茜的世界財經周報" tvg-name="文茜的世界財經周報" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3480_ofiii205_tv_20250221.png" group-title="文茜的世界財經周報",AI潮已如錢塘大潮 年輕人.白領階級首當其衝
 http://localhost:5050/play/ofiii205/index.m3u8?episode_id=vod64682-000119M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",殲-16以一敵二獵殺F-35！四代半戰機輾壓五代機 委內瑞拉靠中國軍火撐腰！「海上天眼」鎖死美軍！
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000466M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",沙國甩開美國改買殲-20成全球首購！委內瑞拉搶紅旗-9B+雷達鎖死F-35 川普還有膽量開戰？
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000467M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",大豆高粱都不買了！農業大戰習近平「血虐」川普！川普引用「暴亂法」美國內戰即將開打 想拿諾貝爾和平獎根本不可能！
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000468M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",川普打壓不了中國！習近平重稀土狠斷美軍命脈！殲-16「 AI智勝版」逼加拿大認慫落荒而逃！
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000469M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",習近平「稀土天網」0.1%也不放過 徹底封殺美國AI產業！川普和平獎幻想破滅！美帝坐實全球亂源
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000470M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",川普玩火自焚 67%關稅成本全由消費者買單 Costco喊話：準備漲價了！習近平「稀土鋰電雙鎖喉」重擊美國AI電網！
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000471M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",北京越打越賺出口創新高！川普TACO秒慫「川習會」求饒 棄公僕保豆農 他冷笑：300萬選票一定救！
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000472M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",北京不怕！要打奉陪到底！習近平「組合拳」狠斬美豆！杜魯門號8個月修不好 港口費大戰中國贏定了！
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000473M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",習近平掐住川普命門！77%美國人買不起聖誕禮物 「玉衡」晶片問世突破成像極限 新凱來EDA徹底突圍！
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000474M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",習近平稀土大豆雙鎖喉！川普照抄中國模式反而「揮刀自宮」 次貸風暴2.0暴雷 美國有錢人才吃得起咖啡牛肉！
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000475M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",川普「關稅戰」全面潰敗！ 1.2兆美元產業蒸發！ 澤倫斯基又被罵出白宮 普丁兵不血刃拿下最大軍工基地！
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000476M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",中國不買！800噸大豆塞到倉庫都崩了！川普哭喊「不玩稀土遊戲了」 拋芬太尼關稅求習近平給條活路
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000477M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",習近平港口費鎖喉「打七寸要害」！美國人連牛肉都快吃不起 驚覺關稅戰「輸家小丑竟是自己」 川普怕票倉倒戈哀求中國別報復！
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000478M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",川普發動「軟體戰」也打不贏稀土.醫藥斷供 白宮又要輸慘了！「庫皮揚斯克」全面陷落
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000479M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",「川習會前哨戰」川普157%關稅翻盤 習近平「稀土.大豆」重拳伺候！荷蘭奪「安世」中國反擊
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000480M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",致命稀土逼川普俯首稱臣！美財長哭慘求中國買大豆 「顯影光刻」重大突破撕開美國封鎖 安世反噬卡死歐洲 荷蘭才是最大輸家！
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000481M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",習近平鐵腕出擊！妙瓦底詐騙帝國「終局之戰」夷為平地 川普認輸乞求稀土緩刑 美國人吃不起咖啡牛肉TACO低頭！
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000482M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",「川習釜山峰會前奏」習近平施恩出招先買大豆 川普底氣全失降關稅10%！歐美搶「安世」弄巧成拙
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000483M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",中國跟美國「平起平坐」！習川會「以虛換實」習近平贏得太徹底！百萬失業通膨地獄 六成美國人活不下去！
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000484M001
-#EXTINF:-1 tvg-id="環球大戰線《11/5即將下架》" tvg-name="環球大戰線《11/5即將下架》" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20250221.png" group-title="環球大戰線《11/5即將下架》",習近平APEC展現大國風采 川普難敵北京鋒芒提早回國！全球重啟冷戰「核爆競賽」 中國搶先美俄率先啟動羅布泊核試！
-http://localhost:5050/play/ofiii206/index.m3u8?episode_id=vod69474-000485M001
 #EXTINF:-1 tvg-id="少康戰情室" tvg-name="少康戰情室" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3520_ofiii207_tv_20250221.png" group-title="少康戰情室",阿富汗、巴基斯坦邊境交火 傳數百死傷引爆地緣政治火藥庫？趙少康：8頻道、151部影片介入攻擊 國民黨被介選數據曝光？
 http://localhost:5050/play/ofiii207/index.m3u8?episode_id=vod64269-000819M001
 #EXTINF:-1 tvg-id="少康戰情室" tvg-name="少康戰情室" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3520_ofiii207_tv_20250221.png" group-title="少康戰情室",拜登發文大讚川普：為和平努力 加薩終停火連政敵都稱讚？韓智庫批國軍武器老舊草莓兵 顧立雄稱會採購新式裝備避重就輕？

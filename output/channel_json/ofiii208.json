@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 208,
         "cdn_code": "ofiii208",
-        "start_time": 1762155300000,
+        "start_time": 1762264200000,
         "programs": [
           {
             "content_id": "VOD00379896",
@@ -56,7 +56,7 @@
             "ep_number": 761,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762155300000,
+            "p_start": 1762264200000,
             "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
           },
           {
@@ -76,7 +76,7 @@
             "ep_number": 762,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762158300000,
+            "p_start": 1762267200000,
             "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
           },
           {
@@ -94,7 +94,7 @@
             "ep_number": 763,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762162800000,
+            "p_start": 1762271700000,
             "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
           },
           {
@@ -112,7 +112,7 @@
             "ep_number": 764,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762165800000,
+            "p_start": 1762274700000,
             "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
           },
           {
@@ -130,7 +130,7 @@
             "ep_number": 765,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762168800000,
+            "p_start": 1762277700000,
             "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
           },
           {
@@ -148,7 +148,7 @@
             "ep_number": 766,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762171800000,
+            "p_start": 1762280700000,
             "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
           },
           {
@@ -166,7 +166,7 @@
             "ep_number": 767,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762174800000,
+            "p_start": 1762283700000,
             "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
           },
           {
@@ -184,7 +184,7 @@
             "ep_number": 768,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762177800000,
+            "p_start": 1762286700000,
             "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
           },
           {
@@ -202,7 +202,7 @@
             "ep_number": 769,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762180800000,
+            "p_start": 1762289700000,
             "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
           },
           {
@@ -220,30 +220,30 @@
             "ep_number": 770,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762183800000,
+            "p_start": 1762292700000,
             "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
           }
         ],
         "total_length": 30354000,
-        "focus_index": 6,
-        "next_index": 7,
-        "time": 2787106,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 2045224,
         "focus_program": {
-          "content_id": "VOD00379902",
+          "content_id": "VOD00379896",
           "time_codes": [
-            1947000,
-            2363000,
-            2690000
+            1927000,
+            2551000,
+            2748000
           ],
           "timecode_duration": [],
-          "length": 2890000,
-          "asset_id": "vod38695-000767M001",
+          "length": 2888000,
+          "asset_id": "vod38695-000761M001",
           "title": "",
-          "subtitle": "普發登記最快11/12入帳！非洲豬瘟綠打盧秀燕！柯志恩看板光復節上架！光電浸泡水安心喝？",
-          "ep_number": 767,
+          "subtitle": "陳其邁粉色頭迎BP高雄又爆爐渣山！業者強調光電板｀清水洗｀遭打臉！韓國瑜稱羅智強主席！盧請候選人吃飯美食地圖曝！",
+          "ep_number": 761,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762174800000,
+          "p_start": 1762264200000,
           "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
         }
       },
@@ -261,7 +261,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

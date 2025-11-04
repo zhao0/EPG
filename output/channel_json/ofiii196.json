@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 196,
         "cdn_code": "ofiii196",
-        "start_time": 1762171748000,
+        "start_time": 1762231752000,
         "programs": [
           {
             "content_id": "VOD00026302",
@@ -422,25 +422,25 @@
           }
         ],
         "total_length": 60004000,
-        "focus_index": 12,
-        "next_index": 13,
-        "time": 2065938,
+        "focus_index": 1,
+        "next_index": 2,
+        "time": 1933523,
         "focus_program": {
-          "content_id": "VOD00026314",
+          "content_id": "VOD00026303",
           "time_codes": [
-            807000,
-            1420000,
-            1890000
+            806000,
+            1415000,
+            1930000
           ],
           "timecode_duration": [],
-          "length": 2939000,
-          "asset_id": "vod9098-000013M001",
+          "length": 2893000,
+          "asset_id": "vod9098-000002M001",
           "title": "",
-          "subtitle": "第13集",
-          "ep_number": 13,
+          "subtitle": "第2集",
+          "ep_number": 2,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740486300000,
+          "p_start": 1740453300000,
           "vod_channel_description": "專業時尚造型大師唐門（潘瑋柏）與小花飾品專賣店老闆蔣小花（楊丞琳），在計程車上意外相遇，凡事要求完美的唐門，本來就不容許任何不完美的東西在他面前呈現，但蔣小花，那個全身俗到最高點的恐龍妹竟然就這樣走進他的生命？更誇張的是，她還敢對他做的造型品頭論足…"
         }
       },
@@ -454,7 +454,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

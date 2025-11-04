@@ -1087,25 +1087,25 @@
           }
         ],
         "total_length": 157444000,
-        "focus_index": 38,
-        "next_index": 39,
-        "time": 2228020,
+        "focus_index": 49,
+        "next_index": 50,
+        "time": 1123690,
         "focus_program": {
-          "content_id": "VOD00371712",
+          "content_id": "VOD00371723",
           "time_codes": [
-            743000,
-            1471000,
-            2112000
+            708000,
+            1398000,
+            2052000
           ],
           "timecode_duration": [],
-          "length": 2707000,
-          "asset_id": "vod79475-000039M001",
+          "length": 2704000,
+          "asset_id": "vod79475-000050M001",
           "title": "",
-          "subtitle": "第39集",
-          "ep_number": 39,
+          "subtitle": "第50集",
+          "ep_number": 50,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1759127100000,
+          "p_start": 1759160100000,
           "vod_channel_description": "西啟長公主容樂在失憶後，奉命和親北臨，卻遭王子無憂拒婚。她化名漫夭暗中尋找治世奇書，並與不知其真實身份的無憂漸生情愫。然而，容樂卻被迫嫁給大將軍傅籌，並意外揭露傅籌與無憂的兄弟關係，以及自己秦家遺孤「秦漫」的身世。面對身世與情感的重重糾葛，這段錯綜複雜的關係又將如何發展..."
         }
       },
@@ -1123,7 +1123,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

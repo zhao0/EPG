@@ -2138,27 +2138,27 @@
           }
         ],
         "total_length": 310177000,
-        "focus_index": 45,
-        "next_index": 46,
-        "time": 1399806,
+        "focus_index": 55,
+        "next_index": 56,
+        "time": 2205334,
         "focus_program": {
-          "content_id": "VOD00039750",
+          "content_id": "VOD00039760",
           "time_codes": [
-            824000,
-            1343000,
-            1916000,
-            2377000
+            1422000,
+            2005000,
+            2501000,
+            2676000
           ],
           "timecode_duration": [],
-          "length": 2822000,
-          "asset_id": "vod10716-000046M001",
+          "length": 2845000,
+          "asset_id": "vod10716-000056M001",
           "title": "",
-          "subtitle": "第46集 烏盆記",
-          "ep_number": 46,
+          "subtitle": "第56集 古琴怨",
+          "ep_number": 56,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740252900000,
-          "vod_channel_description": "商人李浩（趙樹海）返鄉途中，遇賣缸盆的丁千（陸一龍），其見李浩身懷巨款起了貪念，將他殺之，與鄰居江萬里（江譽耀）合力將屍體焚毀並製成烏盆，烏盆被書生王進（文帥）購進，李浩鬼魂現身向王進訴說冤情，請他代向包拯告狀，包拯派展昭徹查此案，展昭使計讓丁千自述罪過，立即將其緝拿歸案。"
+          "p_start": 1740282900000,
+          "vod_channel_description": "蔡玉媛（張玉嬿）和劉濤（湯志偉）新婚，劉濤經知府推薦上京考試後便無音訊，藥師見玉媛貌美強娶不從後，惱羞殺害玉媛家長工，再嫁禍玉媛。包拯替玉媛申冤後，玉媛同婆婆上京尋夫；陳太尉欺騙劉濤家逢巨變，妻母皆亡。又騙玉媛劉濤病故。其後劉濤得知其妻母尚在人間，欲接回太尉府，此時太衛竟要求…"
         }
       },
       "station_categories": [
@@ -2175,7 +2175,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 160,
         "cdn_code": "ofiii160",
-        "start_time": 1762180200000,
+        "start_time": 1762270200000,
         "programs": [
           {
             "content_id": "VOD00278506",
@@ -54,7 +54,7 @@
             "ep_number": 1,
             "rating": 2,
             "content_type": "comic",
-            "p_start": 1762180200000,
+            "p_start": 1762270200000,
             "vod_channel_description": "平平無奇的上班族向田（向田剛志），有一天突然被卷入異世界勇者召喚。召喚時賦予他的固有技能是“網路超市”，可以網購原來世界的食材和調味料。雖然乍看之下不太起眼，但是在異世界這種料理卻發揮出超常效果——！？"
           },
           {
@@ -70,7 +70,7 @@
             "ep_number": 2,
             "rating": 2,
             "content_type": "comic",
-            "p_start": 1762181700000,
+            "p_start": 1762271700000,
             "vod_channel_description": "穆寇達與被美味的香氣吸引而來的傳說中的魔獸芬里爾締結完從魔契約，決定在順路到的下一個城鎮法利埃登錄公會。穆寇達告別一起旅行的鐵之意志的成員，朝公會走去，然而……"
           },
           {
@@ -86,7 +86,7 @@
             "ep_number": 3,
             "rating": 2,
             "content_type": "comic",
-            "p_start": 1762183200000,
+            "p_start": 1762273200000,
             "vod_channel_description": "穆寇達登錄商人公會和冒險者公會後決定馬上接受新手任務。但是，把做任務途中緋爾捕到的魔物們交給公會時，得知其中大部分都是B等級以上的魔物……"
           },
           {
@@ -102,7 +102,7 @@
             "ep_number": 4,
             "rating": 2,
             "content_type": "comic",
-            "p_start": 1762184700000,
+            "p_start": 1762274700000,
             "vod_channel_description": "穆寇達目睹了緋爾使用風魔法後，自己也想會使用魔法便求教緋爾，卻很不順利。緋爾不忍目睹這樣的穆寇達，便開始斯巴達式訓練。"
           },
           {
@@ -118,7 +118,7 @@
             "ep_number": 5,
             "rating": 2,
             "content_type": "comic",
-            "p_start": 1762186200000,
+            "p_start": 1762276200000,
             "vod_channel_description": "穆寇達與緋爾到達大湖邊，捕完魚，像往常一樣吃飯。為了不讓魔物靠近，吃飯時應該布下了結界，但是剛出生不久的史萊姆混了進來……？"
           },
           {
@@ -134,7 +134,7 @@
             "ep_number": 6,
             "rating": 2,
             "content_type": "comic",
-            "p_start": 1762187700000,
+            "p_start": 1762277700000,
             "vod_channel_description": "作為穆寇達的實戰場，緋爾帶著穆寇達來到的是令人毛骨悚然的洞窟的地下迷宮。穆寇達吃了在“網路超市”上網購的原來世界的料理，提升了能力值，以萬全準備挑戰地下迷宮，然而……"
           },
           {
@@ -150,7 +150,7 @@
             "ep_number": 7,
             "rating": 2,
             "content_type": "comic",
-            "p_start": 1762189200000,
+            "p_start": 1762279200000,
             "vod_channel_description": "穆寇達一行人攻略迷宮後，感情變得更加融洽。他們為了前往下一個城鎮，在森林當中奔馳。但那裡是危險魔物們的地盤，如穆寇達所料，他們馬上就被一群雙頭犬包圍了…"
           },
           {
@@ -166,7 +166,7 @@
             "ep_number": 8,
             "rating": 2,
             "content_type": "comic",
-            "p_start": 1762190700000,
+            "p_start": 1762280700000,
             "vod_channel_description": "穆寇達一行人救了被盜賊襲擊的商隊，後來決定和他們一起前往大都市卡列利那。穆寇達抵達城鎮後，前往冒險者公會，卻在櫃檯得知自己的公會資格被註銷了…？"
           },
           {
@@ -182,7 +182,7 @@
             "ep_number": 9,
             "rating": 2,
             "content_type": "comic",
-            "p_start": 1762192200000,
+            "p_start": 1762282200000,
             "vod_channel_description": "穆寇達在執行公會的委託時，順便討伐了哥布林的聚落，結果被公會會長約談。穆寇達不想把事情鬧大，沒想到公會會長卻親自拜託他接下等級較高的委託…？"
           },
           {
@@ -198,7 +198,7 @@
             "ep_number": 10,
             "rating": 2,
             "content_type": "comic",
-            "p_start": 1762193700000,
+            "p_start": 1762283700000,
             "vod_channel_description": "穆寇達接下討伐金屬蜥蜴的委託後，前往魔物棲息的礦山，沒想到那裡竟然是更稀有的秘銀蜥蜴。穆寇達借助緋爾和史伊的力量獵殺魔物，但緋爾感興趣的卻是朝另一種更好吃的獵物前去……？"
           },
           {
@@ -214,7 +214,7 @@
             "ep_number": 11,
             "rating": 2,
             "content_type": "comic",
-            "p_start": 1762195200000,
+            "p_start": 1762285200000,
             "vod_channel_description": "蘭貝托來找穆寇達商量要送什麼禮物給妻子。穆寇達提議他在網路超市買的某樣商品，卻沒想到往出乎意料的事態發展。另一方面，一群危險的魔物雙足飛龍逐漸逼近城鎮……？"
           },
           {
@@ -230,7 +230,7 @@
             "ep_number": 12,
             "rating": 2,
             "content_type": "comic",
-            "p_start": 1762196700000,
+            "p_start": 1762286700000,
             "vod_channel_description": "穆寇達一行人輕鬆討伐危險又強悍的雙足飛龍，不只在公會在鎮上也受到誇讚。但穆寇達無視那些眼光，出發去尋找被召喚來異世界後，就一直想泡的某樣東西。"
           },
           {
@@ -246,7 +246,7 @@
             "ep_number": 13,
             "rating": 2,
             "content_type": "comic",
-            "p_start": 1762198200000,
+            "p_start": 1762288200000,
             "vod_channel_description": "穆寇達朝下一個城鎮前進，與緋爾、史伊這兩個從魔繼續踏上旅程。在路途中，當眾人跟往常一樣，享受著穆寇達做的料理，突然有一隻小型龍跑來黏在穆寇達的臉上⋯⋯？"
           },
           {
@@ -262,7 +262,7 @@
             "ep_number": 14,
             "rating": 2,
             "content_type": "comic",
-            "p_start": 1762199700000,
+            "p_start": 1762289700000,
             "vod_channel_description": "穆寇達等人穿越森林，來到迷宮都市德蘭。他們為了請人肢解緋爾獵捕到的地龍，前去訪問公會，但公會分會長艾蘭德卻對穆寇達的新從魔小多拉十分感興趣。"
           },
           {
@@ -278,7 +278,7 @@
             "ep_number": 15,
             "rating": 2,
             "content_type": "comic",
-            "p_start": 1762201200000,
+            "p_start": 1762291200000,
             "vod_channel_description": "在艾蘭德用新製的祕銀小刀肢解地龍的同時，穆寇達拗不過從魔們的央求，決定闖蕩迷宮。然而詢問之後，才發現無法當天來回，所以他開始著手準備糧食。他在市場購買要在迷宮使用的食材後，目光被商店前的新爐具吸引。"
           },
           {
@@ -294,29 +294,45 @@
             "ep_number": 16,
             "rating": 2,
             "content_type": "comic",
-            "p_start": 1762202700000,
+            "p_start": 1762292700000,
             "vod_channel_description": "穆寇達等人準備妥當，潛入迷宮當中。他們坐在緋爾的背上，一口氣狂飆。當他們一路順利地攻略各層頭目，竟在途中再次遇見熟悉的冒險者小隊。"
+          },
+          {
+            "content_id": "VOD00377329",
+            "time_codes": [
+              660000
+            ],
+            "timecode_duration": [],
+            "length": 1435000,
+            "asset_id": "vod60388-020017M001",
+            "title": "",
+            "subtitle": "第2季第17集 ",
+            "ep_number": 17,
+            "rating": 2,
+            "content_type": "comic",
+            "p_start": 1762294200000,
+            "vod_channel_description": "向田剛志是個平凡的上班族，某天他在毫無預警的情況下，被召喚到了一個充滿魔法的異世界。令人意外的是，他獲得的固有技能竟是名為「網路超市」的特殊能力，能連結現代世界，隨時購買各式各樣的食材與調味料。憑藉這份獨特的技能，他開始在異世界製作各種美味料理。"
           }
         ],
-        "total_length": 22950000,
-        "focus_index": 11,
-        "next_index": 12,
-        "time": 1231775,
+        "total_length": 24385000,
+        "focus_index": 1,
+        "next_index": 2,
+        "time": 553857,
         "focus_program": {
-          "content_id": "VOD00278517",
+          "content_id": "VOD00278507",
           "time_codes": [
-            683000
+            783000
           ],
           "timecode_duration": [],
-          "length": 1435000,
-          "asset_id": "vod60388-010012M001",
+          "length": 1434000,
+          "asset_id": "vod60388-010002M001",
           "title": "",
-          "subtitle": "第1季第12集 冒險和食物的數量一樣多(完)",
-          "ep_number": 12,
+          "subtitle": "第1季第2集 引人注目的從魔是活著的傳說",
+          "ep_number": 2,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762196700000,
-          "vod_channel_description": "穆寇達一行人輕鬆討伐危險又強悍的雙足飛龍，不只在公會在鎮上也受到誇讚。但穆寇達無視那些眼光，出發去尋找被召喚來異世界後，就一直想泡的某樣東西。"
+          "p_start": 1762271700000,
+          "vod_channel_description": "穆寇達與被美味的香氣吸引而來的傳說中的魔獸芬里爾締結完從魔契約，決定在順路到的下一個城鎮法利埃登錄公會。穆寇達告別一起旅行的鐵之意志的成員，朝公會走去，然而……"
         }
       },
       "station_categories": [
@@ -333,7 +349,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

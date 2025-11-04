@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 107,
         "cdn_code": "ofiii107",
-        "start_time": 1762114323000,
+        "start_time": 1762232352000,
         "programs": [
           {
             "content_id": "VOD00301106",
@@ -835,25 +835,25 @@
           }
         ],
         "total_length": 118029000,
-        "focus_index": 13,
-        "next_index": 14,
-        "time": 668098,
+        "focus_index": 24,
+        "next_index": 25,
+        "time": 180160,
         "focus_program": {
-          "content_id": "VOD00301119",
+          "content_id": "VOD00301130",
           "time_codes": [
-            718000,
-            1385000,
-            2118000
+            765000,
+            1455000,
+            2191000
           ],
           "timecode_duration": [],
-          "length": 2591000,
-          "asset_id": "vod65223-000014M001",
+          "length": 2641000,
+          "asset_id": "vod65223-000025M001",
           "title": "",
-          "subtitle": "第14集",
-          "ep_number": 14,
+          "subtitle": "第25集",
+          "ep_number": 25,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740081000000,
+          "p_start": 1740113100000,
           "vod_channel_description": "以司馬懿面對一生勁敵諸葛亮開始，群雄割據混戰的後三國時期，實現從輔臣到權傾大魏的後半生轉變。從司馬懿戎裝佩劍意氣風發，到諸葛亮手持白鶴羽扇揮斥方遒，都預示著一場場對戰呼之欲出。軍師聯盟的朝堂權謀、帝王心術、戰場博弈、宮闈秘辛……看一代軍師司馬懿如何在豪傑輩出的年代殺出一條血路。"
         }
       },
@@ -871,7 +871,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

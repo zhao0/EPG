@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 207,
         "cdn_code": "ofiii207",
-        "start_time": 1762150800000,
+        "start_time": 1762219200000,
         "programs": [
           {
             "content_id": "VOD00378617",
@@ -60,7 +60,7 @@
             "ep_number": 819,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762150800000,
+            "p_start": 1762219200000,
             "vod_channel_description": "聽新聞關鍵人物，說每日最新關鍵事。獨到的趙少康式觀點，直搗政治時事核心！"
           },
           {
@@ -82,7 +82,7 @@
             "ep_number": 820,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762156800000,
+            "p_start": 1762225200000,
             "vod_channel_description": "聽新聞關鍵人物，說每日最新關鍵事。獨到的趙少康式觀點，直搗政治時事核心！"
           },
           {
@@ -104,7 +104,7 @@
             "ep_number": 821,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762162800000,
+            "p_start": 1762231200000,
             "vod_channel_description": "聽新聞關鍵人物，說每日最新關鍵事。獨到的趙少康式觀點，直搗政治時事核心！"
           },
           {
@@ -126,7 +126,7 @@
             "ep_number": 822,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762168800000,
+            "p_start": 1762237200000,
             "vod_channel_description": "聽新聞關鍵人物，說每日最新關鍵事。獨到的趙少康式觀點，直搗政治時事核心！"
           },
           {
@@ -148,7 +148,7 @@
             "ep_number": 823,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762174800000,
+            "p_start": 1762243200000,
             "vod_channel_description": "聽新聞關鍵人物，說每日最新關鍵事。獨到的趙少康式觀點，直搗政治時事核心！"
           },
           {
@@ -170,7 +170,7 @@
             "ep_number": 824,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762180800000,
+            "p_start": 1762249200000,
             "vod_channel_description": "聽新聞關鍵人物，說每日最新關鍵事。獨到的趙少康式觀點，直搗政治時事核心！"
           },
           {
@@ -192,7 +192,7 @@
             "ep_number": 825,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762186800000,
+            "p_start": 1762255200000,
             "vod_channel_description": "聽新聞關鍵人物，說每日最新關鍵事。獨到的趙少康式觀點，直搗政治時事核心！"
           },
           {
@@ -214,7 +214,7 @@
             "ep_number": 826,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762192800000,
+            "p_start": 1762261200000,
             "vod_channel_description": "聽新聞關鍵人物，說每日最新關鍵事。獨到的趙少康式觀點，直搗政治時事核心！"
           },
           {
@@ -236,7 +236,7 @@
             "ep_number": 827,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762198800000,
+            "p_start": 1762267200000,
             "vod_channel_description": "聽新聞關鍵人物，說每日最新關鍵事。獨到的趙少康式觀點，直搗政治時事核心！"
           },
           {
@@ -258,34 +258,34 @@
             "ep_number": 828,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762204800000,
+            "p_start": 1762273200000,
             "vod_channel_description": "聽新聞關鍵人物，說每日最新關鍵事。獨到的趙少康式觀點，直搗政治時事核心！"
           }
         ],
         "total_length": 57851000,
-        "focus_index": 0,
-        "next_index": 1,
-        "time": 370812,
+        "focus_index": 3,
+        "next_index": 4,
+        "time": 2190703,
         "focus_program": {
-          "content_id": "VOD00378617",
+          "content_id": "VOD00379877",
           "time_codes": [
-            806000,
-            1754000,
-            2337000,
-            3129000,
-            3757000,
-            4442000,
-            5278000
+            817000,
+            1407000,
+            2319000,
+            3258000,
+            3766000,
+            4655000,
+            5295000
           ],
           "timecode_duration": [],
-          "length": 5787000,
-          "asset_id": "vod64269-000819M001",
+          "length": 5788000,
+          "asset_id": "vod64269-000822M001",
           "title": "",
-          "subtitle": "阿富汗、巴基斯坦邊境交火 傳數百死傷引爆地緣政治火藥庫？趙少康：8頻道、151部影片介入攻擊 國民黨被介選數據曝光？",
-          "ep_number": 819,
+          "subtitle": "美財長：尋求更廣泛國際支持 G7擬攜手應對稀土戰開打全球震盪？新壽T17、T18突動土 稱是「內部活動」未邀外賓耐人尋味？",
+          "ep_number": 822,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762150800000,
+          "p_start": 1762237200000,
           "vod_channel_description": "聽新聞關鍵人物，說每日最新關鍵事。獨到的趙少康式觀點，直搗政治時事核心！"
         }
       },
@@ -303,7 +303,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

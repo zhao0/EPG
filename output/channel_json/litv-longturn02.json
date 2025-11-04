@@ -51,187 +51,7 @@
       "Schedule": [
         {
           "StationId": 1231,
-          "ProgramId": "00150396000000",
-          "AirDateTime": "2025-11-04T13:00:00Z",
-          "Duration": 6300,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00150396000000",
-            "Title": "科技浩劫",
-            "SubTitle": "Cell",
-            "Description": "恐怖大師史蒂芬金小說改編。一股邪惡的脈衝磁波藉由手機入侵大腦，讓人類如狂犬病患般失控且嗜殺，疫情迅速擴及全球。獨自駕車尋找分居妻兒的柯雷（約翰庫薩克）僥倖逃過一劫，他與途中偶遇的倖存者要合作找出災難根源，以免禍延自身…",
-            "ShowType": "98"
-          }
-        },
-        {
-          "StationId": 1231,
-          "ProgramId": "00000001000152",
-          "AirDateTime": "2025-11-04T14:45:00Z",
-          "Duration": 5700,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00000001000152",
-            "Title": "黑獄戰場",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1231,
-          "ProgramId": "00188295000000",
-          "AirDateTime": "2025-11-04T16:20:00Z",
-          "Duration": 6000,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00188295000000",
-            "Title": "史前魔種",
-            "Description": "迪德麗（露西馬丁 飾）、夏綠蒂（雀兒喜埃奇 飾）和希瑟（蘇菲薇瓦雪 飾）三位好友相約前往莫哈韋沙漠，以便在希瑟父親的別墅中直播流星雨，夜裡一顆隕石墜落，她們將它撿回來之後，發現它其實是隻古怪的生物，這時三人還不知道，她們的網紅美夢，將因為這個外星異形而演變成腥紅地獄……。",
-            "ShowType": "98"
-          }
-        },
-        {
-          "StationId": 1231,
-          "ProgramId": "00000001000153",
-          "AirDateTime": "2025-11-04T18:00:00Z",
-          "Duration": 5100,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00000001000153",
-            "Title": "微光殺機",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1231,
-          "ProgramId": "00000001000154",
-          "AirDateTime": "2025-11-04T19:25:00Z",
-          "Duration": 7200,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00000001000154",
-            "Title": "黑水巷",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1231,
-          "ProgramId": "00000001000155",
-          "AirDateTime": "2025-11-04T21:25:00Z",
-          "Duration": 5700,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00000001000155",
-            "Title": "超市撿到槍",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1231,
-          "ProgramId": "00166296000000",
-          "AirDateTime": "2025-11-04T23:00:00Z",
-          "Duration": 6600,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00166296000000",
-            "Title": "犯罪教條",
-            "SubTitle": "Trespass Against Us",
-            "Description": "出身犯罪世家的查德（麥可法賓斯達）為了給兒子更好的將來，想要脫離家族事業，但他父親寇比（布蘭登葛里森）卻認為此舉無異於背叛而設法阻止，並再次要求查德參與搶案。不料成功犯下搶案並脫身後，警方卻強力掃蕩查德家族的聚居地…",
-            "ShowType": "98"
-          }
-        },
-        {
-          "StationId": 1231,
-          "ProgramId": "00000001000156",
+          "ProgramId": "00000001000147",
           "AirDateTime": "2025-11-05T00:50:00Z",
           "Duration": 6000,
           "PartNumber": 0,
@@ -249,7 +69,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000156",
+            "ProgramId": "00000001000147",
             "Title": "完美的敵人",
             "ShowType": "1"
           }
@@ -283,7 +103,7 @@
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000157",
+          "ProgramId": "00000001000148",
           "AirDateTime": "2025-11-05T04:20:00Z",
           "Duration": 6300,
           "PartNumber": 0,
@@ -301,14 +121,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000157",
+            "ProgramId": "00000001000148",
             "Title": "殲滅黑蠍幫",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000158",
+          "ProgramId": "00000001000149",
           "AirDateTime": "2025-11-05T06:05:00Z",
           "Duration": 6900,
           "PartNumber": 0,
@@ -326,7 +146,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000158",
+            "ProgramId": "00000001000149",
             "Title": "疾速求生",
             "ShowType": "1"
           }
@@ -441,7 +261,7 @@
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000159",
+          "ProgramId": "00000001000150",
           "AirDateTime": "2025-11-05T15:20:00Z",
           "Duration": 7500,
           "PartNumber": 0,
@@ -459,7 +279,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000159",
+            "ProgramId": "00000001000150",
             "Title": "聖保羅大劫案",
             "ShowType": "1"
           }
@@ -493,7 +313,7 @@
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000160",
+          "ProgramId": "00000001000151",
           "AirDateTime": "2025-11-05T19:20:00Z",
           "Duration": 5400,
           "PartNumber": 0,
@@ -511,7 +331,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000160",
+            "ProgramId": "00000001000151",
             "Title": "祕室逃脫",
             "ShowType": "1"
           }
@@ -597,7 +417,7 @@
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000161",
+          "ProgramId": "00000001000152",
           "AirDateTime": "2025-11-06T02:30:00Z",
           "Duration": 6600,
           "PartNumber": 0,
@@ -615,7 +435,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000161",
+            "ProgramId": "00000001000152",
             "Title": "英勇交錯",
             "ShowType": "1"
           }
@@ -675,7 +495,7 @@
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000162",
+          "ProgramId": "00000001000153",
           "AirDateTime": "2025-11-06T07:45:00Z",
           "Duration": 5400,
           "PartNumber": 0,
@@ -693,7 +513,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000162",
+            "ProgramId": "00000001000153",
             "Title": "白雪奇緣",
             "ShowType": "1"
           }
@@ -727,7 +547,7 @@
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000163",
+          "ProgramId": "00000001000154",
           "AirDateTime": "2025-11-06T11:00:00Z",
           "Duration": 7200,
           "PartNumber": 0,
@@ -745,7 +565,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000163",
+            "ProgramId": "00000001000154",
             "Title": "血戰危城卡爾巴拉",
             "ShowType": "1"
           }
@@ -779,7 +599,7 @@
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000164",
+          "ProgramId": "00000001000155",
           "AirDateTime": "2025-11-06T14:55:00Z",
           "Duration": 6000,
           "PartNumber": 0,
@@ -797,7 +617,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000164",
+            "ProgramId": "00000001000155",
             "Title": "鯊魚困鬥",
             "ShowType": "1"
           }
@@ -885,7 +705,7 @@
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000165",
+          "ProgramId": "00000001000156",
           "AirDateTime": "2025-11-06T21:25:00Z",
           "Duration": 6900,
           "PartNumber": 0,
@@ -903,14 +723,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000165",
+            "ProgramId": "00000001000156",
             "Title": "把妹哪有這麼難",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000166",
+          "ProgramId": "00000001000157",
           "AirDateTime": "2025-11-06T23:20:00Z",
           "Duration": 5400,
           "PartNumber": 0,
@@ -928,7 +748,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000166",
+            "ProgramId": "00000001000157",
             "Title": "血色風暴",
             "ShowType": "1"
           }
@@ -1041,7 +861,7 @@
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000167",
+          "ProgramId": "00000001000158",
           "AirDateTime": "2025-11-07T07:40:00Z",
           "Duration": 6000,
           "PartNumber": 0,
@@ -1059,14 +879,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000167",
+            "ProgramId": "00000001000158",
             "Title": "泳不放棄",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000168",
+          "ProgramId": "00000001000159",
           "AirDateTime": "2025-11-07T09:20:00Z",
           "Duration": 6000,
           "PartNumber": 0,
@@ -1084,7 +904,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000168",
+            "ProgramId": "00000001000159",
             "Title": "笑笑羊大電影：外星人來了",
             "ShowType": "1"
           }
@@ -1145,7 +965,7 @@
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000169",
+          "ProgramId": "00000001000160",
           "AirDateTime": "2025-11-07T14:50:00Z",
           "Duration": 7200,
           "PartNumber": 0,
@@ -1163,14 +983,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000169",
+            "ProgramId": "00000001000160",
             "Title": "叛諜檔案",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000170",
+          "ProgramId": "00000001000161",
           "AirDateTime": "2025-11-07T16:50:00Z",
           "Duration": 6600,
           "PartNumber": 0,
@@ -1188,14 +1008,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000170",
+            "ProgramId": "00000001000161",
             "Title": "卓婭：游擊女英雄",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000171",
+          "ProgramId": "00000001000162",
           "AirDateTime": "2025-11-07T18:40:00Z",
           "Duration": 6000,
           "PartNumber": 0,
@@ -1213,14 +1033,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000171",
+            "ProgramId": "00000001000162",
             "Title": "超電網戰將",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000172",
+          "ProgramId": "00000001000163",
           "AirDateTime": "2025-11-07T20:20:00Z",
           "Duration": 6000,
           "PartNumber": 0,
@@ -1238,14 +1058,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000172",
+            "ProgramId": "00000001000163",
             "Title": "血戰狼人堡",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000173",
+          "ProgramId": "00000001000164",
           "AirDateTime": "2025-11-07T22:00:00Z",
           "Duration": 7200,
           "PartNumber": 0,
@@ -1263,14 +1083,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000173",
+            "ProgramId": "00000001000164",
             "Title": "好萊塢現場直擊(新)",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000174",
+          "ProgramId": "00000001000165",
           "AirDateTime": "2025-11-08T00:00:00Z",
           "Duration": 6600,
           "PartNumber": 0,
@@ -1288,14 +1108,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000174",
+            "ProgramId": "00000001000165",
             "Title": "龍轉戰局",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000175",
+          "ProgramId": "00000001000166",
           "AirDateTime": "2025-11-08T01:50:00Z",
           "Duration": 6000,
           "PartNumber": 0,
@@ -1313,7 +1133,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000175",
+            "ProgramId": "00000001000166",
             "Title": "獵捕行動",
             "ShowType": "1"
           }
@@ -1374,7 +1194,7 @@
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000176",
+          "ProgramId": "00000001000167",
           "AirDateTime": "2025-11-08T07:30:00Z",
           "Duration": 6600,
           "PartNumber": 0,
@@ -1392,7 +1212,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000176",
+            "ProgramId": "00000001000167",
             "Title": "311：東京大震盪",
             "ShowType": "1"
           }
@@ -1506,7 +1326,7 @@
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000177",
+          "ProgramId": "00000001000168",
           "AirDateTime": "2025-11-08T17:25:00Z",
           "Duration": 7500,
           "PartNumber": 0,
@@ -1524,14 +1344,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000177",
+            "ProgramId": "00000001000168",
             "Title": "罪惡對決(新)",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000178",
+          "ProgramId": "00000001000169",
           "AirDateTime": "2025-11-08T19:30:00Z",
           "Duration": 9000,
           "PartNumber": 0,
@@ -1549,14 +1369,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000178",
+            "ProgramId": "00000001000169",
             "Title": "致命最前線",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000173",
+          "ProgramId": "00000001000164",
           "AirDateTime": "2025-11-08T22:00:00Z",
           "Duration": 7200,
           "PartNumber": 0,
@@ -1574,14 +1394,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000173",
+            "ProgramId": "00000001000164",
             "Title": "好萊塢現場直擊(新)",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000158",
+          "ProgramId": "00000001000149",
           "AirDateTime": "2025-11-09T00:00:00Z",
           "Duration": 6900,
           "PartNumber": 0,
@@ -1599,14 +1419,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000158",
+            "ProgramId": "00000001000149",
             "Title": "疾速求生",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000179",
+          "ProgramId": "00000001000170",
           "AirDateTime": "2025-11-09T01:55:00Z",
           "Duration": 6000,
           "PartNumber": 0,
@@ -1624,14 +1444,14 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000179",
+            "ProgramId": "00000001000170",
             "Title": "無路可退",
             "ShowType": "1"
           }
         },
         {
           "StationId": 1231,
-          "ProgramId": "00000001000180",
+          "ProgramId": "00000001000171",
           "AirDateTime": "2025-11-09T03:35:00Z",
           "Duration": 7800,
           "PartNumber": 0,
@@ -1649,7 +1469,7 @@
           "BroadcastFormat": "4x3",
           "EndTime": "0001-01-01T00:00:00Z",
           "program": {
-            "ProgramId": "00000001000180",
+            "ProgramId": "00000001000171",
             "Title": "潛艦追緝",
             "ShowType": "1"
           }
@@ -1707,6 +1527,345 @@
             "Description": "少年阿賈一心嚮往到世界各地探險，但爸爸卻要他繼承手藝當裁縫師。神秘的鄰居爺爺以找回失散已久的孫女作為交換，出借飛翔魔毯給阿賈去實現夢想。帶著好友山羊拉雅，阿賈登毯高飛、飛向廣大未知的世界，經歷了精彩刺激的奇幻歷險，體會了友情與親情的難能可貴。",
             "ShowType": "98"
           }
+        },
+        {
+          "StationId": 1231,
+          "ProgramId": "00165017000000",
+          "AirDateTime": "2025-11-09T09:15:00Z",
+          "Duration": 7200,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00165017000000",
+            "Title": "香米小情歌",
+            "SubTitle": "Basmati Blues",
+            "Description": "科學家琳達（布莉拉森）被公司總裁葛根（唐納蘇德蘭）欽點，派到印度推廣她與父親研發的新品種香米，她在此與輟學大學生羅傑在共同合作的過程中日久生情。一心想幫農民改善生活的琳達此時卻發現，看似單純的推廣活動背後竟暗藏醜陋陰謀…",
+            "ShowType": "98"
+          }
+        },
+        {
+          "StationId": 1231,
+          "ProgramId": "00000001000172",
+          "AirDateTime": "2025-11-09T11:15:00Z",
+          "Duration": 6300,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00000001000172",
+            "Title": "海豹戰警隊",
+            "ShowType": "1"
+          }
+        },
+        {
+          "StationId": 1231,
+          "ProgramId": "00000001000173",
+          "AirDateTime": "2025-11-09T13:00:00Z",
+          "Duration": 7500,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00000001000173",
+            "Title": "【星光首映場】罪惡對決",
+            "ShowType": "1"
+          }
+        },
+        {
+          "StationId": 1231,
+          "ProgramId": "00000001000174",
+          "AirDateTime": "2025-11-09T15:05:00Z",
+          "Duration": 7500,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00000001000174",
+            "Title": "自由協議",
+            "ShowType": "1"
+          }
+        },
+        {
+          "StationId": 1231,
+          "ProgramId": "00034942000000",
+          "AirDateTime": "2025-11-09T17:10:00Z",
+          "Duration": 6900,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00034942000000",
+            "Title": "獵魔者",
+            "Description": "由王晶導演，集合狄龍、汪禹共同演出的動作片。故事敘述六個殺手同時受聘捉拿高飛，但當他們完成任務後，卻發現這原來是引誘他們互相殘殺的一個騙局。",
+            "ShowType": "98"
+          }
+        },
+        {
+          "StationId": 1231,
+          "ProgramId": "00000001000175",
+          "AirDateTime": "2025-11-09T19:05:00Z",
+          "Duration": 8100,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00000001000175",
+            "Title": "使徒營救",
+            "ShowType": "1"
+          }
+        },
+        {
+          "StationId": 1231,
+          "ProgramId": "00187509000000",
+          "AirDateTime": "2025-11-09T21:20:00Z",
+          "Duration": 5400,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00187509000000",
+            "Title": "在AI世界與你再戀",
+            "Description": "研人工智慧的她無法接受男友驟逝，無法成眠時發現了一款AI軟件能將真實世界和虛擬世界無縫集成，如此一來便可以輕易沉浸在已故戀人的永恆之愛中...然而，愛上她的資安專家是要採取行動讓公司順利上市或是拯救她回到現實世界？",
+            "ShowType": "98"
+          }
+        },
+        {
+          "StationId": 1231,
+          "ProgramId": "00182216000000",
+          "AirDateTime": "2025-11-09T22:50:00Z",
+          "Duration": 7800,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00182216000000",
+            "Title": "惡水真相",
+            "SubTitle": "Minamata",
+            "Description": "二戰過後，美國戰地攝影師尤金史密斯（強尼戴普）決定隱居，但在雜誌編輯羅伯特海斯（比爾奈伊）的委託下，他來到了日本熊本縣的水俁市。那是一個因日本窒素公司將含有劇毒的水銀污水排入海灣，造成居民染上怪病的城市。他用相機紀錄人們受疾病所苦的景況，為全世界揭露這起令人心碎的歷史災難…",
+            "ShowType": "98"
+          }
+        },
+        {
+          "StationId": 1231,
+          "ProgramId": "00160792000000",
+          "AirDateTime": "2025-11-10T01:00:00Z",
+          "Duration": 6300,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00160792000000",
+            "Title": "愛情齡距離",
+            "SubTitle": "Home Again",
+            "Description": "剛和老公分居的艾莉絲（瑞絲薇斯朋）帶著兩個女兒與寡母同住，她與閨密慶祝40歲生日當晚，與小鮮肉哈利（皮可亞歷山大）差點一夜情！後來哈利與兩位好友住進她家，與她家人發展出情誼。但當艾莉絲與哈利情愫漸生，老公卻上門求復合…",
+            "ShowType": "98"
+          }
+        },
+        {
+          "StationId": 1231,
+          "ProgramId": "00181105000000",
+          "AirDateTime": "2025-11-10T02:45:00Z",
+          "Duration": 6300,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00181105000000",
+            "Title": "時間守護者",
+            "SubTitle": "The Time Guardians",
+            "Description": "傳說只要前往黑暗城市，讓鐘塔內靜止的時鐘重新轉動，所有的痛苦和不幸都會消失，一切都能恢復正常。孤兒小女孩庫夏被慈愛的養父母領養，過著幸福的日子，不料邪惡的女巫卻挑撥養父母的感情，讓庫夏美滿的家庭陷入危機。為了改變這一切，庫夏踏上冒險的旅程，前往黑暗城市，讓時鐘重新運轉…",
+            "ShowType": "98"
+          }
+        },
+        {
+          "StationId": 1231,
+          "ProgramId": "00000001000176",
+          "AirDateTime": "2025-11-10T04:30:00Z",
+          "Duration": 5400,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00000001000176",
+            "Title": "時空交戰",
+            "ShowType": "1"
+          }
+        },
+        {
+          "StationId": 1231,
+          "ProgramId": "00129117000000",
+          "AirDateTime": "2025-11-10T06:00:00Z",
+          "Duration": 6900,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00129117000000",
+            "Title": "特務殺很大",
+            "SubTitle": "3 Days to Kill",
+            "Description": "資深中情局頂尖探員伊森（凱文科斯納）被診斷為腦癌末期，可能活不到年底，因此決定退休，修補與前妻和女兒的感情。上級卻指派女刺客薇薇（安柏赫德）與他搭檔，以能延長伊森性命的藥劑為交換條件，兩人合作追捕惡名昭彰的人蛇集團首領…",
+            "ShowType": "98"
+          }
+        },
+        {
+          "StationId": 1231,
+          "ProgramId": "00133591000000",
+          "AirDateTime": "2025-11-10T07:55:00Z",
+          "Duration": 6300,
+          "PartNumber": 0,
+          "NumberParts": 0,
+          "Repeat": false,
+          "PremiereFinale": 0,
+          "LiveDelay": 3,
+          "ClosedCaption": false,
+          "Subtitled": false,
+          "TvRating": 1,
+          "SexRating": false,
+          "ViolenceRating": false,
+          "LanguageRating": false,
+          "FVRating": false,
+          "BroadcastFormat": "4x3",
+          "EndTime": "0001-01-01T00:00:00Z",
+          "program": {
+            "ProgramId": "00133591000000",
+            "Title": "小狼童阿飛",
+            "SubTitle": "Alfie the Little Werewolf",
+            "Description": "在七歲的生日晚上，心地善良的阿飛突然變身成為一隻小小的、雪白的毛絨小野狼。他完全不知道自己是怎麼了。在這次變身之後，阿飛開始感覺到自己不太一樣了，入夜後他變成的那頭不受控制的小狼，跟白天害羞內向的小男孩簡直是天差地別。他能找到辦法接受這樣的自己嗎?",
+            "ShowType": "98"
+          }
         }
       ],
       "Logo": "logo_litv_litv-longturn02_pc.png",
@@ -1729,7 +1888,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36"
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

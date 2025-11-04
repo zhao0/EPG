@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 145,
         "cdn_code": "ofiii145",
-        "start_time": 1762144768000,
+        "start_time": 1762233242000,
         "programs": [
           {
             "content_id": "VOD00355145",
@@ -271,26 +271,26 @@
           }
         ],
         "total_length": 44237000,
-        "focus_index": 9,
-        "next_index": 10,
-        "time": 1455927,
+        "focus_index": 5,
+        "next_index": 6,
+        "time": 628961,
         "focus_program": {
-          "content_id": "VOD00355154",
+          "content_id": "VOD00355150",
           "time_codes": [
-            711000,
-            1418000,
-            2139000,
-            2941000
+            841000,
+            1497000,
+            2133000,
+            2994000
           ],
           "timecode_duration": [],
-          "length": 3685000,
-          "asset_id": "vod76029-000010M001",
+          "length": 3660000,
+          "asset_id": "vod76029-000006M001",
           "title": "",
-          "subtitle": "第10集",
-          "ep_number": 10,
+          "subtitle": "第6集",
+          "ep_number": 6,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1741653900000,
+          "p_start": 1741638300000,
           "vod_channel_description": "個性倔強的老奶奶「吳末順」，竟然一夜之間變成了女團練習生「吳杜莉」？！回到年輕時代的她，實現了過去未完成的夢想，享受再度閃耀的全盛時期。"
         }
       },
@@ -304,7 +304,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

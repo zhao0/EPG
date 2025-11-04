@@ -2523,24 +2523,24 @@
           }
         ],
         "total_length": 222924000,
-        "focus_index": 18,
-        "next_index": 19,
-        "time": 450263,
+        "focus_index": 38,
+        "next_index": 39,
+        "time": 415395,
         "focus_program": {
-          "content_id": "VOD00050062",
+          "content_id": "VOD00052482",
           "time_codes": [
-            748000
+            709000
           ],
           "timecode_duration": [],
-          "length": 1430000,
-          "asset_id": "vod11051-010019M001",
+          "length": 1440000,
+          "asset_id": "vod11051-020013M001",
           "title": "",
-          "subtitle": "第1季第19集 衝向死亡懸崖",
-          "ep_number": 19,
+          "subtitle": "第2季第13集 命運之輪",
+          "ep_number": 13,
           "rating": 3,
           "content_type": "comic",
-          "p_start": 1762045800000,
-          "vod_channel_description": "原應在桑坦那之戰中化為灰塵的德國軍人修特羅哈姆，出現在「紅寶石」送達的地點。已全身機械化的修特羅哈姆與現身想要謀奪「恩嘉紅寶石」的卡茲展開了戰鬥，使用「光之流法」的卡茲壓制了修特羅哈姆。喬瑟夫看著他們的決鬥，並親眼目賭卡茲掉落的「紅寶石」滑向了懸崖…！"
+          "p_start": 1762075800000,
+          "vod_channel_description": "承太郎他們開著四輪傳動的車子，從印度往巴基斯坦飛奔，強行超越一輛破車。他們一行人順利地開了沒多久，剛剛超過的那輛破車便出現在他們身後，他們決定讓那車子先過。然而，那輛破車一超車往前就立刻慢下來，不斷讓人覺得他是故意在找碴。"
         }
       },
       "station_categories": [
@@ -2557,7 +2557,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

@@ -1744,25 +1744,25 @@
           }
         ],
         "total_length": 141330000,
-        "focus_index": 98,
-        "next_index": 99,
-        "time": 702762,
+        "focus_index": 19,
+        "next_index": 20,
+        "time": 1026488,
         "focus_program": {
-          "content_id": "VOD00333374",
+          "content_id": "VOD00333295",
           "time_codes": [
             600000,
             1200000
           ],
           "timecode_duration": [],
-          "length": 1359000,
-          "asset_id": "vod71522-000529M001",
+          "length": 1448000,
+          "asset_id": "vod71522-000450M001",
           "title": "",
-          "subtitle": "第529集 密道原子筆/電視取物黏膠",
-          "ep_number": 529,
+          "subtitle": "第450集 穿過相框到海邊/忠犬好友",
+          "ep_number": 450,
           "rating": 1,
           "content_type": "kids",
-          "p_start": 1762301400000,
-          "vod_channel_description": "【密道原子筆】大雄在電視上看時代劇時，看到堡壘裡有緊急逃生用的密道，他突發奇想也想要一個屬於自己的密道。哆啦A夢聽後雖然感到無奈，但還是拿出了「密道原子筆」。哆啦A夢解釋說，只要在家裡的某處畫個圓，就會出現一個密道，從密道穿出去可以直接通往家外。\r\n\r\n【電視取物黏膠】大雄看著電視廣告，抱怨自己有好多想要的東西都無法得到。哆啦A夢聽了，從百寶袋裡拿出了一個道具——「電視取物黏膠」，這個道具能讓人拿到任何出現在電視上的物品。之後，大雄決定幫靜香取出她想要的東西。正巧電視上播放的是靜香最喜歡的樂團——Official髭男dism，大雄想幫靜香拿到他們的簽名，於是嘗試將樂團成員從電視裡拉出來…！？"
+          "p_start": 1762160100000,
+          "vod_channel_description": "【穿過相框到海邊】炎熱的暑假，大雄、靜香、胖虎和小夫卻在空地垂頭喪氣，羨慕著別人家可以在暑假到處旅遊。大雄回到家之後，卻發現房間裡多了一幅從未見過的風景照片，原來是哆啦A夢為了避暑，特意拿出可以呈現涼快風景的道具——「拉近實景相框」。\r\n\r\n【忠犬好友】這天大雄在外面遭受靜香冷漠，又被胖虎欺負，一如往常地回家找哆啦A夢抱怨，沒想到這次哆啦A夢卻認為問題出在大雄自己身上，大雄生氣地說：「朋友才不是這樣呢！」，哆啦A夢早就習以為常，無所謂地拿出了一個道具——「機器人忠犬好友」。"
         }
       },
       "station_categories": [
@@ -1784,7 +1784,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

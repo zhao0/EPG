@@ -1519,25 +1519,25 @@
           }
         ],
         "total_length": 222201000,
-        "focus_index": 42,
-        "next_index": 43,
-        "time": 2093891,
+        "focus_index": 53,
+        "next_index": 54,
+        "time": 1006534,
         "focus_program": {
-          "content_id": "VOD00334817",
+          "content_id": "VOD00334828",
           "time_codes": [
-            675000,
-            1396000,
-            2112000
+            761000,
+            1413000,
+            2134000
           ],
           "timecode_duration": [],
-          "length": 2706000,
-          "asset_id": "vod71808-000043M001",
+          "length": 2709000,
+          "asset_id": "vod71808-000054M001",
           "title": "",
-          "subtitle": "第43集",
-          "ep_number": 43,
+          "subtitle": "第54集",
+          "ep_number": 54,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740057900000,
+          "p_start": 1740090900000,
           "vod_channel_description": "講述武則天（范冰冰）從青澀少女到一代女皇的成長奮鬥史。神龍元年，皇太子李顯在宰相張柬之等人的簇擁下逼宮，面對大周女皇帝武則天，懦弱的太子李顯落荒而逃。這都在武則天的意料之中。她在等著一個人讓她放心將大唐江山託付，中國歷史上唯一的女皇帝的傳奇一生揭開帷幕！"
         }
       },
@@ -1555,7 +1555,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

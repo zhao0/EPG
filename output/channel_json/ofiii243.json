@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 243,
         "cdn_code": "ofiii243",
-        "start_time": 1762154100000,
+        "start_time": 1762265100000,
         "programs": [
           {
             "content_id": "VOD00230758",
@@ -52,7 +52,7 @@
             "ep_number": 1,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762154100000,
+            "p_start": 1762265100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -66,7 +66,7 @@
             "ep_number": 2,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762154700000,
+            "p_start": 1762265700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -80,7 +80,7 @@
             "ep_number": 3,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762155300000,
+            "p_start": 1762266300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -94,7 +94,7 @@
             "ep_number": 4,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762155900000,
+            "p_start": 1762266900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -108,7 +108,7 @@
             "ep_number": 5,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762156500000,
+            "p_start": 1762267500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -122,7 +122,7 @@
             "ep_number": 6,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762157100000,
+            "p_start": 1762268100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -136,7 +136,7 @@
             "ep_number": 7,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762157700000,
+            "p_start": 1762268700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -150,7 +150,7 @@
             "ep_number": 8,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762158300000,
+            "p_start": 1762269300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -164,7 +164,7 @@
             "ep_number": 9,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762158900000,
+            "p_start": 1762269900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -178,7 +178,7 @@
             "ep_number": 10,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762159500000,
+            "p_start": 1762270500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -192,7 +192,7 @@
             "ep_number": 11,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762160100000,
+            "p_start": 1762271100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -206,7 +206,7 @@
             "ep_number": 12,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762160700000,
+            "p_start": 1762271700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -220,7 +220,7 @@
             "ep_number": 13,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762161300000,
+            "p_start": 1762272300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -234,7 +234,7 @@
             "ep_number": 14,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762161900000,
+            "p_start": 1762272900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -248,7 +248,7 @@
             "ep_number": 15,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762162500000,
+            "p_start": 1762273500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -262,7 +262,7 @@
             "ep_number": 16,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762163100000,
+            "p_start": 1762274100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -276,7 +276,7 @@
             "ep_number": 17,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762163700000,
+            "p_start": 1762274700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -290,7 +290,7 @@
             "ep_number": 18,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762164300000,
+            "p_start": 1762275300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -304,7 +304,7 @@
             "ep_number": 19,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762164900000,
+            "p_start": 1762275900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -318,7 +318,7 @@
             "ep_number": 20,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762165500000,
+            "p_start": 1762276500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -332,7 +332,7 @@
             "ep_number": 21,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762166100000,
+            "p_start": 1762277100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -346,7 +346,7 @@
             "ep_number": 22,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762166700000,
+            "p_start": 1762277700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -360,7 +360,7 @@
             "ep_number": 23,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762167300000,
+            "p_start": 1762278300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -374,7 +374,7 @@
             "ep_number": 24,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762167900000,
+            "p_start": 1762278900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -388,7 +388,7 @@
             "ep_number": 25,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762168500000,
+            "p_start": 1762279500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -402,7 +402,7 @@
             "ep_number": 26,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762169100000,
+            "p_start": 1762280100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -416,7 +416,7 @@
             "ep_number": 27,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762169700000,
+            "p_start": 1762280700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -430,7 +430,7 @@
             "ep_number": 28,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762170300000,
+            "p_start": 1762281300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -444,7 +444,7 @@
             "ep_number": 29,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762170900000,
+            "p_start": 1762281900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -458,7 +458,7 @@
             "ep_number": 30,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762171500000,
+            "p_start": 1762282500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -472,7 +472,7 @@
             "ep_number": 31,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762172100000,
+            "p_start": 1762283100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -486,7 +486,7 @@
             "ep_number": 32,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762172700000,
+            "p_start": 1762283700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -500,7 +500,7 @@
             "ep_number": 33,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762173300000,
+            "p_start": 1762284300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -514,7 +514,7 @@
             "ep_number": 34,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762173900000,
+            "p_start": 1762284900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -528,7 +528,7 @@
             "ep_number": 35,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762174500000,
+            "p_start": 1762285500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -542,7 +542,7 @@
             "ep_number": 1,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762175100000,
+            "p_start": 1762286100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -556,7 +556,7 @@
             "ep_number": 2,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762175700000,
+            "p_start": 1762286700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -570,7 +570,7 @@
             "ep_number": 3,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762176300000,
+            "p_start": 1762287300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -584,7 +584,7 @@
             "ep_number": 4,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762176900000,
+            "p_start": 1762287900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -598,7 +598,7 @@
             "ep_number": 5,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762177500000,
+            "p_start": 1762288500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -612,7 +612,7 @@
             "ep_number": 6,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762178100000,
+            "p_start": 1762289100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -626,7 +626,7 @@
             "ep_number": 7,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762178700000,
+            "p_start": 1762289700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -640,7 +640,7 @@
             "ep_number": 8,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762179300000,
+            "p_start": 1762290300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -654,7 +654,7 @@
             "ep_number": 9,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762179900000,
+            "p_start": 1762290900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -668,7 +668,7 @@
             "ep_number": 10,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762180500000,
+            "p_start": 1762291500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -682,7 +682,7 @@
             "ep_number": 11,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762181100000,
+            "p_start": 1762292100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -696,7 +696,7 @@
             "ep_number": 12,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762181700000,
+            "p_start": 1762292700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -710,7 +710,7 @@
             "ep_number": 13,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762182300000,
+            "p_start": 1762293300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -724,7 +724,7 @@
             "ep_number": 14,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762182900000,
+            "p_start": 1762293900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -738,7 +738,7 @@
             "ep_number": 15,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762183500000,
+            "p_start": 1762294500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -752,7 +752,7 @@
             "ep_number": 16,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762184100000,
+            "p_start": 1762295100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -766,7 +766,7 @@
             "ep_number": 17,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762184700000,
+            "p_start": 1762295700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -780,7 +780,7 @@
             "ep_number": 18,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762185300000,
+            "p_start": 1762296300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -794,7 +794,7 @@
             "ep_number": 19,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762185900000,
+            "p_start": 1762296900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -808,7 +808,7 @@
             "ep_number": 20,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762186500000,
+            "p_start": 1762297500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -822,7 +822,7 @@
             "ep_number": 21,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762187100000,
+            "p_start": 1762298100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -836,7 +836,7 @@
             "ep_number": 22,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762187700000,
+            "p_start": 1762298700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -850,7 +850,7 @@
             "ep_number": 23,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762188300000,
+            "p_start": 1762299300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -864,7 +864,7 @@
             "ep_number": 24,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762188900000,
+            "p_start": 1762299900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -878,7 +878,7 @@
             "ep_number": 25,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762189500000,
+            "p_start": 1762300500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -892,7 +892,7 @@
             "ep_number": 26,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762190100000,
+            "p_start": 1762301100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -906,7 +906,7 @@
             "ep_number": 27,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762190700000,
+            "p_start": 1762301700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -920,7 +920,7 @@
             "ep_number": 28,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762191300000,
+            "p_start": 1762302300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -934,7 +934,7 @@
             "ep_number": 29,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762191900000,
+            "p_start": 1762302900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -948,7 +948,7 @@
             "ep_number": 30,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762192500000,
+            "p_start": 1762303500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -962,7 +962,7 @@
             "ep_number": 1,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762193100000,
+            "p_start": 1762304100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -976,7 +976,7 @@
             "ep_number": 2,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762193700000,
+            "p_start": 1762304700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -990,7 +990,7 @@
             "ep_number": 3,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762194300000,
+            "p_start": 1762305300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1004,7 +1004,7 @@
             "ep_number": 4,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762194900000,
+            "p_start": 1762305900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1018,7 +1018,7 @@
             "ep_number": 5,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762195500000,
+            "p_start": 1762306500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1032,7 +1032,7 @@
             "ep_number": 6,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762196100000,
+            "p_start": 1762307100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1046,7 +1046,7 @@
             "ep_number": 7,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762196700000,
+            "p_start": 1762307700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1060,7 +1060,7 @@
             "ep_number": 8,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762197300000,
+            "p_start": 1762308300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1074,7 +1074,7 @@
             "ep_number": 9,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762197900000,
+            "p_start": 1762308900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1088,7 +1088,7 @@
             "ep_number": 10,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762198500000,
+            "p_start": 1762309500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1102,7 +1102,7 @@
             "ep_number": 11,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762199100000,
+            "p_start": 1762310100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1116,7 +1116,7 @@
             "ep_number": 12,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762199700000,
+            "p_start": 1762310700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1130,7 +1130,7 @@
             "ep_number": 13,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762200300000,
+            "p_start": 1762311300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1144,7 +1144,7 @@
             "ep_number": 14,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762200900000,
+            "p_start": 1762311900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1158,7 +1158,7 @@
             "ep_number": 15,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762201500000,
+            "p_start": 1762312500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1172,7 +1172,7 @@
             "ep_number": 16,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762202100000,
+            "p_start": 1762313100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1186,7 +1186,7 @@
             "ep_number": 17,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762202700000,
+            "p_start": 1762313700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1200,7 +1200,7 @@
             "ep_number": 18,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762203300000,
+            "p_start": 1762314300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1214,7 +1214,7 @@
             "ep_number": 19,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762203900000,
+            "p_start": 1762314900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1228,7 +1228,7 @@
             "ep_number": 20,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762204500000,
+            "p_start": 1762315500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1242,7 +1242,7 @@
             "ep_number": 21,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762205100000,
+            "p_start": 1762316100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1256,7 +1256,7 @@
             "ep_number": 22,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762205700000,
+            "p_start": 1762316700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1270,7 +1270,7 @@
             "ep_number": 23,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762206300000,
+            "p_start": 1762317300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1284,7 +1284,7 @@
             "ep_number": 24,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762206900000,
+            "p_start": 1762317900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1298,7 +1298,7 @@
             "ep_number": 25,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762207500000,
+            "p_start": 1762318500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1312,7 +1312,7 @@
             "ep_number": 26,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762208100000,
+            "p_start": 1762319100000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1326,7 +1326,7 @@
             "ep_number": 27,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762208700000,
+            "p_start": 1762319700000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1340,7 +1340,7 @@
             "ep_number": 28,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762209300000,
+            "p_start": 1762320300000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1354,7 +1354,7 @@
             "ep_number": 29,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762209900000,
+            "p_start": 1762320900000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           },
           {
@@ -1368,26 +1368,26 @@
             "ep_number": 30,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762210500000,
+            "p_start": 1762321500000,
             "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
           }
         ],
         "total_length": 35540000,
-        "focus_index": 17,
-        "next_index": 18,
-        "time": 183749,
+        "focus_index": 85,
+        "next_index": 86,
+        "time": 125710,
         "focus_program": {
-          "content_id": "VOD00230775",
+          "content_id": "VOD00329757",
           "time_codes": [],
           "timecode_duration": [],
-          "length": 299000,
-          "asset_id": "vod45210-020018M001",
+          "length": 415000,
+          "asset_id": "vod45210-040021M001",
           "title": "",
-          "subtitle": "第2季第18集 雲南昆明《小鍋米線》",
-          "ep_number": 18,
+          "subtitle": "第4季第21集 江西南豐·現榨水粉",
+          "ep_number": 21,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762164300000,
+          "p_start": 1762316100000,
           "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
         }
       },
@@ -1401,7 +1401,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

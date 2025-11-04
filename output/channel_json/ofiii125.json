@@ -2155,29 +2155,29 @@
           }
         ],
         "total_length": 510182000,
-        "focus_index": 31,
-        "next_index": 32,
-        "time": 4810865,
+        "focus_index": 37,
+        "next_index": 38,
+        "time": 1493595,
         "focus_program": {
-          "content_id": "VOD00336759",
+          "content_id": "VOD00343162",
           "time_codes": [
-            833000,
-            1888000,
-            2499000,
-            3557000,
-            4247000,
-            4898000,
-            5044000
+            608000,
+            1396000,
+            1976000,
+            3197000,
+            3939000,
+            4517000,
+            4803000
           ],
           "timecode_duration": [],
-          "length": 5331000,
-          "asset_id": "vod9838-001177M001",
+          "length": 5266000,
+          "asset_id": "vod9838-001183M001",
           "title": "",
-          "subtitle": "第1177集 瓜哥這次虧大了！！475公分破紀錄！？玲玲比賽被白看了！？檸檬氣炸大喊我要錢 小Call女兒18歲了！？(桃園八德)",
-          "ep_number": 1177,
+          "subtitle": "第1183集 瓜哥化身關聖帝君？阿翔慘遭籃籃潑水偷襲！妖嬌表示我也可以！宜芳與１萬元擦肩而過？！(高雄大樹)",
+          "ep_number": 1183,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762269000000,
+          "p_start": 1762302600000,
           "vod_channel_description": "由胡瓜所主持的外景綜藝節目，秉持著「幸福好運到，獎金送夠夠」的精神，和眾多藝人與鄉親同樂玩遊戲拿獎金，介紹各地的人文、美食、特產等，提供豐富多元的內容，不間斷的笑料，讓您忘卻一切煩惱、開懷大笑。"
         }
       },
@@ -2191,7 +2191,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

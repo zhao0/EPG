@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 200,
         "cdn_code": "ofiii200",
-        "start_time": 1762173840000,
+        "start_time": 1762271400000,
         "programs": [
           {
             "content_id": "VOD00050183",
@@ -203,24 +203,24 @@
           }
         ],
         "total_length": 12195000,
-        "focus_index": 7,
-        "next_index": 8,
-        "time": 248134,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 803993,
         "focus_program": {
-          "content_id": "VOD00050190",
+          "content_id": "VOD00050183",
           "time_codes": [
-            643000
+            913000
           ],
           "timecode_duration": [],
-          "length": 1045000,
-          "asset_id": "vod11463-000008M001",
+          "length": 1487000,
+          "asset_id": "vod11463-000001M001",
           "title": "",
-          "subtitle": "第8集",
-          "ep_number": 8,
+          "subtitle": "第1集",
+          "ep_number": 1,
           "rating": 2,
           "content_type": "drama",
-          "p_start": 1751306100000,
-          "vod_channel_description": "到底出車禍的世明、慘死的家豪、跳崖的若涵、溺水的慧芬跟吊死的冰冰到底是誰殺的？難道真的是汪小英的鬼魂來報仇嗎？想要找出真相的煒翔，躲過在家樓下埋伏的警方，出門前去找汪母的好友阿珠釐清事實。阿珠回憶過往，道出汪母早在多年前過世，但令人震驚的是…"
+          "p_start": 1751295900000,
+          "vod_channel_description": "世明一個人躺在病床上，感覺有人向他逼近，不安感遍佈身體每一寸肌膚，突然他的床單下出現一個人形，緩緩靠近世明，他驚恐地大叫，下床逃離。 他逃到停車場，驚恐發動車子駛離，在大雨的夜裡在路上慌張竄逃，卻突然看見小時候霸凌過的女同學汪小英鬼魂，竟趴在自己車前..."
         }
       },
       "station_categories": [
@@ -233,7 +233,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

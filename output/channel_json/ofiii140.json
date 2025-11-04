@@ -1264,27 +1264,26 @@
           }
         ],
         "total_length": 222743000,
-        "focus_index": 21,
-        "next_index": 22,
-        "time": 1069650,
+        "focus_index": 29,
+        "next_index": 30,
+        "time": 108291,
         "focus_program": {
-          "content_id": "VOD00360801",
+          "content_id": "VOD00360809",
           "time_codes": [
-            1347000,
-            1994000,
-            2586000,
-            3003000,
-            3661000
+            962000,
+            1450000,
+            2044000,
+            2728000
           ],
           "timecode_duration": [],
-          "length": 4025000,
-          "asset_id": "vod76564-000173M001",
+          "length": 3115000,
+          "asset_id": "vod76564-000181M001",
           "title": "",
-          "subtitle": "第173集 一日柔道 柔道男神降臨！國手楊勇緯和林真豪來摔邰哥啦！",
-          "ep_number": 173,
+          "subtitle": "第181集 一日中古車 這一行水有多深？小施帶邰哥揭開二手車商的不能說的秘密！",
+          "ep_number": 181,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762271100000,
+          "p_start": 1762302600000,
           "vod_channel_description": "木曜4超玩《一日系列》挑戰365行！阿公邰智源帶領你體驗各行各業！透過實際體驗台灣各行各業工作內容，讓民眾瞭解其背後專業和辛苦。"
         }
       },
@@ -1298,7 +1297,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

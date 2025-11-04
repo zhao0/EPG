@@ -1771,25 +1771,25 @@
           }
         ],
         "total_length": 275922000,
-        "focus_index": 92,
-        "next_index": 93,
-        "time": 834876,
+        "focus_index": 6,
+        "next_index": 7,
+        "time": 759248,
         "focus_program": {
-          "content_id": "VOD00381167",
+          "content_id": "VOD00372728",
           "time_codes": [
-            859000,
-            1910000,
-            2483000
+            771000,
+            1844000,
+            2451000
           ],
           "timecode_duration": [],
-          "length": 2874000,
-          "asset_id": "vod11188-003098M001",
+          "length": 2879000,
+          "asset_id": "vod11188-002983M001",
           "title": "",
-          "subtitle": "第3098集 卵巢癌婦女癌症死亡率第1名！知名經紀人卵巢腫瘤癌逝！子宮內膜異位增卵巢癌風險高4倍！手掌2部位看婦科健康！",
-          "ep_number": 3098,
+          "subtitle": "第2983集 康康尿酸過高痛到無法走路！高尿酸恐引三高共病！痛風發作增心梗.中風風險！6大高磷食物傷腎",
+          "ep_number": 2983,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762278600000,
+          "p_start": 1762020600000,
           "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
         }
       },
@@ -1807,7 +1807,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

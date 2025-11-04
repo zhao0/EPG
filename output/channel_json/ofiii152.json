@@ -763,26 +763,26 @@
           }
         ],
         "total_length": 119311000,
-        "focus_index": 36,
-        "next_index": 37,
-        "time": 512731,
+        "focus_index": 5,
+        "next_index": 6,
+        "time": 2706480,
         "focus_program": {
-          "content_id": "VOD00296137",
+          "content_id": "VOD00296106",
           "time_codes": [
-            776000,
-            1421000,
-            2175000
+            767000,
+            1450000,
+            2135000
           ],
           "timecode_duration": [],
-          "length": 2999000,
-          "asset_id": "vod64648-000037M001",
+          "length": 2989000,
+          "asset_id": "vod64648-000006M001",
           "title": "",
-          "subtitle": "第37集",
-          "ep_number": 37,
+          "subtitle": "第6集",
+          "ep_number": 6,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740205200000,
-          "vod_channel_description": "秉愛賣山寨版珍賀齋女兒餅，被發貴和小鷗撞見，雙方大吵一架，不歡而散。發貴送小鷗一條項鍊當生日禮物。彩香終於知道秉仁和一哥的去向，倆人都瞞著她獨自承受身體病痛，彩香痛哭失聲。菠蘿蜜爆料珍賀齋使用過期奶油，只能暫時歇業。"
+          "p_start": 1740102900000,
+          "vod_channel_description": "大美逼著小鷗與古董商約見面。骨董商是發貴朋友陪著同去，發現對象是小鷗，兩人不說一聲便離開。小鷗在等待骨董商時，碰到大哥秉忠在欺騙女網友，當場拆穿真面目，女網友憤而離開。彩香為了脫離秉孝，堅持住在秉忠家，惹得媳婦佳純不開心。"
         }
       },
       "station_categories": [
@@ -799,7 +799,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

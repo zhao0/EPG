@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 119,
         "cdn_code": "ofiii119",
-        "start_time": 1762121480000,
+        "start_time": 1762227340000,
         "programs": [
           {
             "content_id": "VOD00187861",
@@ -763,25 +763,25 @@
           }
         ],
         "total_length": 105860000,
-        "focus_index": 15,
-        "next_index": 16,
-        "time": 625722,
+        "focus_index": 26,
+        "next_index": 27,
+        "time": 297642,
         "focus_program": {
-          "content_id": "VOD00187876",
+          "content_id": "VOD00187887",
           "time_codes": [
-            811000,
-            1425000,
-            2173000
+            717000,
+            1442000,
+            2259000
           ],
           "timecode_duration": [],
-          "length": 2691000,
-          "asset_id": "vod43544-000016M001",
+          "length": 2634000,
+          "asset_id": "vod43544-000027M001",
           "title": "",
-          "subtitle": "第16集",
-          "ep_number": 16,
+          "subtitle": "第27集",
+          "ep_number": 27,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740145500000,
+          "p_start": 1740177300000,
           "vod_channel_description": "三個沒有血緣關係、在原生家庭遭遇過不同傷痛的孩子，機緣巧合下成為了兄妹。大哥凌霄（宋威龍）、二哥賀子秋（張新成）、妹妹李尖尖（譚松韻）在兩個爸爸的撫養下相互扶持成長…"
         }
       },
@@ -799,7 +799,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

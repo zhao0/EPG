@@ -1917,30 +1917,31 @@
           }
         ],
         "total_length": 386346000,
-        "focus_index": 86,
-        "next_index": 87,
-        "time": 6699670,
+        "focus_index": 90,
+        "next_index": 91,
+        "time": 1332204,
         "focus_program": {
-          "content_id": "VOD00358107",
+          "content_id": "VOD00358111",
           "time_codes": [
-            1010000,
-            2135000,
-            3290000,
-            4081000,
-            5002000,
-            6094000,
-            7193000,
-            8046000
+            1115000,
+            2100000,
+            3208000,
+            4124000,
+            5038000,
+            6046000,
+            7189000,
+            8331000,
+            8973000
           ],
           "timecode_duration": [],
-          "length": 8623000,
-          "asset_id": "vod76631-000021M001",
+          "length": 9538000,
+          "asset_id": "vod76631-000025M001",
           "title": "現在宅知道",
-          "subtitle": "第21集",
-          "ep_number": 21,
+          "subtitle": "第25集",
+          "ep_number": 25,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762278000000,
+          "p_start": 1762312800000,
           "vod_channel_description": "實況界知名的6tan、鳥屎告訴你 ACG 的所有新鮮事。"
         }
       },
@@ -1954,7 +1955,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

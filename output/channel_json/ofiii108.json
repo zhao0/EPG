@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 108,
         "cdn_code": "ofiii108",
-        "start_time": 1762154567000,
+        "start_time": 1762224210000,
         "programs": [
           {
             "content_id": "VOD00356482",
@@ -511,25 +511,25 @@
           }
         ],
         "total_length": 69643000,
-        "focus_index": 15,
-        "next_index": 16,
-        "time": 1657847,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 2684051,
         "focus_program": {
-          "content_id": "VOD00356497",
+          "content_id": "VOD00356482",
           "time_codes": [
-            668000,
-            1438000,
-            2117000
+            690000,
+            1522000,
+            2107000
           ],
           "timecode_duration": [],
-          "length": 2696000,
-          "asset_id": "vod76293-000016M001",
+          "length": 2708000,
+          "asset_id": "vod76293-000001M001",
           "title": "",
-          "subtitle": "第16集",
-          "ep_number": 16,
+          "subtitle": "第1集",
+          "ep_number": 1,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1743465000000,
+          "p_start": 1743420600000,
           "vod_channel_description": "《國色芳華》改編自閱文集團旗下起點讀書作家意千重的同名小說，故事講述了商戶之女何惟芳，在“天下第一貪官”蔣長揚的協助下，從只有利益交換的婚姻中和離出戶。而後，何惟芳來到長安，憑藉培育稀世牡丹的高超技能和過人的經商頭腦與蔣長揚組成匠人與投資人組合，帶領一眾命運坎坷的女性開啟了創業之路。"
         }
       },
@@ -547,7 +547,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (compatible; proximic; +https://www.comscore.com/Web-Crawler)"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 121,
         "cdn_code": "ofiii121",
-        "start_time": 1762139833000,
+        "start_time": 1762233035000,
         "programs": [
           {
             "content_id": "VOD00359268",
@@ -385,25 +385,25 @@
           }
         ],
         "total_length": 46601000,
-        "focus_index": 15,
-        "next_index": 16,
-        "time": 479498,
+        "focus_index": 7,
+        "next_index": 8,
+        "time": 1392111,
         "focus_program": {
-          "content_id": "VOD00359283",
+          "content_id": "VOD00359275",
           "time_codes": [
-            721000,
-            1403000
+            690000,
+            1426000
           ],
           "timecode_duration": [],
-          "length": 2129000,
-          "asset_id": "vod76898-000016M001",
+          "length": 2328000,
+          "asset_id": "vod76898-000008M001",
           "title": "",
-          "subtitle": "第16集",
-          "ep_number": 16,
+          "subtitle": "第8集",
+          "ep_number": 8,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1751319000000,
-          "vod_channel_description": "發佈會上，狂熱粉絲衝上舞台，混亂中肖穆丞被砸傷。擔憂的易然趕往醫院，卻因認錯人鬧出烏龍，易然發現高煦助理私下交易，揭露粉絲騷亂是高煦自導自演。出院後，易然與肖穆丞的親密舉動被另亦姝撞見。潘一一最後一次直播，為粉絲獻唱，最終將心愛的吉他送給易然，兩人不捨相擁。"
+          "p_start": 1751298600000,
+          "vod_channel_description": "易然誤解夜床服務含義，怒揍肖穆丞，遭其懲罰背誦規章制度。無意間，她得知泉海酒店是肖穆丞家族產業。鉑燦提前舉辦活動與泉海競爭，肖穆丞派易然參與，自己也親自前往。遊戲環節中，四人暗自較勁，飯桌上，肖穆丞與林佑嘉為易然針鋒相對。易然帶肖穆丞搭公交，卻雙雙睡過站，最終靠人力三輪車回酒店。"
         }
       },
       "station_categories": [
@@ -420,7 +420,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

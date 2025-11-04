@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 115,
         "cdn_code": "ofiii115",
-        "start_time": 1762167501000,
+        "start_time": 1762258308000,
         "programs": [
           {
             "content_id": "VOD00339492",
@@ -636,26 +636,26 @@
           }
         ],
         "total_length": 90807000,
-        "focus_index": 3,
-        "next_index": 4,
-        "time": 1090188,
+        "focus_index": 13,
+        "next_index": 14,
+        "time": 2010827,
         "focus_program": {
-          "content_id": "VOD00339495",
+          "content_id": "VOD00339505",
           "time_codes": [
-            689000,
-            1417000,
-            2129000
+            774000,
+            1471000,
+            2165000
           ],
           "timecode_duration": [],
-          "length": 2769000,
-          "asset_id": "vod72736-000004M001",
+          "length": 2895000,
+          "asset_id": "vod72736-000014M001",
           "title": "",
-          "subtitle": "第4集",
-          "ep_number": 4,
+          "subtitle": "第14集",
+          "ep_number": 14,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740110400000,
-          "vod_channel_description": "兩人一同上班，約定下午再去領證，誰知部門同事們都在議論拓展一部新經理的職位已經定了，而前來和行長見面的正是紀昱恒！涂筱檸看到拓展二部的同事因辦公室戀情被辭退，想到自己和紀昱恒的關係，愈發忐忑不安。在深思熟慮一番後跟紀昱恒提出簽訂對賭協議，在一年的時間內以結婚為前提相處，辦公室隱戀的同時各自制訂工作目標，誰完不成就從拓展一部主動離開。"
+          "p_start": 1740140400000,
+          "vod_channel_description": "筆試通過，接下來對涂筱檸最大的考驗，就是要獨立發展客戶。對此，涂筱檸盯上了西海鎮的家族企業老楊造船廠。為了能夠拿下客戶，涂筱檸和饒靜出差到西海鎮。成功告白的紀昱恒十分想念涂筱檸，利用週末時間也悄悄來到西海鎮，暗中跟涂筱檸私會，甜甜蜜蜜的二人世界卻總是被不知情的饒靜破壞..."
         }
       },
       "station_categories": [
@@ -672,7 +672,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

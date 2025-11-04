@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 101,
         "cdn_code": "ofiii101",
-        "start_time": 1762173384000,
+        "start_time": 1762258362000,
         "programs": [
           {
             "content_id": "VOD00364710",
@@ -599,26 +599,26 @@
           }
         ],
         "total_length": 84978000,
-        "focus_index": 3,
-        "next_index": 4,
-        "time": 1043351,
+        "focus_index": 13,
+        "next_index": 14,
+        "time": 1758101,
         "focus_program": {
-          "content_id": "VOD00364713",
+          "content_id": "VOD00364723",
           "time_codes": [
-            769000,
-            1618000,
-            2133000
+            718000,
+            1642000,
+            2188000
           ],
           "timecode_duration": [],
-          "length": 2817000,
-          "asset_id": "vod78092-000004M001",
+          "length": 2783000,
+          "asset_id": "vod78092-000014M001",
           "title": "",
-          "subtitle": "第4集",
-          "ep_number": 4,
+          "subtitle": "第14集",
+          "ep_number": 14,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1751305200000,
-          "vod_channel_description": "明亭遠與白敬遠上門退婚，江緒暗中設局讓珠兒現身，逼梁家讓步。皇上欲為明檀賜婚，江緒竟自薦迎娶，令眾人震驚。為避婚局，明檀出走寒煙寺，卻巧遇江緒與皇上。表哥沈玉突現求親被拒，江緒大怒將他貶至馬廄。太后與宿文淳也密謀賜婚，白敏敏勸明檀擇婿，卻在酒樓撞見江緒與章懷玉同席。"
+          "p_start": 1751335200000,
+          "vod_channel_description": "明檀誤會江緒與雲旖關係，鬧著要替他納側妃，江緒急解釋雲旖是暗衛保護她。兩人和好如初，感情升溫。明檀與柳陌重逢，察覺當日綁架氣味，江緒即時趕到護她離開。為彌補誤會，江緒體貼陪伴。明檀參與賑災卻險遭難民圍攻，京城局勢風波再起。"
         }
       },
       "station_categories": [
@@ -635,7 +635,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

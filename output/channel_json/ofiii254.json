@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 254,
         "cdn_code": "ofiii254",
-        "start_time": 1762176300000,
+        "start_time": 1762270800000,
         "programs": [
           {
             "content_id": "VOD00340734",
@@ -59,7 +59,7 @@
             "ep_number": 1,
             "rating": 1,
             "content_type": "others",
-            "p_start": 1762176300000,
+            "p_start": 1762270800000,
             "vod_channel_description": "大自然的聲音-海浪聲無間斷，療癒系助眠紓壓「白噪音」\r\n潮水拍打的海岸沙灘，洗刷身心靈的壓力與疲憊\r\n#海洋 #大海的聲音 #重度失眠必聽 #深度睡眠音樂 #助眠音樂 #伴讀專注"
           },
           {
@@ -80,7 +80,7 @@
             "ep_number": 2,
             "rating": 1,
             "content_type": "others",
-            "p_start": 1762180500000,
+            "p_start": 1762275000000,
             "vod_channel_description": "大自然的聲音-海浪聲無間斷，療癒系助眠紓壓「白噪音」\n潮水拍打的海岸沙灘，洗刷身心靈的壓力與疲憊\n#海洋 #大海的聲音 #重度失眠必聽 #深度睡眠音樂 #助眠音樂 #伴讀專注"
           },
           {
@@ -101,14 +101,14 @@
             "ep_number": 3,
             "rating": 1,
             "content_type": "others",
-            "p_start": 1762184700000,
+            "p_start": 1762279200000,
             "vod_channel_description": "大自然的聲音-海浪聲無間斷，療癒系助眠紓壓「白噪音」\r\n潮水拍打的海岸沙灘，洗刷身心靈的壓力與疲憊\r\n#海洋 #大海的聲音 #重度失眠必聽 #深度睡眠音樂 #助眠音樂 #伴讀專注"
           }
         ],
         "total_length": 11152000,
         "focus_index": 0,
         "next_index": 1,
-        "time": 2456535,
+        "time": 3518115,
         "focus_program": {
           "content_id": "VOD00340734",
           "time_codes": [
@@ -127,7 +127,7 @@
           "ep_number": 1,
           "rating": 1,
           "content_type": "others",
-          "p_start": 1762176300000,
+          "p_start": 1762270800000,
           "vod_channel_description": "大自然的聲音-海浪聲無間斷，療癒系助眠紓壓「白噪音」\r\n潮水拍打的海岸沙灘，洗刷身心靈的壓力與疲憊\r\n#海洋 #大海的聲音 #重度失眠必聽 #深度睡眠音樂 #助眠音樂 #伴讀專注"
         }
       },
@@ -145,7 +145,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

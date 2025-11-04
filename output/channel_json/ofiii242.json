@@ -1771,26 +1771,26 @@
           }
         ],
         "total_length": 269359000,
-        "focus_index": 44,
-        "next_index": 45,
-        "time": 1396014,
+        "focus_index": 55,
+        "next_index": 56,
+        "time": 1196921,
         "focus_program": {
-          "content_id": "VOD00346483",
+          "content_id": "VOD00351391",
           "time_codes": [
-            996000,
-            1393000,
-            2088000
+            650000,
+            1200000,
+            2376000
           ],
           "timecode_duration": [],
-          "length": 2818000,
-          "asset_id": "vod65737-000059M001",
+          "length": 2820000,
+          "asset_id": "vod65737-000070M001",
           "title": "",
-          "subtitle": "第59集 萬坪休閒農場，竇智孔展神乎其技的球技讓全場驚呼？！",
-          "ep_number": 59,
+          "subtitle": "第70集 名貴山藥一把折斷，兄弟三人面臨吃不到還慘賠的命運？！",
+          "ep_number": 70,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762273200000,
-          "vod_channel_description": "結束了短暫的分離，四位型男來到萬坪休閒農場，竇哥竟然開心的載歌載舞了起來，究竟是發生什麼事情可以讓他如此的雀躍？為什麼賈斯汀獨自一人在孤島上哀號，是誰做出的惡作劇呢？另外一頭工作又發生什麼大事情竟然竇哥慘叫連連？而首次品嘗東山鴨的的兩位外國人，是否能克服心理障礙呢？"
+          "p_start": 1762306200000,
+          "vod_channel_description": "世界第二、亞洲第一，兄弟三人上山採收名貴山藥，白馬王子謝佳見被土壤裡肥嫩的蚯蚓嚇得魂不附體，直呼想下山回家！小心翼翼手腳並用，終於採到亞洲第一的名貴山藥，歡喜之餘竟然不小心將山藥折斷，三人與老闆面面相覷，究竟三人會不會遭遇打工換不到餐還可能慘賠的窘境呢？"
         }
       },
       "station_categories": [
@@ -1803,7 +1803,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

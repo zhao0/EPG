@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 114,
         "cdn_code": "ofiii114",
-        "start_time": 1762147785000,
+        "start_time": 1762240590000,
         "programs": [
           {
             "content_id": "VOD00351961",
@@ -655,25 +655,25 @@
           }
         ],
         "total_length": 92805000,
-        "focus_index": 9,
-        "next_index": 10,
-        "time": 2628820,
+        "focus_index": 20,
+        "next_index": 21,
+        "time": 1384248,
         "focus_program": {
-          "content_id": "VOD00351970",
+          "content_id": "VOD00351981",
           "time_codes": [
-            771000,
-            1389000,
-            2349000
+            666000,
+            1430000,
+            2204000
           ],
           "timecode_duration": [],
-          "length": 2725000,
-          "asset_id": "vod75283-000010M001",
+          "length": 2759000,
+          "asset_id": "vod75283-000021M001",
           "title": "",
-          "subtitle": "第10集",
-          "ep_number": 10,
+          "subtitle": "第21集",
+          "ep_number": 21,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740180000000,
+          "p_start": 1740213000000,
           "vod_channel_description": "竇昭經歷喪母之痛和家族欺凌，在大雨之夜與宋墨在田莊相逢，用自己的智慧幫其保下平寇有功的定國公一脈遺孤，命運也將兩人緊緊相連。宋墨深陷家變謎團，竇昭則在繼母的破壞下遭遇換親流言，他們在困境中選擇成親結盟，攜手合作共度難關，也從相互猜忌逐漸相知相惜。"
         }
       },
@@ -691,7 +691,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

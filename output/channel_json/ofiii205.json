@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 205,
         "cdn_code": "ofiii205",
-        "start_time": 1762154700000,
+        "start_time": 1762261200000,
         "programs": [
           {
             "content_id": "VOD00365785",
@@ -56,7 +56,7 @@
             "ep_number": 110,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762154700000,
+            "p_start": 1762261200000,
             "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
           },
           {
@@ -74,7 +74,7 @@
             "ep_number": 111,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762157700000,
+            "p_start": 1762264200000,
             "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
           },
           {
@@ -92,7 +92,7 @@
             "ep_number": 112,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762160700000,
+            "p_start": 1762267200000,
             "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
           },
           {
@@ -111,7 +111,7 @@
             "ep_number": 113,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762163700000,
+            "p_start": 1762270200000,
             "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
           },
           {
@@ -129,7 +129,7 @@
             "ep_number": 114,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762167000000,
+            "p_start": 1762273500000,
             "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
           },
           {
@@ -147,7 +147,7 @@
             "ep_number": 115,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762170300000,
+            "p_start": 1762276800000,
             "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
           },
           {
@@ -165,7 +165,7 @@
             "ep_number": 116,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762173600000,
+            "p_start": 1762280100000,
             "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
           },
           {
@@ -183,7 +183,7 @@
             "ep_number": 117,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762176900000,
+            "p_start": 1762283400000,
             "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
           },
           {
@@ -201,7 +201,7 @@
             "ep_number": 118,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762179900000,
+            "p_start": 1762286400000,
             "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
           },
           {
@@ -219,30 +219,30 @@
             "ep_number": 119,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762182900000,
+            "p_start": 1762289400000,
             "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
           }
         ],
         "total_length": 29649000,
-        "focus_index": 7,
-        "next_index": 8,
-        "time": 2249888,
+        "focus_index": 1,
+        "next_index": 2,
+        "time": 2857320,
         "focus_program": {
-          "content_id": "VOD00372087",
+          "content_id": "VOD00372081",
           "time_codes": [
-            1360000,
-            2058000,
-            2665000
+            1511000,
+            2150000,
+            2769000
           ],
           "timecode_duration": [],
-          "length": 2893000,
-          "asset_id": "vod64682-000117M001",
+          "length": 2894000,
+          "asset_id": "vod64682-000111M001",
           "title": "",
-          "subtitle": "為什麼川普不怕政府關門？ 趁此機會大裁員",
-          "ep_number": 117,
+          "subtitle": "美印太戰略全盤輸了？印度關稅戰後靠攏中國",
+          "ep_number": 111,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762176900000,
+          "p_start": 1762264200000,
           "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
         }
       },
@@ -260,7 +260,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

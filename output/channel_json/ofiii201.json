@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 201,
         "cdn_code": "ofiii201",
-        "start_time": 1762181700000,
+        "start_time": 1762246800000,
         "programs": [
           {
             "content_id": "VOD00378854",
@@ -58,7 +58,7 @@
             "ep_number": 1097,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762181700000,
+            "p_start": 1762246800000,
             "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
           },
           {
@@ -78,7 +78,7 @@
             "ep_number": 1098,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762188000000,
+            "p_start": 1762253100000,
             "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
           },
           {
@@ -98,7 +98,7 @@
             "ep_number": 1099,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762194300000,
+            "p_start": 1762259400000,
             "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
           },
           {
@@ -118,7 +118,7 @@
             "ep_number": 1100,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762200600000,
+            "p_start": 1762265700000,
             "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
           },
           {
@@ -138,7 +138,7 @@
             "ep_number": 1101,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762206900000,
+            "p_start": 1762272000000,
             "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
           },
           {
@@ -158,7 +158,7 @@
             "ep_number": 1102,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762213200000,
+            "p_start": 1762278300000,
             "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
           },
           {
@@ -178,7 +178,7 @@
             "ep_number": 1103,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762219500000,
+            "p_start": 1762284600000,
             "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
           },
           {
@@ -195,7 +195,7 @@
             "ep_number": 1104,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762225800000,
+            "p_start": 1762290900000,
             "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
           },
           {
@@ -215,7 +215,7 @@
             "ep_number": 1105,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762229100000,
+            "p_start": 1762294200000,
             "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
           },
           {
@@ -234,32 +234,32 @@
             "ep_number": 1106,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762235400000,
+            "p_start": 1762300500000,
             "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
           }
         ],
         "total_length": 57410000,
-        "focus_index": 4,
-        "next_index": 5,
-        "time": 4493216,
+        "focus_index": 8,
+        "next_index": 9,
+        "time": 4358601,
         "focus_program": {
-          "content_id": "VOD00381403",
+          "content_id": "VOD00381407",
           "time_codes": [
-            1143000,
-            2096000,
-            3162000,
-            4084000,
-            5037000
+            1139000,
+            2164000,
+            3340000,
+            4214000,
+            5238000
           ],
           "timecode_duration": [],
-          "length": 5961000,
-          "asset_id": "vod48369-001101M001",
+          "length": 6134000,
+          "asset_id": "vod48369-001105M001",
           "title": "",
-          "subtitle": "鄭麗文嗆藍獅群咬綠不只一口！卓籲吃光廚餘最蠢笑話！普發一萬綠搶功被藍戰狼嗆爆！",
-          "ep_number": 1101,
+          "subtitle": "郭正亮爆習川會談這個賴要慘了！鄭麗文率藍政黨輪替百年機遇來了！林佳龍挺林岱樺綠本命區要內亂了？",
+          "ep_number": 1105,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762206900000,
+          "p_start": 1762294200000,
           "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
         }
       },
@@ -277,7 +277,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

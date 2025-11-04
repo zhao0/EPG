@@ -1771,25 +1771,25 @@
           }
         ],
         "total_length": 276169000,
-        "focus_index": 58,
-        "next_index": 59,
-        "time": 573455,
+        "focus_index": 68,
+        "next_index": 69,
+        "time": 2032281,
         "focus_program": {
-          "content_id": "VOD00189390",
+          "content_id": "VOD00189400",
           "time_codes": [
-            905000,
-            1772000,
-            2374000
+            694000,
+            1538000,
+            2296000
           ],
           "timecode_duration": [],
-          "length": 2877000,
-          "asset_id": "vod43535-000093M001",
+          "length": 2876000,
+          "asset_id": "vod43535-000103M001",
           "title": "",
-          "subtitle": "第93集 老外他鄉遇貴人、人妻難忘姊妹情",
-          "ep_number": 93,
+          "subtitle": "第103集 一甲子燈塔情",
+          "ep_number": 103,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762272900000,
+          "p_start": 1762302900000,
           "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
         }
       },
@@ -1807,7 +1807,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 91,
         "cdn_code": "ofiii91",
-        "start_time": 1762178100000,
+        "start_time": 1762241700000,
         "programs": [
           {
             "content_id": "VOD00377694",
@@ -52,7 +52,7 @@
             "ep_number": 1087,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762178100000,
+            "p_start": 1762241700000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -70,7 +70,7 @@
             "ep_number": 1078,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762178400000,
+            "p_start": 1762242000000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -86,7 +86,7 @@
             "ep_number": 1073,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762180500000,
+            "p_start": 1762244100000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -100,7 +100,7 @@
             "ep_number": 1072,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762181700000,
+            "p_start": 1762245300000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -114,7 +114,7 @@
             "ep_number": 1068,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762182000000,
+            "p_start": 1762245600000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -128,7 +128,7 @@
             "ep_number": 1063,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762182600000,
+            "p_start": 1762246200000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -142,7 +142,7 @@
             "ep_number": 1064,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762183500000,
+            "p_start": 1762247100000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -156,7 +156,7 @@
             "ep_number": 1061,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762184100000,
+            "p_start": 1762247700000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -170,7 +170,7 @@
             "ep_number": 1059,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762184400000,
+            "p_start": 1762248000000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -184,7 +184,7 @@
             "ep_number": 1050,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762185000000,
+            "p_start": 1762248600000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -198,7 +198,7 @@
             "ep_number": 1051,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762185900000,
+            "p_start": 1762249500000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -212,7 +212,7 @@
             "ep_number": 1040,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762186200000,
+            "p_start": 1762249800000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -228,7 +228,7 @@
             "ep_number": 1047,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762186500000,
+            "p_start": 1762250100000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -242,7 +242,7 @@
             "ep_number": 1049,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762188000000,
+            "p_start": 1762251600000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -256,7 +256,7 @@
             "ep_number": 1008,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762188600000,
+            "p_start": 1762252200000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -270,7 +270,7 @@
             "ep_number": 1019,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762188900000,
+            "p_start": 1762252500000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -284,7 +284,7 @@
             "ep_number": 1010,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762189500000,
+            "p_start": 1762253100000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -298,7 +298,7 @@
             "ep_number": 1009,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762189800000,
+            "p_start": 1762253400000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -312,7 +312,7 @@
             "ep_number": 1042,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762190100000,
+            "p_start": 1762253700000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -326,7 +326,7 @@
             "ep_number": 1022,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762190400000,
+            "p_start": 1762254000000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -340,7 +340,7 @@
             "ep_number": 1021,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762191000000,
+            "p_start": 1762254600000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -354,7 +354,7 @@
             "ep_number": 1048,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762191300000,
+            "p_start": 1762254900000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -368,7 +368,7 @@
             "ep_number": 1041,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762191900000,
+            "p_start": 1762255500000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -382,7 +382,7 @@
             "ep_number": 990,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762192200000,
+            "p_start": 1762255800000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -396,7 +396,7 @@
             "ep_number": 982,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762192500000,
+            "p_start": 1762256100000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -410,7 +410,7 @@
             "ep_number": 981,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762192800000,
+            "p_start": 1762256400000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -427,7 +427,7 @@
             "ep_number": 979,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762193100000,
+            "p_start": 1762256700000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -443,7 +443,7 @@
             "ep_number": 970,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762195200000,
+            "p_start": 1762258800000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -457,7 +457,7 @@
             "ep_number": 849,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762196700000,
+            "p_start": 1762260300000,
             "vod_channel_description": "INFINITE 15th ANNIVERSARY CONCERT [LIMITED EDITION] IN TAIPEI台北站"
           },
           {
@@ -474,7 +474,7 @@
             "ep_number": 826,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762197000000,
+            "p_start": 1762260600000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -488,7 +488,7 @@
             "ep_number": 814,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762198500000,
+            "p_start": 1762262100000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -502,7 +502,7 @@
             "ep_number": 801,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762198800000,
+            "p_start": 1762262400000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -516,7 +516,7 @@
             "ep_number": 785,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762199100000,
+            "p_start": 1762262700000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -530,7 +530,7 @@
             "ep_number": 768,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762199700000,
+            "p_start": 1762263300000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -544,7 +544,7 @@
             "ep_number": 748,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762200000000,
+            "p_start": 1762263600000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -561,7 +561,7 @@
             "ep_number": 702,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762200300000,
+            "p_start": 1762263900000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -575,7 +575,7 @@
             "ep_number": 692,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762202400000,
+            "p_start": 1762266000000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -589,7 +589,7 @@
             "ep_number": 691,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762202700000,
+            "p_start": 1762266300000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -603,7 +603,7 @@
             "ep_number": 682,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762203000000,
+            "p_start": 1762266600000,
             "vod_channel_description": "直擊明星藝人現場演出，體驗當下火熱氣氛"
           },
           {
@@ -617,7 +617,7 @@
             "ep_number": 665,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762203300000,
+            "p_start": 1762266900000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -633,7 +633,7 @@
             "ep_number": 664,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762203600000,
+            "p_start": 1762267200000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -647,7 +647,7 @@
             "ep_number": 658,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762204500000,
+            "p_start": 1762268100000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -663,7 +663,7 @@
             "ep_number": 650,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762205400000,
+            "p_start": 1762269000000,
             "vod_channel_description": "韓國人氣男團INFINITE成員東雨與成烈於12月2日晚間在台北「信義劇場Legacy MAX」舉辦粉絲見面會。"
           },
           {
@@ -677,7 +677,7 @@
             "ep_number": 636,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762206300000,
+            "p_start": 1762269900000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -691,7 +691,7 @@
             "ep_number": 620,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762206900000,
+            "p_start": 1762270500000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -707,7 +707,7 @@
             "ep_number": 604,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762207500000,
+            "p_start": 1762271100000,
             "vod_channel_description": "直擊明星藝人現場演出，體驗當下火熱氣氛"
           },
           {
@@ -721,7 +721,7 @@
             "ep_number": 573,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762208700000,
+            "p_start": 1762272300000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -735,7 +735,7 @@
             "ep_number": 571,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762209000000,
+            "p_start": 1762272600000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -749,7 +749,7 @@
             "ep_number": 570,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762209600000,
+            "p_start": 1762273200000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -763,7 +763,7 @@
             "ep_number": 567,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762210200000,
+            "p_start": 1762273800000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -779,7 +779,7 @@
             "ep_number": 551,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762210500000,
+            "p_start": 1762274100000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -795,7 +795,7 @@
             "ep_number": 545,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762211700000,
+            "p_start": 1762275300000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -809,7 +809,7 @@
             "ep_number": 534,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762212900000,
+            "p_start": 1762276500000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -823,7 +823,7 @@
             "ep_number": 533,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762213200000,
+            "p_start": 1762276800000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -839,7 +839,7 @@
             "ep_number": 532,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762213500000,
+            "p_start": 1762277100000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -853,7 +853,7 @@
             "ep_number": 531,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762214400000,
+            "p_start": 1762278000000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -867,7 +867,7 @@
             "ep_number": 528,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762215000000,
+            "p_start": 1762278600000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -881,7 +881,7 @@
             "ep_number": 526,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762215300000,
+            "p_start": 1762278900000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -895,7 +895,7 @@
             "ep_number": 519,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762215900000,
+            "p_start": 1762279500000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -909,7 +909,7 @@
             "ep_number": 503,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762216500000,
+            "p_start": 1762280100000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -923,7 +923,7 @@
             "ep_number": 501,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762217100000,
+            "p_start": 1762280700000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -937,7 +937,7 @@
             "ep_number": 490,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762217400000,
+            "p_start": 1762281000000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -951,7 +951,7 @@
             "ep_number": 489,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762217700000,
+            "p_start": 1762281300000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -965,7 +965,7 @@
             "ep_number": 424,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762218300000,
+            "p_start": 1762281900000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -979,7 +979,7 @@
             "ep_number": 415,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762218600000,
+            "p_start": 1762282200000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -993,7 +993,7 @@
             "ep_number": 600,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762218900000,
+            "p_start": 1762282500000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1013,7 +1013,7 @@
             "ep_number": 788,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762219500000,
+            "p_start": 1762283100000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1027,7 +1027,7 @@
             "ep_number": 1028,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762223100000,
+            "p_start": 1762286700000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1041,7 +1041,7 @@
             "ep_number": 1020,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762223700000,
+            "p_start": 1762287300000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1055,7 +1055,7 @@
             "ep_number": 1006,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762224000000,
+            "p_start": 1762287600000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1069,7 +1069,7 @@
             "ep_number": 998,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762224600000,
+            "p_start": 1762288200000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1083,7 +1083,7 @@
             "ep_number": 992,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762225200000,
+            "p_start": 1762288800000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1097,7 +1097,7 @@
             "ep_number": 989,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762225500000,
+            "p_start": 1762289100000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1111,7 +1111,7 @@
             "ep_number": 983,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762226100000,
+            "p_start": 1762289700000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1125,7 +1125,7 @@
             "ep_number": 978,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762226400000,
+            "p_start": 1762290000000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1139,7 +1139,7 @@
             "ep_number": 975,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762227000000,
+            "p_start": 1762290600000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1153,7 +1153,7 @@
             "ep_number": 969,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762227600000,
+            "p_start": 1762291200000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1167,7 +1167,7 @@
             "ep_number": 968,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762227900000,
+            "p_start": 1762291500000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1181,7 +1181,7 @@
             "ep_number": 967,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762228500000,
+            "p_start": 1762292100000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1195,7 +1195,7 @@
             "ep_number": 964,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762229100000,
+            "p_start": 1762292700000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1209,7 +1209,7 @@
             "ep_number": 952,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762229700000,
+            "p_start": 1762293300000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1225,7 +1225,7 @@
             "ep_number": 951,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762230000000,
+            "p_start": 1762293600000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1239,7 +1239,7 @@
             "ep_number": 950,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762231200000,
+            "p_start": 1762294800000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1253,7 +1253,7 @@
             "ep_number": 949,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762231800000,
+            "p_start": 1762295400000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1269,7 +1269,7 @@
             "ep_number": 945,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762232400000,
+            "p_start": 1762296000000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1283,7 +1283,7 @@
             "ep_number": 948,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762233600000,
+            "p_start": 1762297200000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1297,7 +1297,7 @@
             "ep_number": 947,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762234200000,
+            "p_start": 1762297800000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1311,7 +1311,7 @@
             "ep_number": 944,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762234800000,
+            "p_start": 1762298400000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1325,7 +1325,7 @@
             "ep_number": 940,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762235400000,
+            "p_start": 1762299000000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1339,7 +1339,7 @@
             "ep_number": 939,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762236000000,
+            "p_start": 1762299600000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1353,7 +1353,7 @@
             "ep_number": 935,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762236600000,
+            "p_start": 1762300200000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1367,7 +1367,7 @@
             "ep_number": 930,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762237200000,
+            "p_start": 1762300800000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1383,7 +1383,7 @@
             "ep_number": 929,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762237800000,
+            "p_start": 1762301400000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1397,7 +1397,7 @@
             "ep_number": 924,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762238700000,
+            "p_start": 1762302300000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1411,7 +1411,7 @@
             "ep_number": 921,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762239000000,
+            "p_start": 1762302600000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1425,7 +1425,7 @@
             "ep_number": 918,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762239600000,
+            "p_start": 1762303200000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1439,7 +1439,7 @@
             "ep_number": 896,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762240200000,
+            "p_start": 1762303800000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1453,7 +1453,7 @@
             "ep_number": 875,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762240800000,
+            "p_start": 1762304400000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1467,7 +1467,7 @@
             "ep_number": 869,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762241400000,
+            "p_start": 1762305000000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           },
           {
@@ -1481,26 +1481,29 @@
             "ep_number": 868,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762242000000,
+            "p_start": 1762305600000,
             "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
           }
         ],
         "total_length": 42578000,
-        "focus_index": 3,
-        "next_index": 4,
-        "time": 19974,
+        "focus_index": 26,
+        "next_index": 27,
+        "time": 1308418,
         "focus_program": {
-          "content_id": "VOD00376777",
-          "time_codes": [],
+          "content_id": "VOD00366641",
+          "time_codes": [
+            600000,
+            1200000
+          ],
           "timecode_duration": [],
-          "length": 153000,
-          "asset_id": "vod39966-001072M001",
+          "length": 1729000,
+          "asset_id": "vod39966-000979M001",
           "title": "",
-          "subtitle": "濱崎步 2025 亞洲巡迴演唱會台北站",
-          "ep_number": 1072,
+          "subtitle": "彭佳慧《一路這樣愛過來》演唱會",
+          "ep_number": 979,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762181700000,
+          "p_start": 1762256700000,
           "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
         }
       },
@@ -1518,7 +1521,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

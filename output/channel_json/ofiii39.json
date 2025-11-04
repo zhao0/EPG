@@ -1640,24 +1640,24 @@
           }
         ],
         "total_length": 93719000,
-        "focus_index": 12,
-        "next_index": 13,
-        "time": 1876,
+        "focus_index": 39,
+        "next_index": 40,
+        "time": 609721,
         "focus_program": {
-          "content_id": "VOD00357697",
+          "content_id": "VOD00359236",
           "time_codes": [
             600000
           ],
           "timecode_duration": [],
-          "length": 1012000,
-          "asset_id": "vod76555-000013M001",
-          "title": "佔有姜西",
-          "subtitle": "第13集",
-          "ep_number": 13,
+          "length": 1121000,
+          "asset_id": "vod76897-000016M001",
+          "title": "將軍府來了個小廚娘之落難千金",
+          "subtitle": "第16集",
+          "ep_number": 16,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1762177500000,
-          "vod_channel_description": "因一場大火而失去雙親的閔姜西，投靠坤城之首的秦家，立志成為第一女先生。卻被秦家現任掌權人秦佔當成別有用心的“倒貼女”。閔姜西憑藉自身才華，幫助秦家化解商業危機，令秦佔刮目相看，並決定聘請她為秦家教書先生，此舉引起馮靜芸的不滿，進而利用秦家死對頭江東設計陷害閔姜西..."
+          "p_start": 1762212600000,
+          "vod_channel_description": "楚母拒絕二夫人求助，杜子騰提親受阻。楚母與雷將軍商議，楚家需提供物資交換。杜子騰目睹小娟被搶，蘇淺淺出手相救。杜子騰和小娟感激，蘇淺淺指示款待甯安侯府之人。"
         }
       },
       "station_categories": [
@@ -1670,7 +1670,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

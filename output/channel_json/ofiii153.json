@@ -39,7 +39,7 @@
       "vod_channel_schedule": {
         "channel_id": 153,
         "cdn_code": "ofiii153",
-        "start_time": 1762185113000,
+        "start_time": 1762243839000,
         "programs": [
           {
             "content_id": "VOD00296170",
@@ -223,26 +223,26 @@
           }
         ],
         "total_length": 29363000,
-        "focus_index": 8,
-        "next_index": 9,
-        "time": 543655,
+        "focus_index": 7,
+        "next_index": 8,
+        "time": 2750353,
         "focus_program": {
-          "content_id": "VOD00296178",
+          "content_id": "VOD00296177",
           "time_codes": [
-            734000,
-            1408000,
-            2239000
+            731000,
+            1463000,
+            2180000
           ],
           "timecode_duration": [],
-          "length": 2949000,
-          "asset_id": "vod64649-000009M001",
+          "length": 2889000,
+          "asset_id": "vod64649-000008M001",
           "title": "",
-          "subtitle": "第9集 我的眼淚是披薩和炸雞",
-          "ep_number": 9,
+          "subtitle": "第8集 不要太想我喔",
+          "ep_number": 8,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740158400000,
-          "vod_channel_description": "老狐狸手術順利，卻因併發症發作離世，小劉在老狐狸逝世後性格判若兩人，大方請客的舉止引起阿君阿梅婆的注意。白菲力終於盼到了醫院轉型成醫美的許可，聘請林山君擔任廚師長，關閉虧損連連的急診室。颱風來襲，小劉收拾行李打算離開陽光醫院，卻在離開的路上發現唯一外聯的橋墩居然斷了..."
+          "p_start": 1740155400000,
+          "vod_channel_description": "林山君準備愛心早餐給小劉卻遭冷處理，林山君霸氣告白。緹娜阿鬼得知小劉是因為創傷症候群無法動刀，對於小劉接下來的手術感到憂心。凱莉因為在上班時間親餵孩子，遭病人投訴不斷，心灰意冷下提出辭呈。小劉替老狐狸手術，術中老狐狸血管破裂情況緊急，小劉卻在這時創傷症候群發作，眾人不知如何是好。"
         }
       },
       "station_categories": [
@@ -259,7 +259,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

@@ -1303,27 +1303,26 @@
           }
         ],
         "total_length": 206473000,
-        "focus_index": 68,
-        "next_index": 0,
-        "time": 687920,
+        "focus_index": 11,
+        "next_index": 12,
+        "time": 789390,
         "focus_program": {
-          "content_id": "VOD00289639",
+          "content_id": "VOD00251909",
           "time_codes": [
-            721000,
-            1526000,
-            2125000,
-            2940000
+            913000,
+            1556000,
+            1843000
           ],
           "timecode_duration": [],
-          "length": 3594000,
-          "asset_id": "vod62822-000009M001",
-          "title": "中國這麼美",
-          "subtitle": "第9集",
-          "ep_number": 9,
+          "length": 2346000,
+          "asset_id": "vod49804-030002M001",
+          "title": "最美旅拍3",
+          "subtitle": "第3季第2集",
+          "ep_number": 2,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762283100000,
-          "vod_channel_description": "國內首檔聚焦中國式生活美學的紀實類節目。每期邀請一支樂隊或一位音樂人，以及他們的好友，以音樂+旅行的形式，以中國人的世俗生活爲線索，發現中國式生活美學，從而歌唱平凡的人間。"
+          "p_start": 1762091700000,
+          "vod_channel_description": "《最美旅拍》第三季節目在第一、二季基礎上做了內容升級。藝人與福建當地理想生活家將有更深入的聯繫和互動，二者在共處中完成理想生活的講述。同時，兩位藝人將在本季節目中自制10期遊玩攻略，攻略更具實用性、可複製性，觀眾們可參照這些旅遊攻略，自助遊玩福建多地。"
         }
       },
       "station_categories": [
@@ -1336,7 +1335,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }
