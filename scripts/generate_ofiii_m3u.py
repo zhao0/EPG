@@ -3,7 +3,8 @@ import json
 import time
 import os
 from pathlib import Path
-import zipfile
+import gzip
+import tarfile
 
 def get_channel_data(channel_id):
     """獲取頻道資料"""
@@ -31,19 +32,20 @@ def save_channel_json(channel_id, channel_data, json_dir):
         print(f"❌ 儲存頻道 {channel_id} JSON檔案失敗: {e}")
         return False
 
-def create_channel_zip(json_dir, output_dir):
-    """將所有頻道JSON檔案壓縮成ZIP"""
+def create_channel_gz(json_dir, output_dir):
+    """將所有頻道JSON檔案壓縮成GZ"""
     try:
-        zip_path = output_dir / "ofiii_channel.zip"
+        # 创建tar.gz文件
+        gz_path = output_dir / "ofiii_channel.tar.gz"
         
-        with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zipf:
+        with tarfile.open(gz_path, 'w:gz') as tar:
             for json_file in json_dir.glob("*.json"):
-                zipf.write(json_file, json_file.name)
+                tar.add(json_file, arcname=json_file.name)
         
-        print(f"✅ 成功建立壓縮檔: {zip_path}")
+        print(f"✅ 成功建立GZ壓縮檔: {gz_path}")
         return True
     except Exception as e:
-        print(f"❌ 建立壓縮檔失敗: {e}")
+        print(f"❌ 建立GZ壓縮檔失敗: {e}")
         return False
 
 def get_display_name(title, subtitle):
@@ -332,9 +334,9 @@ def main():
         json.dump(playout_channel_data, f, ensure_ascii=False, indent=2)
     
     # 建立頻道JSON壓縮檔
-    print(f"\n🗜️ 建立頻道JSON壓縮檔...")
-    if create_channel_zip(json_dir, output_dir):
-        print(f"✅ 成功建立 ofiii_channel.zip，包含 {saved_json_files} 個頻道JSON檔案")
+    print(f"\n🗜️ 建立頻道JSON GZ壓縮檔...")
+    if create_channel_gz(json_dir, output_dir):
+        print(f"✅ 成功建立 ofiii_channel.tar.gz，包含 {saved_json_files} 個頻道JSON檔案")
     
     print(f"\n🎉 檔案生成完成！")
     print(f"📊 統計資訊:")
@@ -349,7 +351,7 @@ def main():
     print(f"      - {m3u_file}")
     print(f"      - {channel_json_file}")
     print(f"      - {playout_channel_json_file}")
-    print(f"      - {output_dir / 'ofiii_channel.zip'}")
+    print(f"      - {output_dir / 'ofiii_channel.tar.gz'}")
 
 if __name__ == "__main__":
     main()
