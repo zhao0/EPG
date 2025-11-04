@@ -250,7 +250,7 @@ def fetch_epg_data(channel_id, max_retries=3):
     print(f"❌ 無法獲取 電視節目表 數據: {channel_id}")
     return None
 
-def parse_live_epg_data(json_data, channel_id, channel_name):
+def parse_live_epg_data(json_data, channel_id):
     """解析直播頻道的電視節目表 JSON數據"""
     if not json_data:
         return []
@@ -276,8 +276,7 @@ def parse_live_epg_data(json_data, channel_id, channel_name):
                 program_info = item.get('program', {})
                 
                 programs.append({
-                    "channelId": channel_id,
-                    "channelName": channel_name,
+                    "channelName": channel_id,
                     "programName": program_info.get('Title', '未知節目'),
                     "description": program_info.get('Description', ''),
                     "subtitle": program_info.get('SubTitle', ''),
@@ -294,7 +293,7 @@ def parse_live_epg_data(json_data, channel_id, channel_name):
     
     return programs
 
-def parse_vod_epg_data(json_data, channel_id, channel_name):
+def parse_vod_epg_data(json_data, channel_id):
     """解析點播頻道的電視節目表 JSON數據"""
     if not json_data:
         return []
@@ -327,8 +326,7 @@ def parse_vod_epg_data(json_data, channel_id, channel_name):
                 end_taipei = start_taipei + duration
                 
                 programs.append({
-                    "channelId": channel_id,
-                    "channelName": channel_name,
+                    "channelName": channel_id,
                     "programName": item.get('title', '未知節目'),
                     "description": item.get('vod_channel_description', ''),
                     "subtitle": item.get('subtitle', ''),
@@ -345,7 +343,7 @@ def parse_vod_epg_data(json_data, channel_id, channel_name):
     
     return programs
 
-def parse_epg_data(json_data, channel_id, channel_name):
+def parse_epg_data(json_data, channel_id):
     """解析電視節目表 JSON數據，自動判斷直播或點播"""
     if not json_data:
         return []
@@ -355,15 +353,15 @@ def parse_epg_data(json_data, channel_id, channel_name):
         content_type = channel_data.get('content_type', '')
         
         if content_type == 'vod-channel' or channel_data.get('vod_channel_schedule'):
-            print(f"📹 檢測到點播頻道: {channel_id} -> {channel_name}")
-            return parse_vod_epg_data(json_data, channel_id, channel_name)
+            print(f"📹 檢測到點播頻道: {channel_id}")
+            return parse_vod_epg_data(json_data, channel_id)
         else:
-            print(f"📺 檢測到直播頻道: {channel_id} -> {channel_name}")
-            return parse_live_epg_data(json_data, channel_id, channel_name)
+            print(f"📺 檢測到直播頻道: {channel_id}")
+            return parse_live_epg_data(json_data, channel_id)
             
     except (KeyError, TypeError, ValueError) as e:
         print(f"❌ 判斷頻道類型失敗: {str(e)}")
-        return parse_live_epg_data(json_data, channel_id, channel_name)
+        return parse_live_epg_data(json_data, channel_id)
 
 def get_channel_info(json_data, channel_id):
     """從JSON數據中提取頻道信息"""
@@ -389,8 +387,8 @@ def get_channel_info(json_data, channel_id):
         description = channel_data.get('description', '')
         
         return {
-            "channelId": channel_id,
             "channelName": channel_name,
+            "id": channel_id,
             "logo": logo,
             "description": description
         }
@@ -428,12 +426,9 @@ def get_ofiii_epg():
         channel_info = get_channel_info(json_data, channel_id)
         if channel_info:
             all_channels_info.append(channel_info)
-            channel_name = channel_info['channelName']
-        else:
-            channel_name = channel_id  # 如果無法獲取頻道名稱，使用原始ID
         
-        # 解析節目數據，使用頻道名稱替代頻道ID
-        programs = parse_epg_data(json_data, channel_id, channel_name)
+        # 解析節目數據
+        programs = parse_epg_data(json_data, channel_id)
         all_programs.extend(programs)
             
         # 隨機延遲
@@ -450,7 +445,6 @@ def get_ofiii_epg():
     if failed_channels:
         print(f"⚠️ 失敗頻道 ({len(failed_channels)}): {', '.join(failed_channels)}")
     
-    # 按照頻道順序統計節目數量
     channel_counts = {}
     for program in all_programs:
         channel_counts[program["channelName"]] = channel_counts.get(program["channelName"], 0) + 1
@@ -467,9 +461,9 @@ def generate_xmltv(channels_info, programs, output_file="ofiii.xml"):
     
     root = ET.Element("tv", generator="OFIII-EPG-Generator", source="www.ofiii.com")
     
-    # 添加頻道定義 - 使用頻道名稱作為ID
+    # 添加頻道定義
     for channel in channels_info:
-        channel_id = channel['channelName']  # 使用頻道名稱作為ID
+        channel_id = channel['id']
         channel_name = channel['channelName']
         
         channel_elem = ET.SubElement(root, "channel", id=channel_id)
@@ -482,15 +476,11 @@ def generate_xmltv(channels_info, programs, output_file="ofiii.xml"):
         if channel.get('description'):
             ET.SubElement(channel_elem, "desc", lang="zh").text = channel['description']
     
-    # 添加節目 - 按照頻道順序排列
+    # 添加節目
     program_count = 0
-    
-    # 按照頻道名稱排序，確保節目按照頻道順序排列
-    sorted_programs = sorted(programs, key=lambda x: x['channelName'])
-    
-    for program in sorted_programs:
+    for program in programs:
         try:
-            channel_id = program['channelName']  # 使用頻道名稱作為ID
+            channel_id = program['channelName']
             start_time = program['start'].strftime('%Y%m%d%H%M%S %z')
             end_time = program['end'].strftime('%Y%m%d%H%M%S %z')
             
