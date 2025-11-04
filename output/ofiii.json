@@ -1,1147 +1,1147 @@
 [
   {
-    "channelId": "nnews-zh",
     "channelName": "倪珍播新聞",
+    "id": "nnews-zh",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_mobile.png",
     "description": ""
   },
   {
-    "channelId": "4gtv-4gtv009",
     "channelName": "中天新聞台",
+    "id": "4gtv-4gtv009",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_mobile.png",
     "description": ""
   },
   {
-    "channelId": "4gtv-4gtv066",
     "channelName": "台視",
+    "id": "4gtv-4gtv066",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_mobile.png",
     "description": ""
   },
   {
-    "channelId": "4gtv-4gtv040",
     "channelName": "中視",
+    "id": "4gtv-4gtv040",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_mobile.png",
     "description": ""
   },
   {
-    "channelId": "4gtv-4gtv041",
     "channelName": "華視",
+    "id": "4gtv-4gtv041",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_mobile.png",
     "description": ""
   },
   {
-    "channelId": "4gtv-4gtv051",
     "channelName": "台視新聞",
+    "id": "4gtv-4gtv051",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_mobile.png",
     "description": ""
   },
   {
-    "channelId": "4gtv-4gtv052",
     "channelName": "華視新聞",
+    "id": "4gtv-4gtv052",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_mobile.png",
     "description": ""
   },
   {
-    "channelId": "4gtv-4gtv074",
     "channelName": "中視新聞",
+    "id": "4gtv-4gtv074",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_mobile.png",
     "description": ""
   },
   {
-    "channelId": "4gtv-4gtv084",
     "channelName": "國會頻道1台",
+    "id": "4gtv-4gtv084",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv084_mobile.png",
     "description": ""
   },
   {
-    "channelId": "4gtv-4gtv085",
     "channelName": "國會頻道2台",
+    "id": "4gtv-4gtv085",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv085_mobile.png",
     "description": ""
   },
   {
-    "channelId": "4gtv-4gtv076",
     "channelName": "亞洲旅遊台",
+    "id": "4gtv-4gtv076",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_mobile.png",
     "description": ""
   },
   {
-    "channelId": "4gtv-4gtv102",
     "channelName": "東森購物1台",
+    "id": "4gtv-4gtv102",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv102_mobile.png",
     "description": ""
   },
   {
-    "channelId": "4gtv-4gtv103",
     "channelName": "東森購物2台",
+    "id": "4gtv-4gtv103",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv103_mobile.png",
     "description": ""
   },
   {
-    "channelId": "4gtv-4gtv104",
     "channelName": "第1商業台",
+    "id": "4gtv-4gtv104",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_mobile.png",
     "description": ""
   },
   {
-    "channelId": "4gtv-4gtv156",
     "channelName": "寰宇新聞台灣台",
+    "id": "4gtv-4gtv156",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_mobile.png",
     "description": ""
   },
   {
-    "channelId": "4gtv-4gtv158",
     "channelName": "寰宇財經台",
+    "id": "4gtv-4gtv158",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_mobile.png",
     "description": ""
   },
   {
-    "channelId": "litv-ftv16",
     "channelName": "好消息",
+    "id": "litv-ftv16",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_mobile.png",
     "description": ""
   },
   {
-    "channelId": "litv-ftv17",
     "channelName": "好消息2台",
+    "id": "litv-ftv17",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_mobile.png",
     "description": ""
   },
   {
-    "channelId": "litv-longturn01",
     "channelName": "龍華卡通台",
+    "id": "litv-longturn01",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn01_mobile.png",
     "description": ""
   },
   {
-    "channelId": "litv-longturn02",
     "channelName": "龍華洋片台",
+    "id": "litv-longturn02",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn02_mobile.png",
     "description": ""
   },
   {
-    "channelId": "litv-longturn03",
     "channelName": "龍華電影台",
+    "id": "litv-longturn03",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_mobile.png",
     "description": ""
   },
   {
-    "channelId": "litv-longturn11",
     "channelName": "龍華日韓台",
+    "id": "litv-longturn11",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_mobile.png",
     "description": ""
   },
   {
-    "channelId": "litv-longturn12",
     "channelName": "龍華偶像台",
+    "id": "litv-longturn12",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_mobile.png",
     "description": ""
   },
   {
-    "channelId": "litv-longturn14",
     "channelName": "寰宇新聞台",
+    "id": "litv-longturn14",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_mobile.png",
     "description": ""
   },
   {
-    "channelId": "litv-longturn18",
     "channelName": "龍華戲劇台",
+    "id": "litv-longturn18",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_mobile.png",
     "description": ""
   },
   {
-    "channelId": "litv-longturn19",
     "channelName": "Smart知識台",
+    "id": "litv-longturn19",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_mobile.png",
     "description": ""
   },
   {
-    "channelId": "litv-longturn20",
     "channelName": "ELTV生活英語台",
+    "id": "litv-longturn20",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_mobile.png",
     "description": ""
   },
   {
-    "channelId": "litv-longturn21",
     "channelName": "龍華經典台",
+    "id": "litv-longturn21",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_mobile.png",
     "description": ""
   },
   {
-    "channelId": "litv-longturn22",
     "channelName": "台灣戲劇台",
+    "id": "litv-longturn22",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_mobile.png",
     "description": ""
   },
   {
-    "channelId": "iNEWS",
     "channelName": "三立新聞iNEWS",
+    "id": "iNEWS",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_mobile.png",
     "description": ""
   },
   {
-    "channelId": "daystar",
     "channelName": "DayStar",
+    "id": "daystar",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/Daystar_128x72.png",
     "description": ""
   },
   {
-    "channelId": "ofiii13",
     "channelName": "公視金獎台",
+    "id": "ofiii13",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3068_ofiii13_mobile_20230920.png",
     "description": ""
   },
   {
-    "channelId": "ofiii16",
     "channelName": "空中英語教室HD頻道",
+    "id": "ofiii16",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_mobile_20250506.png",
     "description": ""
   },
   {
-    "channelId": "ofiii22",
     "channelName": "哆啦Ａ夢台",
+    "id": "ofiii22",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_mobile_20190902.png",
     "description": ""
   },
   {
-    "channelId": "ofiii23",
     "channelName": "新哆啦A夢(中文版)",
+    "id": "ofiii23",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3386_ofiii23_mobile_20240709.png",
     "description": ""
   },
   {
-    "channelId": "ofiii24",
     "channelName": "新哆啦A夢(中文版)2台",
+    "id": "ofiii24",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3841_ofiii24_mobile_20250827.png",
     "description": ""
   },
   {
-    "channelId": "ofiii31",
     "channelName": "TVBS食尚玩家",
+    "id": "ofiii31",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2984_ofiii31_mobile_20230720.png",
     "description": ""
   },
   {
-    "channelId": "ofiii32",
     "channelName": "東森娛樂台",
+    "id": "ofiii32",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2985_ofiii32_mobile_20230720.png",
     "description": ""
   },
   {
-    "channelId": "ofiii36",
     "channelName": "中天亞洲精采台",
+    "id": "ofiii36",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_mobile_20230920.png",
     "description": ""
   },
   {
-    "channelId": "ofiii38",
     "channelName": "經典劇場",
+    "id": "ofiii38",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_mobile_20241202.png",
     "description": ""
   },
   {
-    "channelId": "ofiii39",
     "channelName": "短劇馬拉松",
+    "id": "ofiii39",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3689_ofiii39_mobile_20250328.png",
     "description": ""
   },
   {
-    "channelId": "ofiii1048",
     "channelName": "Focus風采戲劇台",
+    "id": "ofiii1048",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_mobile_20180522.png",
     "description": ""
   },
   {
-    "channelId": "ofiii50",
     "channelName": "掏掏新聞",
+    "id": "ofiii50",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_mobile_20211124.png",
     "description": ""
   },
   {
-    "channelId": "ofiii55",
     "channelName": "國際大小事",
+    "id": "ofiii55",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3560_ofiii55_mobile_20241202.png",
     "description": ""
   },
   {
-    "channelId": "ofiii64",
     "channelName": "第1財經",
+    "id": "ofiii64",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii64_mobile_20221110.png",
     "description": ""
   },
   {
-    "channelId": "ofiii70",
     "channelName": "Golden 強片台",
+    "id": "ofiii70",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3562_ofiii70_mobile_20241203.png",
     "description": ""
   },
   {
-    "channelId": "ofiii73",
     "channelName": "周星馳台",
+    "id": "ofiii73",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3202_ofiii73_mobile_20240105.png",
     "description": ""
   },
   {
-    "channelId": "ofiii74",
     "channelName": "歐飛電影台",
+    "id": "ofiii74",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_mobile_20240315.png",
     "description": ""
   },
   {
-    "channelId": "ofiii75",
     "channelName": "歐飛動作電影台",
+    "id": "ofiii75",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_mobile_20240315.png",
     "description": ""
   },
   {
-    "channelId": "ofiii76",
     "channelName": "Golden影迷台",
+    "id": "ofiii76",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3880_ofiii76_mobile_20250924.png",
     "description": ""
   },
   {
-    "channelId": "ofiii81",
     "channelName": "全民星攻略 知識開箱",
+    "id": "ofiii81",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3719_ofiii81_mobile_20250506.png",
     "description": ""
   },
   {
-    "channelId": "ofiii82",
     "channelName": "Focus探索新知台",
+    "id": "ofiii82",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii82_mobile_20221213.png",
     "description": ""
   },
   {
-    "channelId": "ofiii83",
     "channelName": "鄉民大學問",
+    "id": "ofiii83",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii85",
     "channelName": "社會NOW什麼",
+    "id": "ofiii85",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii88",
     "channelName": "啦啦隊獨家專訪",
+    "id": "ofiii88",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3690_ofiii88_mobile_20250328.png",
     "description": ""
   },
   {
-    "channelId": "ofiii89",
     "channelName": "泰可愛旋風",
+    "id": "ofiii89",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3526_ofiii89_mobile_20241114.png",
     "description": ""
   },
   {
-    "channelId": "ofiii91",
     "channelName": "演唱會直擊",
+    "id": "ofiii91",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3525_ofiii91_mobile_20241108.png",
     "description": ""
   },
   {
-    "channelId": "ofiii92",
     "channelName": "健康問良醫",
+    "id": "ofiii92",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3411_ofiii92_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii94",
     "channelName": "ASMR行車紀錄",
+    "id": "ofiii94",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3691_ofiii94_mobile_20250328.png",
     "description": ""
   },
   {
-    "channelId": "ofiii95",
     "channelName": "Freeman @台灣",
+    "id": "ofiii95",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3204_ofiii111_mobile_20240105.png",
     "description": ""
   },
   {
-    "channelId": "ofiii96",
     "channelName": "饕客揪愛吃",
+    "id": "ofiii96",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2989_ofiii96_mobile_20230906.png",
     "description": ""
   },
   {
-    "channelId": "ofiii97",
     "channelName": "人氣動漫預告",
+    "id": "ofiii97",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2990_ofiii97_mobile_20230814.png",
     "description": ""
   },
   {
-    "channelId": "ofiii99",
     "channelName": "九九敬老頻道",
+    "id": "ofiii99",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii99_mobile_20221110.png",
     "description": ""
   },
   {
-    "channelId": "ofiii100",
     "channelName": "長安十二時辰",
+    "id": "ofiii100",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3808_ofiii100_mobile_20250729.png",
     "description": ""
   },
   {
-    "channelId": "ofiii101",
     "channelName": "韶華若錦",
+    "id": "ofiii101",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3778_ofiii101_mobile_20250626.png",
     "description": ""
   },
   {
-    "channelId": "ofiii102",
     "channelName": "白髮",
+    "id": "ofiii102",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3881_ofiii102_mobile_20250924.png",
     "description": ""
   },
   {
-    "channelId": "ofiii103",
     "channelName": "三國",
+    "id": "ofiii103",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3383_ofiii103_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii104",
     "channelName": "武媚娘傳奇",
+    "id": "ofiii104",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3412_ofiii104_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii105",
     "channelName": "長樂曲",
+    "id": "ofiii105",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3476_ofiii105_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii106",
     "channelName": "軍師聯盟",
+    "id": "ofiii106",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3070_ofiii106_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii107",
     "channelName": "軍師聯盟2 虎嘯龍吟",
+    "id": "ofiii107",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3071_ofiii107_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii108",
     "channelName": "國色芳華",
+    "id": "ofiii108",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3692_ofiii108_mobile_20250331.png",
     "description": ""
   },
   {
-    "channelId": "ofiii109",
     "channelName": "落花時節又逢君",
+    "id": "ofiii109",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3779_ofiii109_mobile_20250626.png",
     "description": ""
   },
   {
-    "channelId": "ofiii110",
     "channelName": "楚喬傳",
+    "id": "ofiii110",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3113_ofiii110_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii111",
     "channelName": "倚天屠龍記 2019",
+    "id": "ofiii111",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3206_ofiii111_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii112",
     "channelName": "鳳囚凰",
+    "id": "ofiii112",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3721_ofiii112_mobile_20250506.png",
     "description": ""
   },
   {
-    "channelId": "ofiii113",
     "channelName": "步步驚心",
+    "id": "ofiii113",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3443_ofiii113_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii114",
     "channelName": "九重紫",
+    "id": "ofiii114",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3630_ofiii114_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii115",
     "channelName": "私藏浪漫",
+    "id": "ofiii115",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3444_ofiii115_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii116",
     "channelName": "去有風的地方",
+    "id": "ofiii116",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2591_ofiii116_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii117",
     "channelName": "佔有姜西",
+    "id": "ofiii117",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3780_ofiii117_mobile_20250626.png",
     "description": ""
   },
   {
-    "channelId": "ofiii118",
     "channelName": "向風而行《11/5即將下架》",
+    "id": "ofiii118",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii119",
     "channelName": "以家人之名",
+    "id": "ofiii119",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3023_ofiii119_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii120",
     "channelName": "有你的時光裡",
+    "id": "ofiii120",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3722_ofiii120_mobile_20250506.png",
     "description": ""
   },
   {
-    "channelId": "ofiii121",
     "channelName": "我的差評女友",
+    "id": "ofiii121",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3781_ofiii121_mobile_20250626.png",
     "description": ""
   },
   {
-    "channelId": "ofiii122",
     "channelName": "請叫我總監《11/5即將下架》",
+    "id": "ofiii122",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii123",
     "channelName": "三十而已",
+    "id": "ofiii123",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3748_ofiii123_mobile_20250529.png",
     "description": ""
   },
   {
-    "channelId": "ofiii124",
     "channelName": "月嫂先生",
+    "id": "ofiii124",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3693_ofiii124_mobile_20250331.png",
     "description": ""
   },
   {
-    "channelId": "ofiii125",
     "channelName": "綜藝大集合",
+    "id": "ofiii125",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3809_ofiii125_mobile_20250729.png",
     "description": ""
   },
   {
-    "channelId": "ofiii126",
     "channelName": "豬哥壹級棒",
+    "id": "ofiii126",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3356_ofiii126_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii127",
     "channelName": "鬼話連篇",
+    "id": "ofiii127",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3782_ofiii127_mobile_20250626.png",
     "description": ""
   },
   {
-    "channelId": "ofiii128",
     "channelName": "醫師好辣",
+    "id": "ofiii128",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3633_ofiii128_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii129",
     "channelName": "WTO姐妹會",
+    "id": "ofiii129",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3301_ofiii129_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii131",
     "channelName": "全民星攻略",
+    "id": "ofiii131",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2594_ofiii131_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii132",
     "channelName": "健康2.0",
+    "id": "ofiii132",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3600_ofiii132_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii133",
     "channelName": "台灣啟示錄",
+    "id": "ofiii133",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2595_ofiii133_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii134",
     "channelName": "法眼黑與白",
+    "id": "ofiii134",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2935_ofiii134_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii135",
     "channelName": "天才衝衝衝",
+    "id": "ofiii135",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2936_ofiii135_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii136",
     "channelName": "一步一腳印 發現新台灣",
+    "id": "ofiii136",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3601_ofiii136_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii137",
     "channelName": "女人我最大",
+    "id": "ofiii137",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3571_ofiii137_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii139",
     "channelName": "威廉沈歡樂送",
+    "id": "ofiii139",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3603_ofiii139_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii140",
     "channelName": "木曜4超玩 一日系列",
+    "id": "ofiii140",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3694_ofiii140_mobile_20250331.png",
     "description": ""
   },
   {
-    "channelId": "ofiii141",
     "channelName": "月曜1起玩",
+    "id": "ofiii141",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3749_ofiii141_mobile_20250529.png",
     "description": ""
   },
   {
-    "channelId": "ofiii142",
     "channelName": "一字千金",
+    "id": "ofiii142",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3168_ofiii142_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii143",
     "channelName": "11點熱吵店",
+    "id": "ofiii143",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3234_ofiii143_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii144",
     "channelName": "麥卡貝網路電視",
+    "id": "ofiii144",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3750_ofiii144_mobile_20250529.png",
     "description": ""
   },
   {
-    "channelId": "ofiii145",
     "channelName": "回到20歲",
+    "id": "ofiii145",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3661_ofiii145_mobile_20250305.png",
     "description": ""
   },
   {
-    "channelId": "ofiii146",
     "channelName": "白雪公主非死不可",
+    "id": "ofiii146",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3515_ofiii146_mobile_20250225.png",
     "description": ""
   },
   {
-    "channelId": "ofiii147",
     "channelName": "好搭檔",
+    "id": "ofiii147",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3516_ofiii147_mobile_20250225.png",
     "description": ""
   },
   {
-    "channelId": "ofiii148",
     "channelName": "月升之江",
+    "id": "ofiii148",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3882_ofiii148_mobile_20250924.png",
     "description": ""
   },
   {
-    "channelId": "ofiii150",
     "channelName": "台灣靈異事件",
+    "id": "ofiii150",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3385_ofiii150_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii151",
     "channelName": "包青天 1993版",
+    "id": "ofiii151",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3235_ofiii151_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii152",
     "channelName": "我的婆婆怎麼那麼可愛",
+    "id": "ofiii152",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3027_ofiii152_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii153",
     "channelName": "村裡來了個暴走女外科",
+    "id": "ofiii153",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3028_ofiii153_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii154",
     "channelName": "一把青",
+    "id": "ofiii154",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3077_ofiii154_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii155",
     "channelName": "茶金",
+    "id": "ofiii155",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3119_ofiii155_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii156",
     "channelName": "苦力",
+    "id": "ofiii156",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3478_ofiii156_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii157",
     "channelName": "俗女養成記",
+    "id": "ofiii157",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3358_ofiii157_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii158",
     "channelName": "麻醉風暴",
+    "id": "ofiii158",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3415_ofiii158_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii159",
     "channelName": "雖然等級只有1級但固有技能是最強的",
+    "id": "ofiii159",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3359_ofiii159_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii160",
     "channelName": "擁有超常技能的異世界流浪美食家",
+    "id": "ofiii160",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3331_ofiii160_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii161",
     "channelName": "離開A級隊伍的我，和從前的弟子往迷宮深處邁進",
+    "id": "ofiii161",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3883_ofiii161_mobile_20250924.png",
     "description": ""
   },
   {
-    "channelId": "ofiii162",
     "channelName": "在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～",
+    "id": "ofiii162",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3303_ofiii162_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii163",
     "channelName": "第一神拳",
+    "id": "ofiii163",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3266_ofiii163_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii164",
     "channelName": "刀劍神域(中文版)",
+    "id": "ofiii164",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3267_ofiii164_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii165",
     "channelName": "蠟筆小新(中文版)",
+    "id": "ofiii165",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3079_ofiii165_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii166",
     "channelName": "我們這一家",
+    "id": "ofiii166",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3121_ofiii166_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii167",
     "channelName": "獵人(中文版)",
+    "id": "ofiii167",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3122_ofiii167_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii168",
     "channelName": "中華一番(中文版)",
+    "id": "ofiii168",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3124_ofiii168_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii169",
     "channelName": "隊長小翼(中文版)",
+    "id": "ofiii169",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3125_ofiii169_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii170",
     "channelName": "SPY X FAMILY 間諜家家酒",
+    "id": "ofiii170",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3304_ofiii170_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii171",
     "channelName": "SPY X FAMILY 間諜家家酒(中文版)",
+    "id": "ofiii171",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3127_ofiii171_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii172",
     "channelName": "無職轉生，到了異世界就拿出真本事",
+    "id": "ofiii172",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3128_ofiii172_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii173",
     "channelName": "關於我轉生變成史萊姆這檔事(國)",
+    "id": "ofiii173",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3170_ofiii173_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii174",
     "channelName": "夏目友人帳",
+    "id": "ofiii174",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3171_ofiii174_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii175",
     "channelName": "怪醫黑傑克TV(中文版)",
+    "id": "ofiii175",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3811_ofiii175_mobile_20250729.png",
     "description": ""
   },
   {
-    "channelId": "ofiii177",
     "channelName": "鋼之鍊金術師",
+    "id": "ofiii177",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3237_ofiii177_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii178",
     "channelName": "JOJO 的奇妙冒險",
+    "id": "ofiii178",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3238_ofiii178_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii179",
     "channelName": "葬送的芙莉蓮",
+    "id": "ofiii179",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3268_ofiii179_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii180",
     "channelName": "史上最強弟子兼一(中文版)",
+    "id": "ofiii180",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3479_ofiii180_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii182",
     "channelName": "忍者亂太郎(中文版)",
+    "id": "ofiii182",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3572_ofiii182_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii183",
     "channelName": "膽大黨",
+    "id": "ofiii183",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3604_ofiii183_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii184",
     "channelName": "新忍者哈特利",
+    "id": "ofiii184",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3634_ofiii184_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii185",
     "channelName": "凡爾賽玫瑰《11/5即將下架》",
+    "id": "ofiii185",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_mobile_20250508.png",
     "description": ""
   },
   {
-    "channelId": "ofiii186",
     "channelName": "城市獵人",
+    "id": "ofiii186",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3751_ofiii186_mobile_20250529.png",
     "description": ""
   },
   {
-    "channelId": "ofiii187",
     "channelName": "超人力霸王台",
+    "id": "ofiii187",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3843_ofiii187_mobile_20250827.png",
     "description": ""
   },
   {
-    "channelId": "ofiii192",
     "channelName": "生命的贏家",
+    "id": "ofiii192",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii192_mobile_20230329.png",
     "description": ""
   },
   {
-    "channelId": "ofiii195",
     "channelName": "海派甜心",
+    "id": "ofiii195",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3605_ofiii195_mobile_20250225.png",
     "description": ""
   },
   {
-    "channelId": "ofiii196",
     "channelName": "不良笑花",
+    "id": "ofiii196",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3631_ofiii196_mobile_20250225.png",
     "description": ""
   },
   {
-    "channelId": "ofiii198",
     "channelName": "王子看見二公主《11/5即將下架》",
+    "id": "ofiii198",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_mobile_20250305.png",
     "description": ""
   },
   {
-    "channelId": "ofiii200",
     "channelName": "劣人傳之詭計",
+    "id": "ofiii200",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3783_ofiii200_mobile_20250626.png",
     "description": ""
   },
   {
-    "channelId": "ofiii201",
     "channelName": "大新聞大爆卦",
+    "id": "ofiii201",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2939_ofiii201_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii202",
     "channelName": "新聞大白話",
+    "id": "ofiii202",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3239_ofiii202_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii203",
     "channelName": "文茜的世界周報",
+    "id": "ofiii203",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3269_ofiii203_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii204",
     "channelName": "寰宇全視界",
+    "id": "ofiii204",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2942_ofiii204_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii205",
     "channelName": "文茜的世界財經周報",
+    "id": "ofiii205",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3480_ofiii205_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii206",
     "channelName": "環球大戰線《11/5即將下架》",
+    "id": "ofiii206",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii207",
     "channelName": "少康戰情室",
+    "id": "ofiii207",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3520_ofiii207_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii208",
     "channelName": "國民大會",
+    "id": "ofiii208",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3573_ofiii208_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii209",
     "channelName": "台灣最前線",
+    "id": "ofiii209",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3844_ofiii209_mobile_20250827.png",
     "description": ""
   },
   {
-    "channelId": "ofiii210",
     "channelName": "台灣向前行",
+    "id": "ofiii210",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3845_ofiii210_mobile_20250827.png",
     "description": ""
   },
   {
-    "channelId": "ofiii211",
     "channelName": "民視異言堂",
+    "id": "ofiii211",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3884_ofiii211_mobile_20250924.png",
     "description": ""
   },
   {
-    "channelId": "ofiii212",
     "channelName": "新聞觀測站",
+    "id": "ofiii212",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3885_ofiii212_mobile_20250924.png",
     "description": ""
   },
   {
-    "channelId": "ofiii215",
     "channelName": "電動車時代",
+    "id": "ofiii215",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3475_ofiii215_mobile_20240930.png",
     "description": ""
   },
   {
-    "channelId": "ofiii216",
     "channelName": "SiCAR愛車酷",
+    "id": "ofiii216",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3521_ofiii216_mobile_20241104.png",
     "description": ""
   },
   {
-    "channelId": "ofiii217",
     "channelName": "狂人日誌",
+    "id": "ofiii217",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3522_ofiii217_mobile_20241104.png",
     "description": ""
   },
   {
-    "channelId": "ofiii218",
     "channelName": "脖子解說 Mr. Neck",
+    "id": "ofiii218",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3523_ofiii218_mobile_20250220.png",
     "description": ""
   },
   {
-    "channelId": "ofiii225",
     "channelName": "食尚玩家-Hello腹餓代",
+    "id": "ofiii225",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3574_ofiii225_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii226",
     "channelName": "食尚玩家-天菜就醬吃",
+    "id": "ofiii226",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3575_ofiii226_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii227",
     "channelName": "食尚玩家-2天1夜go",
+    "id": "ofiii227",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3554_ofiii227_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii228",
     "channelName": "食尚玩家-熱血48小時",
+    "id": "ofiii228",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3558_ofiii228_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii234",
     "channelName": "非凡大探索",
+    "id": "ofiii234",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3553_ofiii234_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii235",
     "channelName": "台灣1001個故事",
+    "id": "ofiii235",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3555_ofiii235_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii236",
     "channelName": "詹姆士出走料理",
+    "id": "ofiii236",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3566_ofiii236_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii237",
     "channelName": "進擊的台灣",
+    "id": "ofiii237",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3568_ofiii237_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii238",
     "channelName": "世界第一等",
+    "id": "ofiii238",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3567_ofiii238_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii239",
     "channelName": "台灣第一等",
+    "id": "ofiii239",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3569_ofiii239_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii240",
     "channelName": "溢遊未盡",
+    "id": "ofiii240",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3570_ofiii240_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii241",
     "channelName": "台灣真善美",
+    "id": "ofiii241",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3635_ofiii241_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii242",
     "channelName": "請問今晚住誰家",
+    "id": "ofiii242",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3636_ofiii242_mobile_20250221.png",
     "description": ""
   },
   {
-    "channelId": "ofiii243",
     "channelName": "早餐中國",
+    "id": "ofiii243",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3664_ofiii243_mobile_20250305.png",
     "description": ""
   },
   {
-    "channelId": "ofiii244",
     "channelName": "溢起趣打卡",
+    "id": "ofiii244",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3665_ofiii244_mobile_20250305.png",
     "description": ""
   },
   {
-    "channelId": "ofiii245",
     "channelName": "台灣壹百種味道",
+    "id": "ofiii245",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3666_ofiii245_mobile_20250305.png",
     "description": ""
   },
   {
-    "channelId": "ofiii246",
     "channelName": "中國美食大探索",
+    "id": "ofiii246",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3784_ofiii246_mobile_20250626.png",
     "description": ""
   },
   {
-    "channelId": "ofiii247",
     "channelName": "中國旅遊大探索",
+    "id": "ofiii247",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3813_ofiii247_mobile_20250729.png",
     "description": ""
   },
   {
-    "channelId": "ofiii248",
     "channelName": "秘境不思溢",
+    "id": "ofiii248",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3812_ofiii248_mobile_20250729.png",
     "description": ""
   },
   {
-    "channelId": "ofiii250",
     "channelName": "紓壓雷雨聲",
+    "id": "ofiii250",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3437_ofiii250_mobile_20250305.png",
     "description": ""
   },
   {
-    "channelId": "ofiii251",
     "channelName": "療癒下雨聲",
+    "id": "ofiii251",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_mobile_20250305.png",
     "description": ""
   },
   {
-    "channelId": "ofiii252",
     "channelName": "放鬆的爵士午後",
+    "id": "ofiii252",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3439_ofiii252_mobile_20250305.png",
     "description": ""
   },
   {
-    "channelId": "ofiii254",
     "channelName": "夏日陽光海浪聲",
+    "id": "ofiii254",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3441_ofiii254_mobile_20250305.png",
     "description": ""
   },
   {
-    "channelId": "ofiii255",
     "channelName": "大自然流水聲",
+    "id": "ofiii255",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3785_ofiii255_mobile_20250703.png",
     "description": ""
   }
