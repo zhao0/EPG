@@ -427,24 +427,24 @@
           }
         ],
         "total_length": 34422000,
-        "focus_index": 0,
-        "next_index": 1,
-        "time": 1353232,
+        "focus_index": 4,
+        "next_index": 5,
+        "time": 195477,
         "focus_program": {
-          "content_id": "VOD00343663",
+          "content_id": "VOD00343667",
           "time_codes": [
             696000
           ],
           "timecode_duration": [],
           "length": 1437000,
-          "asset_id": "vod73503-010001M001",
+          "asset_id": "vod73503-010005M001",
           "title": "",
-          "subtitle": "第1季第1集 那就是戀情的開端",
-          "ep_number": 1,
+          "subtitle": "第1季第5集 蛋蛋在哪裡",
+          "ep_number": 5,
           "rating": 3,
           "content_type": "comic",
-          "p_start": 1762167300000,
-          "vod_channel_description": "出生於靈媒師世家的高中女生．小桃（綾瀨桃），以及跟她同年級，熱愛神秘學的厄卡倫（高倉健）。小桃出手救了在班上被欺負的厄卡倫，兩人也以此為契機和對方聊了起來，可是「相信幽靈但不相信外星人派」的小桃跟「相信外星人但不相信幽靈派」的厄卡倫起了爭執。"
+          "p_start": 1762173300000,
+          "vod_channel_description": "小桃和厄卡倫打贏高速婆婆，取回了和平的生活。一同經歷這番壯烈的體驗，更縮短了兩人間的距離，然而兩人相處起來卻莫名的尷尬。就在這時候，厄卡倫向小桃說了一件非常重要的事。明明已經打倒了高速婆婆，厄卡倫的「那個」卻不知為何沒有回來…"
         }
       },
       "station_categories": [

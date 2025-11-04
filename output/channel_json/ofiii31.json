@@ -3195,34 +3195,34 @@
           }
         ],
         "total_length": 371110000,
-        "focus_index": 24,
+        "focus_index": 26,
         "midroll_before_start": false,
         "midroll_before_start_duration": 0,
         "focus_program": {
-          "content_id": "VOD00315820",
+          "content_id": "VOD00123194",
           "time_codes": [
-            1105000,
-            1916000,
-            2405000
+            1133000,
+            1722000,
+            2282000
           ],
           "timecode_duration": [
             60000,
             60000,
             60000
           ],
-          "length": 2850000,
-          "asset_id": "vod64340-000171M001",
-          "title": "食尚玩家-瘋狂總部",
-          "subtitle": "第171集 狂掃西門町美食！台北人的青春回憶都在這？",
-          "ep_number": 171,
+          "length": 2834000,
+          "asset_id": "vod26923-000505M001",
+          "title": "食尚玩家-來去住一晚",
+          "subtitle": "第505集 挖出壓箱寶! 這些店桃園人未必都知道",
+          "ep_number": 505,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762234200000,
-          "vod_channel_description": "《瘋狂總部》這次幫大家挖出台北西門町擁有招牌好料的店家！像是榮獲米其林推薦，已經傳承到第三代的小吃店；隱藏在街邊30年，擁有多種配菜、任挑任選的大腸包小腸；老闆自己研發，且多達11種口味的手作日式麻糬；還有開業3年多的台灣第一家羊肉串自動燒烤店。",
-          "p_end": 1762237500000
+          "p_start": 1762240800000,
+          "vod_channel_description": "來到桃園通常只為了坐飛機嗎？那你可就錯過桃園的壓箱寶美食了！有機食材入菜，天然食材超健康的吃到飽餐廳！全台最大，20人才吃得完的土豪宴，30道蒸籠料理、10道籠邊菜浮誇上桌！感受團圓的過節氛圍！五星級飯店有親子房型，飯店玩闖關、房間玩尋寶，找到有驚喜禮物！跟著我們挖出桃園壓箱寶吧！",
+          "p_end": 1762244100000
         },
-        "time": 2991211,
-        "next_index": 25
+        "time": 462123,
+        "next_index": 27
       },
       "station_categories": [
         {
@@ -3238,7 +3238,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

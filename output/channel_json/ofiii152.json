@@ -763,26 +763,26 @@
           }
         ],
         "total_length": 119311000,
-        "focus_index": 26,
-        "next_index": 27,
-        "time": 127698,
+        "focus_index": 27,
+        "next_index": 28,
+        "time": 1771061,
         "focus_program": {
-          "content_id": "VOD00296127",
+          "content_id": "VOD00296128",
           "time_codes": [
-            738000,
-            1453000,
-            2195000
+            665000,
+            1434000,
+            2112000
           ],
           "timecode_duration": [],
-          "length": 2989000,
-          "asset_id": "vod64648-000027M001",
+          "length": 2999000,
+          "asset_id": "vod64648-000028M001",
           "title": "",
-          "subtitle": "第27集",
-          "ep_number": 27,
+          "subtitle": "第28集",
+          "ep_number": 28,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740172200000,
-          "vod_channel_description": "彩香和發貴知道英樹向小鷗告白後，深怕小鷗會跟英樹離開，無一不想盡辦法取得小鷗歡心。發貴做出土鳳梨和金鑽兩種不同内餡鳳梨酥，彩香和小鷗喜好不同，各有堅持，在爭執不下的情況，於是舉辦試吃會讓大家評選。"
+          "p_start": 1740175500000,
+          "vod_channel_description": "發貴最後靠金鑽和土鳳梨融合成的鳳梨酥，贏得在場所有人的一致認同，明星商品就這樣決定了。但彩香和小鷗又為了行銷方式僵持不下。佳純告知秉忠珍賀齋鳳梨酥大賣，秉忠在老婆的慫恿下趕回台南家裡，準備當現成的珍賀齋老闆。"
         }
       },
       "station_categories": [

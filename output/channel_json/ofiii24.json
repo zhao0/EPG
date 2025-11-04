@@ -1052,23 +1052,23 @@
           }
         ],
         "total_length": 93892000,
-        "focus_index": 58,
-        "next_index": 59,
-        "time": 236071,
+        "focus_index": 61,
+        "next_index": 62,
+        "time": 561074,
         "focus_program": {
-          "content_id": "VOD00358242",
+          "content_id": "VOD00358246",
           "time_codes": [
-            759000
+            756000
           ],
           "timecode_duration": [],
-          "length": 1499000,
-          "asset_id": "vod71586-010389M001",
+          "length": 1493000,
+          "asset_id": "vod71586-010392M001",
           "title": "",
-          "subtitle": "第1季第389集 布巾計程車/隨時隨地寫生機",
-          "ep_number": 389,
+          "subtitle": "第1季第392集 拯救南極企鵝/日期變更日曆",
+          "ep_number": 392,
           "rating": 1,
           "content_type": "comic",
-          "p_start": 1762253400000,
+          "p_start": 1762258800000,
           "vod_channel_description": "故事圍繞著一位名叫野比大雄的小學生。大雄在運動方面毫無天份，考試總是零分，又懶惰愛睡午覺。有一天，一隻來自 22 世紀的貓型機器人「哆啦Ａ夢」突然出現在他面前。原來，大雄的玄孫「世修」為了改變大雄的未來，以及改善自己在 22 世紀的生活，特地將哆啦Ａ夢送回現代幫助大雄。"
         }
       },

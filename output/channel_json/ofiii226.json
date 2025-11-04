@@ -1249,26 +1249,26 @@
           }
         ],
         "total_length": 190672000,
-        "focus_index": 18,
-        "next_index": 19,
-        "time": 2369490,
+        "focus_index": 20,
+        "next_index": 21,
+        "time": 1276564,
         "focus_program": {
-          "content_id": "VOD00349528",
+          "content_id": "VOD00351569",
           "time_codes": [
-            1040000,
-            1807000,
-            2465000
+            951000,
+            1709000,
+            2371000
           ],
           "timecode_duration": [],
-          "length": 2821000,
-          "asset_id": "vod72682-000026M001",
+          "length": 2850000,
+          "asset_id": "vod72682-000031M001",
           "title": "",
-          "subtitle": "第26集 衝吧越南 富國島我們來了！",
-          "ep_number": 26,
+          "subtitle": "第31集 衝吧越南！天菜富國島大爆走！",
+          "ep_number": 31,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762047300000,
-          "vod_channel_description": "這次天菜帶你吃、喝、玩爆富國島！像是金氏世界紀錄中最長的「跨海纜車」，再朝聖富國島「最大夜市」，這裡可是當地人吃海鮮大排檔的好去處呢！最後還要體驗刺激好玩又好吃的「快艇跳島遊」！"
+          "p_start": 1762053300000,
+          "vod_channel_description": "這次天菜帶你來玩翻富國島，首先來搭竹籃船欣賞原始自然生態，接著朝聖以童話故事打造的「越南版迪士尼」、24小時開放的「娛樂購物不夜城」，最後再入住擁有超豐富全方位設施的「五星級飯店」！"
         }
       },
       "station_categories": [

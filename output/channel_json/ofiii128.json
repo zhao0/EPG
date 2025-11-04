@@ -1771,26 +1771,26 @@
           }
         ],
         "total_length": 269510000,
-        "focus_index": 20,
-        "next_index": 21,
-        "time": 61891,
+        "focus_index": 21,
+        "next_index": 22,
+        "time": 1426759,
         "focus_program": {
-          "content_id": "VOD00351346",
+          "content_id": "VOD00351347",
           "time_codes": [
-            930000,
-            1845000,
-            2447000
+            986000,
+            1760000,
+            2418000
           ],
           "timecode_duration": [],
-          "length": 2817000,
-          "asset_id": "vod11069-001575M001",
+          "length": 2766000,
+          "asset_id": "vod11069-001576M001",
           "title": "",
-          "subtitle": "第1575集 沒在開玩笑，身體毛病都是自己吃出來的？！",
-          "ep_number": 1575,
+          "subtitle": "第1576集 寵物比新生兒還多！飼主愛毛孩無極限？！",
+          "ep_number": 1576,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1761971700000,
-          "vod_channel_description": "鄭仲茵有心血管家族病史，家人不想飲食控制竟還亂買這種藥來吃？！25歲男性無炸物不歡，竟害頭皮出現這毛病？！病人肚子痛了5天，檢查竟發現有這怪東西塞住腸子？！楊晨熙每天吃蛋糕加手搖飲害皮膚超差，用了這種保養品2週就改善？！"
+          "p_start": 1761974700000,
+          "vod_channel_description": "街頭藝人貓繭到外地表演，竟意外發現寵物貓有驚人才藝？！工程師小康為了寵物法鬥，竟花12萬治療費結果卻？！寵物貓突吐毛嚇壞劉涵竹，醫生建議這樣做可以改善症狀？！在寵物狗肛門發現一條線，飼主一個動作竟害牠腸子壞死？！毛孩就是我的寶貝，上山下海拚了老命也為了牠們？！"
         }
       },
       "station_categories": [
@@ -1803,7 +1803,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

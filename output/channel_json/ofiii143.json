@@ -1771,25 +1771,25 @@
           }
         ],
         "total_length": 273066000,
-        "focus_index": 64,
-        "next_index": 65,
-        "time": 1773334,
+        "focus_index": 66,
+        "next_index": 67,
+        "time": 731931,
         "focus_program": {
-          "content_id": "VOD00374911",
+          "content_id": "VOD00376228",
           "time_codes": [
-            1153000,
-            1883000,
-            2531000
+            1264000,
+            1733000,
+            2267000
           ],
           "timecode_duration": [],
           "length": 2845000,
-          "asset_id": "vod64262-000953M001",
+          "asset_id": "vod64262-000955M001",
           "title": "",
-          "subtitle": "第953集 欠錢還錢！十塊還我！催債CALL out對方會接嗎？",
-          "ep_number": 953,
+          "subtitle": "第955集 熱吵開戰吧！？尚敖叉！台語王爭霸戰來了⋯",
+          "ep_number": 955,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762245600000,
+          "p_start": 1762251600000,
           "vod_channel_description": "「地表最震撼」組合！當荒謬大師沈玉琳遇上瘋瘋貴婦Melody，擦出你意想不到的火花！"
         }
       },

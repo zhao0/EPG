@@ -583,25 +583,25 @@
           }
         ],
         "total_length": 87536000,
-        "focus_index": 14,
-        "next_index": 15,
-        "time": 308909,
+        "focus_index": 15,
+        "next_index": 16,
+        "time": 2057384,
         "focus_program": {
-          "content_id": "VOD00296228",
+          "content_id": "VOD00296229",
           "time_codes": [
-            716000,
-            1462000,
-            2125000
+            826000,
+            1433000,
+            2142000
           ],
           "timecode_duration": [],
-          "length": 2879000,
-          "asset_id": "vod64653-000015M001",
+          "length": 2880000,
+          "asset_id": "vod64653-000016M001",
           "title": "",
-          "subtitle": "第15集",
-          "ep_number": 15,
+          "subtitle": "第16集",
+          "ep_number": 16,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740179700000,
+          "p_start": 1740182700000,
           "vod_channel_description": "1970年代，走過戰火與重建的基隆港，此時正走向前所未有的蓬勃與發展；港裡停泊著許多各式各樣的商船與軍艦，不分晝夜都有大船在進出，船笛聲此起彼落，呈現出一片繁華景象，而支撐這一切的，正是一群生活在社會基層的勞動者——苦力。"
         }
       },

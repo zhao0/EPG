@@ -1682,25 +1682,25 @@
           }
         ],
         "total_length": 266115000,
-        "focus_index": 74,
-        "next_index": 75,
-        "time": 2132648,
+        "focus_index": 76,
+        "next_index": 77,
+        "time": 944362,
         "focus_program": {
-          "content_id": "VOD00376255",
+          "content_id": "VOD00376257",
           "time_codes": [
-            858000,
-            1646000,
-            2278000
+            656000,
+            1392000,
+            2185000
           ],
           "timecode_duration": [],
-          "length": 2926000,
-          "asset_id": "vod38256-000862M001",
+          "length": 2925000,
+          "asset_id": "vod38256-000864M001",
           "title": "",
-          "subtitle": "第862集 工程師白蝦翻轉家鄉/山上的學校我的夢/土城農夫的有機菜園/善待土地有機柚子園",
-          "ep_number": 862,
+          "subtitle": "第864集 有機種菜學會的三堂課/ 新屋石滬傻傻的堅持/小金門老社區的改造/不怕難士官長火龍果",
+          "ep_number": 864,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762241100000,
+          "p_start": 1762247100000,
           "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
         }
       },

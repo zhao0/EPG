@@ -51,33 +51,6 @@
       "Schedule": [
         {
           "StationId": 1077,
-          "ProgramId": "00195766000016",
-          "AirDateTime": "2025-11-04T06:00:00Z",
-          "Duration": 3600,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": true,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00195766000016",
-            "Title": "壞記憶橡皮擦",
-            "SubTitle": "#16",
-            "Description": "曾是被看好的網球之星李君（金在中），在負傷後喪失自尊心，認為自己從人生的主角變成配角。遇上腦研究中心的醫生景珠妍（陳世妍），使用了記憶橡皮擦抹去了過去記憶，重生為運動經紀人，而景珠妍也意外成了他的初戀。因被篡改的記憶開始的羅曼史，在得知真相后其結局將會如何呢？",
-            "ShowType": "5"
-          }
-        },
-        {
-          "StationId": 1077,
           "ProgramId": "00195766000017",
           "AirDateTime": "2025-11-04T07:00:00Z",
           "Duration": 3600,
@@ -3444,7 +3417,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

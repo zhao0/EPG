@@ -827,24 +827,24 @@
           }
         ],
         "total_length": 69584000,
-        "focus_index": 36,
-        "next_index": 37,
-        "time": 778262,
+        "focus_index": 39,
+        "next_index": 40,
+        "time": 1121624,
         "focus_program": {
-          "content_id": "VOD00293177",
+          "content_id": "VOD00293180",
           "time_codes": [
-            713000
+            614000
           ],
           "timecode_duration": [],
           "length": 1420000,
-          "asset_id": "vod44765-020012M001",
+          "asset_id": "vod44765-020015M001",
           "title": "",
-          "subtitle": "第2季第12集 想告訴你",
-          "ep_number": 12,
-          "rating": 3,
+          "subtitle": "第2季第15集 遙遠",
+          "ep_number": 15,
+          "rating": 5,
           "content_type": "comic",
-          "p_start": 1762170000000,
-          "vod_channel_description": "魯迪總算得知菲茲就是希露菲的事實。希露菲也對魯迪坦言自己的心意，兩人終成眷屬。魯迪烏斯為了這麼久的時間都沒發現菲茲就是希露菲一事而道歉，但菲茲只是溫柔地微笑原諒了他。下定決心的魯迪烏斯，跟菲茲一同前去拜訪愛麗兒──"
+          "p_start": 1762174500000,
+          "vod_channel_description": "魯迪收到了來自父親保羅的信。他希望魯迪可以照顧妹妹諾倫與愛夏，因此請了護衛送兩人到魯迪那邊。同時，和魯迪烏斯從相同世界轉移而來的七星，為了回到原來的世界持續研究魔法，但始終找不到突破口而感到焦慮。"
         }
       },
       "station_categories": [

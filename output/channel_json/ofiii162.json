@@ -251,24 +251,24 @@
           }
         ],
         "total_length": 18719000,
-        "focus_index": 11,
-        "next_index": 12,
-        "time": 967784,
+        "focus_index": 1,
+        "next_index": 2,
+        "time": 1265870,
         "focus_program": {
-          "content_id": "VOD00287213",
+          "content_id": "VOD00287203",
           "time_codes": [
-            750000
+            641000
           ],
           "timecode_duration": [],
           "length": 1440000,
-          "asset_id": "vod62481-010012M001",
+          "asset_id": "vod62481-010002M001",
           "title": "",
-          "subtitle": "第1季第12集 神祕的襲擊者",
-          "ep_number": 12,
+          "subtitle": "第1季第2集 王星學園",
+          "ep_number": 2,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762199700000,
-          "vod_channel_description": "企圖暗殺國王的是蕾克希雅的哥哥──雷根王子。在王城陷入混亂的時候，優夜被蕾克希雅與路娜帶去參觀王都，還繞去冒險者公會登錄成為了冒險者！？然後，王國終於查出了雷根王子的所在地，優夜受到歐文請託，一同前往逮捕雷根王子，但是……"
+          "p_start": 1762184700000,
+          "vod_channel_description": "優夜藉由在異世界提升等級，脫胎換骨成為了有著驚人體能的人。然後他與之前在街上解圍的少女──寶城佳織再次相遇，並受到她邀請前往超級名校──王星學園。優夜懷疑著自己有沒有資格就讀這間盡是菁英與天才的學校，結果事情發展成了一日校園體驗……"
         }
       },
       "station_categories": [

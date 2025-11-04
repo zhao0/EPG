@@ -51,33 +51,6 @@
       "Schedule": [
         {
           "StationId": 1166,
-          "ProgramId": "00113678000000",
-          "AirDateTime": "2025-11-04T03:55:00Z",
-          "Duration": 10200,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 2,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00113678000000",
-            "Title": "神偷大劫案",
-            "SubTitle": "The Thieves",
-            "Description": "故事從曾為竊盜集團首腦的澳門朴開始，他計劃盜取香港黑社會老大衛鴻的太太在澳門賭場價值連城的稀世鑽石「太陽之淚」，因此將曾合作過的高手找來，一行十人身懷不同絕技，準備突破賭場的森嚴警衛系統，完成不可能的任務，但盜寶的背後，各人各懷鬼胎…",
-            "ShowType": "98"
-          }
-        },
-        {
-          "StationId": 1166,
           "ProgramId": "00135255000000",
           "AirDateTime": "2025-11-04T06:45:00Z",
           "Duration": 7500,
@@ -1560,7 +1533,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

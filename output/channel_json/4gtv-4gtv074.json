@@ -52,32 +52,6 @@
         {
           "StationId": 742,
           "ProgramId": "00064527000000",
-          "AirDateTime": "2025-11-04T06:00:00Z",
-          "Duration": 3600,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00064527000000",
-            "Title": "中視新聞即時現場",
-            "Description": "由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 742,
-          "ProgramId": "00064527000000",
           "AirDateTime": "2025-11-04T07:00:00Z",
           "Duration": 3600,
           "PartNumber": 0,
@@ -3247,7 +3221,7 @@
         "href_map": {}
       }
     ],
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0"
   },
   "__N_SSP": true
 }

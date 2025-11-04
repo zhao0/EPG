@@ -745,26 +745,26 @@
           }
         ],
         "total_length": 105999000,
-        "focus_index": 7,
-        "next_index": 8,
-        "time": 1511639,
+        "focus_index": 9,
+        "next_index": 10,
+        "time": 113249,
         "focus_program": {
-          "content_id": "VOD00278294",
+          "content_id": "VOD00278296",
           "time_codes": [
-            683000,
-            1457000,
-            2195000
+            744000,
+            1488000,
+            2219000
           ],
           "timecode_duration": [],
           "length": 2718000,
-          "asset_id": "vod60692-000008M001",
+          "asset_id": "vod60692-000010M001",
           "title": "",
-          "subtitle": "第8集",
-          "ep_number": 8,
+          "subtitle": "第10集",
+          "ep_number": 10,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1761601800000,
-          "vod_channel_description": "機組在三亞繼續休整。顧南亭既不住朝海的房間，也不和大家一起在海邊玩耍，暗自喜歡顧南亭的李語珩覺得有些奇怪。更奇怪的是，當顧南亭看到程霄衝浪的時候突然失控，不顧一切將程霄從海裡拉了上來，並嚴厲表示飛行員不允許在執勤期間進行任何高危運動。"
+          "p_start": 1761607800000,
+          "vod_channel_description": "心情低落的程霄從派出所裡出來後獨自遊蕩，淋雨走進了飛吧。順路載李語珩到家的顧南亭收到謝澤天的消息後，拒絕了李語珩喝茶的邀請，直接來到了飛吧。"
         }
       },
       "station_categories": [
@@ -781,7 +781,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

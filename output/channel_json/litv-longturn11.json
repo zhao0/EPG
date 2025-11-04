@@ -51,33 +51,6 @@
       "Schedule": [
         {
           "StationId": 1078,
-          "ProgramId": "00064086000014",
-          "AirDateTime": "2025-11-04T06:00:00Z",
-          "Duration": 3600,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00064086000014",
-            "Title": "燦爛的遺產",
-            "SubTitle": "#14",
-            "Description": "銀星（韓孝珠）的母親在她六歲時因病去世後，和父親、弟弟生活在一起。高中時父親再婚，多了一個妹妹盛美（文彩媛），但繼母是個心機女人，在銀星父親的公司破產又意外過世後奪走財產，姐弟只好流落街頭。後來銀星進入真誠食品公司，意外得到鮮於煥（李勝基）奶奶的遺產，從此改變了她的一生…",
-            "ShowType": "5"
-          }
-        },
-        {
-          "StationId": 1078,
           "ProgramId": "00064086000015",
           "AirDateTime": "2025-11-04T07:00:00Z",
           "Duration": 3600,
@@ -3371,7 +3344,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

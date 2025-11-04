@@ -2283,23 +2283,23 @@
           }
         ],
         "total_length": 203696000,
-        "focus_index": 17,
-        "next_index": 18,
-        "time": 436830,
+        "focus_index": 20,
+        "next_index": 21,
+        "time": 597326,
         "focus_program": {
-          "content_id": "VOD00151107",
+          "content_id": "VOD00151110",
           "time_codes": [
-            680000
+            673000
           ],
           "timecode_duration": [],
           "length": 1475000,
-          "asset_id": "vod39104-010018M001",
+          "asset_id": "vod39104-010021M001",
           "title": "",
-          "subtitle": "第1季第18集",
-          "ep_number": 18,
+          "subtitle": "第1季第21集",
+          "ep_number": 21,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762038900000,
+          "p_start": 1762044300000,
           "vod_channel_description": "身懷絕技卻又好色，可愛又可恨的私人偵探冴羽獠，他與個性開朗的女孩槇村香共同從事著以「城市獵人」為名的私人偵探事務。委託者只要在新宿車站的留言板上寫下「XYZ」字樣，他們就會接受委託。在一次次艱險的委託任務中，城市獵人以其獨有的方式鏟除著城市中的罪惡。"
         }
       },

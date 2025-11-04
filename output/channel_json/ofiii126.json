@@ -1771,25 +1771,25 @@
           }
         ],
         "total_length": 276169000,
-        "focus_index": 48,
-        "next_index": 49,
-        "time": 372887,
+        "focus_index": 49,
+        "next_index": 50,
+        "time": 2166477,
         "focus_program": {
-          "content_id": "VOD00189380",
+          "content_id": "VOD00189381",
           "time_codes": [
-            837000,
-            1548000,
-            2120000
+            848000,
+            1628000,
+            2299000
           ],
           "timecode_duration": [],
           "length": 2877000,
-          "asset_id": "vod43535-000083M001",
+          "asset_id": "vod43535-000084M001",
           "title": "",
-          "subtitle": "第83集 亞洲廚神來上菜、嬌嗔女神大解放",
-          "ep_number": 83,
+          "subtitle": "第84集 喜容 生命最後一幅畫、諧星心事誰人知",
+          "ep_number": 84,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762242900000,
+          "p_start": 1762245900000,
           "vod_channel_description": "《豬哥壹級棒》是豬哥亮與苗可麗主持的大型綜藝節目，看秀場天王豬哥亮獨特的豬式詼諧，增添了真性情、真感動，來賓分享自身感人故事，節目笑中帶淚猶如一場真情三溫暖。"
         }
       },

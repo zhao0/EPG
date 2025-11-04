@@ -269,27 +269,27 @@
           }
         ],
         "total_length": 39497000,
-        "focus_index": 7,
-        "next_index": 8,
-        "time": 2703244,
+        "focus_index": 9,
+        "next_index": 10,
+        "time": 672295,
         "focus_program": {
-          "content_id": "VOD00296270",
+          "content_id": "VOD00296272",
           "time_codes": [
-            676000,
-            1467000,
-            2218000,
-            2820000
+            694000,
+            1409000,
+            2190000,
+            2841000
           ],
           "timecode_duration": [],
-          "length": 3439000,
-          "asset_id": "vod64656-000008M001",
+          "length": 3530000,
+          "asset_id": "vod64656-000010M001",
           "title": "",
-          "subtitle": "第8集",
-          "ep_number": 8,
+          "subtitle": "第10集",
+          "ep_number": 10,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740157200000,
-          "vod_channel_description": "入獄的吉桑擔憂天有不測，在獄中將薏心託付給KK。薏心保釋吉桑一波三折。山妹為了趕工添加糯米粉，甫保釋的吉桑回到茶廠見檢查員來取締添加物，憤而賠款退單，並命令薏心不得再插手製茶，薏心大受打擊。薏心潛入國華公司拿取電報底價，薏心帶電報到台北找KK翻譯，驚見夏慕雪在KK家。"
+          "p_start": 1740164100000,
+          "vod_channel_description": "薏心與文貴雙贏完成電報單，並共同成立「台灣綠茶聯合小組」密切往來促使文貴再度對薏心提親。三年後，KK與夏慕雪結婚，決心看顧母女倆，放棄尋找女兒。徐主編邀請KK撰寫民主思潮社論「暢言專刊」，失去化肥舞台的KK以文字大肆宣洩。"
         }
       },
       "station_categories": [

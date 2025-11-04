@@ -443,24 +443,24 @@
           }
         ],
         "total_length": 34525000,
-        "focus_index": 21,
-        "next_index": 22,
-        "time": 916088,
+        "focus_index": 24,
+        "next_index": 0,
+        "time": 729118,
         "focus_program": {
-          "content_id": "VOD00351796",
+          "content_id": "VOD00351799",
           "time_codes": [
-            663000
+            720000
           ],
           "timecode_duration": [],
           "length": 1381000,
-          "asset_id": "vod75249-010021M001",
+          "asset_id": "vod75249-010024M001",
           "title": "",
-          "subtitle": "第1季第21集 反轉迷宮(特內布雷)",
-          "ep_number": 21,
+          "subtitle": "第1季第24集 夢想的前方",
+          "ep_number": 24,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762204500000,
-          "vod_channel_description": "不只是薩爾穆塔利亞，開始覆蓋這整個世界，既詭異又不祥的半球狀黑色高牆──那正是被稱作反轉迷宮（特內布雷）的現象。優克推測會不會是因為位於「無色暗影」最深處的深淵之門的封印解開了，才會導致跟那個地方相連在一起的所有迷宮都出現了反轉現象。"
+          "p_start": 1762209000000,
+          "vod_channel_description": "在薩卡的帶領下，「四葉草」抵達了「無色暗影」的最深處。他們在那裡與導致動搖世界「真理」現象的元凶──「淘汰」對峙。與散發出憎恨氣息的「淘汰」之間的戰鬥著實極為激烈。另一方面，作為隊長率領「四葉草」到這一步的優克，面對能夠拯救世界的唯一方法，暗自抱持了某個悲壯的決心。"
         }
       },
       "station_categories": [
@@ -477,7 +477,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
   },
   "__N_SSP": true
 }

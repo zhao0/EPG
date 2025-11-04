@@ -2908,15 +2908,15 @@
           }
         ],
         "total_length": 304298000,
-        "focus_index": 14,
+        "focus_index": 15,
         "midroll_before_start": false,
         "midroll_before_start_duration": 0,
         "focus_program": {
-          "content_id": "VOD00137401",
+          "content_id": "VOD00137402",
           "time_codes": [
-            750000,
-            1440000,
-            2169000
+            720000,
+            1498000,
+            2172000
           ],
           "timecode_duration": [
             180000,
@@ -2924,18 +2924,18 @@
             180000
           ],
           "length": 2458000,
-          "asset_id": "vod37442-000023M001",
+          "asset_id": "vod37442-000024M001",
           "title": "歲月如金",
-          "subtitle": "第23集",
-          "ep_number": 23,
+          "subtitle": "第24集",
+          "ep_number": 24,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1762236000000,
+          "p_start": 1762239600000,
           "vod_channel_description": "石德寶（張豐毅）從一名北京城的公共汽車司機到售票員、到飯店服務員，後來又利用自己祖傳的木工特長開始了走街串巷修補傢俱行當，石德寶的才能與人品被傢俱廠廠長看中，將他提拔為傢俱廠的廠長助理。最後，在學成歸來初戀女友羅小馬的幫助下，石德寶注冊商標開始了創業之路。",
-          "p_end": 1762239600000
+          "p_end": 1762243200000
         },
-        "time": 1202153,
-        "next_index": 15
+        "time": 2361098,
+        "next_index": 16
       },
       "station_categories": [
         {

@@ -683,24 +683,24 @@
           }
         ],
         "total_length": 58190000,
-        "focus_index": 36,
-        "next_index": 37,
-        "time": 711468,
+        "focus_index": 39,
+        "next_index": 0,
+        "time": 933756,
         "focus_program": {
-          "content_id": "VOD00357656",
+          "content_id": "VOD00357659",
           "time_codes": [
-            704000
+            630000
           ],
           "timecode_duration": [],
-          "length": 1455000,
-          "asset_id": "vod76547-010037M001",
+          "length": 1425000,
+          "asset_id": "vod76547-010040M001",
           "title": "",
-          "subtitle": "第1季第37集 熱情宣誓之夜",
-          "ep_number": 37,
+          "subtitle": "第1季第40集 再見了 親愛的奧斯卡",
+          "ep_number": 40,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762191000000,
-          "vod_channel_description": "奧斯卡被診斷出最多只剩半年性命，而安德烈的眼睛也被確認，失明只是遲早的問題。在奧斯卡的肖像畫完成之際，安德烈的眼睛已然看不見畫中那如同戰神馬爾斯一般的奧斯卡了。後來，因為衛兵隊接獲命令鎮壓暴動的緣故，奧斯卡與安德烈動身前往軍營。"
+          "p_start": 1762196400000,
+          "vod_channel_description": "奧斯卡倒在敵人的子彈下，在意識漸漸模糊之中，她輕輕地說出了「再見」。一小時後，巴士底監獄升起了白旗。隨後，民眾開始處決貴族，並廢除了王政。路易十六與安東妮德也走向了斷頭台。"
         }
       },
       "station_categories": [

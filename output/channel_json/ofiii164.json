@@ -843,24 +843,24 @@
           }
         ],
         "total_length": 76033000,
-        "focus_index": 13,
-        "next_index": 14,
-        "time": 1173187,
+        "focus_index": 17,
+        "next_index": 18,
+        "time": 110418,
         "focus_program": {
-          "content_id": "VOD00022177",
+          "content_id": "VOD00022181",
           "time_codes": [
-            692000
+            762000
           ],
           "timecode_duration": [],
-          "length": 1418000,
-          "asset_id": "vod8684-010014M001",
+          "length": 1420000,
+          "asset_id": "vod8684-010018M001",
           "title": "",
-          "subtitle": "第1季第14集 世界的終焉",
-          "ep_number": 14,
+          "subtitle": "第1季第18集 前往世界樹",
+          "ep_number": 18,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762161300000,
-          "vod_channel_description": "2024年11月，第75層的BOSS攻略戰比想像中還要慘烈。在轉移水晶無法使用的空間中，經歷百戰的玩家們一個個喪命。雖然眾人費盡千辛萬苦擊破BOSS，攻略組的大家卻因為過重的犧牲而面有難色。而希茲克利夫正靜靜地看著失落的玩家們。"
+          "p_start": 1762167300000,
+          "vod_channel_description": "莉法決定陪著桐人一同前往位於阿爾普海姆中心的『世界樹』。但是，決定離開斯伊魯班，展開旅行的莉法先前的組隊同伴西格魯特阻擋在前。西格魯特不停的貶低桐人，痛恨被束縛的莉法盛怒之下便宣稱要和桐人組隊。一方面，被囚禁在世界樹頂端的亞斯娜，無法得知桐人的生死與否，拼命忍耐著自己的恐懼..."
         }
       },
       "station_categories": [

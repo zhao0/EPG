@@ -1771,25 +1771,25 @@
           }
         ],
         "total_length": 275922000,
-        "focus_index": 81,
-        "next_index": 82,
-        "time": 1940275,
+        "focus_index": 83,
+        "next_index": 84,
+        "time": 857087,
         "focus_program": {
-          "content_id": "VOD00378478",
+          "content_id": "VOD00378813",
           "time_codes": [
-            855000,
-            1877000,
-            2455000
+            1053000,
+            1838000,
+            2527000
           ],
           "timecode_duration": [],
           "length": 2873000,
-          "asset_id": "vod11188-003085M001",
+          "asset_id": "vod11188-003087M001",
           "title": "",
-          "subtitle": "第3085集 吳淑珍昏倒一度無生命跡象！低血壓增昏厥風險 恐致呼吸心跳停止！秦楊眼前一片黑突失明藏中風危機！",
-          "ep_number": 3085,
+          "subtitle": "第3087集 孫德榮花200萬動刀治七節脊椎！敲膝反射檢查看脊髓壓迫！2招放鬆頸因性壓迫！世運法拉利裁判爆紅不駝背關鍵公開！",
+          "ep_number": 3087,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762245600000,
+          "p_start": 1762251600000,
           "vod_channel_description": "主持人以及各領域專業來賓群，帶領您一同探索健康的秘訣。《健康2.0》打破原本的座談形式，示範健康烹調與運動方式，與觀眾分享照顧家人的健康資訊與心得。"
         }
       },

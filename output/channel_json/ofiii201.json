@@ -239,26 +239,27 @@
           }
         ],
         "total_length": 57410000,
-        "focus_index": 9,
-        "next_index": 0,
-        "time": 4257541,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 2988434,
         "focus_program": {
-          "content_id": "VOD00381408",
+          "content_id": "VOD00378854",
           "time_codes": [
-            1140000,
-            2170000,
-            4009000,
-            4965000
+            1130000,
+            2042000,
+            3105000,
+            4036000,
+            5066000
           ],
           "timecode_duration": [],
-          "length": 5840000,
-          "asset_id": "vod48369-001106M001",
+          "length": 6025000,
+          "asset_id": "vod48369-001097M001",
           "title": "",
-          "subtitle": "郭正亮爆美這天要跟賴算大帳？鄭麗文出奇招綠全上當了？綠大咖看衰威廉2026完蛋了？",
-          "ep_number": 1106,
+          "subtitle": "習近平賀鄭麗文綠大崩潰？郭正亮震撼解析！綠一路輸到2028？蔡正元炸了轟趙少康！",
+          "ep_number": 1097,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762235400000,
+          "p_start": 1762181700000,
           "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
         }
       },

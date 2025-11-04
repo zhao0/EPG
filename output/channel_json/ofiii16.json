@@ -8890,11 +8890,11 @@
           }
         ],
         "total_length": 378043000,
-        "focus_index": 56,
+        "focus_index": 62,
         "midroll_before_start": false,
         "midroll_before_start_duration": 0,
         "focus_program": {
-          "content_id": "VOD00381260",
+          "content_id": "VOD00381235",
           "time_codes": [
             600000,
             1200000
@@ -8904,18 +8904,18 @@
             60000
           ],
           "length": 1455000,
-          "asset_id": "vod34440-251104M001",
-          "title": "空中英語教室",
-          "subtitle": "A Bunny’s Tale  小兔的故事（下）",
+          "asset_id": "vod34441-251104M001",
+          "title": "大家說英語",
+          "subtitle": "Living on the Ground Floor or a Higher Floor?  住一樓好還是住高樓層佳？",
           "ep_number": 1104,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762236000000,
-          "vod_channel_description": "「不對的事，就別猶豫！」小兔子的選擇，帶來一堂英文小課。",
-          "p_end": 1762237560000
+          "p_start": 1762241400000,
+          "vod_channel_description": "高樓視野好，一樓便利多，哪個才是你的理想選擇呢？",
+          "p_end": 1762242900000
         },
-        "time": 1178989,
-        "next_index": 57
+        "time": 552857,
+        "next_index": 63
       },
       "station_categories": [
         {

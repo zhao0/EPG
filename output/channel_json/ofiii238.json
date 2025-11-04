@@ -1867,27 +1867,27 @@
           }
         ],
         "total_length": 259082000,
-        "focus_index": 66,
-        "next_index": 67,
-        "time": 2283766,
+        "focus_index": 68,
+        "next_index": 69,
+        "time": 1415799,
         "focus_program": {
-          "content_id": "VOD00308670",
+          "content_id": "VOD00308672",
           "time_codes": [
-            1332000,
-            2103000,
-            2331000,
-            2602000
+            1360000,
+            2035000,
+            2336000,
+            2590000
           ],
           "timecode_duration": [],
           "length": 2701000,
-          "asset_id": "vod10857-001125M001",
+          "asset_id": "vod10857-001127M001",
           "title": "",
-          "subtitle": "第1125集 【印尼】哈囉峇里！女神嘻遊記",
-          "ep_number": 1125,
+          "subtitle": "第1127集 【印尼】再見 峇里島",
+          "ep_number": 1127,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762255500000,
-          "vod_channel_description": "印尼跳島行，終於來到最期待的峇里島，而這座位於中部的城市，烏布，在峇里島語，有醫學的意思，因為擁有豐富的藥用植物，所以也有人說，走進山城烏布，寧靜的環境，是個洗滌身心的好地方~"
+          "p_start": 1762261500000,
+          "vod_channel_description": "印尼跳島行，來到度假天堂峇里島，包山包海的環境，不只讓人放鬆身心，香氣四溢，五花八門的南洋料理，更是老饕尋寶的好地方，這次來到Denpasar的廣場夜市，想要吃得最道地，來這就對啦~世界美景，海神廟的夕陽，更是人生必訪清單~強烈建議，最好早早卡位，不怕太無聊，到處走走晃晃，都好玩~"
         }
       },
       "station_categories": [

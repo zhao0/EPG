@@ -988,24 +988,23 @@
           }
         ],
         "total_length": 44872000,
-        "focus_index": 3,
-        "next_index": 4,
-        "time": 272498,
+        "focus_index": 6,
+        "next_index": 7,
+        "time": 881751,
         "focus_program": {
-          "content_id": "VOD00289998",
+          "content_id": "VOD00290004",
           "time_codes": [
-            600000,
-            1200000
+            600000
           ],
           "timecode_duration": [],
-          "length": 1301000,
-          "asset_id": "vod63397-000014M001",
+          "length": 1145000,
+          "asset_id": "vod63397-000020M001",
           "title": "",
-          "subtitle": "第14集 早期察覺肺癌",
-          "ep_number": 14,
+          "subtitle": "第20集 冬季養生主題",
+          "ep_number": 20,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762147800000,
+          "p_start": 1762152300000,
           "vod_channel_description": "【良醫健康】提供您最專業的醫療 × 身心健康× 生活新知，【良醫健康】誠摯邀請您，共同邁向健康，一起遇見更好的自己！"
         }
       },
@@ -1023,7 +1022,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (compatible; proximic; +https://www.comscore.com/Web-Crawler)"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

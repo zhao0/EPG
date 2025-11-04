@@ -1771,26 +1771,26 @@
           }
         ],
         "total_length": 252561000,
-        "focus_index": 34,
-        "next_index": 35,
-        "time": 1074636,
+        "focus_index": 35,
+        "next_index": 36,
+        "time": 2801496,
         "focus_program": {
-          "content_id": "VOD00337709",
+          "content_id": "VOD00337710",
           "time_codes": [
-            805000,
-            1589000,
-            2256000
+            782000,
+            1487000,
+            2024000
           ],
           "timecode_duration": [],
-          "length": 2800000,
-          "asset_id": "vod65737-000049M001",
+          "length": 2815000,
+          "asset_id": "vod65737-000050M001",
           "title": "",
-          "subtitle": "第49集 型男打工挖蛤擎蚵初體驗，誰能嚐到現烤鮮蚵的美味?",
-          "ep_number": 49,
+          "subtitle": "第50集 特色民宿智力大挑戰，誰能睡到古董紅棉床？",
+          "ep_number": 50,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762243200000,
-          "vod_channel_description": "挖蛤各憑本事，一望無際的沙洲誰是火眼金睛？誰又會是挖蛤高手？典型沿海漁村王功外海布滿蚵田，大多是屬平掛方式養殖，了解蚵的生長習性後，工作分配，三位又將賦予那些重責大任？誰將最快完成手上工作？誰又能品嚐到辛苦後的肥美烤鮮蚵？"
+          "p_start": 1762246200000,
+          "vod_channel_description": "型男入住鹿港特色民宿，老闆娘替新進員工安排臉面大改造，古早臉部美容體驗，究竟是天堂享受還是地獄受虐？型男們如何忍到最後一刻？打工換宿真不易須過三關斬六將，來到鹿港古鎮更不能錯過當地特色小吃。"
         }
       },
       "station_categories": [

@@ -435,22 +435,22 @@
           }
         ],
         "total_length": 3387000,
-        "focus_index": 8,
-        "next_index": 9,
-        "time": 173500,
+        "focus_index": 11,
+        "next_index": 12,
+        "time": 49329,
         "focus_program": {
-          "content_id": "VOD00199163",
+          "content_id": "VOD00174920",
           "time_codes": [],
           "timecode_duration": [],
-          "length": 190000,
-          "asset_id": "vod38796-000177M001",
+          "length": 185000,
+          "asset_id": "vod38796-000108M001",
           "title": "超有梗短片",
-          "subtitle": "柯文哲上全民星攻略！",
-          "ep_number": 177,
+          "subtitle": "任容萱律師路痴傻傻分不清",
+          "ep_number": 108,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762180800000,
-          "vod_channel_description": "【本集完整版】免費綜藝＞全民星攻略\r\n柯文哲來了！台北市議會IQ會外賽 第383集"
+          "p_start": 1762181700000,
+          "vod_channel_description": "【本集完整版】免費綜藝＞全民星攻略\r\n任容萱 邱勝翊來啦！一眼看穿人之心理大師 第228集"
         }
       },
       "station_categories": [
@@ -463,7 +463,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

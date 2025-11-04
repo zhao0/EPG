@@ -511,25 +511,25 @@
           }
         ],
         "total_length": 73763000,
-        "focus_index": 24,
-        "next_index": 25,
-        "time": 2329616,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 1067503,
         "focus_program": {
-          "content_id": "VOD00235070",
+          "content_id": "VOD00230372",
           "time_codes": [
-            783000,
-            1570000,
-            2250000
+            726000,
+            1446000,
+            2199000
           ],
           "timecode_duration": [],
-          "length": 2909000,
-          "asset_id": "vod51282-020013M001",
+          "length": 2759000,
+          "asset_id": "vod51282-010001M001",
           "title": "",
-          "subtitle": "第2季第13集 找尋亞美尼亞的世界之最！世界最長纜車、史前巨石陣、諾亞方舟的碎片",
-          "ep_number": 13,
+          "subtitle": "第1季第1集 自駕遊遍中美洲 廖科溢全新系列 啟動新旅程",
+          "ep_number": 1,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762239300000,
+          "p_start": 1762167300000,
           "vod_channel_description": "溢遊未盡新主張， 全新「觀眾視角」的節目呈現方式，觀眾不再只是隔著螢幕，讓我們直接走進節目、收拾行囊，跟著金鐘主持人廖科溢一起奔向無限冒險，自駕遊遍全球最美的21條公路。"
         }
       },

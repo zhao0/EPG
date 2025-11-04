@@ -1287,24 +1287,23 @@
           }
         ],
         "total_length": 85221000,
-        "focus_index": 40,
-        "next_index": 41,
-        "time": 245730,
+        "focus_index": 44,
+        "next_index": 45,
+        "time": 405238,
         "focus_program": {
-          "content_id": "VOD00345224",
+          "content_id": "VOD00332564",
           "time_codes": [
-            600000,
-            1200000
+            600000
           ],
           "timecode_duration": [],
-          "length": 1224000,
-          "asset_id": "vod39966-000816M001",
+          "length": 833000,
+          "asset_id": "vod39966-000732M001",
           "title": "",
-          "subtitle": "泰劇《上癮》 MacAugust專訪",
-          "ep_number": 816,
+          "subtitle": "泰劇《職業替身》Up、Poom小專訪",
+          "ep_number": 732,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762164300000,
+          "p_start": 1762170000000,
           "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
         }
       },

@@ -1867,27 +1867,27 @@
           }
         ],
         "total_length": 259211000,
-        "focus_index": 23,
-        "next_index": 24,
-        "time": 2507725,
+        "focus_index": 25,
+        "next_index": 26,
+        "time": 632305,
         "focus_program": {
-          "content_id": "VOD00310976",
+          "content_id": "VOD00310978",
           "time_codes": [
-            1154000,
-            1825000,
-            2315000,
-            2484000
+            655000,
+            1122000,
+            1556000,
+            2347000
           ],
           "timecode_duration": [],
-          "length": 2700000,
-          "asset_id": "vod43670-000233M001",
+          "length": 2698000,
+          "asset_id": "vod43670-000235M001",
           "title": "",
-          "subtitle": "第233集 一日東亞 新北異國風街道",
-          "ep_number": 233,
+          "subtitle": "第235集 在嘉圓夢 新住民新事業",
+          "ep_number": 235,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762242000000,
-          "vod_channel_description": "外景行腳趴趴走十數年，老詹不知中和有條緬甸街？人氣早餐店品嘗道地南洋美食，竟被在地友人點出餐桌上的雷點，到底是什麼食物？巷弄小攤自製神級拌飯好物，老詹、茵芙試吃超驚呼，購物模式超展開。緬式風味甜食糕點、南洋風味香料、油辣辣緬甸咖哩，短短的市集竟讓人彷彿置身異國錯覺！"
+          "p_start": 1762248000000,
+          "vod_channel_description": "台灣新住民經營事業有一套，印尼媽媽、台灣爸爸，阿嬤帶大的青農家豪，16歲決定接起阿公的蓮田、翻轉蓮藕產業！田野間一群著越南國服的婦女婆娑起舞，自主組團農忙後練舞的越南姐妹會！老詹種番茄太專心，手機竟掉進泥巴漿！生米煮白粥快速有撇步？越南姐妹報你知。"
         }
       },
       "station_categories": [
@@ -1904,7 +1904,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (compatible; proximic; +https://www.comscore.com/Web-Crawler)"
   },
   "__N_SSP": true
 }

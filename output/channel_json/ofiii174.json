@@ -1051,24 +1051,24 @@
           }
         ],
         "total_length": 90650000,
-        "focus_index": 33,
-        "next_index": 34,
-        "time": 308828,
+        "focus_index": 36,
+        "next_index": 37,
+        "time": 543410,
         "focus_program": {
-          "content_id": "VOD00022056",
+          "content_id": "VOD00022059",
           "time_codes": [
-            765000
+            711000
           ],
           "timecode_duration": [],
           "length": 1455000,
-          "asset_id": "vod8760-030008M001",
+          "asset_id": "vod8760-030011M001",
           "title": "",
-          "subtitle": "第3季第8集 小狐狸的手錶",
-          "ep_number": 8,
+          "subtitle": "第3季第11集 所映之物",
+          "ep_number": 11,
           "rating": 1,
           "content_type": "comic",
-          "p_start": 1762150800000,
-          "vod_channel_description": "夏目與滋叔叔一起出遊，參加陶藝教室。夏目很期待這次旅行，但他又很擔心被貓咪老師被的場射中的傷。此時夏目聽丙說，有種叫作朧草的藥草，對妖怪的傷口很有效。為了尋找這種藥草，夏目決定帶著貓咪老師出發。而夏目的目的地，正是一心想再見到夏目的小狐狸所住的地方…"
+          "p_start": 1762156200000,
+          "vod_channel_description": "田沼被妖怪附身了。那個妖怪為了幫助朋友，正在尋找鏡子的碎片。在碎片尚未全部找到前，她似乎沒有離開田沼身體的意思。夏目擔心田沼，於是住進田沼的家就近照顧。當晚，夏目夢見了附在田沼身上的妖怪的夢境。那個妖怪在尋找的朋友，而且似乎生了病..."
         }
       },
       "station_categories": [

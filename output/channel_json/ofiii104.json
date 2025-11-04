@@ -1519,25 +1519,25 @@
           }
         ],
         "total_length": 222201000,
-        "focus_index": 31,
-        "next_index": 32,
-        "time": 1287507,
+        "focus_index": 33,
+        "next_index": 34,
+        "time": 588022,
         "focus_program": {
-          "content_id": "VOD00334806",
+          "content_id": "VOD00334808",
           "time_codes": [
             669000,
-            1497000,
-            2199000
+            1403000,
+            2161000
           ],
           "timecode_duration": [],
-          "length": 2706000,
-          "asset_id": "vod71808-000032M001",
+          "length": 2702000,
+          "asset_id": "vod71808-000034M001",
           "title": "",
-          "subtitle": "第32集",
-          "ep_number": 32,
+          "subtitle": "第34集",
+          "ep_number": 34,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740024900000,
+          "p_start": 1740030900000,
           "vod_channel_description": "講述武則天（范冰冰）從青澀少女到一代女皇的成長奮鬥史。神龍元年，皇太子李顯在宰相張柬之等人的簇擁下逼宮，面對大周女皇帝武則天，懦弱的太子李顯落荒而逃。這都在武則天的意料之中。她在等著一個人讓她放心將大唐江山託付，中國歷史上唯一的女皇帝的傳奇一生揭開帷幕！"
         }
       },

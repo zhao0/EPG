@@ -3181,34 +3181,34 @@
           }
         ],
         "total_length": 374998000,
-        "focus_index": 44,
+        "focus_index": 45,
         "midroll_before_start": false,
         "midroll_before_start_duration": 0,
         "focus_program": {
-          "content_id": "VOD00364858",
+          "content_id": "VOD00231801",
           "time_codes": [
-            1160000,
-            1899000,
-            2440000
+            677000,
+            1422000,
+            2183000
           ],
           "timecode_duration": [
             60000,
             60000,
             60000
           ],
-          "length": 2794000,
-          "asset_id": "vod11069-001652M001",
-          "title": "醫師好辣",
-          "subtitle": "第1652集 不想再花冤枉錢，被推坑的保健小物有用嗎？！",
-          "ep_number": 1652,
+          "length": 2930000,
+          "asset_id": "vod38540-000327M001",
+          "title": "夢想街57號 全能事務所",
+          "subtitle": "第327集 共軍造假嚇台！東風試射剪接舊影片！鷹擊12也抄雄三？！中科院飛彈射擊通告解密！高雄港可停航母成美駐軍基地首選？",
+          "ep_number": 327,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762235400000,
-          "vod_channel_description": "王瑞玲因拇指外翻戴矯正指套，效果超差原因在於戴錯時機？！陳依依為了改善水腫穿這個保健小物，腿成功變細卻影響到睡眠品質？！馮媛甄因天熱使用噴霧止汗劑，這項成分竟讓背上出現不明白塊？！５０歲婦人喝綠拿鐵改善便秘身體卻變疲勞，事後才發現炸馬桶組合有禁忌？！",
-          "p_end": 1762238700000
+          "p_start": 1762238700000,
+          "vod_channel_description": "要打了？！前雄三飛彈工程師：美中戰，台灣成替死鬼？開戰率50%、要打了？！退役空軍副司令：隨時要準備好，防範共軍突襲。",
+          "p_end": 1762242000000
         },
-        "time": 1794950,
-        "next_index": 45
+        "time": 1820906,
+        "next_index": 46
       },
       "station_categories": [
         {
@@ -3224,7 +3224,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
   },
   "__N_SSP": true
 }

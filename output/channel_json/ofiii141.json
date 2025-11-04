@@ -1800,29 +1800,30 @@
           }
         ],
         "total_length": 246646000,
-        "focus_index": 61,
-        "next_index": 62,
-        "time": 625074,
+        "focus_index": 62,
+        "next_index": 63,
+        "time": 618537,
         "focus_program": {
-          "content_id": "VOD00365557",
+          "content_id": "VOD00365558",
           "time_codes": [
-            1179000,
-            1869000,
-            2290000,
-            2842000,
-            3437000,
-            4328000
+            860000,
+            1454000,
+            2199000,
+            2705000,
+            3403000,
+            3969000,
+            4740000
           ],
           "timecode_duration": [],
-          "length": 4656000,
-          "asset_id": "vod78206-000004M001",
+          "length": 5361000,
+          "asset_id": "vod78206-000005M001",
           "title": "木曜4超玩 一個屋簷下",
-          "subtitle": "第4集 峇里島(上) 木曜來到峇里島入住Club Med，為實習生舉辦畢業旅行！",
-          "ep_number": 4,
+          "subtitle": "第5集 峇里島(下) 木曜海島生存戰，夜晚的真心話大冒險逼哭了誰？！",
+          "ep_number": 5,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762249800000,
-          "vod_channel_description": "木曜來到峇里島入住Club Med，為實習生舉辦畢業旅行！"
+          "p_start": 1762254600000,
+          "vod_channel_description": "木曜海島生存戰，夜晚的真心話大冒險逼哭了誰？！"
         }
       },
       "station_categories": [

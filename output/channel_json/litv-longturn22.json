@@ -51,32 +51,6 @@
       "Schedule": [
         {
           "StationId": 1207,
-          "ProgramId": "00027626000000",
-          "AirDateTime": "2025-11-04T06:00:00Z",
-          "Duration": 3600,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00027626000000",
-            "Title": "台灣啟示錄",
-            "Description": "由東森主播洪培翔主持，為您統整介紹台灣社會近年來重大案件與名人軼事的始末，以及相關的新聞分析與報導。",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1207,
           "ProgramId": "00094237000000",
           "AirDateTime": "2025-11-04T07:00:00Z",
           "Duration": 3600,
@@ -3502,7 +3476,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

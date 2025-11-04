@@ -712,21 +712,23 @@
           }
         ],
         "total_length": 34209000,
-        "focus_index": 21,
-        "next_index": 22,
-        "time": 89454,
+        "focus_index": 30,
+        "next_index": 31,
+        "time": 1058148,
         "focus_program": {
-          "content_id": "VOD00368614",
-          "time_codes": [],
+          "content_id": "VOD00361516",
+          "time_codes": [
+            600000
+          ],
           "timecode_duration": [],
-          "length": 585000,
-          "asset_id": "vod39966-001001M001",
+          "length": 1106000,
+          "asset_id": "vod39966-000925M001",
           "title": "LiTV偶像專題特企",
-          "subtitle": "中信兄弟Passion Sisters -中信啦啦隊- 短今,小迪,凱蒂專訪",
-          "ep_number": 1001,
+          "subtitle": "浪LIVE電豹女專訪 - 草莓,安汝,小楓,笑笑,筱緹",
+          "ep_number": 925,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762208700000,
+          "p_start": 1762215000000,
           "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
         }
       },

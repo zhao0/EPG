@@ -2411,24 +2411,24 @@
           }
         ],
         "total_length": 209360000,
-        "focus_index": 110,
-        "next_index": 111,
-        "time": 926373,
+        "focus_index": 113,
+        "next_index": 114,
+        "time": 1294456,
         "focus_program": {
-          "content_id": "VOD00021398",
+          "content_id": "VOD00021401",
           "time_codes": [
-            700000
+            745000
           ],
           "timecode_duration": [],
           "length": 1414000,
-          "asset_id": "vod8652-000111M001",
+          "asset_id": "vod8652-000114M001",
           "title": "",
-          "subtitle": "第111集 攻堅×後×入侵",
-          "ep_number": 111,
+          "subtitle": "第114集 分開×與×誤判",
+          "ep_number": 114,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762245900000,
-          "vod_channel_description": "「攻堅前一分鐘」，小傑、奇犽、拿酷戮、秀托、梅雷翁等人集合在四次元公寓內部。在莫老五做出「出動了，各位」的出征鼓舞的前兩分鐘，東果陀共和國上空高處落下兩道光影。尼飛彼多首先查覺異狀，「有什麼要出現了」的預感在幾秒後成真。一頭巨龍從天空的雲層竄出。人類與嵌合蟻的決鬥，終於開始。"
+          "p_start": 1762250400000,
+          "vod_channel_description": "梟亞普夫與莫老五、孟徒徒尤匹與秀托和拿酷戮在各自的戰場上展開了戰鬥。爾後，蟻王也與尼特羅、桀諾相持不下。桀諾發動巨龍外型的氣，他朝蟻王施放的念能力是「龍頭戲畫」。蟻王就這麼背對著桀諾的龍頭戲畫，並不打算閃躲。牠的真正用意究竟為何？蟻王與尼特羅的殊死決鬥，終於開始。"
         }
       },
       "station_categories": [

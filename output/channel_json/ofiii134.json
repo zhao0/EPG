@@ -1777,25 +1777,25 @@
           }
         ],
         "total_length": 281257000,
-        "focus_index": 52,
-        "next_index": 53,
-        "time": 835168,
+        "focus_index": 53,
+        "next_index": 54,
+        "time": 2872134,
         "focus_program": {
-          "content_id": "VOD00199876",
+          "content_id": "VOD00199877",
           "time_codes": [
-            1525000,
-            2684000,
-            2925000
+            1447000,
+            2211000,
+            2920000
           ],
           "timecode_duration": [],
-          "length": 2991000,
-          "asset_id": "vod44861-000217M001",
+          "length": 2981000,
+          "asset_id": "vod44861-000218M001",
           "title": "",
-          "subtitle": "第217集 魚缸狠殺妻、殺退休師、殺人埋摩鐵",
-          "ep_number": 217,
+          "subtitle": "第218集 殺恩人棄屍、躁鬱子殺父",
+          "ep_number": 218,
           "rating": 2,
           "content_type": "show",
-          "p_start": 1762245600000,
+          "p_start": 1762248900000,
           "vod_channel_description": "《法眼黑與白》是最早也唯一以科學鑑識為基礎來談刑案的節目，內容以強調鑑識證據、法醫解剖、詳細辦案過程的精神，來呈現深入報導的專業度。以探究刑事案件為主軸，並以專題方式深度報導關於酒駕、毒品、虐童等社會問題。"
         }
       },
@@ -1813,7 +1813,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
   },
   "__N_SSP": true
 }

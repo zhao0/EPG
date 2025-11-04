@@ -54,56 +54,6 @@
         {
           "StationId": 706,
           "ProgramId": "00000001000014",
-          "AirDateTime": "2025-11-04T06:00:00Z",
-          "Duration": 2400,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00000001000014",
-            "Title": "鎖定CH.43、CH.49選購",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 706,
-          "ProgramId": "00000001000013",
-          "AirDateTime": "2025-11-04T06:40:00Z",
-          "Duration": 2400,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00000001000013",
-            "Title": "11/1-11/30全月消費實付滿10,000元回饋11%東森現金券",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 706,
-          "ProgramId": "00000001000014",
           "AirDateTime": "2025-11-04T07:20:00Z",
           "Duration": 2400,
           "PartNumber": 0,
@@ -4667,7 +4617,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

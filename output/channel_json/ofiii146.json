@@ -309,26 +309,26 @@
           }
         ],
         "total_length": 53994000,
-        "focus_index": 12,
-        "next_index": 13,
-        "time": 1581480,
+        "focus_index": 13,
+        "next_index": 0,
+        "time": 2320862,
         "focus_program": {
-          "content_id": "VOD00345693",
+          "content_id": "VOD00345694",
           "time_codes": [
-            693000,
-            1491000,
-            2126000,
-            2857000
+            726000,
+            1526000,
+            2264000,
+            2968000
           ],
           "timecode_duration": [],
-          "length": 3902000,
-          "asset_id": "vod73925-000013M001",
+          "length": 3759000,
+          "asset_id": "vod73925-000014M001",
           "title": "",
-          "subtitle": "第13集",
-          "ep_number": 13,
+          "subtitle": "第14集",
+          "ep_number": 14,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740532200000,
+          "p_start": 1740536400000,
           "vod_channel_description": "背負了殺人罪前科的青年正宇，出獄後面對遭到顛覆的人生、滿懷敵意的鄰里、不再親暱的摯友與家人，仍舊試圖為自己翻案，重新發掘十年前案發當天的真相。"
         }
       },

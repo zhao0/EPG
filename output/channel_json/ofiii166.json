@@ -1643,23 +1643,23 @@
           }
         ],
         "total_length": 109476000,
-        "focus_index": 65,
-        "next_index": 66,
-        "time": 709168,
+        "focus_index": 69,
+        "next_index": 70,
+        "time": 791313,
         "focus_program": {
-          "content_id": "VOD00022995",
+          "content_id": "VOD00022999",
           "time_codes": [
-            706000
+            777000
           ],
           "timecode_duration": [],
-          "length": 1098000,
-          "asset_id": "vod8835-000066M001",
+          "length": 1083000,
+          "asset_id": "vod8835-000070M001",
           "title": "",
-          "subtitle": "第66集 媽媽的填字遊戲",
-          "ep_number": 66,
+          "subtitle": "第70集 石田不說謊",
+          "ep_number": 70,
           "rating": 1,
           "content_type": "comic",
-          "p_start": 1762138500000,
+          "p_start": 1762144200000,
           "vod_channel_description": "《我們這一家》動畫線上看。花媽、花爸、姊姊橘子、弟弟柚子組成，是日本一部以小家庭成員為中心，表現出日常生活中所發生大小事為題材的漫畫與動畫作品。"
         }
       },

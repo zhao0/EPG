@@ -2138,26 +2138,26 @@
           }
         ],
         "total_length": 310177000,
-        "focus_index": 34,
-        "next_index": 35,
-        "time": 2057982,
+        "focus_index": 36,
+        "next_index": 37,
+        "time": 1193949,
         "focus_program": {
-          "content_id": "VOD00039739",
+          "content_id": "VOD00039741",
           "time_codes": [
-            1119000,
-            1631000,
-            2105000,
-            2445000
+            1261000,
+            1754000,
+            2322000,
+            2510000
           ],
           "timecode_duration": [],
-          "length": 2738000,
-          "asset_id": "vod10716-000035M001",
+          "length": 2907000,
+          "asset_id": "vod10716-000037M001",
           "title": "",
-          "subtitle": "第35集 鍘包勉",
-          "ep_number": 35,
+          "subtitle": "第37集 鍘包勉",
+          "ep_number": 37,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740219900000,
+          "p_start": 1740225900000,
           "vod_channel_description": "包勉（邰智源）為包拯之姪，被指涉嫌紫河車案，包拯派展昭與公孫策徹查此案，擒下涉案的文師爺與花蝴蝶，兩人不認罪且死咬是受包勉指使，而龐太師對包拯鍘其子之事仍懷恨在心，見包拯遲未斷案，告包拯因嫌犯是自己的親姪而循私，但龐太師最後悔悟即使包勉死也換不回其子龐昱再生。於是幫助包拯破案。"
         }
       },

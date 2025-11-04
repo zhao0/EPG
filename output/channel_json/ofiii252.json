@@ -148,11 +148,11 @@
           }
         ],
         "total_length": 18654000,
-        "focus_index": 4,
-        "next_index": 0,
-        "time": 2817127,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 3583009,
         "focus_program": {
-          "content_id": "VOD00369782",
+          "content_id": "VOD00340736",
           "time_codes": [
             600000,
             1200000,
@@ -162,15 +162,15 @@
             3600000
           ],
           "timecode_duration": [],
-          "length": 3747000,
-          "asset_id": "vod73052-000005M001",
+          "length": 3773000,
+          "asset_id": "vod73052-000001M001",
           "title": "",
-          "subtitle": "【咖啡館爵士樂-下雨版】",
-          "ep_number": 5,
+          "subtitle": "【咖啡館爵士樂】",
+          "ep_number": 1,
           "rating": 1,
           "content_type": "others",
-          "p_start": 1762199400000,
-          "vod_channel_description": "隔著螢幕彷彿都聞到咖啡香味了。在優雅迷人的爵士樂音陪伴下，沖杯咖啡在輕鬆愜意的悠閒下午，放鬆壓力沉靜心靈\r\n#JAZZ #輕柔音樂 #重度失眠必聽 #深度睡眠音樂 #助眠音樂 #伴讀專注"
+          "p_start": 1762182600000,
+          "vod_channel_description": "在優雅迷人的爵士樂音陪伴下，沖杯咖啡在輕鬆愜意的悠閒下午，放鬆壓力沉靜心靈\r\n#JAZZ #輕柔音樂 #重度失眠必聽 #深度睡眠音樂 #助眠音樂 #伴讀專注"
         }
       },
       "station_categories": [

@@ -2149,26 +2149,26 @@
           }
         ],
         "total_length": 349694000,
-        "focus_index": 31,
-        "next_index": 32,
-        "time": 2839425,
+        "focus_index": 33,
+        "next_index": 34,
+        "time": 1587825,
         "focus_program": {
-          "content_id": "VOD00299194",
+          "content_id": "VOD00299196",
           "time_codes": [
-            890000,
-            1720000,
-            2300000
+            1019000,
+            1799000,
+            2293000
           ],
           "timecode_duration": [],
-          "length": 2960000,
-          "asset_id": "vod64324-020008M001",
+          "length": 2963000,
+          "asset_id": "vod64324-020010M001",
           "title": "",
-          "subtitle": "第2季第8集 大學學會幹部",
-          "ep_number": 8,
+          "subtitle": "第2季第10集 國小得獎高手",
+          "ep_number": 10,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1761892800000,
-          "vod_channel_description": "大學學生會，系學會不只是一個學生組織，更是一個小型社會，來到了這裡可以學習到更不多同的經驗，認識更多不一樣的人物，許多人也從參加學會的經驗中學習到如何TEAM WORK，幾乎就是未來職場的縮影。現場來了八位大學學會幹部，不僅有服務的精神更有滿滿的活力，到底他們的中文程度如何呢？"
+          "p_start": 1761899100000,
+          "vod_channel_description": "大家都喜歡得獎，得獎不只是一種肯定也是一種鼓勵。今天來了八位從小就很樂愛參與各種比賽的國小得獎高手，到底他們都參加一些什麼特別的比賽？又有什麼樣的戰績呢？"
         }
       },
       "station_categories": [

@@ -385,26 +385,26 @@
           }
         ],
         "total_length": 56590000,
-        "focus_index": 18,
-        "next_index": 0,
-        "time": 2631960,
+        "focus_index": 1,
+        "next_index": 2,
+        "time": 1212196,
         "focus_program": {
-          "content_id": "VOD00098113",
+          "content_id": "VOD00295477",
           "time_codes": [
-            1034000,
-            1558000,
-            2262000
+            776000,
+            1451000,
+            2191000
           ],
           "timecode_duration": [],
-          "length": 3078000,
-          "asset_id": "vod29411-000013M001",
-          "title": "麻醉風暴2",
-          "subtitle": "第13集 Never give up",
-          "ep_number": 13,
+          "length": 2901000,
+          "asset_id": "vod64604-000002M001",
+          "title": "麻醉風暴",
+          "subtitle": "第2集",
+          "ep_number": 2,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1762181400000,
-          "vod_channel_description": "關鍵人立委萬大器，要如何挑戰醒世代的報導控訴？沈柔伊與葉建德，能提出關鍵的翻船證據，釐清這曲折複雜的醫療黑幕嗎？亂成一團的康聯醫院，面對醫院董事會改選、醫護工作權益遭受踐踏，基層員工還能繼續沉默下去？在這危急的最後一哩路，他們能繼續堅持不放棄，看到一線改變的曙光嗎？"
+          "p_start": 1762128000000,
+          "vod_channel_description": "故事敘述麻醉醫師蕭政勳因為一起醫療疏失而遭到停職，追查之下發現背後牽涉了許多內幕，進而被捲入一場風暴之中。劇情涉及了醫療糾紛、醫療人球等臺灣醫療環境面臨的議題。"
         }
       },
       "station_categories": [

@@ -236,26 +236,26 @@
           }
         ],
         "total_length": 44935000,
-        "focus_index": 0,
-        "next_index": 1,
-        "time": 2880572,
+        "focus_index": 1,
+        "next_index": 2,
+        "time": 2937563,
         "focus_program": {
-          "content_id": "VOD00379290",
+          "content_id": "VOD00379291",
           "time_codes": [
-            818000,
-            2011000,
-            2662000,
-            3635000
+            968000,
+            1976000,
+            2700000,
+            3641000
           ],
           "timecode_duration": [],
           "length": 4502000,
-          "asset_id": "vod79237-000067M001",
+          "asset_id": "vod79237-000068M001",
           "title": "",
-          "subtitle": "共軍操盤介選？國民黨當實驗品？ 鄭麗文做主席！命令難出黨中央？",
-          "ep_number": 67,
+          "subtitle": "3波藝人閃兵！黨國權貴同一招？狗園第1桶金？黃國昌小姨子角色？",
+          "ep_number": 68,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762144800000,
+          "p_start": 1762149600000,
           "vod_channel_description": "新聞看民視和您一起討論最新最熱的時事新聞！"
         }
       },

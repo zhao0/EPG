@@ -1303,26 +1303,27 @@
           }
         ],
         "total_length": 206473000,
-        "focus_index": 59,
-        "next_index": 60,
-        "time": 2281033,
+        "focus_index": 60,
+        "next_index": 61,
+        "time": 3588420,
         "focus_program": {
-          "content_id": "VOD00322924",
+          "content_id": "VOD00289631",
           "time_codes": [
-            1152000,
-            1967000,
-            2583000
+            689000,
+            1486000,
+            2174000,
+            2847000
           ],
           "timecode_duration": [],
-          "length": 3213000,
-          "asset_id": "vod69489-000031M001",
-          "title": "暢遊天下—中國之旅",
-          "subtitle": "第31集 澳門之旅",
-          "ep_number": 31,
+          "length": 3599000,
+          "asset_id": "vod62822-000001M001",
+          "title": "中國這麼美",
+          "subtitle": "第1集",
+          "ep_number": 1,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762248600000,
-          "vod_channel_description": "準備好了嗎？讓我們一同啟程，深入中國這片歷史悠久、文化豐富的寶地！我將親自引領您體驗這片多元文化的奇蹟，穿越古老歷史的時空迷宮，探訪文化古蹟的寶藏，欣賞絕美的風景，並沉浸在濃厚的民俗風情中。我們將一窺中國獨特的風土人情，以及以不同角度拓展您的視野，讓您的視界得以獨特升華。"
+          "p_start": 1762251900000,
+          "vod_channel_description": "國內首檔聚焦中國式生活美學的紀實類節目。每期邀請一支樂隊或一位音樂人，以及他們的好友，以音樂+旅行的形式，以中國人的世俗生活爲線索，發現中國式生活美學，從而歌唱平凡的人間。"
         }
       },
       "station_categories": [

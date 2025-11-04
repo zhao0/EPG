@@ -708,26 +708,26 @@
           }
         ],
         "total_length": 102877000,
-        "focus_index": 17,
-        "next_index": 18,
-        "time": 1910189,
+        "focus_index": 19,
+        "next_index": 20,
+        "time": 752735,
         "focus_program": {
-          "content_id": "VOD00025555",
+          "content_id": "VOD00025557",
           "time_codes": [
-            881000,
-            1353000,
-            1792000,
-            2337000
+            890000,
+            1267000,
+            1794000,
+            2191000
           ],
           "timecode_duration": [],
-          "length": 2920000,
-          "asset_id": "vod9061-000018M001",
+          "length": 2937000,
+          "asset_id": "vod9061-000020M001",
           "title": "",
-          "subtitle": "第18集",
-          "ep_number": 18,
+          "subtitle": "第20集",
+          "ep_number": 20,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740119700000,
+          "p_start": 1740125700000,
           "vod_channel_description": "張曉（劉詩詩）是一位熟知清代歷史的現代社會白領，她卻一腳踏入穿越時空的隧道，變身為16歲的清朝宮廷少女若曦。在這風雲詭變的宮廷中，除了被捲入九子奪嫡的暗戰，自己與胤禛（吳奇隆）的感情也夾雜在宮廷鬥爭中備受煎熬…"
         }
       },

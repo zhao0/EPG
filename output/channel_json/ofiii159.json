@@ -235,24 +235,24 @@
           }
         ],
         "total_length": 17039000,
-        "focus_index": 2,
-        "next_index": 3,
-        "time": 1180670,
+        "focus_index": 6,
+        "next_index": 7,
+        "time": 122435,
         "focus_program": {
-          "content_id": "VOD00293141",
+          "content_id": "VOD00293145",
           "time_codes": [
-            770000
+            700000
           ],
           "timecode_duration": [],
           "length": 1420000,
-          "asset_id": "vod64309-010003M001",
+          "asset_id": "vod64309-010007M001",
           "title": "",
-          "subtitle": "第1季第3集 殺光那些黑黑小小的東西",
-          "ep_number": 3,
+          "subtitle": "第1季第7集 暗潮洶湧的地城爭奪戰",
+          "ep_number": 7,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762185300000,
-          "vod_channel_description": "離群魔物的大猩猩掉落的物品是一套手槍和子彈。看見掉落物品竟出現照理來說這個世界並不存在的武器，讓亮太非常驚訝。因為能力值順利上升的關係，亮太和愛蜜莉決定挑戰會掉落南瓜的泰魯陸地城地下3層。想不到外觀看起來就像”黑黑小小的那個”一樣的小黑史萊姆，竟讓愛蜜莉性情大變……！"
+          "p_start": 1762191300000,
+          "vod_channel_description": "亮太和愛蜜莉在新地城「賽倫地城」的垃圾場遇見一位臉色差得像是隨時會昏倒的美女瑟莉斯德。瑟莉斯德一直獨自使用火炎魔法負責處理垃圾，看著她勉強自己貫徹職責的模樣，讓亮太忍不住想起自己的過去。與此同時，地城爭奪戰揭開序幕，對手竟打一開始就出手妨礙……！"
         }
       },
       "station_categories": [

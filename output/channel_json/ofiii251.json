@@ -106,11 +106,11 @@
           }
         ],
         "total_length": 11132000,
-        "focus_index": 0,
-        "next_index": 1,
-        "time": 569636,
+        "focus_index": 1,
+        "next_index": 2,
+        "time": 1450712,
         "focus_program": {
-          "content_id": "VOD00340808",
+          "content_id": "VOD00347836",
           "time_codes": [
             600000,
             1200000,
@@ -120,15 +120,15 @@
             3600000
           ],
           "timecode_duration": [],
-          "length": 3633000,
-          "asset_id": "vod73053-000001M001",
+          "length": 3684000,
+          "asset_id": "vod73053-000002M001",
           "title": "",
-          "subtitle": "【白噪音系列，雨聲】",
-          "ep_number": 1,
+          "subtitle": "【白噪音系列，雨聲-房間+音樂版】",
+          "ep_number": 2,
           "rating": 1,
           "content_type": "others",
-          "p_start": 1762181400000,
-          "vod_channel_description": "大自然的聲音-下雨聲無間斷，療癒系助眠紓壓「白噪音」\r\n陰雨綿綿沉靜午後，聽著雨聲放鬆心情，超舒服！\r\n#重度失眠必聽 #深度睡眠音樂 #助眠音樂"
+          "p_start": 1762185600000,
+          "vod_channel_description": "大自然的聲音-下雨聲無間斷，療癒系助眠紓壓「白噪音」\n陰雨綿綿沉靜午後，聽著雨聲放鬆心情，超舒服！\n#重度失眠必聽 #深度睡眠音樂 #助眠音樂"
         }
       },
       "station_categories": [

@@ -51,32 +51,6 @@
       "Schedule": [
         {
           "StationId": 52,
-          "ProgramId": "00175925000000",
-          "AirDateTime": "2025-11-04T06:00:00Z",
-          "Duration": 3600,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 2,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00175925000000",
-            "Title": "14大新聞大爆卦",
-            "Description": "每周一到周五《大新聞大爆卦》中天主播馬千惠陪你一起來解卦！！！",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 52,
           "ProgramId": "00175926000000",
           "AirDateTime": "2025-11-04T07:00:00Z",
           "Duration": 3600,

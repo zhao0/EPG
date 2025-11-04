@@ -909,25 +909,25 @@
           }
         ],
         "total_length": 73109000,
-        "focus_index": 1,
-        "next_index": 2,
-        "time": 1341296,
+        "focus_index": 5,
+        "next_index": 6,
+        "time": 211902,
         "focus_program": {
-          "content_id": "VOD00188960",
+          "content_id": "VOD00188964",
           "time_codes": [
             600000,
             1200000
           ],
           "timecode_duration": [],
           "length": 1432000,
-          "asset_id": "vod43647-000002M001",
+          "asset_id": "vod43647-000006M001",
           "title": "",
-          "subtitle": "第2集 禁忌的身體",
-          "ep_number": 2,
+          "subtitle": "第6集 國家鍊金術師資格考試",
+          "ep_number": 6,
           "rating": 1,
           "content_type": "comic",
-          "p_start": 1762163100000,
-          "vod_channel_description": "因事關『賢者之石』，愛力克兄弟在里歐爾教會的秘密地下室與柯奈洛教主對決。但是，卻遭到察覺教主有危機的雷特教信徒們打斷。雖然兩人逃到街上，但卻被信仰深厚的里歐爾鎮民發現並包圍。因『奇跡之術』而動起來的雷特神像，致使阿爾被破壞、愛德被逮捕，並且被拖往柯奈洛的面前。"
+          "p_start": 1762170300000,
+          "vod_channel_description": "為了準備國家鍊金術師資格考試，愛德華與阿爾住進了馬斯坦古介紹的，生體鍊成界的第一把交椅「綴命之鍊金術師修‧塔卡」的家中。受到塔卡的女兒妮娜與愛犬亞歷山大的鼓勵，兄弟倆每天都埋首苦讀。然後，考試當天，愛德華與阿爾去應考了…。"
         }
       },
       "station_categories": [

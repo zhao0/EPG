@@ -875,24 +875,24 @@
           }
         ],
         "total_length": 74826000,
-        "focus_index": 35,
-        "next_index": 36,
-        "time": 750086,
+        "focus_index": 38,
+        "next_index": 39,
+        "time": 1037696,
         "focus_program": {
-          "content_id": "VOD00223640",
+          "content_id": "VOD00223643",
           "time_codes": [
-            803000
+            758000
           ],
           "timecode_duration": [],
           "length": 1440000,
-          "asset_id": "vod49995-010036M001",
+          "asset_id": "vod49995-010039M001",
           "title": "",
-          "subtitle": "第1季第36集 各自的決心",
-          "ep_number": 36,
+          "subtitle": "第1季第39集 南葛對花輪 勝負分曉",
+          "ep_number": 39,
           "rating": 1,
           "content_type": "comic",
-          "p_start": 1762164000000,
-          "vod_channel_description": "下半場時間剩下十分鐘，小翼因為舊傷復發又被早田緊盯，使得南葛陷入苦戰。眼看要進入PK賽，就在下半場即將結束之際，早田賭上勝利而主動攻擊。早田滿懷自信踢出有兩枚刀刃的剃刀射門，此時小翼似乎察覺到異樣，突然向森崎下達指令！"
+          "p_start": 1762168500000,
+          "vod_channel_description": "面對花輪的厚實防守，小翼明白無法輕易傳球給隊友，於是下定決心，踢出抽球射門。這次他能夠成功嗎？而比賽剩下最後五分鐘，立花兄弟終於有所行動。花輪選手連後防都上前，全體團結朝南葛球門進攻。在最後一次的空中颶風射門踢出時，小翼為了不讓對手得分，也用力反踢球門框朝著球跳躍。"
         }
       },
       "station_categories": [

@@ -3305,36 +3305,34 @@
           }
         ],
         "total_length": 415709000,
-        "focus_index": 25,
+        "focus_index": 26,
         "midroll_before_start": false,
         "midroll_before_start_duration": 0,
         "focus_program": {
-          "content_id": "VOD00296194",
+          "content_id": "VOD00296184",
           "time_codes": [
-            688000,
-            1371000,
-            2194000,
-            2843000
+            753000,
+            1466000,
+            2213000
           ],
           "timecode_duration": [
             60000,
             60000,
-            60000,
             60000
           ],
-          "length": 3219000,
-          "asset_id": "vod64651-000003M001",
-          "title": "你的孩子不是你的孩子",
-          "subtitle": "第3集 貓的孩子",
-          "ep_number": 3,
+          "length": 3080000,
+          "asset_id": "vod64650-000004M001",
+          "title": "你的婚姻不是你的婚姻",
+          "subtitle": "第4集 尾號1314",
+          "ep_number": 4,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1762235100000,
-          "vod_channel_description": "小圓媽每天都在為了家裡的壁癌和阿衍一直無法提升的PR值煩惱，她找了阿青師來抓漏，找了一個又一個的家教來拯救阿衍的成績，但還是得在每一次爭吵後吞下丈夫的拳頭。頂樓的一窩小貓帶給了這個家改變的機會，阿衍發現只要他在平行世界殺死一隻貓，他就可以在現實世界提高PR值…",
-          "p_end": 1762238700000
+          "p_start": 1762238700000,
+          "vod_channel_description": "劇情講述獨自在台灣工作養家的牙醫，用關閉診所的方式，迫使長年在英國求學的妻子帶兒女回國。然而久違的一家團圓，揭露的卻是兩人追求美滿婚姻的表象下，那個深不見底的黑洞。",
+          "p_end": 1762242300000
         },
-        "time": 2075193,
-        "next_index": 26
+        "time": 2598554,
+        "next_index": 27
       },
       "station_categories": [
         {
@@ -3350,7 +3348,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

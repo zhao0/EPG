@@ -271,26 +271,26 @@
           }
         ],
         "total_length": 44237000,
-        "focus_index": 1,
-        "next_index": 2,
-        "time": 496876,
+        "focus_index": 2,
+        "next_index": 3,
+        "time": 1070876,
         "focus_program": {
-          "content_id": "VOD00355146",
+          "content_id": "VOD00355147",
           "time_codes": [
-            717000,
-            1480000,
-            2214000,
-            2968000
+            772000,
+            1462000,
+            2149000,
+            2910000
           ],
           "timecode_duration": [],
-          "length": 3707000,
-          "asset_id": "vod76029-000002M001",
+          "length": 3694000,
+          "asset_id": "vod76029-000003M001",
           "title": "",
-          "subtitle": "第2集",
-          "ep_number": 2,
+          "subtitle": "第3集",
+          "ep_number": 3,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1741622700000,
+          "p_start": 1741626600000,
           "vod_channel_description": "個性倔強的老奶奶「吳末順」，竟然一夜之間變成了女團練習生「吳杜莉」？！回到年輕時代的她，實現了過去未完成的夢想，享受再度閃耀的全盛時期。"
         }
       },
@@ -304,7 +304,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

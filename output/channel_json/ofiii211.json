@@ -310,23 +310,24 @@
           }
         ],
         "total_length": 37460000,
-        "focus_index": 6,
-        "next_index": 7,
-        "time": 1271589,
+        "focus_index": 8,
+        "next_index": 9,
+        "time": 2187611,
         "focus_program": {
-          "content_id": "VOD00370959",
+          "content_id": "VOD00370961",
           "time_codes": [
-            918000
+            920000,
+            1846000
           ],
           "timecode_duration": [],
-          "length": 1824000,
-          "asset_id": "vod79240-000007M001",
+          "length": 2763000,
+          "asset_id": "vod79240-000009M001",
           "title": "",
-          "subtitle": "過個馬路 不簡單｜美味鮮蚵 殼以重生",
-          "ep_number": 7,
+          "subtitle": "詐乾高學歷？｜家暴保護令失靈？！｜聽！客語新聲",
+          "ep_number": 9,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762200300000,
+          "p_start": 1762204500000,
           "vod_channel_description": "《民視異言堂》是一個時事專題討論節目，內容包括是記者專訪的時事專題或生活話題。"
         }
       },

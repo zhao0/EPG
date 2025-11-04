@@ -225,27 +225,25 @@
           }
         ],
         "total_length": 30377000,
-        "focus_index": 6,
-        "next_index": 7,
-        "time": 4126993,
+        "focus_index": 8,
+        "next_index": 9,
+        "time": 1460329,
         "focus_program": {
-          "content_id": "VOD00379897",
+          "content_id": "VOD00379899",
           "time_codes": [
-            1922000,
-            2418000,
-            2728000,
-            2896000,
-            4191000
+            1962000,
+            2362000,
+            2706000
           ],
           "timecode_duration": [],
-          "length": 4337000,
-          "asset_id": "vod38695-000762M001",
+          "length": 2892000,
+          "asset_id": "vod38695-000764M001",
           "title": "",
-          "subtitle": "國民黨主席選前之夜！監察院5分鐘開7會編百萬誤餐費！局長質詢接陳其邁電話全場乾等！普發1萬三讀通過！",
-          "ep_number": 762,
+          "subtitle": "15藝人閃兵團再壯大！台積電德公移山？北市民咕嚕咕嚕轟蔣不聽！賴清德剩雲嘉南挺！",
+          "ep_number": 764,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762173300000,
+          "p_start": 1762180800000,
           "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
         }
       },

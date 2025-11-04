@@ -1771,26 +1771,26 @@
           }
         ],
         "total_length": 284645000,
-        "focus_index": 16,
-        "next_index": 17,
-        "time": 2182435,
+        "focus_index": 18,
+        "next_index": 19,
+        "time": 994976,
         "focus_program": {
-          "content_id": "VOD00323140",
+          "content_id": "VOD00323142",
           "time_codes": [
-            889000,
-            1728000,
-            2418000
+            996000,
+            1774000,
+            2611000
           ],
           "timecode_duration": [],
-          "length": 2966000,
-          "asset_id": "vod11071-001494M001",
+          "length": 2968000,
+          "asset_id": "vod11071-001496M001",
           "title": "",
-          "subtitle": "第1494集 渣男勒殺女友反「嫁禍雙親」！法官認定「隔代教養」害他犯罪「僅判18年」逃死刑",
-          "ep_number": 1494,
+          "subtitle": "第1496集 金曲歌后A-Lin",
+          "ep_number": 1496,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1761955500000,
-          "vod_channel_description": "2016年8月16號，新北市蘆洲長安街一處公寓四樓的出租套房，發現女租客陳屍在床上。警方接獲報案，進到屋內查看，發現沈姓女子倒臥在床上，而浴室內有燒木炭的炭盆，天花板上有一條童軍繩，書桌上有一張便條紙，寫著遺書在電腦內。"
+          "p_start": 1761962100000,
+          "vod_channel_description": "由東森主播洪培翔主持，以客觀的角度帶領觀眾深入探討事件的發展，探討新聞事件背後的艱辛內幕，取材涵蓋層面廣泛，包括人物故事、歷史檔案、社會觀察，以及時事啟發。"
         }
       },
       "station_categories": [
@@ -1807,7 +1807,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

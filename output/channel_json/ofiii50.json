@@ -2976,34 +2976,34 @@
           }
         ],
         "total_length": 358502000,
-        "focus_index": 14,
+        "focus_index": 15,
         "midroll_before_start": false,
         "midroll_before_start_duration": 0,
         "focus_program": {
-          "content_id": "VOD00382484",
+          "content_id": "VOD00316285",
           "time_codes": [
             720000,
             1440000,
             2160000
           ],
           "timecode_duration": [
-            134000,
-            134000,
-            134000
+            175000,
+            175000,
+            175000
           ],
-          "length": 2999000,
-          "asset_id": "vod69643-010082M001",
-          "title": "52直播間",
-          "subtitle": "「身心靈」淪詐騙關鍵字？知名學院命案大解密！",
-          "ep_number": 82,
+          "length": 2812000,
+          "asset_id": "vod57381-000016M001",
+          "title": "人生從此不一樣",
+          "subtitle": "第十六集",
+          "ep_number": 16,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762236000000,
-          "vod_channel_description": "國內外的新聞議題都能盡情暢談！歷史解說、國際時事、政論分析，通通難不倒歷史哥李易修！ ",
-          "p_end": 1762239600000
+          "p_start": 1762239600000,
+          "vod_channel_description": "在這個節目裡，你會聽到一個個真實的人生故事，為什麼這些人當初會做出好像跟一般人不太一樣的選擇，讓他的人生很特別，走出一條與眾不同的路？每一個故事都很真實、很精采，相信你聽過以後，一定有所感觸，也會給你一些不一樣的啟發。",
+          "p_end": 1762243200000
         },
-        "time": 1212414,
-        "next_index": 15
+        "time": 2365067,
+        "next_index": 16
       },
       "station_categories": [
         {

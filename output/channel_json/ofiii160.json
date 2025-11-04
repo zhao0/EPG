@@ -299,24 +299,24 @@
           }
         ],
         "total_length": 22950000,
-        "focus_index": 7,
-        "next_index": 8,
-        "time": 1300136,
+        "focus_index": 11,
+        "next_index": 12,
+        "time": 184556,
         "focus_program": {
-          "content_id": "VOD00278513",
+          "content_id": "VOD00278517",
           "time_codes": [
-            790000
+            683000
           ],
           "timecode_duration": [],
-          "length": 1434000,
-          "asset_id": "vod60388-010008M001",
+          "length": 1435000,
+          "asset_id": "vod60388-010012M001",
           "title": "",
-          "subtitle": "第1季第8集 頭目全都很好吃",
-          "ep_number": 8,
+          "subtitle": "第1季第12集 冒險和食物的數量一樣多(完)",
+          "ep_number": 12,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762190700000,
-          "vod_channel_description": "穆寇達一行人救了被盜賊襲擊的商隊，後來決定和他們一起前往大都市卡列利那。穆寇達抵達城鎮後，前往冒險者公會，卻在櫃檯得知自己的公會資格被註銷了…？"
+          "p_start": 1762196700000,
+          "vod_channel_description": "穆寇達一行人輕鬆討伐危險又強悍的雙足飛龍，不只在公會在鎮上也受到誇讚。但穆寇達無視那些眼光，出發去尋找被召喚來異世界後，就一直想泡的某樣東西。"
         }
       },
       "station_categories": [

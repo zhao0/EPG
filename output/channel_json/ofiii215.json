@@ -1672,23 +1672,23 @@
           }
         ],
         "total_length": 131171000,
-        "focus_index": 54,
-        "next_index": 55,
-        "time": 191548,
+        "focus_index": 58,
+        "next_index": 59,
+        "time": 464472,
         "focus_program": {
-          "content_id": "VOD00359264",
+          "content_id": "VOD00359260",
           "time_codes": [
-            600000
+            1436000
           ],
           "timecode_duration": [],
-          "length": 968000,
-          "asset_id": "vod62278-000208M001",
+          "length": 1984000,
+          "asset_id": "vod62278-000204M001",
           "title": "Super Snow Show",
-          "subtitle": "【搶!接單破400台?】BMW 第八代5系列電動車：i5 eDrive40 M Sport、i5 M60 xDrive盤點：續航里程破500公里怎麼選? 標配2.5度後輪轉向 七系列車主自駕最佳選擇?",
-          "ep_number": 208,
+          "subtitle": "【美式電動肌肉車 挑戰特斯拉？】電動野馬Ford Mustang Mach-E試車上路啦：GT好?還是Premium好？年度配額增加？賽道靈魂加持 一台車多種面向！",
+          "ep_number": 204,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762119300000,
+          "p_start": 1762124700000,
           "vod_channel_description": "帶起台灣汽車節目風潮，前TVBS《地球黃金線》與東森《夢想街57號》主持人，「車界女神」廖盈婷，自製談話性節目《Super Snow Show》，持續以熱情和風趣的主持風格，打造出高人氣試車頻道，介紹車與生活。"
         }
       },

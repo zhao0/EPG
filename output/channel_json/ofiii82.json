@@ -1703,25 +1703,25 @@
           }
         ],
         "total_length": 144749000,
-        "focus_index": 7,
-        "next_index": 8,
-        "time": 2276639,
+        "focus_index": 9,
+        "next_index": 10,
+        "time": 2213362,
         "focus_program": {
-          "content_id": "VOD00343403",
+          "content_id": "VOD00343405",
           "time_codes": [
-            1034000,
-            1604000,
-            1955000
+            953000,
+            1477000,
+            2193000
           ],
           "timecode_duration": [],
           "length": 2400000,
-          "asset_id": "vod73388-000001M001",
+          "asset_id": "vod73388-000003M001",
           "title": "兩岸家書",
-          "subtitle": "第1集 我從唐山攜夢來",
-          "ep_number": 1,
+          "subtitle": "第3集 半百青春不留白",
+          "ep_number": 3,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762092300000,
+          "p_start": 1762097700000,
           "vod_channel_description": "六集人文紀錄片《兩岸家書》透過跨越海峽兩岸的家族和家庭書信，展示兩岸的歲月滄桑，和無數普通人在時代巨變中的悲歡離合，重現斑駁字跡背後剪不斷、離不散的至真至情。"
         }
       },

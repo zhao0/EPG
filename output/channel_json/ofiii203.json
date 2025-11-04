@@ -223,25 +223,25 @@
           }
         ],
         "total_length": 29143000,
-        "focus_index": 0,
-        "next_index": 1,
-        "time": 1747616,
+        "focus_index": 2,
+        "next_index": 3,
+        "time": 339641,
         "focus_program": {
-          "content_id": "VOD00376525",
+          "content_id": "VOD00376527",
           "time_codes": [
-            1380000,
-            2120000,
-            2653000
+            1492000,
+            2149000,
+            2826000
           ],
           "timecode_duration": [],
-          "length": 3076000,
-          "asset_id": "vod64680-000344M001",
+          "length": 2894000,
+          "asset_id": "vod64680-000346M001",
           "title": "",
-          "subtitle": "中國政府經過三年的努力 是否逃過了日本式通縮？",
-          "ep_number": 344,
+          "subtitle": "川普的加薩和平計畫 解決短期政治目標 而非長期衝突（歐洲版）",
+          "ep_number": 346,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762177500000,
+          "p_start": 1762183800000,
           "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
         }
       },

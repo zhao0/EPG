@@ -203,24 +203,24 @@
           }
         ],
         "total_length": 12195000,
-        "focus_index": 2,
-        "next_index": 3,
-        "time": 3859,
+        "focus_index": 6,
+        "next_index": 7,
+        "time": 42388,
         "focus_program": {
-          "content_id": "VOD00050185",
+          "content_id": "VOD00050189",
           "time_codes": [
-            830000
+            744000
           ],
           "timecode_duration": [],
-          "length": 1346000,
-          "asset_id": "vod11463-000003M001",
+          "length": 1236000,
+          "asset_id": "vod11463-000007M001",
           "title": "",
-          "subtitle": "第3集",
-          "ep_number": 3,
+          "subtitle": "第7集",
+          "ep_number": 7,
           "rating": 2,
           "content_type": "drama",
-          "p_start": 1751299200000,
-          "vod_channel_description": "在KTV的聚會中，家豪其實對若涵不懷好意，聚會結束後跟煒翔搶著送若涵回家，但若涵卻選擇讓煒翔送回。家豪因被若涵拒絕感到憤怒，這時角落卻傳來一陣陣的哭泣聲，家豪害怕的大喊，卻被模糊的形體吞沒。 若涵擔心失聯的家豪，找去家豪住處一探究竟，推開門卻看到怵目驚心的一幕…"
+          "p_start": 1751304600000,
+          "vod_channel_description": "煒翔、慧芬、冰冰入住恐怖旅舍...在恐怖信中曾被預言會在水裡淹死的慧芬，對於水變得異常敏感、歇斯底里！而冰冰對煒翔主動示好，煒翔會接受她嗎？他們三個人真的能安然度過這個夜晚嗎？又有甚麼可怕的事情即將發生？"
         }
       },
       "station_categories": [

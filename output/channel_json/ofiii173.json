@@ -427,24 +427,24 @@
           }
         ],
         "total_length": 34084000,
-        "focus_index": 17,
-        "next_index": 18,
-        "time": 851472,
+        "focus_index": 20,
+        "next_index": 21,
+        "time": 1192855,
         "focus_program": {
-          "content_id": "VOD00157443",
+          "content_id": "VOD00157446",
           "time_codes": [
-            741000
+            738000
           ],
           "timecode_duration": [],
           "length": 1420000,
-          "asset_id": "vod39860-010018M001",
+          "asset_id": "vod39860-010021M001",
           "title": "",
-          "subtitle": "第1季第18集 悄悄逼近的惡意",
-          "ep_number": 18,
+          "subtitle": "第1季第21集 靜小姐的學生們",
+          "ep_number": 21,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762203900000,
-          "vod_channel_description": "法比歐對於敗給了蜜莉姆感到忿忿不平。這時，中庸小丑幫的兩名小丑現身並唆使法比歐。他們告訴法比歐，只要他也成為魔王，就能夠和蜜莉姆對抗了。他們表示，只要利用「暴風大妖渦」的力量就能實現這個目的。"
+          "p_start": 1762208400000,
+          "vod_channel_description": "利姆路成為了靜小姐的學生們的老師。然而，受到單方面召喚來到異世界、壽命所剩無幾的孩子們內心十分複雜，對利姆路採取反抗的態度。對此，利姆路向孩子們提出了進行模擬戰的要求。"
         }
       },
       "station_categories": [

@@ -365,22 +365,22 @@
           }
         ],
         "total_length": 2251000,
-        "focus_index": 15,
-        "next_index": 16,
-        "time": 87165,
+        "focus_index": 18,
+        "next_index": 19,
+        "time": 27159,
         "focus_program": {
-          "content_id": "VOD00381195",
+          "content_id": "VOD00381198",
           "time_codes": [],
           "timecode_duration": [],
-          "length": 92000,
-          "asset_id": "vod64645-000049M001",
+          "length": 104000,
+          "asset_id": "vod64645-000052M001",
           "title": "",
-          "subtitle": "身為暗殺者的我明顯比勇者還強",
-          "ep_number": 49,
+          "subtitle": "擁有超常技能的異世界流浪美食家 S2",
+          "ep_number": 52,
           "rating": 1,
           "content_type": "others",
-          "p_start": 1762186200000,
-          "vod_channel_description": "織田晶與同班同學被召喚到異世界。同班同學皆被賦予外掛能力，而他生來存在感稀薄，獲得平凡的暗殺者能力。明明只是個暗殺者，能力值卻凌駕最強的勇者。晶對主導召喚的國王存有疑慮，揭穿了他的陰謀，卻被冠上莫須有之罪遭到追殺。發誓要對國王復仇的他，逃入迷宮深層，在那裡邂逅妖精少女艾蜜莉亞。"
+          "p_start": 1762187100000,
+          "vod_channel_description": "向田剛志是個平凡的上班族，某天他在毫無預警的情況下，被召喚到了一個充滿魔法的異世界。令人意外的是，他獲得的固有技能竟是名為「網路超市」的特殊能力，能連結現代世界，隨時購買各式各樣的食材與調味料。憑藉這份獨特的技能，他開始在異世界製作各種美味料理。"
         }
       },
       "station_categories": [

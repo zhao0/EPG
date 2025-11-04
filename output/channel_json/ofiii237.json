@@ -1771,26 +1771,26 @@
           }
         ],
         "total_length": 281533000,
-        "focus_index": 12,
-        "next_index": 13,
-        "time": 568087,
+        "focus_index": 13,
+        "next_index": 14,
+        "time": 359383,
         "focus_program": {
-          "content_id": "VOD00299974",
+          "content_id": "VOD00299975",
           "time_codes": [
-            1355000,
-            2005000,
-            2427000
+            1295000,
+            1795000,
+            2396000
           ],
           "timecode_duration": [],
-          "length": 2875000,
-          "asset_id": "vod17037-000467M001",
+          "length": 2952000,
+          "asset_id": "vod17037-000468M001",
           "title": "",
-          "subtitle": "第467集 65元比臉大的炸雞排市場內飄香、山泉水熬煮招牌麻油雞鮮嫩大塊",
-          "ep_number": 467,
+          "subtitle": "第468集 百年銷魂炕肉飯入口即化散發致命吸引力 泰台融合豐富海味全收盡招牌龍蝦酸辣湯",
+          "ep_number": 468,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1761957000000,
-          "vod_channel_description": "在汐止的黃昏市場，有一攤賣了30年的炸雞，每天下午3點營業就是排隊，外酥內嫩的口感客人讚爆，比臉大的雞排、腿排、雞塊，招牌雞翅、棒棒腿，老闆陳南宜不賣別的只賣炸雞，曾經締造開張不到3小時就賣光的紀錄！陳南宜從備料、醃肉、打肉、裹粉，都堅持自己來，黃金色的油鍋炸雞更是美味的關鍵。"
+          "p_start": 1761960000000,
+          "vod_channel_description": "彰化有一間百年老店的炕肉飯，祖傳4代的炕肉，是鄧永成一家人用心守護的古早味，他選用口感Q彈的腳庫肉來做炕肉，比起了北部常見的三層肉更加費工，加入祖傳的祕方慢滷4個小時，滷出來的皮Q彈有膠質，而瘦肉的部分不乾柴也不油膩，入口即化，讓人忍不住要多扒好幾碗飯。"
         }
       },
       "station_categories": [
@@ -1807,7 +1807,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

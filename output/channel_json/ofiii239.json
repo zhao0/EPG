@@ -1866,27 +1866,27 @@
           }
         ],
         "total_length": 259240000,
-        "focus_index": 22,
-        "next_index": 23,
-        "time": 2498460,
+        "focus_index": 24,
+        "next_index": 25,
+        "time": 1356427,
         "focus_program": {
-          "content_id": "VOD00294638",
+          "content_id": "VOD00303028",
           "time_codes": [
-            1054000,
-            1691000,
-            2160000,
-            2516000
+            1056000,
+            1627000,
+            2190000,
+            2552000
           ],
           "timecode_duration": [],
-          "length": 2700000,
-          "asset_id": "vod10119-000510M001",
+          "length": 2699000,
+          "asset_id": "vod10119-000512M001",
           "title": "",
-          "subtitle": "第510集 基隆【出海夜釣驚濤駭浪 專業神釣手傳授神技！「白帶魚壓境、河豚大軍」瘋狂大咬，「鎖」不住的鮮滋味！】",
-          "ep_number": 510,
+          "subtitle": "第512集 桃園【市場得獎「魚漿王」季節限定現做現炸】",
+          "ep_number": 512,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762242000000,
-          "vod_channel_description": "每年6-8月是基隆鎖管產季，全台灣每3隻鎖管就有1隻來自基隆，但我們常聽到的小卷、小管、中卷、透抽、砲管等，其實都是同一種，也就是牠們都是「鎖管家族」，而差別就只在「哪裡」的長度……至於是甚麼地方比大小呢？跟著達人走一趟基隆的夜上海，自己的小管自己釣，跟著我們一起來解答吧！"
+          "p_start": 1762248000000,
+          "vod_channel_description": "桃園是客家第一庄，有豐富的文化特色，龍潭的平地茶不輸高山茶，還有客籍職人代代相傳的技藝，這次來深入了解客家精神~說到桃園觀音，就想到遍地的蓮花田，你知道有一種人可以站上去的大王蓮，除了可以體驗輕功水上漂，還可以吃呢！但想吃到...得先披荊斬棘！"
         }
       },
       "station_categories": [
@@ -1903,7 +1903,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

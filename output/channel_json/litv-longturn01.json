@@ -49,58 +49,6 @@
       "Schedule": [
         {
           "StationId": 1040,
-          "ProgramId": "00115079050026",
-          "AirDateTime": "2025-11-04T06:00:00Z",
-          "Duration": 1800,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": true,
-          "PremiereFinale": 1,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00115079050026",
-            "Title": "戰鬥王之颶風戰魂",
-            "SubTitle": "S5,#26",
-            "Description": "13年前一個巨型陀螺塔搗毀地球，倖存的人們在颶風巨塔陀螺塔下開始艱苦生涯。陀螺塔賜予人類神秘的力量，那就是戰鬥陀螺。陀螺手們通過陀螺組裝角逐，以贏得陀螺積分為榮，藉此擁有強大精靈氣力。流浪陀螺手葉楓性格單純，憑著操控風精靈的超能力，和任炎結成最強隊伍，以變化無窮的戰術來降服敵手。",
-            "ShowType": "5"
-          }
-        },
-        {
-          "StationId": 1040,
-          "ProgramId": "00194974000000",
-          "AirDateTime": "2025-11-04T06:30:00Z",
-          "Duration": 1800,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": true,
-          "PremiereFinale": 5,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00194974000000",
-            "Title": "巨神戰擊隊之軌道先鋒",
-            "ShowType": "5"
-          }
-        },
-        {
-          "StationId": 1040,
           "ProgramId": "00176518000000",
           "AirDateTime": "2025-11-04T07:00:00Z",
           "Duration": 1800,
@@ -6379,7 +6327,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

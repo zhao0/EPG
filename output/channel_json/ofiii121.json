@@ -385,25 +385,25 @@
           }
         ],
         "total_length": 46601000,
-        "focus_index": 1,
-        "next_index": 2,
-        "time": 1972768,
+        "focus_index": 4,
+        "next_index": 5,
+        "time": 58229,
         "focus_program": {
-          "content_id": "VOD00359269",
+          "content_id": "VOD00359272",
           "time_codes": [
-            694000,
-            1489000
+            661000,
+            1394000
           ],
           "timecode_duration": [],
-          "length": 2335000,
-          "asset_id": "vod76898-000002M001",
+          "length": 1850000,
+          "asset_id": "vod76898-000005M001",
           "title": "",
-          "subtitle": "第2集",
-          "ep_number": 2,
+          "subtitle": "第5集",
+          "ep_number": 5,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1751284200000,
-          "vod_channel_description": "易然的差評打破泉海「零差評」紀錄，影響五星級評選，另亦姝更趁機煽風點火。肖穆丞為解決問題，試圖聯繫易然，卻屢次誤會加深。深夜，他以慶生為名拜訪，發現易然因失業與奶奶住院費焦頭爛額，遂提議她當酒店試睡員，記錄入住體驗。為生活所迫，易然以高薪答應，並發揮「差評技能」，成功延長試睡時間。"
+          "p_start": 1751291400000,
+          "vod_channel_description": "另亦姝與林佑嘉誤會加深，易然求職受挫，與林佑嘉在酒店重逢，得知禮物真相，卻對他的示好不為所動。單身酒會上，她遭女客刁難，肖穆丞出面護航，卻暴露睡眠障礙與黑眼圈。顧辛蒂誤導肖穆丞，讓他以為易然假借酒店名義收取小費，兩人大吵，協議撕毀，易然離開泉海。失魂落魄間險遇車禍，被林佑嘉救下，這一幕被肖穆丞看在眼裡。"
         }
       },
       "station_categories": [

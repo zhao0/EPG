@@ -337,30 +337,28 @@
           }
         ],
         "total_length": 85384000,
-        "focus_index": 9,
-        "next_index": 10,
-        "time": 4557816,
+        "focus_index": 10,
+        "next_index": 11,
+        "time": 1562624,
         "focus_program": {
-          "content_id": "VOD00024068",
+          "content_id": "VOD00354271",
           "time_codes": [
-            862000,
-            1809000,
-            2673000,
-            3671000,
-            4489000,
-            5486000,
-            6393000
+            925000,
+            1805000,
+            2676000,
+            3567000,
+            4501000
           ],
           "timecode_duration": [],
-          "length": 6411000,
-          "asset_id": "vod8960-000000M001",
-          "title": "龍飛鳳舞",
-          "subtitle": "Dragon Flies, Phoenix Dancing",
+          "length": 4800000,
+          "asset_id": "vod75835-000000M001",
+          "title": "囚鳥",
+          "subtitle": "Caged",
           "ep_number": 0,
-          "rating": 2,
+          "rating": 3,
           "content_type": "movie",
-          "p_start": 1762234200000,
-          "vod_channel_description": "歌仔戲老團主過世，浪子阿義（吳朋奉）無法承擔重任，台柱春梅（郭春美）又因車禍腿傷不能登台，戲班頓時陷入困境。春梅的丈夫志宏靈機一動，找來與她相貌神似的男子頂替演出，意外竟矇混過關，觀眾人人叫好。備感失落的春梅為治療腿疾於是出走印度，幸運受到一名智者開示，決定返台重振旗鼓…"
+          "p_start": 1762240800000,
+          "vod_channel_description": "因被判謀殺妻子，一位富裕的非裔美國精神科醫生進了聯邦監獄，隨後又被單獨禁閉。在孤立無援、奮力爭取上訴的過程中，他逐漸陷入瘋狂，加上遭受到一名看守員的虐待，更將他推向崩潰的邊緣。飽受煎熬的他，開始質疑自己的清白和理智，這段在監獄裡的日子也成了一場難以抹滅的噩夢…"
         }
       },
       "station_categories": [

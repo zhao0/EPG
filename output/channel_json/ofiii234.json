@@ -1771,25 +1771,25 @@
           }
         ],
         "total_length": 282623000,
-        "focus_index": 20,
-        "next_index": 21,
-        "time": 2506237,
+        "focus_index": 22,
+        "next_index": 23,
+        "time": 24271,
         "focus_program": {
-          "content_id": "VOD00199529",
+          "content_id": "VOD00199531",
           "time_codes": [
-            490000,
-            1008000,
-            1968000
+            524000,
+            974000,
+            1887000
           ],
           "timecode_duration": [],
-          "length": 2948000,
-          "asset_id": "vod14409-000952M001",
+          "length": 2947000,
+          "asset_id": "vod14409-000954M001",
           "title": "",
-          "subtitle": "第952集 異國料理秀創意",
-          "ep_number": 952,
+          "subtitle": "第954集 記憶裡的家常菜",
+          "ep_number": 954,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762239300000,
+          "p_start": 1762245900000,
           "vod_channel_description": "非凡新聞部全力製作的美食專題報導，用最專業的報導，帶你去尋找藏在大街小巷裡的頂級美食。"
         }
       },
@@ -1807,7 +1807,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (compatible; proximic; +https://www.comscore.com/Web-Crawler)"
   },
   "__N_SSP": true
 }

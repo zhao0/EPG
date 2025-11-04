@@ -1771,25 +1771,25 @@
           }
         ],
         "total_length": 284710000,
-        "focus_index": 64,
-        "next_index": 65,
-        "time": 1710363,
+        "focus_index": 65,
+        "next_index": 66,
+        "time": 2473607,
         "focus_program": {
-          "content_id": "VOD00346464",
+          "content_id": "VOD00346465",
           "time_codes": [
-            1057000,
-            1906000,
-            2579000
+            821000,
+            1910000,
+            2397000
           ],
           "timecode_duration": [],
-          "length": 2967000,
-          "asset_id": "vod11030-000648M001",
+          "length": 2968000,
+          "asset_id": "vod11030-000649M001",
           "title": "",
-          "subtitle": "第648集 吹毛求疵求食安 便當王 蔬食包王認真不嫌累",
-          "ep_number": 648,
+          "subtitle": "第649集 五臟廟也要進香 遶境吃美食 跟著大甲媽祖就對了",
+          "ep_number": 649,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762256700000,
+          "p_start": 1762260000000,
           "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
         }
       },
@@ -1807,7 +1807,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

@@ -628,26 +628,26 @@
           }
         ],
         "total_length": 98754000,
-        "focus_index": 22,
-        "next_index": 23,
-        "time": 837202,
+        "focus_index": 23,
+        "next_index": 24,
+        "time": 2301212,
         "focus_program": {
-          "content_id": "VOD00295504",
+          "content_id": "VOD00295505",
           "time_codes": [
-            817000,
-            1470000,
-            2167000,
-            2861000
+            695000,
+            1503000,
+            2162000,
+            2911000
           ],
           "timecode_duration": [],
-          "length": 3165000,
-          "asset_id": "vod64603-000023M001",
+          "length": 3201000,
+          "asset_id": "vod64603-000024M001",
           "title": "",
-          "subtitle": "第23集",
-          "ep_number": 23,
+          "subtitle": "第24集",
+          "ep_number": 24,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740218400000,
+          "p_start": 1740221700000,
           "vod_channel_description": "1945年抗戰勝利，男人們的戰爭結束了，女人們的才開始。朱青，師娘，小周，三個女人，雖然曾相互背叛、傷害，但依然守著對方那臉上淡去的紅妝及滄桑…血灑藍天的男人看不到為之奮戰的王朝，城邑傾滅後的殘恒，女人才能得見，才是見證…"
         }
       },

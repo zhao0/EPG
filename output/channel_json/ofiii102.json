@@ -1087,25 +1087,25 @@
           }
         ],
         "total_length": 157444000,
-        "focus_index": 27,
-        "next_index": 28,
-        "time": 1521929,
+        "focus_index": 29,
+        "next_index": 30,
+        "time": 796823,
         "focus_program": {
-          "content_id": "VOD00371701",
+          "content_id": "VOD00371703",
           "time_codes": [
-            753000,
-            1386000,
-            2113000
+            692000,
+            1465000,
+            2099000
           ],
           "timecode_duration": [],
-          "length": 2714000,
-          "asset_id": "vod79475-000028M001",
+          "length": 2717000,
+          "asset_id": "vod79475-000030M001",
           "title": "",
-          "subtitle": "第28集",
-          "ep_number": 28,
+          "subtitle": "第30集",
+          "ep_number": 30,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1759094100000,
+          "p_start": 1759100100000,
           "vod_channel_description": "西啟長公主容樂在失憶後，奉命和親北臨，卻遭王子無憂拒婚。她化名漫夭暗中尋找治世奇書，並與不知其真實身份的無憂漸生情愫。然而，容樂卻被迫嫁給大將軍傅籌，並意外揭露傅籌與無憂的兄弟關係，以及自己秦家遺孤「秦漫」的身世。面對身世與情感的重重糾葛，這段錯綜複雜的關係又將如何發展..."
         }
       },

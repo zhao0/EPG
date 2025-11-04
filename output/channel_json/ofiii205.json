@@ -224,25 +224,25 @@
           }
         ],
         "total_length": 29649000,
-        "focus_index": 7,
-        "next_index": 8,
-        "time": 2570887,
+        "focus_index": 9,
+        "next_index": 0,
+        "time": 1348987,
         "focus_program": {
-          "content_id": "VOD00372087",
+          "content_id": "VOD00372089",
           "time_codes": [
-            1360000,
-            2058000,
-            2665000
+            1206000,
+            1832000,
+            2379000
           ],
           "timecode_duration": [],
           "length": 2893000,
-          "asset_id": "vod64682-000117M001",
+          "asset_id": "vod64682-000119M001",
           "title": "",
-          "subtitle": "為什麼川普不怕政府關門？ 趁此機會大裁員",
-          "ep_number": 117,
+          "subtitle": "AI潮已如錢塘大潮 年輕人.白領階級首當其衝",
+          "ep_number": 119,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762176900000,
+          "p_start": 1762182900000,
           "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
         }
       },

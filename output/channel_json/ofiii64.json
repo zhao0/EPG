@@ -1101,26 +1101,26 @@
           }
         ],
         "total_length": 116636000,
-        "focus_index": 29,
-        "next_index": 30,
-        "time": 1668391,
+        "focus_index": 32,
+        "next_index": 33,
+        "time": 998141,
         "focus_program": {
-          "content_id": "VOD00338931",
+          "content_id": "VOD00376179",
           "time_codes": [
             600000,
             1200000,
             1800000
           ],
           "timecode_duration": [],
-          "length": 1964000,
-          "asset_id": "vod39117-000197M001",
-          "title": "港股大講堂",
-          "subtitle": "港股疲軟回跌 恆指近19000點是危還是機呢",
-          "ep_number": 197,
+          "length": 1932000,
+          "asset_id": "vod50513-000191M001",
+          "title": "鉅亨加密世界",
+          "subtitle": "數兆美元的藍海：穩定幣引爆全球收益新時代！台灣有一席之地？",
+          "ep_number": 191,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762125600000,
-          "vod_channel_description": "由香港鉅亨證券的專家帶您認識港股、更加了解這個國際化的資本市場，讓您不再錯過相關的投資機會！"
+          "p_start": 1762131600000,
+          "vod_channel_description": "帶您了解區塊鏈加密投資的秘辛，牛市來臨前的布局，以及區塊鏈世界的新聞，最新發展趨勢，有趣的事件，讓您一手掌握未來世界生活的顛覆、新的商機與賺錢方式。"
         }
       },
       "station_categories": [

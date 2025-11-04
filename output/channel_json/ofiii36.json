@@ -4160,8 +4160,8 @@
         ],
         "total_length": 487670000,
         "focus_index": 44,
-        "midroll_before_start": true,
-        "midroll_before_start_duration": 5319,
+        "midroll_before_start": false,
+        "midroll_before_start_duration": 0,
         "focus_program": {
           "content_id": "VOD00378842",
           "time_codes": [
@@ -4189,7 +4189,7 @@
           "vod_channel_description": "明瞭前事，分析未來走向，周玉琴告訴您沒想到的大小事背後真相。你不理政治，政治卻未必不會影響你！世界政治勢力結構快速改變，新時代降臨，舊思想如何進化，台灣新思路能否頂得住大國衝擊，最接近民意的聲音，都在《頭條開講》。",
           "p_end": 1762242600000
         },
-        "time": 1198681,
+        "time": 5959964,
         "next_index": 45
       },
       "station_categories": [

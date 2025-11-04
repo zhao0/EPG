@@ -803,23 +803,23 @@
           }
         ],
         "total_length": 68293000,
-        "focus_index": 27,
-        "next_index": 28,
-        "time": 1212960,
+        "focus_index": 30,
+        "next_index": 31,
+        "time": 987552,
         "focus_program": {
-          "content_id": "VOD00344033",
+          "content_id": "VOD00357586",
           "time_codes": [
-            1141000
+            799000
           ],
           "timecode_duration": [],
-          "length": 1596000,
-          "asset_id": "vod72134-000028M001",
+          "length": 1442000,
+          "asset_id": "vod72134-000031M001",
           "title": "",
-          "subtitle": "第28集 熊熊揭網紅靠這話題必賺翻！被討厭、有爭議才有流量？幕後焦慮一度撐不下去？網路霸凌 酸民留言心理壓力超巨大！做YouTuber不是你想得這樣？",
-          "ep_number": 28,
+          "subtitle": "第31集 桃園副市長親戚也被詐騙1500萬！台灣豬仔竟成詐騙園區「搶手貨」？！豬仔誤信「出國高薪工作 免經驗」話術 勇赴緬泰！業績差 遭毒打、電刑 超慘下場曝光！",
+          "ep_number": 31,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762173900000,
+          "p_start": 1762179600000,
           "vod_channel_description": "《社會NOW什麼》是一檔探討社會案件、時事的節目，為你揭開社會案件的來龍去脈，犯罪人的心理解析。"
         }
       },

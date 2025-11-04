@@ -1919,22 +1919,22 @@
           }
         ],
         "total_length": 79864000,
-        "focus_index": 63,
-        "next_index": 64,
-        "time": 181779,
+        "focus_index": 71,
+        "next_index": 72,
+        "time": 5364,
         "focus_program": {
-          "content_id": "VOD00227419",
+          "content_id": "VOD00234413",
           "time_codes": [],
           "timecode_duration": [],
           "length": 596000,
-          "asset_id": "vod50727-240064M001",
+          "asset_id": "vod50727-250002M001",
           "title": "",
-          "subtitle": "第24季第64集",
-          "ep_number": 64,
+          "subtitle": "第25季第2集",
+          "ep_number": 2,
           "rating": 1,
           "content_type": "comic",
-          "p_start": 1762176600000,
-          "vod_channel_description": "在代代祖先都是平凡忍者的家庭中出生的亂太郎，為了達成父母希望他成為一流忍者的願望，進入了忍術學園就讀。他在學園中認識了在邊境經商的富商兒子新兵衛，還有即使在戰爭中失去父母，依然勇敢活下去的霧丸。"
+          "p_start": 1762183800000,
+          "vod_channel_description": "在忍者家庭中出生的亂太郎，為了達成父母希望他成為一流忍者的願望，進入了忍術學園就讀。他在學園中認識了在邊境經商的富商兒子新兵衛，還有即使在戰爭中失去父母，依然勇敢活下去的霧丸。亂太郎等三人組不管是上課還是考試，總是失敗連連，還老是做一些不正經的事情。"
         }
       },
       "station_categories": [

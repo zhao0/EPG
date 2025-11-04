@@ -635,24 +635,24 @@
           }
         ],
         "total_length": 53286000,
-        "focus_index": 29,
-        "next_index": 30,
-        "time": 456681,
+        "focus_index": 32,
+        "next_index": 33,
+        "time": 802076,
         "focus_program": {
-          "content_id": "VOD00324146",
+          "content_id": "VOD00324149",
           "time_codes": [
-            696000
+            677000
           ],
           "timecode_duration": [],
           "length": 1420000,
-          "asset_id": "vod57664-030030M001",
+          "asset_id": "vod57664-030033M001",
           "title": "",
-          "subtitle": "第3季第30集 越境作戰",
-          "ep_number": 30,
+          "subtitle": "第3季第33集 船上的交響曲 姊姊的藥草茶",
+          "ep_number": 33,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762192800000,
-          "vod_channel_description": "約兒為執行〈睡美人〉的任務，要偽裝成搭乘豪華郵輪出市政府的公差，同時護衛黑社會的葛雷切家族倖存者──歐爾嘉與她兒子逃往國外。另一方面，安妮亞在摸彩時抽到了豪華郵輪旅遊！而那碰巧與約兒的任務搭的是同一艘船，一場極為混亂的假期即將開始──！！"
+          "p_start": 1762197300000,
+          "vod_channel_description": "郵輪甲板在煙火秀開始前顯得熱鬧非凡，安妮亞也和洛伊德一起開心地欣賞了煙火。另一方面，約兒的任務終於漸入佳境。約兒打算讓歐爾嘉等人逃脫，卻遭到了殺手們包圍！在美麗煙火飛上夜空的同時，約兒也在與殺手們的生死搏鬥中使血花四濺！！"
         }
       },
       "station_categories": [

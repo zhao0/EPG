@@ -52,32 +52,6 @@
         {
           "StationId": 1044,
           "ProgramId": "00130327000000",
-          "AirDateTime": "2025-11-04T05:55:00Z",
-          "Duration": 3600,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00130327000000",
-            "Title": "寰宇整點新聞",
-            "Description": "來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1044,
-          "ProgramId": "00130327000000",
           "AirDateTime": "2025-11-04T06:55:00Z",
           "Duration": 3600,
           "PartNumber": 0,
@@ -3234,7 +3208,7 @@
         }
       }
     ],
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

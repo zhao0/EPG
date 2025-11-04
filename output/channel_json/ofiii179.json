@@ -491,24 +491,24 @@
           }
         ],
         "total_length": 41389000,
-        "focus_index": 23,
-        "next_index": 24,
-        "time": 452620,
+        "focus_index": 26,
+        "next_index": 27,
+        "time": 637097,
         "focus_program": {
-          "content_id": "VOD00306135",
+          "content_id": "VOD00306138",
           "time_codes": [
-            781000
+            621000
           ],
           "timecode_duration": [],
-          "length": 1470000,
-          "asset_id": "vod65742-010024M001",
+          "length": 1469000,
+          "asset_id": "vod65742-010027M001",
           "title": "",
-          "subtitle": "第1季第24集 完美的複製體",
-          "ep_number": 24,
+          "subtitle": "第1季第27集 人類的時代",
+          "ep_number": 27,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762203000000,
-          "vod_channel_description": "考生們在第二次測驗進入迷宮「零落的王墓」，而擋在眾人面前的是他們的複製體。那些複製體是由魔法製成的實體，實力、魔力與技術都完全與本人相同。期間，尤蓓爾他們遭遇了自己的複製體。另一方面，鄧肯等人則被阻擋在芙莉蓮的複製體面前……"
+          "p_start": 1762208400000,
+          "vod_channel_description": "攻破零落的王墓後，以芙莉蓮與費倫為首的12名考生通過了第二次測驗。芙莉蓮為了修理費倫在測驗中被粉碎的法杖，造訪了某個地方……而能否在一級魔法使選拔測驗的最終測驗中合格的關鍵，就掌握在弗蘭梅的師傅──大陸魔法協會創始人賽莉耶手上。"
         }
       },
       "station_categories": [

@@ -2523,24 +2523,24 @@
           }
         ],
         "total_length": 222924000,
-        "focus_index": 152,
-        "next_index": 153,
-        "time": 13338,
+        "focus_index": 154,
+        "next_index": 0,
+        "time": 314216,
         "focus_program": {
-          "content_id": "VOD00131336",
+          "content_id": "VOD00131338",
           "time_codes": [
-            678000
+            687000
           ],
           "timecode_duration": [],
-          "length": 1439000,
-          "asset_id": "vod11051-040037M001",
+          "length": 1438000,
+          "asset_id": "vod11051-040039M001",
           "title": "",
-          "subtitle": "第4季第37集 王中之王",
-          "ep_number": 37,
+          "subtitle": "第4季第39集 沉睡的奴隸(完)",
+          "ep_number": 39,
           "rating": 5,
           "content_type": "comic",
-          "p_start": 1762247100000,
-          "vod_channel_description": "特莉休為了解救米斯達，而叫出了自己的替身「辣妹」，沒想到精神附近特莉休身上的老闆卻趁機抓住「辣妹」，藉此逃離布加拉提等人，並在利用完之後，打穿特莉休的靈魂，把箭拿到手，而在千鈞一髮之際布加拉提卻趁機毀掉「鎮魂曲」在躲在他精神背後的光，完全殺死「鎮魂曲」，讓靈魂對調的能力消失……"
+          "p_start": 1762250100000,
+          "vod_channel_description": "在喬魯諾遇到布加拉提他們前，一名花店老闆前去拜訪布加拉提，店老闆的女兒幾個月前，抱著一塊「奇形怪狀的石頭」從高級公寓的頂樓跳樓身亡，他希望布加拉提能為他找出真相。負責調查的米斯達，找到店老闆女兒當時的男朋友──雕刻家史可利比。史可利比對米斯達說：「我們每個人都是『命運的奴隷』。」"
         }
       },
       "station_categories": [
@@ -2557,7 +2557,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (compatible; proximic; +https://www.comscore.com/Web-Crawler)"
+    "ua": "Mozilla/5.0 (Linux; Android 11; Lenovo TB-8506X Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Safari/537.36 GNews Android/2022222395"
   },
   "__N_SSP": true
 }

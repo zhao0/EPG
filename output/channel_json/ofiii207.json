@@ -263,29 +263,29 @@
           }
         ],
         "total_length": 57851000,
-        "focus_index": 4,
-        "next_index": 5,
-        "time": 5747323,
+        "focus_index": 5,
+        "next_index": 6,
+        "time": 3545509,
         "focus_program": {
-          "content_id": "VOD00379878",
+          "content_id": "VOD00379879",
           "time_codes": [
-            892000,
-            1576000,
-            2227000,
-            2941000,
-            3664000,
-            4363000,
-            5143000
+            755000,
+            1497000,
+            2226000,
+            2994000,
+            3724000,
+            4428000,
+            5194000
           ],
           "timecode_duration": [],
-          "length": 5777000,
-          "asset_id": "vod64269-000823M001",
+          "length": 5791000,
+          "asset_id": "vod64269-000824M001",
           "title": "",
-          "subtitle": "郝龍斌全民調大贏破10% 黨員民調被鄭麗文逆襲還有懸念？鄭麗文:國民黨永遠民意為依歸 駁當選是黨意凌駕民意？",
-          "ep_number": 823,
+          "subtitle": "國民黨主席兩強激戰 鄭麗文擊敗郝龍斌勝出完成世代交替？黃國昌:盼藍白持續深化交流 賀鄭麗文當選藍黨魁牽動？",
+          "ep_number": 824,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762174800000,
+          "p_start": 1762180800000,
           "vod_channel_description": "聽新聞關鍵人物，說每日最新關鍵事。獨到的趙少康式觀點，直搗政治時事核心！"
         }
       },
@@ -303,7 +303,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

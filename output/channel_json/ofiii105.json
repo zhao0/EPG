@@ -763,26 +763,26 @@
           }
         ],
         "total_length": 108640000,
-        "focus_index": 6,
-        "next_index": 7,
-        "time": 755309,
+        "focus_index": 8,
+        "next_index": 9,
+        "time": 47915,
         "focus_program": {
-          "content_id": "VOD00345288",
+          "content_id": "VOD00345290",
           "time_codes": [
-            700000,
-            1425000,
-            2122000
+            661000,
+            1422000,
+            2130000
           ],
           "timecode_duration": [],
-          "length": 2740000,
-          "asset_id": "vod73818-000007M001",
+          "length": 2712000,
+          "asset_id": "vod73818-000009M001",
           "title": "",
-          "subtitle": "第7集",
-          "ep_number": 7,
+          "subtitle": "第9集",
+          "ep_number": 9,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740075600000,
-          "vod_channel_description": "顏幸練琴時，沈渡勸她放棄引誘兇手，但她堅持參加宴會引兇手現身。宴會中，顏幸吸引眾人注意，演奏後卻遭到黑衣人襲擊並被迷香控制。她被帶走後設法拖延時間，最終沈渡趕來救下她。兇手揭露為唐夫人，她瘋狂地殺害與其妹妹相似的男子，因早年妹妹勾引了她的丈夫。唐夫人最終崩潰自焚未果。"
+          "p_start": 1740081600000,
+          "vod_channel_description": "顏幸準備與筆友小池池見面時，突然接到父親病重的消息，匆忙趕回家卻發現是張相設計召她。張相暗示沈渡才是沈家垮台的關鍵，讓顏幸懷疑沈渡。沈渡夜裡思索父親的冤屈，決心查明真相。次日，顏幸與沈渡發生爭執，沈渡故意激怒她，營造沈家不安寧的假象。"
         }
       },
       "station_categories": [

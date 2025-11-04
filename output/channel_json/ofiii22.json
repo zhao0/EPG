@@ -340,29 +340,29 @@
           }
         ],
         "total_length": 85552000,
-        "focus_index": 0,
-        "next_index": 1,
-        "time": 3530087,
+        "focus_index": 1,
+        "next_index": 2,
+        "time": 2303650,
         "focus_program": {
-          "content_id": "VOD00353890",
+          "content_id": "VOD00353893",
           "time_codes": [
-            871000,
-            1791000,
-            2713000,
-            3592000,
-            4543000,
-            5431000
+            896000,
+            1835000,
+            2691000,
+            3589000,
+            4557000,
+            5462000
           ],
           "timecode_duration": [],
-          "length": 5999000,
-          "asset_id": "vod75705-000000M001",
-          "title": "電影哆啦A夢：大雄與惑星之迷(國)",
-          "subtitle": "Doraemon the Movie: Nobita and the Animal Planet",
+          "length": 6007000,
+          "asset_id": "vod75708-000000M001",
+          "title": "電影哆啦A夢：大雄與迷宮之旅(國)",
+          "subtitle": "Doraemon the Movie: Nobita and the Tin Labyrinth",
           "ep_number": 0,
           "rating": 1,
           "content_type": "movie",
-          "p_start": 1762148100000,
-          "vod_channel_description": "某天夜晚，大雄在睡夢中從一片粉紅色的霧氣裡走進一個位在森林中的動物王國，那裡2的動物不僅使用人類的語言交流，而且都是直立行走。次日，大雄將這件事告訴同學，還拿了一朵從夢境裡帶來的花，但大家卻只是嘲笑他，根本沒有人相信。又到了夜晚，大雄再次進入那片森林，才發現這一切原來都不是夢…"
+          "p_start": 1762154400000,
+          "vod_channel_description": "又到了春假，大雄約定與爸爸去白金飯店遊玩。大雄本來非常高興，但是做出預約的爸爸卻不知道飯店實際位置，只好作罷。次日，一個神秘手提箱送到了大雄家裡，大雄通過這個手提箱竟真來到了白金飯店。本來大雄與哆啦A夢在島上愉快的玩耍，但哆啦A夢卻突然失蹤了，原來哆啦A夢被神秘火箭載走了…"
         }
       },
       "station_categories": [

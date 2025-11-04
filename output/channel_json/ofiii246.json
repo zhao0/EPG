@@ -1103,23 +1103,23 @@
           }
         ],
         "total_length": 53964000,
-        "focus_index": 42,
-        "next_index": 43,
-        "time": 773484,
+        "focus_index": 46,
+        "next_index": 47,
+        "time": 870575,
         "focus_program": {
-          "content_id": "VOD00330110",
+          "content_id": "VOD00330114",
           "time_codes": [
-            635000
+            530000
           ],
           "timecode_duration": [],
-          "length": 1111000,
-          "asset_id": "vod71027-000013M001",
+          "length": 1122000,
+          "asset_id": "vod71027-000017M001",
           "title": "食來運轉3",
-          "subtitle": "第13集",
-          "ep_number": 13,
+          "subtitle": "第17集",
+          "ep_number": 17,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762192800000,
+          "p_start": 1762197600000,
           "vod_channel_description": "《食來運轉》是一檔有關美食的節目。節目恪守貼近生活、生動有趣的創作目標，以介紹美食為主題的表現形式，達到「美食娛樂生活」的目的；以輕鬆詼諧、生鮮獨特的藝術形式，結交八方廚藝精英、挖掘美食秘門絕技。五湖四海，美味珍饈，探求美食新境界，為觀眾提供活色生香的視聽文化盛宴。"
         }
       },

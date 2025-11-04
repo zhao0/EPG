@@ -901,24 +901,24 @@
           }
         ],
         "total_length": 76440000,
-        "focus_index": 47,
-        "next_index": 48,
-        "time": 1409217,
+        "focus_index": 51,
+        "next_index": 0,
+        "time": 117658,
         "focus_program": {
-          "content_id": "VOD00254482",
+          "content_id": "VOD00254486",
           "time_codes": [
             600000,
             1200000
           ],
           "timecode_duration": [],
           "length": 1470000,
-          "asset_id": "vod52780-060022M001",
+          "asset_id": "vod52780-060026M001",
           "title": "",
-          "subtitle": "第6季第22集 腳不能碰到地板/最強？巨大的機關電風扇",
-          "ep_number": 22,
+          "subtitle": "第6季第26集 哈特利離開了/全力！接力外送披薩",
+          "ep_number": 26,
           "rating": 1,
           "content_type": "kids",
-          "p_start": 1762251600000,
+          "p_start": 1762258800000,
           "vod_channel_description": "哈特利甘藏是一名修行的伊賀流少年忍者，從伊賀到東京市區，並寄居在三葉家。作品描述哈特利與家中獨子健一的友情等，並介紹許多忍術，由於忍者出現在現代社會而引來騷動，亦牽涉到兩大忍者流派—伊賀流與甲賀流的對立。"
         }
       },

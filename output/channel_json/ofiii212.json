@@ -315,25 +315,25 @@
           }
         ],
         "total_length": 36789000,
-        "focus_index": 0,
-        "next_index": 1,
-        "time": 277715,
+        "focus_index": 2,
+        "next_index": 3,
+        "time": 355316,
         "focus_program": {
-          "content_id": "VOD00370942",
+          "content_id": "VOD00370944",
           "time_codes": [
-            1166000,
-            1636000
+            1126000,
+            1622000
           ],
           "timecode_duration": [],
-          "length": 2240000,
-          "asset_id": "vod79239-000001M001",
+          "length": 2264000,
+          "asset_id": "vod79239-000003M001",
           "title": "",
-          "subtitle": "首部台海戰爭劇！武統預言？港日台跨國合演",
-          "ep_number": 1,
+          "subtitle": "歡慶原民日！微歧視？原民會主委曾智勇專訪",
+          "ep_number": 3,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762163700000,
-          "vod_channel_description": "首部台海戰爭劇《零日攻擊》以類似《黑鏡》的詩選劇集形式，聚集10位金獎導演，拍出震懾人心的武統預言！遭中共封殺的港星杜汶澤、日劇男神高橋一生與女星水川麻美等港日台演員共襄盛舉！解放軍有哪些攻台策略？滲透手法有多縝密，多意想不到？"
+          "p_start": 1762168500000,
+          "vod_channel_description": "8/1原民日核定十週年，全台各地活動登場！這個日子凝聚許多原民辛酸血淚，多年來爭取正名、平權的路上，遭遇許多忽視與歧視，甚至日前還發生職棒球員遭謾罵事件，可見原民教育還有進步空間。本集邀原民會主委曾智勇暢談如何落實原住民族的平權。"
         }
       },
       "station_categories": [

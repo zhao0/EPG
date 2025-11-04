@@ -480,26 +480,26 @@
           }
         ],
         "total_length": 65381000,
-        "focus_index": 11,
-        "next_index": 12,
-        "time": 624558,
+        "focus_index": 12,
+        "next_index": 13,
+        "time": 2395925,
         "focus_program": {
-          "content_id": "VOD00029821",
+          "content_id": "VOD00029822",
           "time_codes": [
-            883000,
-            1186000,
-            1828000,
-            2349000
+            745000,
+            1250000,
+            1770000,
+            2254000
           ],
           "timecode_duration": [],
-          "length": 2809000,
-          "asset_id": "vod9535-000012M001",
+          "length": 2579000,
+          "asset_id": "vod9535-000013M001",
           "title": "",
-          "subtitle": "第12集",
-          "ep_number": 12,
+          "subtitle": "第13集",
+          "ep_number": 13,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740467100000,
+          "p_start": 1740470100000,
           "vod_channel_description": "薛海化名林達浪，裝成窮小子，遠離兩個姊姊的保護，從台灣來到上海復旦大學唸書。達浪把自己藏在醜不拉嘰香菇頭底下，對所有未知且陌生的一切感到好奇…薛海在機場等待登機飛往上海時，一個甜美的聲音傳來，他沒想到這位擁有甜美聲音的女生，竟然如此粗暴、霸道，而且人緣這麼差…"
         }
       },

@@ -53,32 +53,6 @@
       "Schedule": [
         {
           "StationId": 1158,
-          "ProgramId": "00174117000002",
-          "AirDateTime": "2025-11-04T06:00:00Z",
-          "Duration": 3600,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00174117000002",
-            "Title": "城市的100個發現",
-            "Description": "《城市的100個發現》由主持人胡文華、謝哲青搭配不同類型的藝術家，挖掘鮮為人知的歷史印記，並以生活美學的角度展開一趟色彩探險之旅。",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1158,
           "ProgramId": "00134608020002",
           "AirDateTime": "2025-11-04T07:00:00Z",
           "Duration": 3600,
@@ -3372,7 +3346,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

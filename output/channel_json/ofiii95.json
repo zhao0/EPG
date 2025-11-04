@@ -902,22 +902,24 @@
           }
         ],
         "total_length": 24523000,
-        "focus_index": 42,
-        "next_index": 43,
-        "time": 237178,
+        "focus_index": 53,
+        "next_index": 54,
+        "time": 320596,
         "focus_program": {
-          "content_id": "VOD00355769",
-          "time_codes": [],
+          "content_id": "VOD00365409",
+          "time_codes": [
+            600000
+          ],
           "timecode_duration": [],
-          "length": 295000,
-          "asset_id": "vod67894-000043M001",
+          "length": 788000,
+          "asset_id": "vod67894-000054M001",
           "title": "",
-          "subtitle": "沐心池",
-          "ep_number": 43,
+          "subtitle": "綠世界生態農場",
+          "ep_number": 54,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762195800000,
-          "vod_channel_description": "前往目的地前，先上山參觀一個觀景台，叫做「大同山觀景台」。這裡如果天氣狀況理想，可以眺望整個城市的壯麗景觀，可惜天氣狀況霧氣很大，視野並不理想。目的地旁，有個老榕樹，經過政府舉辦命名活動，最後優勝的名稱訂為「沐心榕」，旁邊的水池則稱為「沐心池」。這裡環境優美，視野很棒，唯獨旁邊公路車輛噪音以外，是個很棒的休閒場所。"
+          "p_start": 1762202700000,
+          "vod_channel_description": "這是一個私人機構，於2004年開幕，園區內以亞熱帶雨林為主，動物、植物、生物等的生態園區，面積廣闊，可以讓動物們自由的活動。園內以各種區域為區分，可以參觀到非常多而且奇特稀有的動物，無論是來學習或是休閒參觀，都是一個很棒的地方。"
         }
       },
       "station_categories": [

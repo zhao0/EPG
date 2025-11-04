@@ -337,30 +337,28 @@
           }
         ],
         "total_length": 87241000,
-        "focus_index": 12,
-        "next_index": 13,
-        "time": 4694878,
+        "focus_index": 13,
+        "next_index": 0,
+        "time": 617859,
         "focus_program": {
-          "content_id": "VOD00226157",
+          "content_id": "VOD00272699",
           "time_codes": [
-            928000,
-            1874000,
-            2790000,
-            3645000,
-            4532000,
-            5400000,
-            6399000
+            865000,
+            1821000,
+            2792000,
+            3668000,
+            4534000
           ],
           "timecode_duration": [],
-          "length": 7446000,
-          "asset_id": "vod50597-000000M001",
-          "title": "馬德里心旅行",
-          "subtitle": "The August Virgin",
+          "length": 5556000,
+          "asset_id": "vod59712-000000M001",
+          "title": "逐夢自行車",
+          "subtitle": "Coureur",
           "ep_number": 0,
-          "rating": 3,
+          "rating": 5,
           "content_type": "movie",
-          "p_start": 1762235100000,
-          "vod_channel_description": "熾熱8月，馬德里人紛紛外出避暑，將整個城市留給遊客和一年一度的聖母節。即將滿33歲的艾娃來到城裡，拉著行李住進短租公寓，恣意地探索這個城市。然而，當度假的歡欣漸漸沉澱，不論是放逐他鄉的徘徊，或是因街頭巧遇前任而被撥亂的心緒，都讓艾娃忍不住反覆沉吟，她該如何活出真實的自己？"
+          "p_start": 1762242900000,
+          "vod_channel_description": "菲利斯的父親是自行車老將，他從小在自行車選手圍繞的環境長大，看多了酒精、暴力與違禁藥物的放縱生活。菲利斯夢想成為職業車手，希望能超越父親的成就。成年之後，他展現了無比的天賦，順利取得國內青少年組冠軍，來到青少年自行車競賽的聖地義大利。然而，殘忍的競爭和個人健康狀況正威脅他的夢想…"
         }
       },
       "station_categories": [
@@ -373,7 +371,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

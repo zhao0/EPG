@@ -655,26 +655,26 @@
           }
         ],
         "total_length": 92805000,
-        "focus_index": 32,
-        "next_index": 33,
-        "time": 2159787,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 1418321,
         "focus_program": {
-          "content_id": "VOD00351993",
+          "content_id": "VOD00351961",
           "time_codes": [
-            844000,
-            1529000,
-            2252000
+            726000,
+            1491000,
+            2200000
           ],
           "timecode_duration": [],
-          "length": 2723000,
-          "asset_id": "vod75283-000033M001",
+          "length": 2838000,
+          "asset_id": "vod75283-000001M001",
           "title": "",
-          "subtitle": "第33集",
-          "ep_number": 33,
+          "subtitle": "第1集",
+          "ep_number": 1,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740249000000,
-          "vod_channel_description": "竇昭經歷喪母之痛和家族欺凌，在大雨之夜與宋墨在田莊相逢，用自己的智慧幫其保下平寇有功的定國公一脈遺孤，命運也將兩人緊緊相連。宋墨深陷家變謎團，竇昭則在繼母的破壞下遭遇換親流言，他們在困境中選擇成親結盟，攜手合作共度難關，也從相互猜忌逐漸相知相惜。"
+          "p_start": 1740153000000,
+          "vod_channel_description": "澄平二十七年隆冬，皇帝病危之際。驃騎將軍宋墨擁戴慶王，藉侍疾之名，以五千奇攻兵入京師。宋墨血洗東宮奪得玉璽，太子死前卻道宋墨報錯了仇。濟寧侯夫人竇昭心力交瘁地上下打點侯府，希望全家能安然度過此次驚瀾驟變，卻意外發現魏廷瑜與自己的異母之妹竇明暗通款曲。"
         }
       },
       "station_categories": [

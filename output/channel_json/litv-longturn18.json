@@ -51,33 +51,6 @@
       "Schedule": [
         {
           "StationId": 1042,
-          "ProgramId": "00174073000015",
-          "AirDateTime": "2025-11-04T06:00:00Z",
-          "Duration": 3600,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": true,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00174073000015",
-            "Title": "錦衣之下",
-            "SubTitle": "#15",
-            "Description": "敘述奸臣當道的明朝嘉靖末年，行事冷酷、心狠手辣的錦衣衛「陸閻王」陸繹（任嘉倫）奉命調查揚州修河款失蹤案，他偶然發現六扇門捕快袁今夏（譚松韻）有辦案特長而徵召她協助查案，二人就此結為甜蜜冤家，卻意外捲入重重陰謀的故事。",
-            "ShowType": "5"
-          }
-        },
-        {
-          "StationId": 1042,
           "ProgramId": "00174073000016",
           "AirDateTime": "2025-11-04T07:00:00Z",
           "Duration": 3600,
@@ -3283,7 +3256,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
   },
   "__N_SSP": true
 }

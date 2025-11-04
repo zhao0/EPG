@@ -1753,25 +1753,25 @@
           }
         ],
         "total_length": 262536000,
-        "focus_index": 90,
-        "next_index": 91,
-        "time": 970183,
+        "focus_index": 92,
+        "next_index": 93,
+        "time": 150870,
         "focus_program": {
-          "content_id": "VOD00029256",
+          "content_id": "VOD00029258",
           "time_codes": [
-            696000,
-            1501000,
-            2147000
+            781000,
+            1430000,
+            2209000
           ],
           "timecode_duration": [],
-          "length": 2760000,
-          "asset_id": "vod9441-000091M001",
+          "length": 2767000,
+          "asset_id": "vod9441-000093M001",
           "title": "",
-          "subtitle": "第91集",
-          "ep_number": 91,
+          "subtitle": "第93集",
+          "ep_number": 93,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740204600000,
+          "p_start": 1740210600000,
           "vod_channel_description": "距今一千八百多年前，漢帝國衰敗積重難返，長安城內董卓荒淫無度、濫殺無辜，引起舉國義憤，而以曹操為首殲滅董卓，造就了群雄割據，至赤壁之戰後三國鼎立，再到司馬氏篡魏，天下歸晉為止，這個英雄輩出、波瀾壯闊的大傳奇時代終於結束。而其中的英雄人物和動人故事，仍被傳頌至今。"
         }
       },

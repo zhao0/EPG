@@ -673,26 +673,26 @@
           }
         ],
         "total_length": 104092000,
-        "focus_index": 7,
-        "next_index": 8,
-        "time": 499912,
+        "focus_index": 8,
+        "next_index": 9,
+        "time": 2058065,
         "focus_program": {
-          "content_id": "VOD00055920",
+          "content_id": "VOD00055921",
           "time_codes": [
-            1129000,
-            1706000,
-            2328000
+            1052000,
+            1631000,
+            2210000
           ],
           "timecode_duration": [],
-          "length": 2970000,
-          "asset_id": "vod14686-000571M001",
+          "length": 3000000,
+          "asset_id": "vod14686-000572M001",
           "title": "",
-          "subtitle": "第571集 理化老師種水果玉米",
-          "ep_number": 571,
+          "subtitle": "第572集 為愛重生天然果乾",
+          "ep_number": 572,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762135200000,
-          "vod_channel_description": "30歲的劉育承返鄉務農，不用農藥，用益生菌種出甜度高達16度的水果玉米；雲林農民李應期，溫室栽種洋香瓜，每株只留一棵，讓養份集中！種出來的洋香瓜網紋漂亮，甜度達到16-17度；逐漸沒落的銅鑼藝術，60歲的吳宗霖堅持手作，把這項傳統工藝，繼續傳承下去！"
+          "p_start": 1762138500000,
+          "vod_channel_description": "一個被醫生判定：不換肝活不過十年的報社主管續均健，為了愛女他不向命運低頭，改行賣天然果乾，籌措換肝醫藥費，要勇敢活下去；負債千萬的家具廠老闆，轉行種有機地瓜，重新找回自信人生；棄醫從農的林威佑，用豆漿種出細緻的美人柑，還研發出古早味的柑仔糖！"
         }
       },
       "station_categories": [

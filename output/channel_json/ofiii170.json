@@ -715,24 +715,24 @@
           }
         ],
         "total_length": 60374000,
-        "focus_index": 3,
-        "next_index": 4,
-        "time": 44974,
+        "focus_index": 6,
+        "next_index": 7,
+        "time": 303831,
         "focus_program": {
-          "content_id": "VOD00249888",
+          "content_id": "VOD00249891",
           "time_codes": [
-            673000
+            683000
           ],
           "timecode_duration": [],
           "length": 1449000,
-          "asset_id": "vod54820-010004M001",
+          "asset_id": "vod54820-010007M001",
           "title": "",
-          "subtitle": "第1季第4集 名校面試",
-          "ep_number": 4,
+          "subtitle": "第1季第7集 目標的次子",
+          "ep_number": 7,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762178100000,
-          "vod_channel_description": "洛伊德等人做足準備，前往伊甸學園接受面試。一進到校內，洛伊德便感受到有人盯著自己，而那正是暗自替應試者評分，來自教職員監視的視線。考試早就已經開始了。進行評分的舍監韓德森注意到洛伊德他們佛傑一家的言行舉止，為了徹底釐清他們是否有資格接受名校伊甸學園的面試，他指示了更為嚴苛的試驗。"
+          "p_start": 1762183500000,
+          "vod_channel_description": "入學第一天，安妮亞就揍飛戴斯蒙德家的次子達米安，而拿到了「雷電」。轉眼就受到班上同學指指點點令她相當失落，但和貝琪成為朋友後，上學也變得開心了起來。安妮亞想要為揍人的事向達米安道歉，卻始終開不了口。洛伊德為了讓行動代號〈梟〉順利進行，變裝成校內人士，暗地裡催促安妮亞去跟對方和好，但...。"
         }
       },
       "station_categories": [

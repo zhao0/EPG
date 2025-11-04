@@ -51,56 +51,6 @@
       "Schedule": [
         {
           "StationId": 1146,
-          "ProgramId": "00180668000000",
-          "AirDateTime": "2025-11-04T06:00:00Z",
-          "Duration": 1800,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00180668000000",
-            "Title": "股林高手",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1146,
-          "ProgramId": "00197526000000",
-          "AirDateTime": "2025-11-04T06:30:00Z",
-          "Duration": 1800,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00197526000000",
-            "Title": "股市米琪林",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1146,
           "ProgramId": "00105724000000",
           "AirDateTime": "2025-11-04T07:00:00Z",
           "Duration": 1800,
@@ -3521,7 +3471,7 @@
         "href_map": {}
       }
     ],
-    "ua": "Mozilla/5.0 (iPad; CPU OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/141.0.7390.96 Mobile/15E148 Safari/604.1"
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0"
   },
   "__N_SSP": true
 }

@@ -1640,21 +1640,23 @@
           }
         ],
         "total_length": 93719000,
-        "focus_index": 72,
-        "next_index": 73,
-        "time": 161358,
+        "focus_index": 79,
+        "next_index": 80,
+        "time": 419446,
         "focus_program": {
-          "content_id": "VOD00346816",
-          "time_codes": [],
+          "content_id": "VOD00346823",
+          "time_codes": [
+            600000
+          ],
           "timecode_duration": [],
-          "length": 594000,
-          "asset_id": "vod74246-000001M001",
+          "length": 724000,
+          "asset_id": "vod74246-000008M001",
           "title": "眉間雪",
-          "subtitle": "第1集",
-          "ep_number": 1,
+          "subtitle": "第8集",
+          "ep_number": 8,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1762254900000,
+          "p_start": 1762260900000,
           "vod_channel_description": "林歡歡和林商商是一對雙胞胎，妹妹歡歡自幼被送上深山學習醫術。多年後，姐姐商商與太子相愛，不料皇后故意將商商賜婚給皇子上官離，林商商為此自縊身亡。林歡歡被迫代替姐姐出嫁，開啟一場冤家路窄的同居生活！"
         }
       },

@@ -1035,24 +1035,24 @@
           }
         ],
         "total_length": 90149000,
-        "focus_index": 39,
-        "next_index": 40,
-        "time": 724612,
+        "focus_index": 42,
+        "next_index": 43,
+        "time": 961797,
         "focus_program": {
-          "content_id": "VOD00022903",
+          "content_id": "VOD00022906",
           "time_codes": [
-            705000
+            731000
           ],
           "timecode_duration": [],
           "length": 1454000,
-          "asset_id": "vod8844-000040M001",
+          "asset_id": "vod8844-000043M001",
           "title": "",
-          "subtitle": "第40集 假人與警官",
-          "ep_number": 40,
+          "subtitle": "第43集 萎縮",
+          "ep_number": 43,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762160100000,
-          "vod_channel_description": "鈴田警官是個做事一板一眼的人，工作上盡職的他，因為這樣的個性得罪了不少人，但他看待一個用來維護交通的警用假人比什麼都還重要，卻因此遭到車禍波及，還好有黑傑克醫生為他開刀，他也因為這場車禍意外的取得了一個當護士的美嬌娘…"
+          "p_start": 1762165500000,
+          "vod_channel_description": "曾經教過黑傑克的老師-戶隱醫生，在一個窮鄉僻壤遇到了奇怪的傳染病，最後連他自己都因為感染，身體不斷的縮小，黑傑克不斷嘗試各種方法，希望能夠解開這個病因，拯救自己老師一命…"
         }
       },
       "station_categories": [
