@@ -1771,25 +1771,25 @@
           }
         ],
         "total_length": 284710000,
-        "focus_index": 65,
-        "next_index": 66,
-        "time": 2473607,
+        "focus_index": 74,
+        "next_index": 75,
+        "time": 131280,
         "focus_program": {
-          "content_id": "VOD00346465",
+          "content_id": "VOD00354602",
           "time_codes": [
-            821000,
-            1910000,
-            2397000
+            1094000,
+            2109000,
+            2674000
           ],
           "timecode_duration": [],
-          "length": 2968000,
-          "asset_id": "vod11030-000649M001",
+          "length": 2970000,
+          "asset_id": "vod11030-000658M001",
           "title": "",
-          "subtitle": "第649集 五臟廟也要進香 遶境吃美食 跟著大甲媽祖就對了",
-          "ep_number": 649,
+          "subtitle": "第658集 就愛懷舊味 眷村擀麵vs.蜜憨吉 鹹甜滋味一次滿足",
+          "ep_number": 658,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762260000000,
+          "p_start": 1762289700000,
           "vod_channel_description": "台灣在地好美味，百年老店街頭小吃、宅配美食，美味關鍵其來有自，新鮮的食材、天然的佐料、外加動人的人生故事調味妝點，才成就出一道道難以忘懷的幸福美味，台灣1001個故事，說不完的故事，慢慢說給你聽！"
         }
       },

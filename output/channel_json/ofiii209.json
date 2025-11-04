@@ -251,28 +251,28 @@
           }
         ],
         "total_length": 59316000,
-        "focus_index": 9,
-        "next_index": 0,
-        "time": 4797630,
+        "focus_index": 4,
+        "next_index": 5,
+        "time": 755177,
         "focus_program": {
-          "content_id": "VOD00381831",
+          "content_id": "VOD00381826",
           "time_codes": [
-            1155000,
-            2018000,
-            3012000,
-            4192000,
-            5068000,
-            5568000
+            1031000,
+            1827000,
+            2740000,
+            3358000,
+            4405000,
+            5334000
           ],
           "timecode_duration": [],
-          "length": 6106000,
-          "asset_id": "vod79238-000096M001",
+          "length": 5871000,
+          "asset_id": "vod79238-000091M001",
           "title": "",
-          "subtitle": "盧秀燕迷因化？形象崩壞重傷2028？救災便當費近億？徐忙卸責急固樁？鄭麗文上任黨魁！領獅群挑戰2026？國防升級！",
-          "ep_number": 96,
+          "subtitle": "豬瘟防疫連環騙？盧市府避重就輕？ 傅重建會分贓？張峻率災民討公道！",
+          "ep_number": 91,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762238400000,
+          "p_start": 1762208400000,
           "vod_channel_description": "最堅實的立場，帶您洞悉台灣新知。最專業的陣容，帶您打開『視』界。政治人民做主，一同掌握即實政壇資訊，『EYE』台灣的政論談話節目。"
         }
       },

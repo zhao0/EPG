@@ -403,25 +403,25 @@
           }
         ],
         "total_length": 57315000,
-        "focus_index": 12,
-        "next_index": 13,
-        "time": 487085,
+        "focus_index": 1,
+        "next_index": 2,
+        "time": 383029,
         "focus_program": {
-          "content_id": "VOD00350894",
+          "content_id": "VOD00350883",
           "time_codes": [
-            694000,
-            1387000,
-            2115000
+            665000,
+            1434000,
+            2193000
           ],
           "timecode_duration": [],
-          "length": 2872000,
-          "asset_id": "vod75147-000013M001",
+          "length": 2861000,
+          "asset_id": "vod75147-000002M001",
           "title": "",
-          "subtitle": "第13集",
-          "ep_number": 13,
+          "subtitle": "第2集",
+          "ep_number": 2,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1761670200000,
+          "p_start": 1761637200000,
           "vod_channel_description": "某天，寧煥宇不小心在服裝倉庫中撞見正在換衣服的克柔，而克柔誤會寧煥宇是猥瑣好色的偷窺狂，兩人之間因誤會產生了矛盾。在陰差陽錯之下，克柔心目中的偷窺狂，竟搖身一變成為了自己的上司，該如何面對呢…"
         }
       },

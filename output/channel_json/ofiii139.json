@@ -1591,24 +1591,23 @@
           }
         ],
         "total_length": 120902000,
-        "focus_index": 47,
-        "next_index": 48,
-        "time": 539732,
+        "focus_index": 68,
+        "next_index": 69,
+        "time": 167595,
         "focus_program": {
-          "content_id": "VOD00349530",
+          "content_id": "VOD00362222",
           "time_codes": [
-            774000,
-            1195000
+            673000
           ],
           "timecode_duration": [],
-          "length": 1449000,
-          "asset_id": "vod64263-000181M001",
+          "length": 1011000,
+          "asset_id": "vod64263-000202M001",
           "title": "",
-          "subtitle": "第181集 中信冼迪琦甜美32撞！與沈玉琳荒謬同框三振舞！做包包變成冷笑話大會？",
-          "ep_number": 181,
+          "subtitle": "第202集 富邦南珉貞體驗做牛角麵包驚喊不要？自曝跟李晧禎關係不好？台妹魂上身沈玉琳秒認證？",
+          "ep_number": 202,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762252800000,
+          "p_start": 1762284000000,
           "vod_channel_description": "「禮物大接力，把愛傳下去！」每集來賓收到外送的禮物後，必須陪威廉沈再尋找一份新的禮物，送給下一集的來賓。"
         }
       },

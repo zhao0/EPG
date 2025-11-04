@@ -106,11 +106,11 @@
           }
         ],
         "total_length": 11152000,
-        "focus_index": 2,
-        "next_index": 0,
-        "time": 2683098,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 2456535,
         "focus_program": {
-          "content_id": "VOD00369783",
+          "content_id": "VOD00340734",
           "time_codes": [
             600000,
             1200000,
@@ -120,14 +120,14 @@
             3600000
           ],
           "timecode_duration": [],
-          "length": 3749000,
-          "asset_id": "vod73051-000003M001",
+          "length": 3660000,
+          "asset_id": "vod73051-000001M001",
           "title": "",
           "subtitle": "【白噪音系列，海浪聲】",
-          "ep_number": 3,
+          "ep_number": 1,
           "rating": 1,
           "content_type": "others",
-          "p_start": 1762184700000,
+          "p_start": 1762176300000,
           "vod_channel_description": "大自然的聲音-海浪聲無間斷，療癒系助眠紓壓「白噪音」\r\n潮水拍打的海岸沙灘，洗刷身心靈的壓力與疲憊\r\n#海洋 #大海的聲音 #重度失眠必聽 #深度睡眠音樂 #助眠音樂 #伴讀專注"
         }
       },

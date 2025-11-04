@@ -85,11 +85,11 @@
           }
         ],
         "total_length": 7456000,
-        "focus_index": 1,
-        "next_index": 0,
-        "time": 933591,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 653567,
         "focus_program": {
-          "content_id": "VOD00347834",
+          "content_id": "VOD00340926",
           "time_codes": [
             600000,
             1200000,
@@ -99,15 +99,15 @@
             3600000
           ],
           "timecode_duration": [],
-          "length": 3739000,
-          "asset_id": "vod73056-000002M001",
+          "length": 3717000,
+          "asset_id": "vod73056-000001M001",
           "title": "",
-          "subtitle": "【白噪音系列，雷雨聲－房間版】",
-          "ep_number": 2,
+          "subtitle": "【白噪音系列，雷雨聲】",
+          "ep_number": 1,
           "rating": 1,
           "content_type": "others",
-          "p_start": 1762189500000,
-          "vod_channel_description": "大自然的聲音-雷雨聲無間斷，療癒系助眠紓壓「白噪音」\n遠處雷鳴放鬆心情，戶外森林雷聲雨聲，治癒身心靈的疲憊\n#雷電交加 #雷雨 #重度失眠必聽 #深度睡眠音樂 #助眠音樂 #伴讀專注"
+          "p_start": 1762185300000,
+          "vod_channel_description": "大自然的聲音-雷雨聲無間斷，療癒系助眠紓壓「白噪音」\r\n遠處雷鳴放鬆心情，戶外森林雷聲雨聲，治癒身心靈的疲憊\r\n#雷電交加 #雷雨 #重度失眠必聽 #深度睡眠音樂 #助眠音樂 #伴讀專注"
         }
       },
       "station_categories": [

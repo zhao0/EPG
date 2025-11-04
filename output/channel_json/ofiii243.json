@@ -1373,21 +1373,21 @@
           }
         ],
         "total_length": 35540000,
-        "focus_index": 50,
-        "next_index": 51,
-        "time": 194687,
+        "focus_index": 17,
+        "next_index": 18,
+        "time": 183749,
         "focus_program": {
-          "content_id": "VOD00251946",
+          "content_id": "VOD00230775",
           "time_codes": [],
           "timecode_duration": [],
-          "length": 420000,
-          "asset_id": "vod45210-030016M001",
+          "length": 299000,
+          "asset_id": "vod45210-020018M001",
           "title": "",
-          "subtitle": "第3季第16集 羊肉泡粥",
-          "ep_number": 16,
+          "subtitle": "第2季第18集 雲南昆明《小鍋米線》",
+          "ep_number": 18,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762184100000,
+          "p_start": 1762164300000,
           "vod_channel_description": "每集由一道傳統的早餐、一家有趣的小店組成，帶領觀眾早起重回故鄉，體味早餐裡的人心激蕩、早餐裡的天長地久。"
         }
       },
@@ -1401,7 +1401,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

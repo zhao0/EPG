@@ -764,25 +764,25 @@
           }
         ],
         "total_length": 110740000,
-        "focus_index": 22,
-        "next_index": 23,
-        "time": 649088,
+        "focus_index": 31,
+        "next_index": 32,
+        "time": 1242354,
         "focus_program": {
-          "content_id": "VOD00280743",
+          "content_id": "VOD00280752",
           "time_codes": [
-            692000,
-            1446000,
-            2218000
+            745000,
+            1479000,
+            2204000
           ],
           "timecode_duration": [],
-          "length": 2653000,
-          "asset_id": "vod61027-000023M001",
+          "length": 2880000,
+          "asset_id": "vod61027-000032M001",
           "title": "",
-          "subtitle": "第23集",
-          "ep_number": 23,
+          "subtitle": "第32集",
+          "ep_number": 32,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740209100000,
+          "p_start": 1740236400000,
           "vod_channel_description": "許紅豆在閨蜜去世後陷入低谷，於是獨自來到大理雲苗村\"有風小院\"落腳休息，在那裏認識了回鄉創業的青年謝之遙。在有風小院結識了帶著不同故事來到這裡的短暫租客，從陌生到熟悉，一群毫無相識的人，在這裡為各自點燃不期而遇的溫暖，而許紅豆與謝之遙兩人意料之外的愛情也悄悄展開..."
         }
       },

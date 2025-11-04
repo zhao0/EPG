@@ -1800,30 +1800,25 @@
           }
         ],
         "total_length": 246646000,
-        "focus_index": 62,
-        "next_index": 63,
-        "time": 618537,
+        "focus_index": 80,
+        "next_index": 81,
+        "time": 1213730,
         "focus_program": {
-          "content_id": "VOD00365558",
+          "content_id": "VOD00360596",
           "time_codes": [
-            860000,
-            1454000,
-            2199000,
-            2705000,
-            3403000,
-            3969000,
-            4740000
+            628000,
+            1376000
           ],
           "timecode_duration": [],
-          "length": 5361000,
-          "asset_id": "vod78206-000005M001",
-          "title": "木曜4超玩 一個屋簷下",
-          "subtitle": "第5集 峇里島(下) 木曜海島生存戰，夜晚的真心話大冒險逼哭了誰？！",
-          "ep_number": 5,
+          "length": 1873000,
+          "asset_id": "vod76621-010018M001",
+          "title": "木曜4超玩 下班去吃飯",
+          "subtitle": "第1季第18集 這次不打球！熟悉的桌球界英雄們再次登場！feat. 莊智淵、陳思羽",
+          "ep_number": 18,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762254600000,
-          "vod_channel_description": "木曜海島生存戰，夜晚的真心話大冒險逼哭了誰？！"
+          "p_start": 1762284900000,
+          "vod_channel_description": "邰哥邀請各界名人一起吃飯聊天，與觀眾分享他們的故事。"
         }
       },
       "station_categories": [

@@ -1001,24 +1001,24 @@
           }
         ],
         "total_length": 42861000,
-        "focus_index": 19,
-        "next_index": 20,
-        "time": 535808,
+        "focus_index": 55,
+        "next_index": 56,
+        "time": 513981,
         "focus_program": {
-          "content_id": "VOD00356696",
+          "content_id": "VOD00370497",
           "time_codes": [
             600000
           ],
           "timecode_duration": [],
-          "length": 1028000,
-          "asset_id": "vod59791-000171M001",
+          "length": 1138000,
+          "asset_id": "vod59791-000207M001",
           "title": "",
-          "subtitle": "【特別企劃】小妮子太厲害！？第一次開手排就上手， 車距怎麼抓？坐姿怎麼喬？ MAZDA MX-5 RS",
-          "ep_number": 171,
+          "subtitle": "【Andy老爹試駕】期待已久的e:HEV終於來了！油耗對標Corolla Cross動力還更優！ULTRA Seat空間實用性超乎你想像！？｜HONDA HR-V e:HEV｜",
+          "ep_number": 207,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762160400000,
-          "vod_channel_description": "150萬級距唯一後驅雙門跑車，完全沒開過手排的新手，初體驗就開著以平衡性及操控性聞名的MAZDA MX-5 ，會激出什麼樣的火花呢....新手常見的駕駛姿勢及車頭距離又該怎麼抓呢..."
+          "p_start": 1762195200000,
+          "vod_channel_description": "這一次的HONDA HR-V改款主要是導入大家期待已久的e:HEV電驅雙動能，讓它的油耗表現來到非常優秀的23.5km/L，而且售價也是比大家預期的還要更漂亮！空間表現更是沒話說，ULTRA Seat的實用性絕對超乎你的想像！還有什麼改動？就讓老爹好好為你介紹吧！"
         }
       },
       "station_categories": [

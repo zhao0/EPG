@@ -875,23 +875,23 @@
           }
         ],
         "total_length": 72400000,
-        "focus_index": 10,
-        "next_index": 11,
-        "time": 168642,
+        "focus_index": 28,
+        "next_index": 29,
+        "time": 933140,
         "focus_program": {
-          "content_id": "VOD00219645",
+          "content_id": "VOD00219663",
           "time_codes": [
-            722000
+            717000
           ],
           "timecode_duration": [],
-          "length": 1394000,
-          "asset_id": "vod48938-010011M001",
+          "length": 1388000,
+          "asset_id": "vod48938-010029M001",
           "title": "",
-          "subtitle": "第1季第11集 最後決戰！傳說中的鬥味場",
-          "ep_number": 11,
+          "subtitle": "第1季第29集 來自黑暗的刺客，冷血天才雷恩",
+          "ep_number": 29,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762170600000,
+          "p_start": 1762197600000,
           "vod_channel_description": "講述一位中國四川省的年輕廚師小當家學習廚藝，到廣州陽泉酒家修行，獲得特級廚師資格。因為主角堅持一個信念－料理是為人們帶來幸福的，結交許多對於廚藝有志一同的朋友，及最後與「黑暗料理界」對抗過程的冒險漫畫。"
         }
       },

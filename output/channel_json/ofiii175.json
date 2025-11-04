@@ -1035,24 +1035,24 @@
           }
         ],
         "total_length": 90149000,
-        "focus_index": 42,
-        "next_index": 43,
-        "time": 961797,
+        "focus_index": 60,
+        "next_index": 61,
+        "time": 457433,
         "focus_program": {
-          "content_id": "VOD00022906",
+          "content_id": "VOD00022924",
           "time_codes": [
-            731000
+            669000
           ],
           "timecode_duration": [],
           "length": 1454000,
-          "asset_id": "vod8844-000043M001",
+          "asset_id": "vod8844-000061M001",
           "title": "",
-          "subtitle": "第43集 萎縮",
-          "ep_number": 43,
+          "subtitle": "第61集 兩個皮諾可",
+          "ep_number": 61,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762165500000,
-          "vod_channel_description": "曾經教過黑傑克的老師-戶隱醫生，在一個窮鄉僻壤遇到了奇怪的傳染病，最後連他自己都因為感染，身體不斷的縮小，黑傑克不斷嘗試各種方法，希望能夠解開這個病因，拯救自己老師一命…"
+          "p_start": 1762197900000,
+          "vod_channel_description": "黑傑克醫生在某個小鎮工廠社長的邀請下，來到這裡為他們的員工進行手術，黑傑克醫生來到這裡竟然遇見一個和皮諾可長得一模一樣的女孩，而這名女孩竟然也和那名患者罹患同樣的病，原來他們都是工廠的污染ZETA金屬中毒…"
         }
       },
       "station_categories": [
@@ -1069,7 +1069,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0"
   },
   "__N_SSP": true
 }

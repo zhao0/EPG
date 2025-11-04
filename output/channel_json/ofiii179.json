@@ -491,24 +491,24 @@
           }
         ],
         "total_length": 41389000,
-        "focus_index": 26,
-        "next_index": 27,
-        "time": 637097,
+        "focus_index": 15,
+        "next_index": 16,
+        "time": 1225735,
         "focus_program": {
-          "content_id": "VOD00306138",
+          "content_id": "VOD00306127",
           "time_codes": [
-            621000
+            752000
           ],
           "timecode_duration": [],
-          "length": 1469000,
-          "asset_id": "vod65742-010027M001",
+          "length": 1446000,
+          "asset_id": "vod65742-010016M001",
           "title": "",
-          "subtitle": "第1季第27集 人類的時代",
-          "ep_number": 27,
+          "subtitle": "第1季第16集 長壽朋友",
+          "ep_number": 16,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762208400000,
-          "vod_channel_description": "攻破零落的王墓後，以芙莉蓮與費倫為首的12名考生通過了第二次測驗。芙莉蓮為了修理費倫在測驗中被粉碎的法杖，造訪了某個地方……而能否在一級魔法使選拔測驗的最終測驗中合格的關鍵，就掌握在弗蘭梅的師傅──大陸魔法協會創始人賽莉耶手上。"
+          "p_start": 1762188600000,
+          "vod_channel_description": "芙莉蓮等四人拜訪了弗爾爺爺──她過去與欣梅爾等人冒險時遇見的矮人戰士。那位爺爺一直守護著某個村子，不讓它被魔物攻擊。芙莉蓮在與他聊天的過程中，回想起欣梅爾說過的話……之後，他們造訪某個聚落，那裡有著過去與贊恩約好，要一起成為冒險者的親友足跡。"
         }
       },
       "station_categories": [

@@ -239,27 +239,27 @@
           }
         ],
         "total_length": 57410000,
-        "focus_index": 0,
-        "next_index": 1,
-        "time": 2988434,
+        "focus_index": 4,
+        "next_index": 5,
+        "time": 4493216,
         "focus_program": {
-          "content_id": "VOD00378854",
+          "content_id": "VOD00381403",
           "time_codes": [
-            1130000,
-            2042000,
-            3105000,
-            4036000,
-            5066000
+            1143000,
+            2096000,
+            3162000,
+            4084000,
+            5037000
           ],
           "timecode_duration": [],
-          "length": 6025000,
-          "asset_id": "vod48369-001097M001",
+          "length": 5961000,
+          "asset_id": "vod48369-001101M001",
           "title": "",
-          "subtitle": "習近平賀鄭麗文綠大崩潰？郭正亮震撼解析！綠一路輸到2028？蔡正元炸了轟趙少康！",
-          "ep_number": 1097,
+          "subtitle": "鄭麗文嗆藍獅群咬綠不只一口！卓籲吃光廚餘最蠢笑話！普發一萬綠搶功被藍戰狼嗆爆！",
+          "ep_number": 1101,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762181700000,
+          "p_start": 1762206900000,
           "vod_channel_description": "《大新聞大爆卦》努力秉持著監督政府的精神，繼續在網路上努力說出事實。"
         }
       },

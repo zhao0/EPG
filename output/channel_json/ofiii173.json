@@ -427,24 +427,24 @@
           }
         ],
         "total_length": 34084000,
-        "focus_index": 20,
-        "next_index": 21,
-        "time": 1192855,
+        "focus_index": 15,
+        "next_index": 16,
+        "time": 42152,
         "focus_program": {
-          "content_id": "VOD00157446",
+          "content_id": "VOD00157441",
           "time_codes": [
-            738000
+            757000
           ],
           "timecode_duration": [],
           "length": 1420000,
-          "asset_id": "vod39860-010021M001",
+          "asset_id": "vod39860-010016M001",
           "title": "",
-          "subtitle": "第1季第21集 靜小姐的學生們",
-          "ep_number": 21,
+          "subtitle": "第1季第16集 魔王蜜莉姆來襲",
+          "ep_number": 16,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762208400000,
-          "vod_channel_description": "利姆路成為了靜小姐的學生們的老師。然而，受到單方面召喚來到異世界、壽命所剩無幾的孩子們內心十分複雜，對利姆路採取反抗的態度。對此，利姆路向孩子們提出了進行模擬戰的要求。"
+          "p_start": 1762200900000,
+          "vod_channel_description": "正當利姆路等人過著平穩和平的日常生活時，擁有「破壞的暴君」外號的魔王．蜜莉姆突然襲擊了中央都市利姆路。面對她的強大力量，蘭加跟紅丸等人都被她壓制住。蜜利姆的目標究竟是…"
         }
       },
       "station_categories": [

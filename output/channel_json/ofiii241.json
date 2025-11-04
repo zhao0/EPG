@@ -673,26 +673,26 @@
           }
         ],
         "total_length": 104092000,
-        "focus_index": 8,
-        "next_index": 9,
-        "time": 2058065,
+        "focus_index": 16,
+        "next_index": 17,
+        "time": 2473117,
         "focus_program": {
-          "content_id": "VOD00055921",
+          "content_id": "VOD00056611",
           "time_codes": [
-            1052000,
-            1631000,
-            2210000
+            1160000,
+            1771000,
+            2347000
           ],
           "timecode_duration": [],
-          "length": 3000000,
-          "asset_id": "vod14686-000572M001",
+          "length": 2974000,
+          "asset_id": "vod14686-000581M001",
           "title": "",
-          "subtitle": "第572集 為愛重生天然果乾",
-          "ep_number": 572,
+          "subtitle": "第581集 阿里山上的手工黑糖",
+          "ep_number": 581,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762138500000,
-          "vod_channel_description": "一個被醫生判定：不換肝活不過十年的報社主管續均健，為了愛女他不向命運低頭，改行賣天然果乾，籌措換肝醫藥費，要勇敢活下去；負債千萬的家具廠老闆，轉行種有機地瓜，重新找回自信人生；棄醫從農的林威佑，用豆漿種出細緻的美人柑，還研發出古早味的柑仔糖！"
+          "p_start": 1762164900000,
+          "vod_channel_description": "產茶聞名的阿里山，手工黑糖闖出新商機；羅玉聰種植無毒甘蔗熬製黑糖，6斤的甘蔗汁才能熬出1斤黑糖，耗時費工；住溫室，聽音樂長大的玉女番茄，台中清水的黃文慶，克服蟲害種出皮薄多汁，甜度高達12度；來自掌心最純真的感動，美濃窯場的憨兒，靠雙手自食其力，做出獨一無二的陶藝品！"
         }
       },
       "station_categories": [
@@ -705,7 +705,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

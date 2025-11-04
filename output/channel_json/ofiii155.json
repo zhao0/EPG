@@ -269,27 +269,27 @@
           }
         ],
         "total_length": 39497000,
-        "focus_index": 9,
-        "next_index": 10,
-        "time": 672295,
+        "focus_index": 5,
+        "next_index": 6,
+        "time": 111346,
         "focus_program": {
-          "content_id": "VOD00296272",
+          "content_id": "VOD00296268",
           "time_codes": [
-            694000,
-            1409000,
-            2190000,
-            2841000
+            706000,
+            1457000,
+            2183000,
+            2831000
           ],
           "timecode_duration": [],
-          "length": 3530000,
-          "asset_id": "vod64656-000010M001",
+          "length": 3240000,
+          "asset_id": "vod64656-000006M001",
           "title": "",
-          "subtitle": "第10集",
-          "ep_number": 10,
+          "subtitle": "第6集",
+          "ep_number": 6,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740164100000,
-          "vod_channel_description": "薏心與文貴雙贏完成電報單，並共同成立「台灣綠茶聯合小組」密切往來促使文貴再度對薏心提親。三年後，KK與夏慕雪結婚，決心看顧母女倆，放棄尋找女兒。徐主編邀請KK撰寫民主思潮社論「暢言專刊」，失去化肥舞台的KK以文字大肆宣洩。"
+          "p_start": 1740150600000,
+          "vod_channel_description": "美國克拉克將軍要薏心親自將六號茶茶樣送到他手上；薏心卻遇大雨封路，無法回新竹拿茶。KK在美方幫助下順利開張化肥廠，成了「化肥大王」的吉桑舉辦「北埔例」慶功宴，酒酣耳熱氛圍拉近了KK與薏心的距離；民主思潮雜誌聚會也讓KK與夏慕雪日益熟稔。"
         }
       },
       "station_categories": [

@@ -754,24 +754,25 @@
           }
         ],
         "total_length": 108917000,
-        "focus_index": 25,
-        "next_index": 26,
-        "time": 1876675,
+        "focus_index": 35,
+        "next_index": 36,
+        "time": 1059918,
         "focus_program": {
-          "content_id": "VOD00363761",
+          "content_id": "VOD00363771",
           "time_codes": [
-            749000,
-            1454000
+            772000,
+            1464000,
+            2191000
           ],
           "timecode_duration": [],
-          "length": 2556000,
-          "asset_id": "vod77841-000026M001",
+          "length": 2831000,
+          "asset_id": "vod77841-000036M001",
           "title": "",
-          "subtitle": "第26集",
-          "ep_number": 26,
+          "subtitle": "第36集",
+          "ep_number": 36,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1751354100000,
+          "p_start": 1751382600000,
           "vod_channel_description": "紅凝大膽告白神尊錦繡，卻被告知仙妖有別。但因為與錦繡的約定，她開始漫漫修仙之路。落花時節，她修行上天，卻得知他娶別人為妻，紅凝毅然轉身，拋棄仙道，永墮輪回。錦繡逆天改命，讓她重生，欲彌補當初的虧欠。一世守護，一世並肩，落花時節，兩人再次相見，紅凝是錦繡躲不開的命定情劫..."
         }
       },

@@ -263,29 +263,29 @@
           }
         ],
         "total_length": 57851000,
-        "focus_index": 5,
-        "next_index": 6,
-        "time": 3545509,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 370812,
         "focus_program": {
-          "content_id": "VOD00379879",
+          "content_id": "VOD00378617",
           "time_codes": [
-            755000,
-            1497000,
-            2226000,
-            2994000,
-            3724000,
-            4428000,
-            5194000
+            806000,
+            1754000,
+            2337000,
+            3129000,
+            3757000,
+            4442000,
+            5278000
           ],
           "timecode_duration": [],
-          "length": 5791000,
-          "asset_id": "vod64269-000824M001",
+          "length": 5787000,
+          "asset_id": "vod64269-000819M001",
           "title": "",
-          "subtitle": "國民黨主席兩強激戰 鄭麗文擊敗郝龍斌勝出完成世代交替？黃國昌:盼藍白持續深化交流 賀鄭麗文當選藍黨魁牽動？",
-          "ep_number": 824,
+          "subtitle": "阿富汗、巴基斯坦邊境交火 傳數百死傷引爆地緣政治火藥庫？趙少康：8頻道、151部影片介入攻擊 國民黨被介選數據曝光？",
+          "ep_number": 819,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762180800000,
+          "p_start": 1762150800000,
           "vod_channel_description": "聽新聞關鍵人物，說每日最新關鍵事。獨到的趙少康式觀點，直搗政治時事核心！"
         }
       },
@@ -303,7 +303,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

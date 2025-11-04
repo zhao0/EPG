@@ -1867,27 +1867,27 @@
           }
         ],
         "total_length": 259082000,
-        "focus_index": 68,
-        "next_index": 69,
-        "time": 1415799,
+        "focus_index": 77,
+        "next_index": 78,
+        "time": 940960,
         "focus_program": {
-          "content_id": "VOD00308672",
+          "content_id": "VOD00316151",
           "time_codes": [
-            1360000,
-            2035000,
-            2336000,
-            2590000
+            1224000,
+            2079000,
+            2437000,
+            2657000
           ],
           "timecode_duration": [],
-          "length": 2701000,
-          "asset_id": "vod10857-001127M001",
+          "length": 2696000,
+          "asset_id": "vod10857-001136M001",
           "title": "",
-          "subtitle": "第1127集 【印尼】再見 峇里島",
-          "ep_number": 1127,
+          "subtitle": "第1136集 【帛琉】Alii Palau哈囉帛琉",
+          "ep_number": 1136,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762261500000,
-          "vod_channel_description": "印尼跳島行，來到度假天堂峇里島，包山包海的環境，不只讓人放鬆身心，香氣四溢，五花八門的南洋料理，更是老饕尋寶的好地方，這次來到Denpasar的廣場夜市，想要吃得最道地，來這就對啦~世界美景，海神廟的夕陽，更是人生必訪清單~強烈建議，最好早早卡位，不怕太無聊，到處走走晃晃，都好玩~"
+          "p_start": 1762288500000,
+          "vod_channel_description": "《世界第一等》久違的帛琉之旅！這次由新搭檔楊一展和鄒承恩，兩位從戲劇中結識的好兄弟，一同踏上有「上帝的水族箱」之稱的島國帛琉；來一場深入、刺激又難忘的旅程。"
         }
       },
       "station_categories": [
@@ -1904,7 +1904,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

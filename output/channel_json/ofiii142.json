@@ -2149,26 +2149,26 @@
           }
         ],
         "total_length": 349694000,
-        "focus_index": 33,
-        "next_index": 34,
-        "time": 1587825,
+        "focus_index": 42,
+        "next_index": 43,
+        "time": 43790,
         "focus_program": {
-          "content_id": "VOD00299196",
+          "content_id": "VOD00299205",
           "time_codes": [
-            1019000,
-            1799000,
-            2293000
+            824000,
+            1578000,
+            2277000
           ],
           "timecode_duration": [],
-          "length": 2963000,
-          "asset_id": "vod64324-020010M001",
+          "length": 2955000,
+          "asset_id": "vod64324-030006M001",
           "title": "",
-          "subtitle": "第2季第10集 國小得獎高手",
-          "ep_number": 10,
+          "subtitle": "第3季第6集 外籍學生挑戰賽",
+          "ep_number": 6,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1761899100000,
-          "vod_channel_description": "大家都喜歡得獎，得獎不只是一種肯定也是一種鼓勵。今天來了八位從小就很樂愛參與各種比賽的國小得獎高手，到底他們都參加一些什麼特別的比賽？又有什麼樣的戰績呢？"
+          "p_start": 1761928800000,
+          "vod_channel_description": "台灣學生喜歡到國外遊學，體驗不一樣的生活，不過世界華語熱，或許為了工作、進修，也可能因為興趣，愈來愈多外國朋友也喜歡到台灣念書，今年總共有將近十萬名外籍生在台灣求學，今天來自不同國家的朋友要來一場中文大考驗，到底誰會拔得頭籌呢？"
         }
       },
       "station_categories": [

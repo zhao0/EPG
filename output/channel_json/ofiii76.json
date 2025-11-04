@@ -337,28 +337,29 @@
           }
         ],
         "total_length": 87241000,
-        "focus_index": 13,
-        "next_index": 0,
-        "time": 617859,
+        "focus_index": 3,
+        "next_index": 4,
+        "time": 111935,
         "focus_program": {
-          "content_id": "VOD00272699",
+          "content_id": "VOD00321589",
           "time_codes": [
-            865000,
-            1821000,
-            2792000,
-            3668000,
-            4534000
+            916000,
+            1744000,
+            2679000,
+            3657000,
+            4504000,
+            5422000
           ],
           "timecode_duration": [],
-          "length": 5556000,
-          "asset_id": "vod59712-000000M001",
-          "title": "逐夢自行車",
-          "subtitle": "Coureur",
+          "length": 6029000,
+          "asset_id": "vod69088-000000M001",
+          "title": "天使寶貝法蘭絲",
+          "subtitle": "Saint Frances",
           "ep_number": 0,
           "rating": 5,
           "content_type": "movie",
-          "p_start": 1762242900000,
-          "vod_channel_description": "菲利斯的父親是自行車老將，他從小在自行車選手圍繞的環境長大，看多了酒精、暴力與違禁藥物的放縱生活。菲利斯夢想成為職業車手，希望能超越父親的成就。成年之後，他展現了無比的天賦，順利取得國內青少年組冠軍，來到青少年自行車競賽的聖地義大利。然而，殘忍的競爭和個人健康狀況正威脅他的夢想…"
+          "p_start": 1762178700000,
+          "vod_channel_description": "年過30歲仍對人生充滿困惑的布萊姬決定接下保母工作，照顧一對拉子情侶的6歲女孩。在某晚派對上意亂情迷邂逅男大生，意外懷孕的布萊姬旋即決定墮胎。儘管布萊姬的生活一團亂，他卻在與古靈精怪女孩的朝夕相處中，逐漸建立起一段暖心的友誼，和這家人的羈絆也愈加深厚，讓他重新思考自己的人生命題…"
         }
       },
       "station_categories": [
@@ -371,7 +372,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15"
   },
   "__N_SSP": true
 }

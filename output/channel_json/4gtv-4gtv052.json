@@ -51,137 +51,6 @@
       "Schedule": [
         {
           "StationId": 1137,
-          "ProgramId": "00058436000000",
-          "AirDateTime": "2025-11-04T07:00:00Z",
-          "Duration": 3600,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 2,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00058436000000",
-            "Title": "華視1500整點新聞",
-            "Description": "以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞。",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1137,
-          "ProgramId": "00030596000000",
-          "AirDateTime": "2025-11-04T08:00:00Z",
-          "Duration": 3180,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 2,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00030596000000",
-            "Title": "華視在地新聞",
-            "Description": "以台語發音，提供觀眾朋友不一樣的國內外新聞。",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1137,
-          "ProgramId": "00188744000000",
-          "AirDateTime": "2025-11-04T08:53:00Z",
-          "Duration": 11220,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 2,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00188744000000",
-            "Title": "華視新聞晚報",
-            "Description": "華視新聞部每天整理當天重大國內外新聞事件，為觀眾做最快、最即時的播報。",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1137,
-          "ProgramId": "00105023000000",
-          "AirDateTime": "2025-11-04T12:00:00Z",
-          "Duration": 3600,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 2,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00105023000000",
-            "Title": "華視2000整點新聞",
-            "Description": "以最客觀的角度，最專業的主播，為觀眾完整報導國內外重要新聞。",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1137,
-          "ProgramId": "00039904000000",
-          "AirDateTime": "2025-11-04T13:00:00Z",
-          "Duration": 3600,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 2,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00039904000000",
-            "Title": "World News 9",
-            "SubTitle": "世界新聞9",
-            "Description": "華視新聞製作，帶給觀眾最公正客觀的新聞視野，由優質主播與新聞團隊聯手打造，每日提供最新最即時的各種國際新聞。",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1137,
           "ProgramId": "00195427000000",
           "AirDateTime": "2025-11-04T14:00:00Z",
           "Duration": 3600,
@@ -3074,7 +2943,7 @@
         "href_map": {}
       }
     ],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
+    "ua": "Mozilla/5.0 (compatible; TTD-Content; +https://www.thetradedesk.com/general/ttd-content)"
   },
   "__N_SSP": true
 }

@@ -853,25 +853,25 @@
           }
         ],
         "total_length": 119000000,
-        "focus_index": 24,
-        "next_index": 25,
-        "time": 1960851,
+        "focus_index": 34,
+        "next_index": 35,
+        "time": 1345702,
         "focus_program": {
-          "content_id": "VOD00180628",
+          "content_id": "VOD00180638",
           "time_codes": [
-            704000,
-            1464000,
-            2217000
+            829000,
+            1478000,
+            2249000
           ],
           "timecode_duration": [],
-          "length": 2627000,
-          "asset_id": "vod41798-000025M001",
+          "length": 2631000,
+          "asset_id": "vod41798-000035M001",
           "title": "",
-          "subtitle": "第25集",
-          "ep_number": 25,
+          "subtitle": "第35集",
+          "ep_number": 35,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1743444900000,
+          "p_start": 1743474000000,
           "vod_channel_description": "心理學教授沈心唯，為人正直，卻受人誣陷失去工作，經濟頓時困窘。白領那娜懷孕後卻遭遇前男友背叛，只能做個堅強的單親媽媽。沈心唯與那娜初次見面便結下了樑子。但在沈心唯主動成為了她的月嫂先生後，二人從針鋒相對到逐漸了解，兩人的感情也在跌跌撞撞中不斷升溫。"
         }
       },

@@ -365,22 +365,22 @@
           }
         ],
         "total_length": 2251000,
-        "focus_index": 18,
-        "next_index": 19,
-        "time": 27159,
+        "focus_index": 6,
+        "next_index": 7,
+        "time": 11541,
         "focus_program": {
-          "content_id": "VOD00381198",
+          "content_id": "VOD00328730",
           "time_codes": [],
           "timecode_duration": [],
-          "length": 104000,
-          "asset_id": "vod64645-000052M001",
+          "length": 92000,
+          "asset_id": "vod64645-000035M001",
           "title": "",
-          "subtitle": "擁有超常技能的異世界流浪美食家 S2",
-          "ep_number": 52,
+          "subtitle": "關於我轉生變成史萊姆這檔事 第三季",
+          "ep_number": 35,
           "rating": 1,
           "content_type": "others",
-          "p_start": 1762187100000,
-          "vod_channel_description": "向田剛志是個平凡的上班族，某天他在毫無預警的情況下，被召喚到了一個充滿魔法的異世界。令人意外的是，他獲得的固有技能竟是名為「網路超市」的特殊能力，能連結現代世界，隨時購買各式各樣的食材與調味料。憑藉這份獨特的技能，他開始在異世界製作各種美味料理。"
+          "p_start": 1762183500000,
+          "vod_channel_description": "與日向的相遇、來自法爾姆斯王國的襲擊，以及進化成為魔王―――維爾德拉和伊弗利特在胃袋之中見證了這一連串的事件。從利姆路和維爾德拉相遇到現已經過了兩年的時間―――隨著時間的流逝，如今「最初的約定」實現的日子終於要到來了。一如往常的兩人依然帶著自我的步調，時而害怕著「某個東西」，時而回顧坦派斯特至今一路上的過往。"
         }
       },
       "station_categories": [

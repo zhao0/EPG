@@ -875,24 +875,24 @@
           }
         ],
         "total_length": 74826000,
-        "focus_index": 38,
-        "next_index": 39,
-        "time": 1037696,
+        "focus_index": 4,
+        "next_index": 5,
+        "time": 993541,
         "focus_program": {
-          "content_id": "VOD00223643",
+          "content_id": "VOD00223609",
           "time_codes": [
-            758000
+            646000
           ],
           "timecode_duration": [],
           "length": 1440000,
-          "asset_id": "vod49995-010039M001",
+          "asset_id": "vod49995-010005M001",
           "title": "",
-          "subtitle": "第1季第39集 南葛對花輪 勝負分曉",
-          "ep_number": 39,
+          "subtitle": "第1季第5集 朝對抗賽邁進",
+          "ep_number": 5,
           "rating": 1,
           "content_type": "comic",
-          "p_start": 1762168500000,
-          "vod_channel_description": "面對花輪的厚實防守，小翼明白無法輕易傳球給隊友，於是下定決心，踢出抽球射門。這次他能夠成功嗎？而比賽剩下最後五分鐘，立花兄弟終於有所行動。花輪選手連後防都上前，全體團結朝南葛球門進攻。在最後一次的空中颶風射門踢出時，小翼為了不讓對手得分，也用力反踢球門框朝著球跳躍。"
+          "p_start": 1762117500000,
+          "vod_channel_description": "與若林率領的修哲之間的對抗賽即將來臨，在得知修哲小學要進行練習賽的消息後，小翼與南葛小學足球社的成員便一起去觀賽。小翼發現修哲小學擁有許多實力堅強的選手，小翼眼神散發出光輝，表示修哲是值得打倒的對手。石崎等人也不甘示弱，展開了晨練，以及上下學都和足球形影不離的特訓生活。"
         }
       },
       "station_categories": [

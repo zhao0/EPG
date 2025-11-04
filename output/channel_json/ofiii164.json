@@ -843,24 +843,24 @@
           }
         ],
         "total_length": 76033000,
-        "focus_index": 17,
-        "next_index": 18,
-        "time": 110418,
+        "focus_index": 30,
+        "next_index": 31,
+        "time": 309381,
         "focus_program": {
-          "content_id": "VOD00022181",
+          "content_id": "VOD00040784",
           "time_codes": [
-            762000
+            682000
           ],
           "timecode_duration": [],
-          "length": 1420000,
-          "asset_id": "vod8684-010018M001",
+          "length": 1430000,
+          "asset_id": "vod8684-020005M001",
           "title": "",
-          "subtitle": "第1季第18集 前往世界樹",
-          "ep_number": 18,
+          "subtitle": "第2季第5集 槍與劍",
+          "ep_number": 5,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762167300000,
-          "vod_channel_description": "莉法決定陪著桐人一同前往位於阿爾普海姆中心的『世界樹』。但是，決定離開斯伊魯班，展開旅行的莉法先前的組隊同伴西格魯特阻擋在前。西格魯特不停的貶低桐人，痛恨被束縛的莉法盛怒之下便宣稱要和桐人組隊。一方面，被囚禁在世界樹頂端的亞斯娜，無法得知桐人的生死與否，拼命忍耐著自己的恐懼..."
+          "p_start": 1762192800000,
+          "vod_channel_description": "桐人與詩音一起到了總統府，報名參加能贏得這遊戲「最強」稱號的比賽『Bullet of Bullets』。這一切都是為了出名，讓死槍盯上他。首先，在換衣服準備參加預賽的時候，桐人自我介紹，讓詩音知道他是男的，結果被華麗的打了一巴掌。"
         }
       },
       "station_categories": [
@@ -877,7 +877,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

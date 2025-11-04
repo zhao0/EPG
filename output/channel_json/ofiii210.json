@@ -236,26 +236,26 @@
           }
         ],
         "total_length": 44935000,
-        "focus_index": 1,
-        "next_index": 2,
-        "time": 2937563,
+        "focus_index": 7,
+        "next_index": 8,
+        "time": 1813521,
         "focus_program": {
-          "content_id": "VOD00379291",
+          "content_id": "VOD00381509",
           "time_codes": [
-            968000,
-            1976000,
-            2700000,
-            3641000
+            966000,
+            1742000,
+            2919000,
+            3768000
           ],
           "timecode_duration": [],
-          "length": 4502000,
-          "asset_id": "vod79237-000068M001",
+          "length": 4474000,
+          "asset_id": "vod79237-000074M001",
           "title": "",
-          "subtitle": "3波藝人閃兵！黨國權貴同一招？狗園第1桶金？黃國昌小姨子角色？",
-          "ep_number": 68,
+          "subtitle": "「野豬」危機？「燕圾湖」恐害台萬劫不復？ 川普叫牌習！「台灣就是台灣」深意？",
+          "ep_number": 74,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762149600000,
+          "p_start": 1762178400000,
           "vod_channel_description": "新聞看民視和您一起討論最新最熱的時事新聞！"
         }
       },

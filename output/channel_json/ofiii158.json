@@ -385,26 +385,26 @@
           }
         ],
         "total_length": 56590000,
-        "focus_index": 1,
-        "next_index": 2,
-        "time": 1212196,
+        "focus_index": 10,
+        "next_index": 11,
+        "time": 228560,
         "focus_program": {
-          "content_id": "VOD00295477",
+          "content_id": "VOD00098105",
           "time_codes": [
-            776000,
-            1451000,
-            2191000
+            735000,
+            1411000,
+            2217000
           ],
           "timecode_duration": [],
-          "length": 2901000,
-          "asset_id": "vod64604-000002M001",
-          "title": "麻醉風暴",
-          "subtitle": "第2集",
-          "ep_number": 2,
+          "length": 3094000,
+          "asset_id": "vod29411-000005M001",
+          "title": "麻醉風暴2",
+          "subtitle": "第5集 再次見面",
+          "ep_number": 5,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1762128000000,
-          "vod_channel_description": "故事敘述麻醉醫師蕭政勳因為一起醫療疏失而遭到停職，追查之下發現背後牽涉了許多內幕，進而被捲入一場風暴之中。劇情涉及了醫療糾紛、醫療人球等臺灣醫療環境面臨的議題。"
+          "p_start": 1762156200000,
+          "vod_channel_description": "葉建德出獄了。沈柔伊告知陳顯榮車禍重傷，內幕不單純，遊說葉協助她釐清人球案真相，葉雖表面不為所動，仍到醫院探視昏迷中的陳顯榮。康聯醫院評鑑的重擔，落在創傷小組肩上，增加許多煩瑣的行政工作，致使熊崽不滿。立委萬大器也趁勢要脅，為保評鑑過關，要康聯安插董事席位給他。"
         }
       },
       "station_categories": [

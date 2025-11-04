@@ -51,132 +51,6 @@
       "Schedule": [
         {
           "StationId": 1188,
-          "ProgramId": "00000001000108",
-          "AirDateTime": "2025-11-04T04:50:00Z",
-          "Duration": 8700,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00000001000108",
-            "Title": "詹姆士龐德007之皇家夜總會",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1188,
-          "ProgramId": "00177554000000",
-          "AirDateTime": "2025-11-04T07:15:00Z",
-          "Duration": 5400,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00177554000000",
-            "Title": "阿紫",
-            "Description": "故事起頭於短暫回到嘉義老家的日子，逡巡在鄰近縣市，挖掘題材，逐漸注意到「雲林」是全台灣單親爸爸比例最高的縣市，這樣的家庭結構狀況，讓吳郁瑩開始了解附近的新住民社群，走進一個個客廳，聽聽故事。",
-            "ShowType": "98"
-          }
-        },
-        {
-          "StationId": 1188,
-          "ProgramId": "00000001000109",
-          "AirDateTime": "2025-11-04T08:45:00Z",
-          "Duration": 8100,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00000001000109",
-            "Title": "大進擊",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1188,
-          "ProgramId": "00000001000106",
-          "AirDateTime": "2025-11-04T11:00:00Z",
-          "Duration": 7200,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00000001000106",
-            "Title": "天地民心(17-18)",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1188,
-          "ProgramId": "00000001000110",
-          "AirDateTime": "2025-11-04T13:00:00Z",
-          "Duration": 4800,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00000001000110",
-            "Title": "末日錶盤(首)",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1188,
           "ProgramId": "00000001000111",
           "AirDateTime": "2025-11-04T14:20:00Z",
           "Duration": 6000,
@@ -1494,7 +1368,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Linux; Android 11; Lenovo TB-8506X Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Safari/537.36 GNews Android/2022222395"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

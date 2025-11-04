@@ -166,43 +166,26 @@
           }
         ],
         "total_length": 30181000,
-        "focus_index": 0,
-        "next_index": 1,
-        "time": 3252060,
+        "focus_index": 4,
+        "next_index": 0,
+        "time": 1865613,
         "focus_program": {
-          "content_id": "VOD00359362",
+          "content_id": "VOD00364461",
           "time_codes": [
             600000,
             1200000,
-            1800000,
-            2400000,
-            3000000,
-            3600000,
-            4200000,
-            4800000,
-            5400000,
-            6000000,
-            6600000,
-            7200000,
-            7800000,
-            8400000,
-            9000000,
-            9600000,
-            10200000,
-            10800000,
-            11400000,
-            12000000
+            1800000
           ],
           "timecode_duration": [],
-          "length": 12000000,
-          "asset_id": "vod76910-000001M001",
+          "length": 2081000,
+          "asset_id": "vod76910-000005M001",
           "title": "",
-          "subtitle": "2024北海道道東道北行車記錄",
-          "ep_number": 1,
+          "subtitle": "2025新北大橋自行車的視角",
+          "ep_number": 5,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762177500000,
-          "vod_channel_description": "北海道旅遊的道路駕駛影片，沿路風景不是極度的美麗，而是真實的生活的寫照。雪地裡的駕駛，可以看見不同的景觀。札幌--旭川--紋別--網走--旭川--札幌"
+          "p_start": 1762209300000,
+          "vod_channel_description": "今天帶大家參觀一段很特殊的自行車道，它被建立在一座橋樑的下方，橋樑上方有汽車及摩托車行駛，下方則是行人及自行車專用，很特別的視角，風景也很棒，希望大家會喜歡。"
         }
       },
       "station_categories": [
@@ -215,7 +198,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
   },
   "__N_SSP": true
 }

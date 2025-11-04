@@ -301,7 +301,7 @@
         "total_length": 22950000,
         "focus_index": 11,
         "next_index": 12,
-        "time": 184556,
+        "time": 1231775,
         "focus_program": {
           "content_id": "VOD00278517",
           "time_codes": [
@@ -333,7 +333,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"
   },
   "__N_SSP": true
 }

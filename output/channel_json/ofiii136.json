@@ -1682,25 +1682,25 @@
           }
         ],
         "total_length": 266115000,
-        "focus_index": 76,
-        "next_index": 77,
-        "time": 944362,
+        "focus_index": 85,
+        "next_index": 86,
+        "time": 467771,
         "focus_program": {
-          "content_id": "VOD00376257",
+          "content_id": "VOD00374543",
           "time_codes": [
-            656000,
-            1392000,
-            2185000
+            777000,
+            1491000,
+            2204000
           ],
           "timecode_duration": [],
           "length": 2925000,
-          "asset_id": "vod38256-000864M001",
+          "asset_id": "vod38256-000904M001",
           "title": "",
-          "subtitle": "第864集 有機種菜學會的三堂課/ 新屋石滬傻傻的堅持/小金門老社區的改造/不怕難士官長火龍果",
-          "ep_number": 864,
+          "subtitle": "第904集 為媽媽種棵可可樹/手工粄條古法的堅持/迷途知返勇氣蔥肉包/復耕宜蘭黑豆醬油",
+          "ep_number": 904,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762247100000,
+          "p_start": 1762274100000,
           "vod_channel_description": "帶您深入台灣各地，找尋社會中默默努力的小人物，聽他們的生命故事，紀錄平凡傳遞正面能量！"
         }
       },

@@ -799,25 +799,25 @@
           }
         ],
         "total_length": 117400000,
-        "focus_index": 21,
-        "next_index": 22,
-        "time": 2293023,
+        "focus_index": 31,
+        "next_index": 32,
+        "time": 185811,
         "focus_program": {
-          "content_id": "VOD00301084",
+          "content_id": "VOD00301094",
           "time_codes": [
-            769000,
-            1482000,
-            2204000
+            687000,
+            1401000,
+            2186000
           ],
           "timecode_duration": [],
           "length": 2795000,
-          "asset_id": "vod65222-000022M001",
+          "asset_id": "vod65222-000032M001",
           "title": "",
-          "subtitle": "第22集",
-          "ep_number": 22,
+          "subtitle": "第32集",
+          "ep_number": 32,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740172800000,
+          "p_start": 1740202800000,
           "vod_channel_description": "司馬懿因“鷹視狼顧”之相，回頭看了曹操一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕一次次通過曹操的考驗，將曹丕送上世子位。他盡心竭力輔佐曹丕成為開國明主，開創新政、扶持士族、抑制宗室，為魏國的穩定富強做出了巨大貢獻。"
         }
       },

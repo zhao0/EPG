@@ -51,112 +51,6 @@
       "Schedule": [
         {
           "StationId": 1231,
-          "ProgramId": "00000001000151",
-          "AirDateTime": "2025-11-04T06:05:00Z",
-          "Duration": 6900,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00000001000151",
-            "Title": "前線叛逃",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1231,
-          "ProgramId": "00174892000000",
-          "AirDateTime": "2025-11-04T08:00:00Z",
-          "Duration": 5400,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00174892000000",
-            "Title": "美聲歌雞",
-            "SubTitle": "Turu, the Wacky Hen",
-            "Description": "圖魯是一隻相貌古怪且不會下蛋的母雞，因此遭到其他母雞的嘲笑。老奶奶伊莎貝爾將圖魯帶到自己的農場，竟意外發現圖魯的獨特天賦：她不僅能夠跟人類說話，還有著美麗的動人歌聲。。某天，伊莎貝爾從屋頂上摔下來而且失去了記憶，隨後被救護車送往醫院；想念老奶奶的圖魯決定踏上旅程尋找她珍貴的好友！",
-            "ShowType": "98"
-          }
-        },
-        {
-          "StationId": 1231,
-          "ProgramId": "00153638000000",
-          "AirDateTime": "2025-11-04T09:30:00Z",
-          "Duration": 5700,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00153638000000",
-            "Title": "我的老爸喵星人",
-            "SubTitle": "Nine Lives",
-            "Description": "商業大亨湯姆（凱文史貝西）是個為事業忽略家庭的工作狂，因女兒一直想要貓當生日禮物，他到寵物店挑了一隻，回家途中繞道公司卻意外摔落大樓。醒來後湯姆發現自己竟困在貓的身體裡，而他若無法在七天內找出原因，就會永遠變成貓…",
-            "ShowType": "98"
-          }
-        },
-        {
-          "StationId": 1231,
-          "ProgramId": "00180106000000",
-          "AirDateTime": "2025-11-04T11:05:00Z",
-          "Duration": 6900,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00180106000000",
-            "Title": "獨帆之聲",
-            "SubTitle": "The Mercy",
-            "Description": "1968年，唐諾（柯林佛斯）打算參加備受矚目的環行世界獨帆大賽，並成為史上第一位完全不靠岸、獨自航行環繞世界的人。隨著唐諾在比賽中，以史無前例的驚人速度航行，媒體也將他打造成英國家喻戶曉的英雄人物。不過，就在家人歡天喜地準備迎接他凱旋歸來時，遠方竟傳來唐諾消失在茫茫大海中的噩耗…",
-            "ShowType": "98"
-          }
-        },
-        {
-          "StationId": 1231,
           "ProgramId": "00150396000000",
           "AirDateTime": "2025-11-04T13:00:00Z",
           "Duration": 6300,
@@ -1835,7 +1729,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36"
   },
   "__N_SSP": true
 }

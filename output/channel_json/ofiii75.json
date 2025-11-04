@@ -337,29 +337,29 @@
           }
         ],
         "total_length": 86244000,
-        "focus_index": 0,
-        "next_index": 1,
-        "time": 4752901,
+        "focus_index": 5,
+        "next_index": 6,
+        "time": 601672,
         "focus_program": {
-          "content_id": "VOD00362994",
+          "content_id": "VOD00372952",
           "time_codes": [
-            887000,
-            1822000,
-            2682000,
-            3603000,
-            4511000,
-            5396000
+            947000,
+            1861000,
+            2772000,
+            3701000,
+            4552000,
+            5423000
           ],
           "timecode_duration": [],
-          "length": 5601000,
-          "asset_id": "vod77645-000000M001",
-          "title": "法外之徒",
-          "subtitle": "The Outsider",
+          "length": 6179000,
+          "asset_id": "vod79680-000000M001",
+          "title": "驚爆曼谷",
+          "subtitle": "HELLHOUND",
           "ep_number": 0,
           "rating": 3,
           "content_type": "movie",
-          "p_start": 1762149600000,
-          "vod_channel_description": "英國軍火承包商萊克斯沃克（克雷格費布雷斯）突然接到消息，他唯一的女兒遭人殺害，警方要求他盡快到洛杉磯將遺體運回倫敦。不敢相信這個事實的萊克斯，趕到美國後竟發現死者並非他的女兒，但他也聯絡不上女兒。為了查清女兒的下落，萊克斯獨自走遍這個充滿罪惡的華麗都市，而真相也慢慢浮出水面…"
+          "p_start": 1762179600000,
+          "vod_channel_description": "在曼谷的都市心臟地帶，一名經驗老道的殺手（路易斯曼迪勒）正準備退休，卻被迫接下最後一項任務。他原本以為只是例行公事，沒想到這場行動將引爆一連串的陰謀與危機，最終演變成泰國街頭的全面戰爭…"
         }
       },
       "station_categories": [
@@ -376,7 +376,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15"
   },
   "__N_SSP": true
 }

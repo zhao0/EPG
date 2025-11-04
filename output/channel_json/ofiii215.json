@@ -1672,24 +1672,25 @@
           }
         ],
         "total_length": 131171000,
-        "focus_index": 58,
-        "next_index": 59,
-        "time": 464472,
+        "focus_index": 73,
+        "next_index": 74,
+        "time": 663274,
         "focus_program": {
-          "content_id": "VOD00359260",
+          "content_id": "VOD00354069",
           "time_codes": [
-            1436000
+            600000,
+            1200000
           ],
           "timecode_duration": [],
-          "length": 1984000,
-          "asset_id": "vod62278-000204M001",
-          "title": "Super Snow Show",
-          "subtitle": "【美式電動肌肉車 挑戰特斯拉？】電動野馬Ford Mustang Mach-E試車上路啦：GT好?還是Premium好？年度配額增加？賽道靈魂加持 一台車多種面向！",
-          "ep_number": 204,
+          "length": 1478000,
+          "asset_id": "vod62277-000118M001",
+          "title": "DR. IF fACTORY 硬核車媒",
+          "subtitle": "EX30有什麼料？Volvo EX30 三電系統、純電平台 超詳解！DR.IF 深挖 EX30 Ultra 電車科技！",
+          "ep_number": 118,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762124700000,
-          "vod_channel_description": "帶起台灣汽車節目風潮，前TVBS《地球黃金線》與東森《夢想街57號》主持人，「車界女神」廖盈婷，自製談話性節目《Super Snow Show》，持續以熱情和風趣的主持風格，打造出高人氣試車頻道，介紹車與生活。"
+          "p_start": 1762154400000,
+          "vod_channel_description": "Volvo EX30 這部 Volvo 小電車終於來了！EX30 是 Volvo 第一部使用純電平台的電車，EX30三電系統、底盤架構也與母集團息息相關，為了檢視 Volvo EX30 硬底子，DR.IF 仍利用 EX30 公辦時間，把 EX30 Ultra 頂起來，詳細檢視 EX30 Ultra 三電系統，還有 EX30 使用的 SEA純電平台，到底有什麼特別？跟現行 EX40 電車有何差異？"
         }
       },
       "station_categories": [

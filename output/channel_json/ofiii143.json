@@ -1771,25 +1771,25 @@
           }
         ],
         "total_length": 273066000,
-        "focus_index": 66,
-        "next_index": 67,
-        "time": 731931,
+        "focus_index": 74,
+        "next_index": 75,
+        "time": 2803096,
         "focus_program": {
-          "content_id": "VOD00376228",
+          "content_id": "VOD00376803",
           "time_codes": [
-            1264000,
-            1733000,
-            2267000
+            1168000,
+            1887000,
+            2622000
           ],
           "timecode_duration": [],
-          "length": 2845000,
-          "asset_id": "vod64262-000955M001",
+          "length": 2843000,
+          "asset_id": "vod64262-000965M001",
           "title": "",
-          "subtitle": "第955集 熱吵開戰吧！？尚敖叉！台語王爭霸戰來了⋯",
-          "ep_number": 955,
+          "subtitle": "第965集 當兵當到活見鬼！軍中鬼故事來了！",
+          "ep_number": 965,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762251600000,
+          "p_start": 1762275600000,
           "vod_channel_description": "「地表最震撼」組合！當荒謬大師沈玉琳遇上瘋瘋貴婦Melody，擦出你意想不到的火花！"
         }
       },
@@ -1807,7 +1807,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

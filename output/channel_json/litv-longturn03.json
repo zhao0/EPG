@@ -51,86 +51,6 @@
       "Schedule": [
         {
           "StationId": 1166,
-          "ProgramId": "00135255000000",
-          "AirDateTime": "2025-11-04T06:45:00Z",
-          "Duration": 7500,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00135255000000",
-            "Title": "落跑吧愛情",
-            "SubTitle": "All You Need Is Love",
-            "Description": "這年夏天，富家女葉紛紛（舒淇）因逃避家人催婚，帶著媽媽留下的“外婆的澎湖灣”錄音帶，一路找到澎湖，打算體驗網路上形容的無敵海景民宿與歌裡的風情。不料迎接她的民宿主人阿武（任賢齊）卻是個魯莽的打漁人！朋友們為了幫阿武拓展生意，在網路上做了誇張的宣傳，不料竟騙來了葉紛紛！",
-            "ShowType": "98"
-          }
-        },
-        {
-          "StationId": 1166,
-          "ProgramId": "00020210000000",
-          "AirDateTime": "2025-11-04T08:50:00Z",
-          "Duration": 7200,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00020210000000",
-            "Title": "開心鬼",
-            "Description": "林菁菁、林小花及顏如玉出外旅行，菁將一殘舊麻繩帶回學校，該麻繩乃清代落第書生朱秀才用以吊頸自盡，現為其魂所依附，故朱也被帶返。菁與他為友，並帶朱參觀校運會。競賽時，朱助菁奪得全場冠軍。菁決定將這神仙介紹給玉和花認識，其後三人事事依賴朱榜眼相助。惜在結業試時…",
-            "ShowType": "98"
-          }
-        },
-        {
-          "StationId": 1166,
-          "ProgramId": "00020019000000",
-          "AirDateTime": "2025-11-04T10:50:00Z",
-          "Duration": 7800,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 2,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00020019000000",
-            "Title": "九品芝麻官",
-            "SubTitle": "Hail the Judge",
-            "Description": "九品後補知縣包龍星（周星馳）辦案能力不足，深受百姓唾棄。此時戚家發生滅門慘案，倖存的戚秦氏指認常威為兇手，但常威之父水師提督常昆運用權勢誣陷戚秦氏為犯人，而星亦被調離此案。當夜星與其侄有為回凶案現場找證據翻案，反而被打入大牢。星逃獄後決心替戚秦氏洗刷冤屈，隨一雜技團上京告御狀…",
-            "ShowType": "98"
-          }
-        },
-        {
-          "StationId": 1166,
           "ProgramId": "00195731000000",
           "AirDateTime": "2025-11-04T13:00:00Z",
           "Duration": 7800,
@@ -1533,7 +1453,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Linux; NetCast; U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 SmartTV/10.0 Colt/2.0"
   },
   "__N_SSP": true
 }

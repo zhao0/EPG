@@ -902,24 +902,24 @@
           }
         ],
         "total_length": 24523000,
-        "focus_index": 53,
-        "next_index": 54,
-        "time": 320596,
+        "focus_index": 55,
+        "next_index": 56,
+        "time": 315953,
         "focus_program": {
-          "content_id": "VOD00365409",
+          "content_id": "VOD00365411",
           "time_codes": [
             600000
           ],
           "timecode_duration": [],
-          "length": 788000,
-          "asset_id": "vod67894-000054M001",
+          "length": 629000,
+          "asset_id": "vod67894-000056M001",
           "title": "",
-          "subtitle": "綠世界生態農場",
-          "ep_number": 54,
+          "subtitle": "大龍峒保安宮",
+          "ep_number": 56,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762202700000,
-          "vod_channel_description": "這是一個私人機構，於2004年開幕，園區內以亞熱帶雨林為主，動物、植物、生物等的生態園區，面積廣闊，可以讓動物們自由的活動。園內以各種區域為區分，可以參觀到非常多而且奇特稀有的動物，無論是來學習或是休閒參觀，都是一個很棒的地方。"
+          "p_start": 1762204500000,
+          "vod_channel_description": "保安宮主祀神明「保生大帝」，建地有三千餘坪，是目前全國最大的保生大帝廟宇。寺廟的裝飾藝術包括木雕、石刻、彩繪、泥塑、交趾陶、剪黏等，每當節慶也會有民間傳統表演。此處也設有一處花園，稱為「鄰聖苑」，內有許多故事敘述的雕像，敘述「保生大帝」慈悲濟世之神蹟。資料來源：大龍峒保安宮"
         }
       },
       "station_categories": [
@@ -936,7 +936,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

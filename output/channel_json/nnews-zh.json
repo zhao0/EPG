@@ -49,31 +49,6 @@
       "Schedule": [
         {
           "StationId": 1229,
-          "ProgramId": "00000001000141",
-          "AirDateTime": "2025-11-04T04:00:00Z",
-          "Duration": 21600,
-          "PartNumber": 0,
-          "NumberParts": 0,
-          "Repeat": false,
-          "PremiereFinale": 0,
-          "LiveDelay": 3,
-          "ClosedCaption": false,
-          "Subtitled": false,
-          "TvRating": 1,
-          "SexRating": false,
-          "ViolenceRating": false,
-          "LanguageRating": false,
-          "FVRating": false,
-          "BroadcastFormat": "4x3",
-          "EndTime": "0001-01-01T00:00:00Z",
-          "program": {
-            "ProgramId": "00000001000141",
-            "Title": "午安新聞",
-            "ShowType": "1"
-          }
-        },
-        {
-          "StationId": 1229,
           "ProgramId": "00000001000142",
           "AirDateTime": "2025-11-04T10:00:00Z",
           "Duration": 21600,
@@ -588,7 +563,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86"
+    "ua": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
   },
   "__N_SSP": true
 }

@@ -1087,25 +1087,25 @@
           }
         ],
         "total_length": 160961000,
-        "focus_index": 35,
-        "next_index": 36,
-        "time": 1938879,
+        "focus_index": 44,
+        "next_index": 45,
+        "time": 434395,
         "focus_program": {
-          "content_id": "VOD00250123",
+          "content_id": "VOD00250132",
           "time_codes": [
-            760000,
-            1412000,
-            2125000
+            702000,
+            1414000,
+            2104000
           ],
           "timecode_duration": [],
-          "length": 2773000,
-          "asset_id": "vod54961-000036M001",
+          "length": 2818000,
+          "asset_id": "vod54961-000045M001",
           "title": "",
-          "subtitle": "第36集",
-          "ep_number": 36,
+          "subtitle": "第45集",
+          "ep_number": 45,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740196500000,
+          "p_start": 1740223500000,
           "vod_channel_description": "西魏年間亂世混戰，奴籍少女楚喬幸得燕北世子燕洵與宇文玥暗中相救，並經過宇文玥嚴厲訓練後成為諜者。同時與燕洵結下深厚友誼。但燕洵在家族滿門被滅後，回到燕北割據稱雄，楚喬在絕望中與他分道揚鑣。與力求「天下一統、釋奴止戈」的宇文玥並肩作戰，粉碎燕洵的復仇計劃，成為心懷蒼生的巾幗將軍。"
         }
       },
@@ -1123,7 +1123,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

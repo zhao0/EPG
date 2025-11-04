@@ -1287,23 +1287,23 @@
           }
         ],
         "total_length": 85221000,
-        "focus_index": 44,
-        "next_index": 45,
-        "time": 405238,
+        "focus_index": 67,
+        "next_index": 68,
+        "time": 338634,
         "focus_program": {
-          "content_id": "VOD00332564",
+          "content_id": "VOD00277261",
           "time_codes": [
             600000
           ],
           "timecode_duration": [],
-          "length": 833000,
-          "asset_id": "vod39966-000732M001",
+          "length": 1041000,
+          "asset_id": "vod39966-000516M001",
           "title": "",
-          "subtitle": "泰劇《職業替身》Up、Poom小專訪",
-          "ep_number": 732,
+          "subtitle": "泰國BL劇《我們之間》麻繩CP專訪",
+          "ep_number": 516,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762170000000,
+          "p_start": 1762202100000,
           "vod_channel_description": "LiTV特派小編親自出馬，為粉絲們專訪諸位大明星。"
         }
       },

@@ -715,24 +715,24 @@
           }
         ],
         "total_length": 60374000,
-        "focus_index": 6,
-        "next_index": 7,
-        "time": 303831,
+        "focus_index": 24,
+        "next_index": 25,
+        "time": 41794,
         "focus_program": {
-          "content_id": "VOD00249891",
+          "content_id": "VOD00250881",
           "time_codes": [
-            683000
+            773000
           ],
           "timecode_duration": [],
-          "length": 1449000,
-          "asset_id": "vod54820-010007M001",
+          "length": 1450000,
+          "asset_id": "vod54820-020025M001",
           "title": "",
-          "subtitle": "第1季第7集 目標的次子",
-          "ep_number": 7,
+          "subtitle": "第2季第25集 接敵作戰(完)",
+          "ep_number": 25,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762183500000,
-          "vod_channel_description": "入學第一天，安妮亞就揍飛戴斯蒙德家的次子達米安，而拿到了「雷電」。轉眼就受到班上同學指指點點令她相當失落，但和貝琪成為朋友後，上學也變得開心了起來。安妮亞想要為揍人的事向達米安道歉，卻始終開不了口。洛伊德為了讓行動代號〈梟〉順利進行，變裝成校內人士，暗地裡催促安妮亞去跟對方和好，但...。"
+          "p_start": 1762215900000,
+          "vod_channel_description": "伊甸學園每半年會召開一次懇親會。會場內獎學生及其家長，還有東國的VIP人士雲集，因此戒備森嚴，不允許任何人入侵。另一方面，達米安請哥哥轉告自己想見父親的事。洛伊德得知了戴斯蒙德父子約好要碰面，便企圖利用達米安與目標接觸。"
         }
       },
       "station_categories": [

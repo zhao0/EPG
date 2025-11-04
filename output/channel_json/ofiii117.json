@@ -427,23 +427,23 @@
           }
         ],
         "total_length": 23470000,
-        "focus_index": 0,
-        "next_index": 1,
-        "time": 22787,
+        "focus_index": 2,
+        "next_index": 3,
+        "time": 508586,
         "focus_program": {
-          "content_id": "VOD00357682",
+          "content_id": "VOD00357684",
           "time_codes": [
             600000
           ],
           "timecode_duration": [],
-          "length": 942000,
-          "asset_id": "vod76555-000001M001",
+          "length": 963000,
+          "asset_id": "vod76555-000003M001",
           "title": "",
-          "subtitle": "第1集",
-          "ep_number": 1,
+          "subtitle": "第3集",
+          "ep_number": 3,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1751281500000,
+          "p_start": 1751283900000,
           "vod_channel_description": "因一場大火而失去雙親的閔姜西，投靠坤城之首的秦家，立志成為第一女先生。卻被秦家現任掌權人秦佔當成別有用心的“倒貼女”。閔姜西憑藉自身才華，幫助秦家化解商業危機，令秦佔刮目相看，並決定聘請她為秦家教書先生，此舉引起馮靜芸的不滿，進而利用秦家死對頭江東設計陷害閔姜西..."
         }
       },

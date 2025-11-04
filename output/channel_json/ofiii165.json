@@ -1743,25 +1743,25 @@
           }
         ],
         "total_length": 145655000,
-        "focus_index": 13,
-        "next_index": 14,
-        "time": 827629,
+        "focus_index": 32,
+        "next_index": 33,
+        "time": 572827,
         "focus_program": {
-          "content_id": "VOD00029601",
+          "content_id": "VOD00029641",
           "time_codes": [
             600000,
             1200000
           ],
           "timecode_duration": [],
-          "length": 1346000,
-          "asset_id": "vod9530-000363M001",
+          "length": 1345000,
+          "asset_id": "vod9530-000382M001",
           "title": "",
-          "subtitle": "第363集 午餐一定要吃便當哦/動感超人的電影來了哦/公司的渡假飯店真開心哦/公司的渡假飯店真開心哦",
-          "ep_number": 363,
+          "subtitle": "第382集 吉永老師的 新婚生活/製作出色的相簿/戰鬥吧,園長人 (二)",
+          "ep_number": 382,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762099800000,
-          "vod_channel_description": "小新來到便當店，要求試吃才決定要買哪個…。小新吵著要看電影來支持動感超人，為此已經規劃好當天一切的流程了…。野原一家到公司的渡假飯店，恰巧公司的專務也來飯店渡假，所以不時的在飯店裡遇到，廣志又每每在專務的面前出錯，給專務留下不好的印像，開始擔心自己未來的前途了…。"
+          "p_start": 1762134000000,
+          "vod_channel_description": "吉永老師還在新婚階段、在幼稚園裡大家都喜歡拿這個當討論的話題、弄得吉永老師好尷尬…。媽媽看到朋友惠子自己做的相簿非常羨慕、回家後也決定把照片整理就緒、做一本全家福相簿、誰知就在整理好的時候…。雙葉幼稚園的園長私下的身分是正義的使者：園長人每天的工作就是幫助有急難的小朋友…"
         }
       },
       "station_categories": [
@@ -1778,7 +1778,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

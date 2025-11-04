@@ -1777,25 +1777,25 @@
           }
         ],
         "total_length": 281257000,
-        "focus_index": 53,
-        "next_index": 54,
-        "time": 2872134,
+        "focus_index": 62,
+        "next_index": 63,
+        "time": 1897203,
         "focus_program": {
-          "content_id": "VOD00199877",
+          "content_id": "VOD00199886",
           "time_codes": [
-            1447000,
-            2211000,
-            2920000
+            891000,
+            1820000,
+            2418000
           ],
           "timecode_duration": [],
-          "length": 2981000,
-          "asset_id": "vod44861-000218M001",
+          "length": 2995000,
+          "asset_id": "vod44861-000227M001",
           "title": "",
-          "subtitle": "第218集 殺恩人棄屍、躁鬱子殺父",
-          "ep_number": 218,
+          "subtitle": "第227集 虐殺新鮮人、浴缸奇女屍、綁最久人質",
+          "ep_number": 227,
           "rating": 2,
           "content_type": "show",
-          "p_start": 1762248900000,
+          "p_start": 1762278300000,
           "vod_channel_description": "《法眼黑與白》是最早也唯一以科學鑑識為基礎來談刑案的節目，內容以強調鑑識證據、法醫解剖、詳細辦案過程的精神，來呈現深入報導的專業度。以探究刑事案件為主軸，並以專題方式深度報導關於酒駕、毒品、虐童等社會問題。"
         }
       },

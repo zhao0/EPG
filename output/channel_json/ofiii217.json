@@ -1072,24 +1072,24 @@
           }
         ],
         "total_length": 74769000,
-        "focus_index": 3,
-        "next_index": 4,
-        "time": 651731,
+        "focus_index": 28,
+        "next_index": 29,
+        "time": 52128,
         "focus_program": {
-          "content_id": "VOD00345441",
+          "content_id": "VOD00359391",
           "time_codes": [
-            600000
+            976000
           ],
           "timecode_duration": [],
-          "length": 837000,
-          "asset_id": "vod62279-000109M001",
+          "length": 1625000,
+          "asset_id": "vod62279-000134M001",
           "title": "",
-          "subtitle": "試車到一半直接躺平睡著？Kia Sorento Turbo-Hybrid Signature",
-          "ep_number": 109,
+          "subtitle": "終局殺陣！一種MR、三種718：PORSCHE 718 Cayman GT4 RS & Spyder & S 6MT",
+          "ep_number": 134,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762167300000,
-          "vod_channel_description": "近年來，Kia的影響力提升有目共睹，特別是靠著接連的電車產品，持續把品牌高度拉拔，不僅在銷售上開出紅盤，更成為市場關注重點。但，真正的戰場，還是在油車。各款大小油車的改朝換代，才是Kia能否守成、甚至是再創高峰的關鍵，而這首當其衝的「開路君」，便是Sorento。"
+          "p_start": 1762201200000,
+          "vod_channel_description": "在上次的「中局之戰」裡，許多觀眾反應，要講MR小跑車，怎麼可以少了PORSCHE 718？你們的想法跟我們一樣，但也因為718的車型眾多，因此更應該討論的主體是：哪一台718，才是最完美的718？因此，Vincent、Marco、與山路癡漢，特別找來各自心中那最完美的718，要來看看，誰才是最好的那個！"
         }
       },
       "station_categories": [

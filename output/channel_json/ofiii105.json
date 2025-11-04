@@ -763,26 +763,26 @@
           }
         ],
         "total_length": 108640000,
-        "focus_index": 8,
-        "next_index": 9,
-        "time": 47915,
+        "focus_index": 17,
+        "next_index": 18,
+        "time": 1422968,
         "focus_program": {
-          "content_id": "VOD00345290",
+          "content_id": "VOD00345299",
           "time_codes": [
-            661000,
-            1422000,
-            2130000
+            717000,
+            1460000,
+            2119000
           ],
           "timecode_duration": [],
-          "length": 2712000,
-          "asset_id": "vod73818-000009M001",
+          "length": 2808000,
+          "asset_id": "vod73818-000018M001",
           "title": "",
-          "subtitle": "第9集",
-          "ep_number": 9,
+          "subtitle": "第18集",
+          "ep_number": 18,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740081600000,
-          "vod_channel_description": "顏幸準備與筆友小池池見面時，突然接到父親病重的消息，匆忙趕回家卻發現是張相設計召她。張相暗示沈渡才是沈家垮台的關鍵，讓顏幸懷疑沈渡。沈渡夜裡思索父親的冤屈，決心查明真相。次日，顏幸與沈渡發生爭執，沈渡故意激怒她，營造沈家不安寧的假象。"
+          "p_start": 1740108600000,
+          "vod_channel_description": "顏幸夢到雲雀要與沈渡成婚，並在夢中面臨選擇真相與沈渡的抉擇，驚醒後得知沈渡重新審理錦繡坊案。陸垂垂告訴她，沈渡在大殿上發表慷慨陳詞，獲得太皇太后支持。雲雀的父母來訪，透露她與沈渡的婚事，但沈渡震驚表示沒有此意。雲雀父母承認曾因威脅隱瞞錦繡坊的問題。"
         }
       },
       "station_categories": [

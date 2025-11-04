@@ -8890,32 +8890,26 @@
           }
         ],
         "total_length": 378043000,
-        "focus_index": 62,
+        "focus_index": 89,
         "midroll_before_start": false,
         "midroll_before_start_duration": 0,
         "focus_program": {
-          "content_id": "VOD00381235",
-          "time_codes": [
-            600000,
-            1200000
-          ],
-          "timecode_duration": [
-            60000,
-            60000
-          ],
-          "length": 1455000,
-          "asset_id": "vod34441-251104M001",
-          "title": "大家說英語",
-          "subtitle": "Living on the Ground Floor or a Higher Floor?  住一樓好還是住高樓層佳？",
-          "ep_number": 1104,
+          "content_id": "VOD00381206",
+          "time_codes": [],
+          "timecode_duration": [],
+          "length": 146000,
+          "asset_id": "vod34558-230812M001",
+          "title": "Info Cloud",
+          "subtitle": "",
+          "ep_number": 812,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762241400000,
-          "vod_channel_description": "高樓視野好，一樓便利多，哪個才是你的理想選擇呢？",
-          "p_end": 1762242900000
+          "p_start": 1762266360000,
+          "vod_channel_description": "2025/7/1",
+          "p_end": 1762266600000
         },
-        "time": 552857,
-        "next_index": 63
+        "time": 6149,
+        "next_index": 90
       },
       "station_categories": [
         {
@@ -8927,7 +8921,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"
   },
   "__N_SSP": true
 }

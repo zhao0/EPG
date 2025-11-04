@@ -1624,24 +1624,24 @@
           }
         ],
         "total_length": 136013000,
-        "focus_index": 62,
-        "next_index": 63,
-        "time": 492621,
+        "focus_index": 80,
+        "next_index": 81,
+        "time": 744570,
         "focus_program": {
-          "content_id": "VOD00189570",
+          "content_id": "VOD00189588",
           "time_codes": [
-            459000,
-            961000
+            379000,
+            1019000
           ],
           "timecode_duration": [],
           "length": 1461000,
-          "asset_id": "vod43534-010073M001",
+          "asset_id": "vod43534-010091M001",
           "title": "",
-          "subtitle": "第1季第73集 豪邁漁人海之味",
-          "ep_number": 73,
+          "subtitle": "第1季第91集 有夢就能飛",
+          "ep_number": 91,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762261800000,
+          "p_start": 1762294200000,
           "vod_channel_description": "《台灣壹百種味道》以台灣味為主角，透過節目，呈現每一道台灣菜的滋味與廚師的故事。每集主題不只談食材的來源、廚師作法的異同，還有更多藉由一道道美食，看見每一位美食作手，背後所潛藏的人生故事。觀眾跟著節目裡面的故事，了解台灣美食、歷史淵源、多元文化、生活方式以及屬於台灣人的情感。"
         }
       },
@@ -1655,7 +1655,7 @@
     },
     "introduction": null,
     "recommends": null,
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
   },
   "__N_SSP": true
 }

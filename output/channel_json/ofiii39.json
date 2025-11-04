@@ -1640,24 +1640,24 @@
           }
         ],
         "total_length": 93719000,
-        "focus_index": 79,
-        "next_index": 80,
-        "time": 419446,
+        "focus_index": 12,
+        "next_index": 13,
+        "time": 1876,
         "focus_program": {
-          "content_id": "VOD00346823",
+          "content_id": "VOD00357697",
           "time_codes": [
             600000
           ],
           "timecode_duration": [],
-          "length": 724000,
-          "asset_id": "vod74246-000008M001",
-          "title": "眉間雪",
-          "subtitle": "第8集",
-          "ep_number": 8,
+          "length": 1012000,
+          "asset_id": "vod76555-000013M001",
+          "title": "佔有姜西",
+          "subtitle": "第13集",
+          "ep_number": 13,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1762260900000,
-          "vod_channel_description": "林歡歡和林商商是一對雙胞胎，妹妹歡歡自幼被送上深山學習醫術。多年後，姐姐商商與太子相愛，不料皇后故意將商商賜婚給皇子上官離，林商商為此自縊身亡。林歡歡被迫代替姐姐出嫁，開啟一場冤家路窄的同居生活！"
+          "p_start": 1762177500000,
+          "vod_channel_description": "因一場大火而失去雙親的閔姜西，投靠坤城之首的秦家，立志成為第一女先生。卻被秦家現任掌權人秦佔當成別有用心的“倒貼女”。閔姜西憑藉自身才華，幫助秦家化解商業危機，令秦佔刮目相看，並決定聘請她為秦家教書先生，此舉引起馮靜芸的不滿，進而利用秦家死對頭江東設計陷害閔姜西..."
         }
       },
       "station_categories": [

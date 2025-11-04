@@ -1843,25 +1843,25 @@
           }
         ],
         "total_length": 408355000,
-        "focus_index": 84,
-        "next_index": 85,
-        "time": 182816,
+        "focus_index": 90,
+        "next_index": 91,
+        "time": 2340716,
         "focus_program": {
-          "content_id": "VOD00048343",
+          "content_id": "VOD00048349",
           "time_codes": [
             900000,
             1800000,
             2700000
           ],
           "timecode_duration": [],
-          "length": 4057000,
-          "asset_id": "vod11385-000085M001",
+          "length": 4084000,
+          "asset_id": "vod11385-000091M001",
           "title": "",
-          "subtitle": "第85集",
-          "ep_number": 85,
+          "subtitle": "第91集",
+          "ep_number": 91,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1740208800000,
+          "p_start": 1740234000000,
           "vod_channel_description": "社會寫實單元劇，劇情效法《X檔案》，以現代辦案的角度來切入鬼神之說，用以警惕世人。篤信科學辦案精神的刑警尚智（謝祖武）有心理學博士學位，他與先天具有陰陽眼的搭檔王玉芳（趙英華），共同調查各種無法用科學解釋的案件，為死者伸冤…劇中常出現名言：「正義往往會遲到，可是它遲早會到。」"
         }
       },
@@ -1879,7 +1879,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
   },
   "__N_SSP": true
 }

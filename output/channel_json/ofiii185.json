@@ -683,24 +683,24 @@
           }
         ],
         "total_length": 58190000,
-        "focus_index": 39,
-        "next_index": 0,
-        "time": 933756,
+        "focus_index": 17,
+        "next_index": 18,
+        "time": 585513,
         "focus_program": {
-          "content_id": "VOD00357659",
+          "content_id": "VOD00357637",
           "time_codes": [
-            630000
+            721000
           ],
           "timecode_duration": [],
-          "length": 1425000,
-          "asset_id": "vod76547-010040M001",
+          "length": 1455000,
+          "asset_id": "vod76547-010018M001",
           "title": "",
-          "subtitle": "第1季第40集 再見了 親愛的奧斯卡",
-          "ep_number": 40,
+          "subtitle": "第1季第18集 猶如伊卡洛斯突從天降",
+          "ep_number": 18,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762196400000,
-          "vod_channel_description": "奧斯卡倒在敵人的子彈下，在意識漸漸模糊之中，她輕輕地說出了「再見」。一小時後，巴士底監獄升起了白旗。隨後，民眾開始處決貴族，並廢除了王政。路易十六與安東妮德也走向了斷頭台。"
+          "p_start": 1762156800000,
+          "vod_channel_description": "當奧斯卡等人被賊人襲擊時，救了他們的是時隔四年，重新回到法國的菲爾遜。在舞會上，安東妮德與菲爾遜重逢，無法抑制心中的激動。然而，菲爾遜卻口出驚人之語，他透露自己正在準備結婚。"
         }
       },
       "station_categories": [

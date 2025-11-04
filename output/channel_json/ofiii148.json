@@ -723,24 +723,24 @@
           }
         ],
         "total_length": 77954000,
-        "focus_index": 7,
-        "next_index": 8,
-        "time": 472600,
+        "focus_index": 20,
+        "next_index": 21,
+        "time": 1209099,
         "focus_program": {
-          "content_id": "VOD00208961",
+          "content_id": "VOD00212071",
           "time_codes": [
-            729000,
-            1434000
+            680000,
+            1403000
           ],
           "timecode_duration": [],
-          "length": 2163000,
-          "asset_id": "vod45785-000008M001",
+          "length": 1805000,
+          "asset_id": "vod45785-000021M001",
           "title": "",
-          "subtitle": "第8集",
-          "ep_number": 8,
+          "subtitle": "第21集",
+          "ep_number": 21,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1759125000000,
+          "p_start": 1759152600000,
           "vod_channel_description": "講述政權橫跨中國東北和朝鮮北部的高句麗王朝利用武將溫達感情的平岡公主，與像傻瓜般只懂犧牲的溫達之間的淒美愛情故事。"
         }
       },

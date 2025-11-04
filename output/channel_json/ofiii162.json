@@ -251,24 +251,24 @@
           }
         ],
         "total_length": 18719000,
-        "focus_index": 1,
-        "next_index": 2,
-        "time": 1265870,
+        "focus_index": 6,
+        "next_index": 7,
+        "time": 1182892,
         "focus_program": {
-          "content_id": "VOD00287203",
+          "content_id": "VOD00287208",
           "time_codes": [
-            641000
+            771000
           ],
           "timecode_duration": [],
           "length": 1440000,
-          "asset_id": "vod62481-010002M001",
+          "asset_id": "vod62481-010007M001",
           "title": "",
-          "subtitle": "第1季第2集 王星學園",
-          "ep_number": 2,
+          "subtitle": "第1季第7集 森林中的邂逅",
+          "ep_number": 7,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762184700000,
-          "vod_channel_description": "優夜藉由在異世界提升等級，脫胎換骨成為了有著驚人體能的人。然後他與之前在街上解圍的少女──寶城佳織再次相遇，並受到她邀請前往超級名校──王星學園。優夜懷疑著自己有沒有資格就讀這間盡是菁英與天才的學校，結果事情發展成了一日校園體驗……"
+          "p_start": 1762192200000,
+          "vod_channel_description": "優夜在【大魔境】遇到了與魔物戰鬥的少女，他與那位名叫路娜的少女日復一日流著汗修行。路娜對於優夜帶著的稀有道具「攜帶式露天溫泉組」相當激動，還大喊：「這世上原來有這麼舒服的東西嗎！」另一方面，王星學園的校外教學，在現實世界的深山露營場裡正式開始了。"
         }
       },
       "station_categories": [

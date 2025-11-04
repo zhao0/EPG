@@ -1777,26 +1777,26 @@
           }
         ],
         "total_length": 270005000,
-        "focus_index": 95,
-        "next_index": 0,
-        "time": 361063,
+        "focus_index": 8,
+        "next_index": 9,
+        "time": 1469843,
         "focus_program": {
-          "content_id": "VOD00301670",
+          "content_id": "VOD00285641",
           "time_codes": [
-            1142000,
-            1607000,
-            2257000
+            1205000,
+            1912000,
+            2471000
           ],
           "timecode_duration": [],
-          "length": 2815000,
-          "asset_id": "vod39652-000931M001",
+          "length": 2810000,
+          "asset_id": "vod39652-000844M001",
           "title": "",
-          "subtitle": "第931集 中秋節歡樂趴",
-          "ep_number": 931,
+          "subtitle": "第844集 愛吃鬼美食知識大比拚",
+          "ep_number": 844,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762258800000,
-          "vod_channel_description": "財富大樓舉辦中秋節扮裝PARTY啦！住戶們各個大施手腳，有人直接把烤肉架背身上，沒想到竟影響搶答？！今天還有超爆笑的【家中用不到又捨不得丟掉】的抽禮物環節，【原本要送前女友的禮物】、【送不出的女兒彌月禮】……中秋寂寞沒人陪？就由《全民星攻略》陪你從頭笑到尾！"
+          "p_start": 1761997200000,
+          "vod_channel_description": "《全民星攻略》您今天吃飽了嗎？有感到滿足嗎？今天三組愛吃鬼聚首一堂展開一場三星級的食物對決！草莓大福原名大腹餅，竟然是跟這個動物的腹部有關係？根據營養師指出，什麼食物對男性有催情效果？而美國實驗發現，連續吃一個月狗糧會對身體產生什麼影響呢？營養師指出原來在這個時間點喝水對減肥最有效!"
         }
       },
       "station_categories": [
@@ -1818,7 +1818,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
   },
   "__N_SSP": true
 }

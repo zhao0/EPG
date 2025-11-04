@@ -1867,27 +1867,27 @@
           }
         ],
         "total_length": 259211000,
-        "focus_index": 25,
-        "next_index": 26,
-        "time": 632305,
+        "focus_index": 35,
+        "next_index": 36,
+        "time": 478967,
         "focus_program": {
-          "content_id": "VOD00310978",
+          "content_id": "VOD00324172",
           "time_codes": [
-            655000,
-            1122000,
-            1556000,
-            2347000
+            1047000,
+            1755000,
+            2191000,
+            2500000
           ],
           "timecode_duration": [],
-          "length": 2698000,
-          "asset_id": "vod43670-000235M001",
+          "length": 2699000,
+          "asset_id": "vod43670-000245M001",
           "title": "",
-          "subtitle": "第235集 在嘉圓夢 新住民新事業",
-          "ep_number": 235,
+          "subtitle": "第245集 全世界都在瘋發酵",
+          "ep_number": 245,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762248000000,
-          "vod_channel_description": "台灣新住民經營事業有一套，印尼媽媽、台灣爸爸，阿嬤帶大的青農家豪，16歲決定接起阿公的蓮田、翻轉蓮藕產業！田野間一群著越南國服的婦女婆娑起舞，自主組團農忙後練舞的越南姐妹會！老詹種番茄太專心，手機竟掉進泥巴漿！生米煮白粥快速有撇步？越南姐妹報你知。"
+          "p_start": 1762278000000,
+          "vod_channel_description": "年菜準備好了沒？臘肉、臘腸有哪些？缺了可就少了年味。老詹、韋汝出發囉，從發酵認識這餐桌上用光陰釀造的美味！什麼肉需要蛋白質發酵？什麼肉需要低溫燻烤3天3夜？店家老闆兄妹私房料理擺上桌，韋汝吃不過癮再加點！發酵迷致敬微生物？國際發酵大師-Sandor E. Katz(山鐸．卡茲)驚喜現身？"
         }
       },
       "station_categories": [
@@ -1904,7 +1904,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (compatible; proximic; +https://www.comscore.com/Web-Crawler)"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
   },
   "__N_SSP": true
 }

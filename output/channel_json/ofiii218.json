@@ -1571,21 +1571,23 @@
           }
         ],
         "total_length": 69228000,
-        "focus_index": 94,
-        "next_index": 95,
-        "time": 181080,
+        "focus_index": 34,
+        "next_index": 35,
+        "time": 201211,
         "focus_program": {
-          "content_id": "VOD00382239",
-          "time_codes": [],
+          "content_id": "VOD00340664",
+          "time_codes": [
+            600000
+          ],
           "timecode_duration": [],
-          "length": 559000,
-          "asset_id": "vod70202-000113M001",
+          "length": 831000,
+          "asset_id": "vod70202-000053M001",
           "title": "",
-          "subtitle": "台灣福特│停產潮 & 政府貨物稅補助...台灣福特還撐得下去嗎!? 現況市場分享...究竟新車Territory何時能亮相??",
-          "ep_number": 113,
+          "subtitle": "車友改什麼61│FOCUS MK4.5 正ST車友追求「動力」!!刷二階輪上3XX匹馬力...增加撞風面積小眉角分享...",
+          "ep_number": 53,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762195200000,
+          "p_start": 1762137600000,
           "vod_channel_description": "你是否曾想過D.I.Y自己的愛車卻尋求不到協助？你是否考慮特定車款卻不知風評如何？你是否想跟廣大的車友們交流、交心、交朋友？分享「說車、玩車、聊車」的大小事！不管你懂車、不懂車、甚至是想買車的朋友，我們會把最新的車市資訊，以及養車的小知識分享給大家！"
         }
       },

@@ -340,29 +340,29 @@
           }
         ],
         "total_length": 85552000,
-        "focus_index": 1,
-        "next_index": 2,
-        "time": 2303650,
+        "focus_index": 5,
+        "next_index": 6,
+        "time": 2302435,
         "focus_program": {
-          "content_id": "VOD00353893",
+          "content_id": "VOD00157077",
           "time_codes": [
-            896000,
-            1835000,
-            2691000,
-            3589000,
-            4557000,
-            5462000
+            887000,
+            1784000,
+            2715000,
+            3646000,
+            4487000,
+            5413000
           ],
           "timecode_duration": [],
-          "length": 6007000,
-          "asset_id": "vod75708-000000M001",
-          "title": "電影哆啦A夢：大雄與迷宮之旅(國)",
-          "subtitle": "Doraemon the Movie: Nobita and the Tin Labyrinth",
+          "length": 6219000,
+          "asset_id": "vod39789-000000M001",
+          "title": "電影哆啦A夢：大雄的祕密道具博物館(國)",
+          "subtitle": "Doraemon the Movie: Nobita in the Secret Gadgets Museum",
           "ep_number": 0,
           "rating": 1,
           "content_type": "movie",
-          "p_start": 1762154400000,
-          "vod_channel_description": "又到了春假，大雄約定與爸爸去白金飯店遊玩。大雄本來非常高興，但是做出預約的爸爸卻不知道飯店實際位置，只好作罷。次日，一個神秘手提箱送到了大雄家裡，大雄通過這個手提箱竟真來到了白金飯店。本來大雄與哆啦A夢在島上愉快的玩耍，但哆啦A夢卻突然失蹤了，原來哆啦A夢被神秘火箭載走了…"
+          "p_start": 1762179600000,
+          "vod_channel_description": "正在午睡的哆啦A夢，被謎之男「怪盜DX」盜取了身上的鈴鐺。經調查後，查到了在未來「祕密道具博物館」的線索。為了尋回鈴鐺，大雄一行人向未來出發！在博物館導覽員的帶領下，大雄等人又遇到祕密道具博物館被「怪盜DX」盜取道具的事件！哆啦A夢能否尋回鈴鐺？「怪盜DX」的真正身份又是誰？"
         }
       },
       "station_categories": [
@@ -404,7 +404,7 @@
         }
       }
     ],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"
   },
   "__N_SSP": true
 }

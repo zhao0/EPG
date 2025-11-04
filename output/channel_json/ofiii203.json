@@ -42,60 +42,6 @@
         "start_time": 1762177500000,
         "programs": [
           {
-            "content_id": "VOD00376525",
-            "time_codes": [
-              1380000,
-              2120000,
-              2653000
-            ],
-            "timecode_duration": [],
-            "length": 3076000,
-            "asset_id": "vod64680-000344M001",
-            "title": "",
-            "subtitle": "中國政府經過三年的努力 是否逃過了日本式通縮？",
-            "ep_number": 344,
-            "rating": 1,
-            "content_type": "show",
-            "p_start": 1762177500000,
-            "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
-          },
-          {
-            "content_id": "VOD00376526",
-            "time_codes": [
-              1436000,
-              2036000,
-              2734000
-            ],
-            "timecode_duration": [],
-            "length": 2899000,
-            "asset_id": "vod64680-000345M001",
-            "title": "",
-            "subtitle": "美軍將領集合 川普開講語出驚人 要求軍隊｀槍口對內｀的戰略轉向",
-            "ep_number": 345,
-            "rating": 1,
-            "content_type": "show",
-            "p_start": 1762180800000,
-            "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
-          },
-          {
-            "content_id": "VOD00376527",
-            "time_codes": [
-              1492000,
-              2149000,
-              2826000
-            ],
-            "timecode_duration": [],
-            "length": 2894000,
-            "asset_id": "vod64680-000346M001",
-            "title": "",
-            "subtitle": "川普的加薩和平計畫 解決短期政治目標 而非長期衝突（歐洲版）",
-            "ep_number": 346,
-            "rating": 1,
-            "content_type": "show",
-            "p_start": 1762183800000,
-            "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
-          },
-          {
             "content_id": "VOD00376528",
             "time_codes": [
               1528000,
@@ -110,7 +56,7 @@
             "ep_number": 347,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762186800000,
+            "p_start": 1762177500000,
             "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
           },
           {
@@ -128,7 +74,7 @@
             "ep_number": 348,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762189800000,
+            "p_start": 1762180500000,
             "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
           },
           {
@@ -146,7 +92,7 @@
             "ep_number": 349,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762192800000,
+            "p_start": 1762183500000,
             "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
           },
           {
@@ -164,7 +110,7 @@
             "ep_number": 350,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762195800000,
+            "p_start": 1762186500000,
             "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
           },
           {
@@ -182,7 +128,7 @@
             "ep_number": 351,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762198800000,
+            "p_start": 1762189500000,
             "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
           },
           {
@@ -200,7 +146,7 @@
             "ep_number": 352,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762201800000,
+            "p_start": 1762192500000,
             "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
           },
           {
@@ -218,30 +164,84 @@
             "ep_number": 353,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762204800000,
+            "p_start": 1762195500000,
+            "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
+          },
+          {
+            "content_id": "VOD00380008",
+            "time_codes": [
+              1477000,
+              2144000,
+              2648000
+            ],
+            "timecode_duration": [],
+            "length": 2898000,
+            "asset_id": "vod64680-000354M001",
+            "title": "",
+            "subtitle": "中共四中全會前 習清洗軍方 9上將全落馬 習政治目的為何？",
+            "ep_number": 354,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762198500000,
+            "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
+          },
+          {
+            "content_id": "VOD00380009",
+            "time_codes": [
+              1224000,
+              1657000,
+              2569000
+            ],
+            "timecode_duration": [],
+            "length": 2893000,
+            "asset_id": "vod64680-000355M001",
+            "title": "",
+            "subtitle": "習近平的中國夢 包括成為經濟科技強國 還有統一台灣（台海特報）",
+            "ep_number": 355,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762201500000,
+            "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
+          },
+          {
+            "content_id": "VOD00380010",
+            "time_codes": [
+              1132000,
+              1659000,
+              2201000
+            ],
+            "timecode_duration": [],
+            "length": 2897000,
+            "asset_id": "vod64680-000356M001",
+            "title": "",
+            "subtitle": "當金價飛越4000美元 看投資市場對世界秩序的焦慮組成",
+            "ep_number": 356,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762204500000,
             "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
           }
         ],
-        "total_length": 29143000,
-        "focus_index": 2,
-        "next_index": 3,
-        "time": 339641,
+        "total_length": 28962000,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 2479737,
         "focus_program": {
-          "content_id": "VOD00376527",
+          "content_id": "VOD00376528",
           "time_codes": [
-            1492000,
-            2149000,
-            2826000
+            1528000,
+            2244000,
+            2618000
           ],
           "timecode_duration": [],
-          "length": 2894000,
-          "asset_id": "vod64680-000346M001",
+          "length": 2898000,
+          "asset_id": "vod64680-000347M001",
           "title": "",
-          "subtitle": "川普的加薩和平計畫 解決短期政治目標 而非長期衝突（歐洲版）",
-          "ep_number": 346,
+          "subtitle": "中國導彈威懾美軍協防台灣 習近平向川普攤牌要求｀反台獨｀",
+          "ep_number": 347,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762183800000,
+          "p_start": 1762177500000,
           "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
         }
       },
@@ -259,7 +259,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

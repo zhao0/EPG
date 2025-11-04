@@ -1771,26 +1771,26 @@
           }
         ],
         "total_length": 284645000,
-        "focus_index": 18,
-        "next_index": 19,
-        "time": 994976,
+        "focus_index": 27,
+        "next_index": 28,
+        "time": 398054,
         "focus_program": {
-          "content_id": "VOD00323142",
+          "content_id": "VOD00323151",
           "time_codes": [
-            996000,
-            1774000,
-            2611000
+            948000,
+            1838000,
+            2421000
           ],
           "timecode_duration": [],
-          "length": 2968000,
-          "asset_id": "vod11071-001496M001",
+          "length": 2969000,
+          "asset_id": "vod11071-001505M001",
           "title": "",
-          "subtitle": "第1496集 金曲歌后A-Lin",
-          "ep_number": 1496,
+          "subtitle": "第1505集 李嘉誠長子遭「香港三大賊王」綁票！他「炸彈綁全身」衝豪宅要82億贖金會得逞嗎？",
+          "ep_number": 1505,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1761962100000,
-          "vod_channel_description": "由東森主播洪培翔主持，以客觀的角度帶領觀眾深入探討事件的發展，探討新聞事件背後的艱辛內幕，取材涵蓋層面廣泛，包括人物故事、歷史檔案、社會觀察，以及時事啟發。"
+          "p_start": 1761991800000,
+          "vod_channel_description": "在台灣治安史上，曾經出現過十大槍擊要犯的排行榜。在當年那個黑槍氾濫的年代，這些榜上有名的槍擊要犯各個火力強大，甚至彼此之間合作串聯。其中最讓警方頭疼的是這三個人，他們分別是當年名列十大槍擊要犯前三名的綽號鬼見愁的林來福、黑牛黃鴻寓，以及小馬哥楊瑞和。"
         }
       },
       "station_categories": [
@@ -1807,7 +1807,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
   },
   "__N_SSP": true
 }

@@ -1294,27 +1294,27 @@
           }
         ],
         "total_length": 243718000,
-        "focus_index": 52,
-        "next_index": 53,
-        "time": 1663463,
+        "focus_index": 58,
+        "next_index": 59,
+        "time": 3212369,
         "focus_program": {
-          "content_id": "VOD00370746",
+          "content_id": "VOD00376876",
           "time_codes": [
-            897000,
-            1578000,
-            1937000,
-            2687000,
-            3467000
+            930000,
+            1601000,
+            2174000,
+            2674000,
+            3099000
           ],
           "timecode_duration": [],
-          "length": 3940000,
-          "asset_id": "vod72135-000106M001",
+          "length": 3758000,
+          "asset_id": "vod72135-000112M001",
           "title": "",
-          "subtitle": "第106集 黃國昌代表藍白出線戰新北？苗博雅斷言：他會變成國民黨喜歡的樣子！？核三延役公投 翁曉玲直球對決核廢料問題！黃暐瀚曝光賴清德內閣不改組的理由！",
-          "ep_number": 106,
+          "subtitle": "第112集 黃國昌養狗仔疑雲 影響藍白合？黃暐瀚：牌在柯文哲手上！柳采葳挺郝龍斌穩了?剝雞：鄭麗文支持度高到讓人害怕！綠白合作？林亮君：黃國昌跟綠樑子大了！",
+          "ep_number": 112,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762251000000,
+          "p_start": 1762275000000,
           "vod_channel_description": "鎖定「模仿天王」郭子乾，還有高顏值學霸大學生辛辣提問唷！全新優質節目都在NOWnews《鄉民大學問》！"
         }
       },
@@ -1337,7 +1337,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "CriteoBot/0.1 (+https://www.criteo.com/criteo-crawler/)"
   },
   "__N_SSP": true
 }

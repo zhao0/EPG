@@ -427,24 +427,24 @@
           }
         ],
         "total_length": 34422000,
-        "focus_index": 4,
-        "next_index": 5,
-        "time": 195477,
+        "focus_index": 22,
+        "next_index": 23,
+        "time": 198389,
         "focus_program": {
-          "content_id": "VOD00343667",
+          "content_id": "VOD00343685",
           "time_codes": [
-            696000
+            653000
           ],
           "timecode_duration": [],
-          "length": 1437000,
-          "asset_id": "vod73503-010005M001",
+          "length": 1431000,
+          "asset_id": "vod73503-020023M001",
           "title": "",
-          "subtitle": "第1季第5集 蛋蛋在哪裡",
-          "ep_number": 5,
+          "subtitle": "第2季第23集 是怪獸",
+          "ep_number": 23,
           "rating": 3,
           "content_type": "comic",
-          "p_start": 1762173300000,
-          "vod_channel_description": "小桃和厄卡倫打贏高速婆婆，取回了和平的生活。一同經歷這番壯烈的體驗，更縮短了兩人間的距離，然而兩人相處起來卻莫名的尷尬。就在這時候，厄卡倫向小桃說了一件非常重要的事。明明已經打倒了高速婆婆，厄卡倫的「那個」卻不知為何沒有回來…"
+          "p_start": 1762202400000,
+          "vod_channel_description": "在金太的出色表現下，小桃和厄卡倫打倒了握有金球的「看不見的敵人」。解除光學迷彩後，出現的竟是外星怪獸。巨大化的外星怪獸襲向三人。整個城鎮被漆黑空間給吞沒，而且不僅他們三人，連愛羅和寺仁也被困入其中。"
         }
       },
       "station_categories": [

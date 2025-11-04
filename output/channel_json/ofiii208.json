@@ -42,96 +42,6 @@
         "start_time": 1762155300000,
         "programs": [
           {
-            "content_id": "VOD00377540",
-            "time_codes": [
-              1923000,
-              2430000,
-              2693000
-            ],
-            "timecode_duration": [],
-            "length": 2886000,
-            "asset_id": "vod38695-000756M001",
-            "title": "",
-            "subtitle": "王世堅酸憨川禁抖音政界玻璃心！輝達最愛還是T17.18！川伯要解約新新併！國軍5萬買椅.瓶裝水1瓶120元！",
-            "ep_number": 756,
-            "rating": 1,
-            "content_type": "show",
-            "p_start": 1762155300000,
-            "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
-          },
-          {
-            "content_id": "VOD00377541",
-            "time_codes": [
-              2017000,
-              2524000,
-              2736000
-            ],
-            "timecode_duration": [],
-            "length": 2891000,
-            "asset_id": "vod38695-000757M001",
-            "title": "",
-            "subtitle": "韓國瑜國慶眉頭一皺！賴清德提台灣51次、中華民國2次！王世堅逆滲透｀沒出息｀攻陸！馬挺郝.朱抱鄭？",
-            "ep_number": 757,
-            "rating": 1,
-            "content_type": "show",
-            "p_start": 1762158300000,
-            "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
-          },
-          {
-            "content_id": "VOD00377542",
-            "time_codes": [
-              1933000,
-              2437000,
-              2715000
-            ],
-            "timecode_duration": [],
-            "length": 2915000,
-            "asset_id": "vod38695-000758M001",
-            "title": "",
-            "subtitle": "長榮空服員抱病身亡內幕！藥水洗烏山頭光電板？高雄快樂瑩！藍黨魁AI片開戰！迪士尼招台實習生時薪550！",
-            "ep_number": 758,
-            "rating": 1,
-            "content_type": "show",
-            "p_start": 1762161300000,
-            "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
-          },
-          {
-            "content_id": "VOD00377543",
-            "time_codes": [
-              1920000,
-              2441000,
-              2731000
-            ],
-            "timecode_duration": [],
-            "length": 2892000,
-            "asset_id": "vod38695-000759M001",
-            "title": "",
-            "subtitle": "賴清德救獅姐演很大？週刊咬黃國昌養駭客！韓智庫批我軍草莓兵！陸拿電網級鋰電池鎖喉美！",
-            "ep_number": 759,
-            "rating": 1,
-            "content_type": "show",
-            "p_start": 1762164300000,
-            "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
-          },
-          {
-            "content_id": "VOD00377544",
-            "time_codes": [
-              1940000,
-              2416000,
-              2710000
-            ],
-            "timecode_duration": [],
-            "length": 2892000,
-            "asset_id": "vod38695-000760M001",
-            "title": "",
-            "subtitle": "嗆蔣萬安不強！賴清德點名光電板要陳亭妃解釋！ 陳其邁高雄爛事靠BP掩蓋！川普登嗆時代封面照史上最糟！",
-            "ep_number": 760,
-            "rating": 1,
-            "content_type": "show",
-            "p_start": 1762167300000,
-            "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
-          },
-          {
             "content_id": "VOD00379896",
             "time_codes": [
               1927000,
@@ -146,7 +56,7 @@
             "ep_number": 761,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762170300000,
+            "p_start": 1762155300000,
             "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
           },
           {
@@ -166,7 +76,7 @@
             "ep_number": 762,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762173300000,
+            "p_start": 1762158300000,
             "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
           },
           {
@@ -184,7 +94,7 @@
             "ep_number": 763,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762177800000,
+            "p_start": 1762162800000,
             "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
           },
           {
@@ -202,7 +112,7 @@
             "ep_number": 764,
             "rating": 1,
             "content_type": "show",
-            "p_start": 1762180800000,
+            "p_start": 1762165800000,
             "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
           },
           {
@@ -220,30 +130,120 @@
             "ep_number": 765,
             "rating": 1,
             "content_type": "show",
+            "p_start": 1762168800000,
+            "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
+          },
+          {
+            "content_id": "VOD00379901",
+            "time_codes": [
+              1967000,
+              2413000,
+              2696000
+            ],
+            "timecode_duration": [],
+            "length": 2887000,
+            "asset_id": "vod38695-000766M001",
+            "title": "",
+            "subtitle": "豬隻禁宰運若改15天小民完蛋？｀王大陸耍笨｀免疫BMI35變45！北士科大戰北市府贏了！新台幣紙鈔改版偷去蔣？",
+            "ep_number": 766,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762171800000,
+            "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
+          },
+          {
+            "content_id": "VOD00379902",
+            "time_codes": [
+              1947000,
+              2363000,
+              2690000
+            ],
+            "timecode_duration": [],
+            "length": 2890000,
+            "asset_id": "vod38695-000767M001",
+            "title": "",
+            "subtitle": "普發登記最快11/12入帳！非洲豬瘟綠打盧秀燕！柯志恩看板光復節上架！光電浸泡水安心喝？",
+            "ep_number": 767,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762174800000,
+            "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
+          },
+          {
+            "content_id": "VOD00379903",
+            "time_codes": [
+              1970000,
+              2509000,
+              2814000
+            ],
+            "timecode_duration": [],
+            "length": 2892000,
+            "asset_id": "vod38695-000768M001",
+            "title": "",
+            "subtitle": "豬肉禁運宰延10天！台中豬瘟藥商變獸醫！國民黨太窮讓連勝文售12年愛車！綠2026恐剩屏東！",
+            "ep_number": 768,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762177800000,
+            "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
+          },
+          {
+            "content_id": "VOD00379904",
+            "time_codes": [
+              1940000,
+              2414000,
+              2733000
+            ],
+            "timecode_duration": [],
+            "length": 2892000,
+            "asset_id": "vod38695-000769M001",
+            "title": "",
+            "subtitle": "詭！賴清德拜廟揭匾又被紅布蓋！邱議瑩掌摑判拘役10天！黃國昌被嗆狗仔頭！KK園區千人大逃亡！",
+            "ep_number": 769,
+            "rating": 1,
+            "content_type": "show",
+            "p_start": 1762180800000,
+            "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
+          },
+          {
+            "content_id": "VOD00379905",
+            "time_codes": [
+              1999000,
+              2500000,
+              2742000
+            ],
+            "timecode_duration": [],
+            "length": 2892000,
+            "asset_id": "vod38695-000770M001",
+            "title": "",
+            "subtitle": "豬瘟政院追究淘寶.拚多多！蔣守住輝達確定落腳T17.T18！鄭文燦愛將涉貪8萬交保！美濃峽谷石麗君丈夫喝農藥拒捕！",
+            "ep_number": 770,
+            "rating": 1,
+            "content_type": "show",
             "p_start": 1762183800000,
             "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
           }
         ],
-        "total_length": 30377000,
-        "focus_index": 8,
-        "next_index": 9,
-        "time": 1460329,
+        "total_length": 30354000,
+        "focus_index": 6,
+        "next_index": 7,
+        "time": 2787106,
         "focus_program": {
-          "content_id": "VOD00379899",
+          "content_id": "VOD00379902",
           "time_codes": [
-            1962000,
-            2362000,
-            2706000
+            1947000,
+            2363000,
+            2690000
           ],
           "timecode_duration": [],
-          "length": 2892000,
-          "asset_id": "vod38695-000764M001",
+          "length": 2890000,
+          "asset_id": "vod38695-000767M001",
           "title": "",
-          "subtitle": "15藝人閃兵團再壯大！台積電德公移山？北市民咕嚕咕嚕轟蔣不聽！賴清德剩雲嘉南挺！",
-          "ep_number": 764,
+          "subtitle": "普發登記最快11/12入帳！非洲豬瘟綠打盧秀燕！柯志恩看板光復節上架！光電浸泡水安心喝？",
+          "ep_number": 767,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762180800000,
+          "p_start": 1762174800000,
           "vod_channel_description": "《國民大會》針對熱點時事話題，以全新的視野、不同的角度，更犀利、更不設限、更深入問題核心，挖掘背後的故事，開啟觀眾新識力。"
         }
       },

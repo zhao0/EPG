@@ -619,25 +619,25 @@
           }
         ],
         "total_length": 86414000,
-        "focus_index": 16,
-        "next_index": 17,
-        "time": 2162392,
+        "focus_index": 26,
+        "next_index": 27,
+        "time": 691825,
         "focus_program": {
-          "content_id": "VOD00253641",
+          "content_id": "VOD00253651",
           "time_codes": [
-            718000,
-            1456000,
-            2180000
+            767000,
+            1385000,
+            2167000
           ],
           "timecode_duration": [],
-          "length": 2753000,
-          "asset_id": "vod55483-000017M001",
+          "length": 2776000,
+          "asset_id": "vod55483-000027M001",
           "title": "",
-          "subtitle": "第17集",
-          "ep_number": 17,
+          "subtitle": "第27集",
+          "ep_number": 27,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1761638700000,
+          "p_start": 1761668700000,
           "vod_channel_description": "成為「投資總監」是寧檬（譚松韻）的夢想。但她的上司陸既明（林更新）卻不認為寧檬會成功。於是寧檬下定決心離開陸既明，重新求職。經過種種阻礙，機緣下最終進入了鷹石投資，開始了她的晉升之路。其實陸既明一直關注着寧檬，在重要關頭還是會幫助她度過難關。"
         }
       },

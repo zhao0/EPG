@@ -599,26 +599,26 @@
           }
         ],
         "total_length": 84978000,
-        "focus_index": 24,
-        "next_index": 25,
-        "time": 1409592,
+        "focus_index": 3,
+        "next_index": 4,
+        "time": 1043351,
         "focus_program": {
-          "content_id": "VOD00364734",
+          "content_id": "VOD00364713",
           "time_codes": [
-            676000,
-            1451000,
-            2185000
+            769000,
+            1618000,
+            2133000
           ],
           "timecode_duration": [],
-          "length": 2793000,
-          "asset_id": "vod78092-000025M001",
+          "length": 2817000,
+          "asset_id": "vod78092-000004M001",
           "title": "",
-          "subtitle": "第25集",
-          "ep_number": 25,
+          "subtitle": "第4集",
+          "ep_number": 4,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1751368200000,
-          "vod_channel_description": "唱賣會暗藏走私，明檀揭穿聞宗計謀。江緒遭設局，被誣殺官失德。宿爾榮欲借此定罪，不料清羽翻供，秋月現身作證宿家陰謀。明檀身份曝光，直指宿家罪行。明楚涉案被馮小將軍責斥，心懷怨恨。譚大人封鎖現場，宿家陰謀逐步瓦解。"
+          "p_start": 1751305200000,
+          "vod_channel_description": "明亭遠與白敬遠上門退婚，江緒暗中設局讓珠兒現身，逼梁家讓步。皇上欲為明檀賜婚，江緒竟自薦迎娶，令眾人震驚。為避婚局，明檀出走寒煙寺，卻巧遇江緒與皇上。表哥沈玉突現求親被拒，江緒大怒將他貶至馬廄。太后與宿文淳也密謀賜婚，白敏敏勸明檀擇婿，卻在酒樓撞見江緒與章懷玉同席。"
         }
       },
       "station_categories": [

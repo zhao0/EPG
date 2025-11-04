@@ -1290,28 +1290,28 @@
           }
         ],
         "total_length": 289506000,
-        "focus_index": 13,
-        "next_index": 14,
-        "time": 5388142,
+        "focus_index": 17,
+        "next_index": 18,
+        "time": 4500054,
         "focus_program": {
-          "content_id": "VOD00222993",
+          "content_id": "VOD00222997",
           "time_codes": [
-            975000,
-            1519000,
-            2223000,
-            3156000,
-            4345000,
-            5207000
+            1087000,
+            1593000,
+            2020000,
+            2997000,
+            3800000,
+            4861000
           ],
           "timecode_duration": [],
-          "length": 5787000,
-          "asset_id": "vod48560-000069M001",
+          "length": 5751000,
+          "asset_id": "vod48560-000073M001",
           "title": "",
-          "subtitle": "第69集 香港撞鬼團",
-          "ep_number": 69,
+          "subtitle": "第73集 奪命將軍府",
+          "ep_number": 73,
           "rating": 3,
           "content_type": "show",
-          "p_start": 1762239600000,
+          "p_start": 1762265700000,
           "vod_channel_description": "《鬼話連篇》是臺灣靈異節目之一，其節目靈感來自《聊齋志異》，而節目名稱取自清代諷刺小說《何典》。最早是臺灣電視公司綜藝節目《玫瑰之夜》的個別單元，具有非常高的收視率，也是現在靈異節目的始祖，標語是「鬼魂飄搖在人間，話通陰陽兩界邊，連接三度空間情，篇篇彩霓化成仙」。"
         }
       },
@@ -1329,7 +1329,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"
   },
   "__N_SSP": true
 }

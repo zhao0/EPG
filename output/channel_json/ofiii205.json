@@ -224,25 +224,25 @@
           }
         ],
         "total_length": 29649000,
-        "focus_index": 9,
-        "next_index": 0,
-        "time": 1348987,
+        "focus_index": 7,
+        "next_index": 8,
+        "time": 2249888,
         "focus_program": {
-          "content_id": "VOD00372089",
+          "content_id": "VOD00372087",
           "time_codes": [
-            1206000,
-            1832000,
-            2379000
+            1360000,
+            2058000,
+            2665000
           ],
           "timecode_duration": [],
           "length": 2893000,
-          "asset_id": "vod64682-000119M001",
+          "asset_id": "vod64682-000117M001",
           "title": "",
-          "subtitle": "AI潮已如錢塘大潮 年輕人.白領階級首當其衝",
-          "ep_number": 119,
+          "subtitle": "為什麼川普不怕政府關門？ 趁此機會大裁員",
+          "ep_number": 117,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762182900000,
+          "p_start": 1762176900000,
           "vod_channel_description": "帶您看世界脈動，財經趨勢，全球話題，帶給您最專業，最深入的剖析與觀點。"
         }
       },
@@ -260,7 +260,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

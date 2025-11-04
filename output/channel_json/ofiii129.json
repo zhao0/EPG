@@ -1867,26 +1867,26 @@
           }
         ],
         "total_length": 259136000,
-        "focus_index": 40,
-        "next_index": 41,
-        "time": 1245183,
+        "focus_index": 50,
+        "next_index": 51,
+        "time": 94991,
         "focus_program": {
-          "content_id": "VOD00358347",
+          "content_id": "VOD00358357",
           "time_codes": [
-            608000,
-            1254000,
-            1707000,
-            2204000
+            514000,
+            1181000,
+            1698000,
+            2199000
           ],
           "timecode_duration": [],
           "length": 2699000,
-          "asset_id": "vod9985-003202M001",
+          "asset_id": "vod9985-003212M001",
           "title": "",
-          "subtitle": "第3202集 返鄉路途有夠波折 各國人飛到快瘋掉?!",
-          "ep_number": 3202,
+          "subtitle": "第3212集 各國誰是生活智慧王?! 改變生活品質小物大比拚",
+          "ep_number": 3212,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762252800000,
+          "p_start": 1762282800000,
           "vod_channel_description": "異國戀曲我最懂，文化衝擊大不同！到底新住民怎麼看台灣？讓我們與主持人和來自世界各地的外國朋友，一起聊聊不同國家文化差異、衝擊、風俗、語言學習經驗、婚姻生活等。"
         }
       },

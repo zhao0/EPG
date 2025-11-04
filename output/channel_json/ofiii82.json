@@ -1703,26 +1703,25 @@
           }
         ],
         "total_length": 144749000,
-        "focus_index": 9,
-        "next_index": 10,
-        "time": 2213362,
+        "focus_index": 24,
+        "next_index": 25,
+        "time": 210949,
         "focus_program": {
-          "content_id": "VOD00343405",
+          "content_id": "VOD00162644",
           "time_codes": [
-            953000,
-            1477000,
-            2193000
+            622000,
+            1227000
           ],
           "timecode_duration": [],
-          "length": 2400000,
-          "asset_id": "vod73388-000003M001",
-          "title": "兩岸家書",
-          "subtitle": "第3集 半百青春不留白",
-          "ep_number": 3,
+          "length": 1482000,
+          "asset_id": "vod40471-000012M001",
+          "title": "台灣原住民部落",
+          "subtitle": "第12集 賽德克族、撒奇萊雅族、卡那卡那富族、噶瑪蘭族",
+          "ep_number": 12,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762097700000,
-          "vod_channel_description": "六集人文紀錄片《兩岸家書》透過跨越海峽兩岸的家族和家庭書信，展示兩岸的歲月滄桑，和無數普通人在時代巨變中的悲歡離合，重現斑駁字跡背後剪不斷、離不散的至真至情。"
+          "p_start": 1762127700000,
+          "vod_channel_description": "歷經三年的拍攝與製作，從北到南走遍台灣每一個角落，跨海遠赴離島的蘭嶼，將達悟族的傳統文化、阿美族的豐年祭、賽夏族的矮靈祭、泰雅族的歲時祭儀、魯凱族的盪鞦韆...等，我們並以空拍及地面方式拍攝，將台灣各地高山部落美景，都一一的呈現在您眼前。"
         }
       },
       "station_categories": [
@@ -1739,7 +1738,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.14 Safari/605.1.15"
   },
   "__N_SSP": true
 }

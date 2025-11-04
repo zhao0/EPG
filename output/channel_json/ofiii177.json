@@ -909,25 +909,25 @@
           }
         ],
         "total_length": 73109000,
-        "focus_index": 5,
-        "next_index": 6,
-        "time": 211902,
+        "focus_index": 23,
+        "next_index": 24,
+        "time": 268100,
         "focus_program": {
-          "content_id": "VOD00188964",
+          "content_id": "VOD00188982",
           "time_codes": [
             600000,
             1200000
           ],
           "timecode_duration": [],
           "length": 1432000,
-          "asset_id": "vod43647-000006M001",
+          "asset_id": "vod43647-000024M001",
           "title": "",
-          "subtitle": "第6集 國家鍊金術師資格考試",
-          "ep_number": 6,
+          "subtitle": "第24集 回憶的定著",
+          "ep_number": 24,
           "rating": 1,
           "content_type": "comic",
-          "p_start": 1762170300000,
-          "vod_channel_description": "為了準備國家鍊金術師資格考試，愛德華與阿爾住進了馬斯坦古介紹的，生體鍊成界的第一把交椅「綴命之鍊金術師修‧塔卡」的家中。受到塔卡的女兒妮娜與愛犬亞歷山大的鼓勵，兄弟倆每天都埋首苦讀。然後，考試當天，愛德華與阿爾去應考了…。"
+          "p_start": 1762202700000,
+          "vod_channel_description": "自己的靈魂說不定也是偽造的，被這個疑問所困擾的阿爾，從愛德的面前逃開。茫然佇立於街頭的他，在那裡遇到了伊修瓦爾人的少年兄弟雷歐與利克。阿爾在兄弟倆的帶領下造訪伊修瓦爾的秘密營地，在那他遇見了意想不到的人物。"
         }
       },
       "station_categories": [

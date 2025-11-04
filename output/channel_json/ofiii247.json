@@ -1303,26 +1303,26 @@
           }
         ],
         "total_length": 206473000,
-        "focus_index": 60,
-        "next_index": 61,
-        "time": 3588420,
+        "focus_index": 68,
+        "next_index": 0,
+        "time": 687920,
         "focus_program": {
-          "content_id": "VOD00289631",
+          "content_id": "VOD00289639",
           "time_codes": [
-            689000,
-            1486000,
-            2174000,
-            2847000
+            721000,
+            1526000,
+            2125000,
+            2940000
           ],
           "timecode_duration": [],
-          "length": 3599000,
-          "asset_id": "vod62822-000001M001",
+          "length": 3594000,
+          "asset_id": "vod62822-000009M001",
           "title": "中國這麼美",
-          "subtitle": "第1集",
-          "ep_number": 1,
+          "subtitle": "第9集",
+          "ep_number": 9,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762251900000,
+          "p_start": 1762283100000,
           "vod_channel_description": "國內首檔聚焦中國式生活美學的紀實類節目。每期邀請一支樂隊或一位音樂人，以及他們的好友，以音樂+旅行的形式，以中國人的世俗生活爲線索，發現中國式生活美學，從而歌唱平凡的人間。"
         }
       },

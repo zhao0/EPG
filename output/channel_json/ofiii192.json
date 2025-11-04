@@ -1114,25 +1114,25 @@
           }
         ],
         "total_length": 98645000,
-        "focus_index": 37,
-        "next_index": 38,
-        "time": 1118533,
+        "focus_index": 53,
+        "next_index": 54,
+        "time": 1064724,
         "focus_program": {
-          "content_id": "VOD00342488",
+          "content_id": "VOD00355785",
           "time_codes": [
             600000,
             1200000
           ],
           "timecode_duration": [],
-          "length": 1550000,
-          "asset_id": "vod34849-000243M001",
+          "length": 1565000,
+          "asset_id": "vod34849-000259M001",
           "title": "",
-          "subtitle": "第243集 繼續宣告得勝",
-          "ep_number": 243,
+          "subtitle": "第259集 持守內心的感動",
+          "ep_number": 259,
           "rating": 1,
           "content_type": "blessedlife",
-          "p_start": 1762151700000,
-          "vod_channel_description": "聖經說，你們必吃嘴唇所結的果子。話語設定人生的方向，負面、消極、抱怨的話語將我們引向平庸與失敗；不斷地宣告上帝對我們的評價與應許，則引導我們進入上帝命定的福。所以，當務必留意口裡所出的話語。"
+          "p_start": 1762180500000,
+          "vod_channel_description": "上帝會把感動放在信徒心中，打開我們屬靈的耳朵，聽見祂的聲音，直接與我們溝通。但這種領受常與現實面相反，這時我們必須選擇相信聖靈的感動，而非肉眼所見。若人生只憑肉眼所見，只看環境行事，就難以實現上帝的應許。上帝的兒女理應順著聖靈行事，才能看見上帝行大事，生命綻放光彩。"
         }
       },
       "station_categories": [

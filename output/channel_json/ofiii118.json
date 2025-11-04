@@ -745,26 +745,26 @@
           }
         ],
         "total_length": 105999000,
-        "focus_index": 9,
-        "next_index": 10,
-        "time": 113249,
+        "focus_index": 18,
+        "next_index": 19,
+        "time": 2135653,
         "focus_program": {
-          "content_id": "VOD00278296",
+          "content_id": "VOD00278305",
           "time_codes": [
-            744000,
-            1488000,
-            2219000
+            679000,
+            1438000,
+            2200000
           ],
           "timecode_duration": [],
           "length": 2718000,
-          "asset_id": "vod60692-000010M001",
+          "asset_id": "vod60692-000019M001",
           "title": "",
-          "subtitle": "第10集",
-          "ep_number": 10,
+          "subtitle": "第19集",
+          "ep_number": 19,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1761607800000,
-          "vod_channel_description": "心情低落的程霄從派出所裡出來後獨自遊蕩，淋雨走進了飛吧。順路載李語珩到家的顧南亭收到謝澤天的消息後，拒絕了李語珩喝茶的邀請，直接來到了飛吧。"
+          "p_start": 1761634800000,
+          "vod_channel_description": "起飛前，程霄和宋宋在員工吧談心，宋宋暗戀李語珩被程霄發現，不自信的宋宋覺得自己和顧南亭差得很遠，程霄鼓勵宋宋的同時，也被宋宋發現了自己對於顧南亭的愛慕之情，程霄毫不避諱地大膽承認，兩個人都激動地為彼此加油。"
         }
       },
       "station_categories": [
@@ -781,7 +781,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
   },
   "__N_SSP": true
 }

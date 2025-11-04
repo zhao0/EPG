@@ -1771,26 +1771,26 @@
           }
         ],
         "total_length": 281533000,
-        "focus_index": 13,
-        "next_index": 14,
-        "time": 359383,
+        "focus_index": 22,
+        "next_index": 23,
+        "time": 1874176,
         "focus_program": {
-          "content_id": "VOD00299975",
+          "content_id": "VOD00299984",
           "time_codes": [
-            1295000,
-            1795000,
-            2396000
+            689000,
+            1318000,
+            1965000
           ],
           "timecode_duration": [],
-          "length": 2952000,
-          "asset_id": "vod17037-000468M001",
+          "length": 2941000,
+          "asset_id": "vod17037-000477M001",
           "title": "",
-          "subtitle": "第468集 百年銷魂炕肉飯入口即化散發致命吸引力 泰台融合豐富海味全收盡招牌龍蝦酸辣湯",
-          "ep_number": 468,
+          "subtitle": "第477集 「5元手工肉圓」凍漲36年！老里長麵店「50元吃超飽」！盤點全台佛心小攤",
+          "ep_number": 477,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1761960000000,
-          "vod_channel_description": "彰化有一間百年老店的炕肉飯，祖傳4代的炕肉，是鄧永成一家人用心守護的古早味，他選用口感Q彈的腳庫肉來做炕肉，比起了北部常見的三層肉更加費工，加入祖傳的祕方慢滷4個小時，滷出來的皮Q彈有膠質，而瘦肉的部分不乾柴也不油膩，入口即化，讓人忍不住要多扒好幾碗飯。"
+          "p_start": 1761987900000,
+          "vod_channel_description": "在萬物齊漲的年代，居然還能吃到一顆2.5元的水餃！這家麵店就位在台南南區，招牌的韭菜水餃點20顆只要50元，價錢相當佛心，客人還會搭配一碗只要15元的餛飩湯，每一顆餛飩都渾圓紮實，充滿肉香。老闆盧得華以前是里長，他希望回饋鄉里，所以水餃、餛飩湯、麻醬麵，通通銅板價，常常排起長長人龍！"
         }
       },
       "station_categories": [
@@ -1807,7 +1807,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
   },
   "__N_SSP": true
 }

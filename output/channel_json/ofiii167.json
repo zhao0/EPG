@@ -2411,24 +2411,24 @@
           }
         ],
         "total_length": 209360000,
-        "focus_index": 113,
-        "next_index": 114,
-        "time": 1294456,
+        "focus_index": 130,
+        "next_index": 131,
+        "time": 422590,
         "focus_program": {
-          "content_id": "VOD00021401",
+          "content_id": "VOD00021438",
           "time_codes": [
-            745000
+            676000
           ],
           "timecode_duration": [],
           "length": 1414000,
-          "asset_id": "vod8652-000114M001",
+          "asset_id": "vod8652-000131M001",
           "title": "",
-          "subtitle": "第114集 分開×與×誤判",
-          "ep_number": 114,
+          "subtitle": "第131集 怒火×與×亮光",
+          "ep_number": 131,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762250400000,
-          "vod_channel_description": "梟亞普夫與莫老五、孟徒徒尤匹與秀托和拿酷戮在各自的戰場上展開了戰鬥。爾後，蟻王也與尼特羅、桀諾相持不下。桀諾發動巨龍外型的氣，他朝蟻王施放的念能力是「龍頭戲畫」。蟻王就這麼背對著桀諾的龍頭戲畫，並不打算閃躲。牠的真正用意究竟為何？蟻王與尼特羅的殊死決鬥，終於開始。"
+          "p_start": 1762275900000,
+          "vod_channel_description": "「快讓凱特恢復原狀啊，求求妳了！」小傑邊流淚，邊向彼多懇求，而彼多的腳邊，是一動也不動的凱特。彼多修復了自己的左手後，對小傑說：「我很遺憾，但是我必須殺了你才行，為了陛下。」小傑訝異地看著彼多，他讓氣纏繞自己身軀，口中喃喃說著：「騙子…」室內的燭光熄滅，開始刮起陣陣強風…。"
         }
       },
       "station_categories": [
@@ -2445,7 +2445,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

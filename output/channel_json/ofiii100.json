@@ -884,24 +884,24 @@
           }
         ],
         "total_length": 118324000,
-        "focus_index": 13,
-        "next_index": 14,
-        "time": 535060,
+        "focus_index": 24,
+        "next_index": 25,
+        "time": 824275,
         "focus_program": {
-          "content_id": "VOD00154712",
+          "content_id": "VOD00154723",
           "time_codes": [
-            662000,
-            1399000
+            763000,
+            1478000
           ],
           "timecode_duration": [],
-          "length": 2003000,
-          "asset_id": "vod39421-000014M001",
+          "length": 2522000,
+          "asset_id": "vod39421-000025M001",
           "title": "",
-          "subtitle": "第14集 申 陰",
-          "ep_number": 14,
+          "subtitle": "第25集 亥初 皆堅核",
+          "ep_number": 25,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1754315100000,
+          "p_start": 1754344800000,
           "vod_channel_description": "張小敬出身行伍，退伍後任唐城地方安保「不良人」，後因處事不當被關押獄中。長安城混入可疑人士，軍事機構「靖安司」司承李必特例委派張小敬戴罪立功、在上元節花燈大會前揪出意圖毀城之人。十二個時辰〈24小時〉開始倒數，張小敬能否趕在輝煌燈火亮起之時，阻止長安城即將發生的劫難呢？"
         }
       },
@@ -919,7 +919,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
   },
   "__N_SSP": true
 }

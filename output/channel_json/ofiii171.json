@@ -635,24 +635,24 @@
           }
         ],
         "total_length": 53286000,
-        "focus_index": 32,
-        "next_index": 33,
-        "time": 802076,
+        "focus_index": 13,
+        "next_index": 14,
+        "time": 689105,
         "focus_program": {
-          "content_id": "VOD00324149",
+          "content_id": "VOD00264700",
           "time_codes": [
-            677000
+            725000
           ],
           "timecode_duration": [],
-          "length": 1420000,
-          "asset_id": "vod57664-030033M001",
+          "length": 1450000,
+          "asset_id": "vod57664-020014M001",
           "title": "",
-          "subtitle": "第3季第33集 船上的交響曲 姊姊的藥草茶",
-          "ep_number": 33,
+          "subtitle": "第2季第14集 解除定時炸彈吧",
+          "ep_number": 14,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762197300000,
-          "vod_channel_description": "郵輪甲板在煙火秀開始前顯得熱鬧非凡，安妮亞也和洛伊德一起開心地欣賞了煙火。另一方面，約兒的任務終於漸入佳境。約兒打算讓歐爾嘉等人逃脫，卻遭到了殺手們包圍！在美麗煙火飛上夜空的同時，約兒也在與殺手們的生死搏鬥中使血花四濺！！"
+          "p_start": 1762165200000,
+          "vod_channel_description": "安妮亞遇見了一隻能預知未來的神奇狗狗。儘管她多虧狗狗而一時逃出生天，最後還是落入了恐怖分子的手裡。就在此時，約兒趕了過來並擊退了敵人！這時候，狗狗再次預知了未來。安妮亞讀了狗狗的心，卻看到洛伊德倒臥在遭到爆破的大樓瓦礫堆中的景象……為了改變這個未來，安妮亞……"
         }
       },
       "station_categories": [

@@ -1167,24 +1167,26 @@
           }
         ],
         "total_length": 124214000,
-        "focus_index": 39,
-        "next_index": 40,
-        "time": 1222706,
+        "focus_index": 52,
+        "next_index": 53,
+        "time": 3379611,
         "focus_program": {
-          "content_id": "VOD00290354",
+          "content_id": "VOD00256293",
           "time_codes": [
-            754000
+            782000,
+            1733000,
+            2487000
           ],
           "timecode_duration": [],
-          "length": 1509000,
-          "asset_id": "vod56026-000005M001",
-          "title": "銀髮寶典",
-          "subtitle": "第5集 養氣活血，手腳不再冷冰冰",
-          "ep_number": 5,
+          "length": 3678000,
+          "asset_id": "vod56028-000002M001",
+          "title": "跟著爺奶導遊走",
+          "subtitle": "第2集 與爺奶行走天母川湯行義路",
+          "ep_number": 2,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762125900000,
-          "vod_channel_description": "「銀髮寶典」內容介紹銀髮族相關的醫療知識，讓爺爺奶奶們能了解銀髮族常見的疾病、或是身體常遇到的問題，並邀請專業的醫師上節目解答，詳細深入且淺顯易懂的方式講述給各位爺爺奶奶們。為銀髮族的身體健康預防把關，讓爺爺奶奶能有一個樂活的退休生活。"
+          "p_start": 1762153200000,
+          "vod_channel_description": "「跟著爺奶導遊走」講述銀髮族的旅遊活動，目的是讓人們的後半段人生，不因為疾病、家人、退休等諸多因素失去活力、目標。再繼續開始的人生旅途上，這兒有一群享受生活追求健康的爺爺奶奶，不要害怕孤單煩惱，跟著他們就對了。"
         }
       },
       "station_categories": [

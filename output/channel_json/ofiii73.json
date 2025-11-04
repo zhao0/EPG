@@ -230,28 +230,29 @@
           }
         ],
         "total_length": 50632000,
-        "focus_index": 8,
-        "next_index": 0,
-        "time": 4852952,
+        "focus_index": 4,
+        "next_index": 5,
+        "time": 2833578,
         "focus_program": {
-          "content_id": "VOD00106173",
+          "content_id": "VOD00105336",
           "time_codes": [
-            902000,
-            1818000,
-            2716000,
-            3560000,
-            4579000
+            933000,
+            1800000,
+            2700000,
+            3601000,
+            4450000,
+            5458000
           ],
           "timecode_duration": [],
-          "length": 5419000,
-          "asset_id": "vod33520-000000M001",
-          "title": "新精武門1991",
-          "subtitle": "Fist of Fury 1991",
+          "length": 5601000,
+          "asset_id": "vod33296-000000M001",
+          "title": "摩登武聖",
+          "subtitle": "Fist of Fury 1991 II",
           "ep_number": 0,
           "rating": 1,
           "content_type": "movie",
-          "p_start": 1762186500000,
-          "vod_channel_description": "精武門阿星（周星馳）生性膽小怕事，可是在緊要關頭卻常有出人意料的好表現。有天，日本武社派人送來「東亞病夫」匾額，阿星又被踢出來跟日本人對打。阿星本想息事寧人，可是日本人哪會放過他呢？被痛打的阿星激出了潛能，反而將對方打掛，這下子他不但得罪了日本人，大師兄更視他為眼中釘…"
+          "p_start": 1762162200000,
+          "vod_channel_description": "劉晶（周星馳）戰勝鄭威成為新精武門掌門人，但四老將所有獎金豪賭後遁走，使得新精武門債台高築。鄭威的胞兄鄭橫刀決定率領手下赴港報仇，正值劉晶與牛皮買醉回家，結果不敵鄭橫刀等人，幾被活活打死。幸而一黑衣人從天而降擊退眾人，二人方得解脫。然劉晶受傷過重，武功盡廢，只得由牛皮的姑媽照料…"
         }
       },
       "station_categories": [
@@ -268,7 +269,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

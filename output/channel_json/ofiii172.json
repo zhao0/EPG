@@ -827,24 +827,24 @@
           }
         ],
         "total_length": 69584000,
-        "focus_index": 39,
-        "next_index": 40,
-        "time": 1121624,
+        "focus_index": 8,
+        "next_index": 9,
+        "time": 1380627,
         "focus_program": {
-          "content_id": "VOD00293180",
+          "content_id": "VOD00200027",
           "time_codes": [
-            614000
+            670000
           ],
           "timecode_duration": [],
           "length": 1420000,
-          "asset_id": "vod44765-020015M001",
+          "asset_id": "vod44765-010009M001",
           "title": "",
-          "subtitle": "第2季第15集 遙遠",
-          "ep_number": 15,
+          "subtitle": "第1季第9集 邂逅",
+          "ep_number": 9,
           "rating": 5,
           "content_type": "comic",
-          "p_start": 1762174500000,
-          "vod_channel_description": "魯迪收到了來自父親保羅的信。他希望魯迪可以照顧妹妹諾倫與愛夏，因此請了護衛送兩人到魯迪那邊。同時，和魯迪烏斯從相同世界轉移而來的七星，為了回到原來的世界持續研究魔法，但始終找不到突破口而感到焦慮。"
+          "p_start": 1762128000000,
+          "vod_channel_description": "在被神祕光芒包圍的魯迪烏斯面前，出現了自稱是神明的「人神」。在與人神邂逅後，等魯迪烏斯再度醒來，已經身處魔大陸的荒野上。一旁還有一名男人的身影。該名男性有著綠色頭髮，額頭上還有類似寶石的石頭，那正是洛琪希交代「絕對不能接近」的斯佩路德族才有的特徵。"
         }
       },
       "station_categories": [

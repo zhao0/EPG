@@ -943,25 +943,25 @@
           }
         ],
         "total_length": 137161000,
-        "focus_index": 34,
-        "next_index": 35,
-        "time": 1205951,
+        "focus_index": 43,
+        "next_index": 44,
+        "time": 2541731,
         "focus_program": {
-          "content_id": "VOD00183237",
+          "content_id": "VOD00183246",
           "time_codes": [
-            731000,
-            1486000,
-            2116000
+            771000,
+            1453000,
+            2143000
           ],
           "timecode_duration": [],
-          "length": 2683000,
-          "asset_id": "vod43061-000035M001",
+          "length": 2737000,
+          "asset_id": "vod43061-000044M001",
           "title": "",
-          "subtitle": "第35集",
-          "ep_number": 35,
+          "subtitle": "第44集",
+          "ep_number": 44,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1751962200000,
+          "p_start": 1751989200000,
           "vod_channel_description": "以金庸小說《倚天屠龍記》為藍本改編。以武當五俠張翠山與明教殷素素之子張無忌（曾舜晞）的成長為主軸，講述江湖上的門派之間的恩怨情仇，以及張無忌和峨眉女俠周芷若（祝緒丹）、蒙古郡主趙敏（陳鈺琪）之間的愛恨糾葛。"
         }
       },

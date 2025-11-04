@@ -1771,25 +1771,25 @@
           }
         ],
         "total_length": 282623000,
-        "focus_index": 22,
-        "next_index": 23,
-        "time": 24271,
+        "focus_index": 30,
+        "next_index": 31,
+        "time": 1671842,
         "focus_program": {
-          "content_id": "VOD00199531",
+          "content_id": "VOD00199539",
           "time_codes": [
-            524000,
-            974000,
-            1887000
+            1027000,
+            1944000,
+            1989000
           ],
           "timecode_duration": [],
           "length": 2947000,
-          "asset_id": "vod14409-000954M001",
+          "asset_id": "vod14409-000962M001",
           "title": "",
-          "subtitle": "第954集 記憶裡的家常菜",
-          "ep_number": 954,
+          "subtitle": "第962集 網路爆紅美食",
+          "ep_number": 962,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762245900000,
+          "p_start": 1762271700000,
           "vod_channel_description": "非凡新聞部全力製作的美食專題報導，用最專業的報導，帶你去尋找藏在大街小巷裡的頂級美食。"
         }
       },

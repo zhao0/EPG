@@ -337,28 +337,28 @@
           }
         ],
         "total_length": 85384000,
-        "focus_index": 10,
-        "next_index": 11,
-        "time": 1562624,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 4139751,
         "focus_program": {
-          "content_id": "VOD00354271",
+          "content_id": "VOD00351069",
           "time_codes": [
-            925000,
-            1805000,
-            2676000,
-            3567000,
-            4501000
+            934000,
+            1750000,
+            2680000,
+            3633000,
+            4527000
           ],
           "timecode_duration": [],
-          "length": 4800000,
-          "asset_id": "vod75835-000000M001",
-          "title": "囚鳥",
-          "subtitle": "Caged",
+          "length": 5128000,
+          "asset_id": "vod75174-000000M001",
+          "title": "回到未來",
+          "subtitle": "The House of Tomorrow",
           "ep_number": 0,
-          "rating": 3,
+          "rating": 2,
           "content_type": "movie",
-          "p_start": 1762240800000,
-          "vod_channel_description": "因被判謀殺妻子，一位富裕的非裔美國精神科醫生進了聯邦監獄，隨後又被單獨禁閉。在孤立無援、奮力爭取上訴的過程中，他逐漸陷入瘋狂，加上遭受到一名看守員的虐待，更將他推向崩潰的邊緣。飽受煎熬的他，開始質疑自己的清白和理智，這段在監獄裡的日子也成了一場難以抹滅的噩夢…"
+          "p_start": 1762175700000,
+          "vod_channel_description": "在美國的某個小鎮，塞巴斯蒂安（阿薩巴特菲爾德）與脾氣古怪的祖母一起生活。祖母十分崇拜未來主義哲學家巴克敏斯特富勒，甚至用盡全力將其學說與知識灌輸給塞巴斯蒂安。某天，祖母突然中風昏迷，塞巴斯蒂安不得不離開祖母身邊，獨自生活。在他認識了16歲的男孩傑瑞德後，生活發生了天翻地覆的變化…"
         }
       },
       "station_categories": [
@@ -375,7 +375,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15"
   },
   "__N_SSP": true
 }

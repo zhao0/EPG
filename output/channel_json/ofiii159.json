@@ -235,24 +235,24 @@
           }
         ],
         "total_length": 17039000,
-        "focus_index": 6,
-        "next_index": 7,
-        "time": 122435,
+        "focus_index": 0,
+        "next_index": 1,
+        "time": 399909,
         "focus_program": {
-          "content_id": "VOD00293145",
+          "content_id": "VOD00293139",
           "time_codes": [
-            700000
+            800000
           ],
           "timecode_duration": [],
-          "length": 1420000,
-          "asset_id": "vod64309-010007M001",
+          "length": 1419000,
+          "asset_id": "vod64309-010001M001",
           "title": "",
-          "subtitle": "第1季第7集 暗潮洶湧的地城爭奪戰",
-          "ep_number": 7,
+          "subtitle": "第1季第1集 從史萊姆中掉落的人類",
+          "ep_number": 1,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762191300000,
-          "vod_channel_description": "亮太和愛蜜莉在新地城「賽倫地城」的垃圾場遇見一位臉色差得像是隨時會昏倒的美女瑟莉斯德。瑟莉斯德一直獨自使用火炎魔法負責處理垃圾，看著她勉強自己貫徹職責的模樣，讓亮太忍不住想起自己的過去。與此同時，地城爭奪戰揭開序幕，對手竟打一開始就出手妨礙……！"
+          "p_start": 1762182300000,
+          "vod_channel_description": "上班族佐藤亮太一睜開眼睛便發現自己來到地下城會掉落各種物品的不可思議的世界。自稱愛蜜莉的少女表示亮太也是從她打倒的史萊姆中掉落出現的。他在愛蜜莉的帶領下測試了自己的能力值，發現自己的等級最大值竟然只有【１】。發現自己能力數值很低的亮太不禁失落，但隨即發現他的掉落值竟然全都是最強的【Ｓ級】……！？"
         }
       },
       "station_categories": [

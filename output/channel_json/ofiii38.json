@@ -2908,34 +2908,34 @@
           }
         ],
         "total_length": 304298000,
-        "focus_index": 15,
+        "focus_index": 22,
         "midroll_before_start": false,
         "midroll_before_start_duration": 0,
         "focus_program": {
-          "content_id": "VOD00137402",
+          "content_id": "VOD00246191",
           "time_codes": [
-            720000,
-            1498000,
-            2172000
+            681000,
+            1453000,
+            2157000
           ],
           "timecode_duration": [
             180000,
             180000,
             180000
           ],
-          "length": 2458000,
-          "asset_id": "vod37442-000024M001",
-          "title": "歲月如金",
-          "subtitle": "第24集",
-          "ep_number": 24,
+          "length": 2483000,
+          "asset_id": "vod54018-000003M001",
+          "title": "傳奇大掌櫃",
+          "subtitle": "第3集",
+          "ep_number": 3,
           "rating": 1,
           "content_type": "drama",
-          "p_start": 1762239600000,
-          "vod_channel_description": "石德寶（張豐毅）從一名北京城的公共汽車司機到售票員、到飯店服務員，後來又利用自己祖傳的木工特長開始了走街串巷修補傢俱行當，石德寶的才能與人品被傢俱廠廠長看中，將他提拔為傢俱廠的廠長助理。最後，在學成歸來初戀女友羅小馬的幫助下，石德寶注冊商標開始了創業之路。",
-          "p_end": 1762243200000
+          "p_start": 1762264800000,
+          "vod_channel_description": "故事發生在民國1919年，從山東流落到北京的小乞丐欒學堂，因救了老闆的女兒有幸在濟風樓裏當堂倌，由於得知掌櫃的隱祕而被驅除，卻得到貴人資助開店成爲豐澤園的創辦者。",
+          "p_end": 1762268400000
         },
-        "time": 2361098,
-        "next_index": 16
+        "time": 3009613,
+        "next_index": 23
       },
       "station_categories": [
         {

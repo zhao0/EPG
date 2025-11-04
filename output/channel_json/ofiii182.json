@@ -1919,21 +1919,21 @@
           }
         ],
         "total_length": 79864000,
-        "focus_index": 71,
-        "next_index": 72,
-        "time": 5364,
+        "focus_index": 110,
+        "next_index": 111,
+        "time": 272575,
         "focus_program": {
-          "content_id": "VOD00234413",
+          "content_id": "VOD00234452",
           "time_codes": [],
           "timecode_duration": [],
           "length": 596000,
-          "asset_id": "vod50727-250002M001",
+          "asset_id": "vod50727-250041M001",
           "title": "",
-          "subtitle": "第25季第2集",
-          "ep_number": 2,
+          "subtitle": "第25季第41集",
+          "ep_number": 41,
           "rating": 1,
           "content_type": "comic",
-          "p_start": 1762183800000,
+          "p_start": 1762218900000,
           "vod_channel_description": "在忍者家庭中出生的亂太郎，為了達成父母希望他成為一流忍者的願望，進入了忍術學園就讀。他在學園中認識了在邊境經商的富商兒子新兵衛，還有即使在戰爭中失去父母，依然勇敢活下去的霧丸。亂太郎等三人組不管是上課還是考試，總是失敗連連，還老是做一些不正經的事情。"
         }
       },
@@ -1959,7 +1959,7 @@
         }
       }
     ],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }

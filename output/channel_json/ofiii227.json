@@ -1770,26 +1770,26 @@
           }
         ],
         "total_length": 273257000,
-        "focus_index": 42,
-        "next_index": 43,
-        "time": 866037,
+        "focus_index": 51,
+        "next_index": 52,
+        "time": 947363,
         "focus_program": {
-          "content_id": "VOD00339167",
+          "content_id": "VOD00345866",
           "time_codes": [
-            633000,
-            1434000,
-            2420000
+            693000,
+            1591000,
+            2366000
           ],
           "timecode_duration": [],
-          "length": 2850000,
-          "asset_id": "vod64339-000201M001",
+          "length": 2849000,
+          "asset_id": "vod64339-000212M001",
           "title": "",
-          "subtitle": "第201集 終於說出口！出賣恆春超強美食！超美麗海景住宿、蛋酥餅、羊肉料理、泰式料理",
-          "ep_number": 201,
+          "subtitle": "第212集 台中山線一哥！豐原有錢人都吃什麼？",
+          "ep_number": 212,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762247700000,
-          "vod_channel_description": "今天帶著大家一起到恆春，開吃恆春超強美食！包含開業14年的當地「人氣銅板小吃」、從不打廣告卻天天高朋滿座的「泰式料理」、旺季非常難訂到位的「私房料理」、當地人超愛吃的「羊肉店」、3月新開幕的「祕境小吃」、由百年古蹟恆春郡役所官舍所改造的「甜點店」、結合中、西、日式的「創意料理」！"
+          "p_start": 1762274700000,
+          "vod_channel_description": "今天帶著大家一起來到豐原，首先來朝聖近4年建造完成的「夢幻民宿」，再開吃主打「日式料理」的食堂、全台唯一絕美「雪冰」、在地經營50年「菱角酥」、大顆肥美「蚵仔煎」，還有超浮誇滿料「海鮮粥」、隱藏版千則好評「牛肉麵店」、在地人超愛的「招牌肉粥」，通通都不能錯過呀～"
         }
       },
       "station_categories": [
@@ -1806,7 +1806,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0"
   },
   "__N_SSP": true
 }

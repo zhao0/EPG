@@ -843,23 +843,23 @@
           }
         ],
         "total_length": 74163000,
-        "focus_index": 41,
-        "next_index": 42,
-        "time": 746239,
+        "focus_index": 7,
+        "next_index": 8,
+        "time": 1353541,
         "focus_program": {
-          "content_id": "VOD00023566",
+          "content_id": "VOD00023471",
           "time_codes": [
-            601000
+            588000
           ],
           "timecode_duration": [],
           "length": 1484000,
-          "asset_id": "vod8898-000042M001",
+          "asset_id": "vod8898-000008M001",
           "title": "",
-          "subtitle": "第42集 長老特快車！拼死的上山閉關行",
-          "ep_number": 42,
+          "subtitle": "第8集 驚人的肉體！神秘的師傅們",
+          "ep_number": 8,
           "rating": 2,
           "content_type": "comic",
-          "p_start": 1762254300000,
+          "p_start": 1762193100000,
           "vod_channel_description": "個性怯懦，從小到大都被欺負的兼一，在一次意外中，遇到了充滿正義感又有一身好武藝的美羽，美羽介紹他到一個一定會讓修行者變強的道館。兼一於是照著美羽畫的地圖，來到了這間充滿謎團的道館。不過，這裡其實是窮究武技於頂點，一群絕世高手們的齊聚之地「梁山泊」！"
         }
       },
@@ -877,7 +877,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (compatible; proximic; +https://www.comscore.com/Web-Crawler)"
   },
   "__N_SSP": true
 }

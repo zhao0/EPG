@@ -1051,24 +1051,24 @@
           }
         ],
         "total_length": 90650000,
-        "focus_index": 36,
-        "next_index": 37,
-        "time": 543410,
+        "focus_index": 54,
+        "next_index": 55,
+        "time": 266221,
         "focus_program": {
-          "content_id": "VOD00022059",
+          "content_id": "VOD00058240",
           "time_codes": [
-            711000
+            725000
           ],
           "timecode_duration": [],
-          "length": 1455000,
-          "asset_id": "vod8760-030011M001",
+          "length": 1430000,
+          "asset_id": "vod8760-050003M001",
           "title": "",
-          "subtitle": "第3季第11集 所映之物",
-          "ep_number": 11,
+          "subtitle": "第5季第3集 除妖人的來信",
+          "ep_number": 3,
           "rating": 1,
           "content_type": "comic",
-          "p_start": 1762156200000,
-          "vod_channel_description": "田沼被妖怪附身了。那個妖怪為了幫助朋友，正在尋找鏡子的碎片。在碎片尚未全部找到前，她似乎沒有離開田沼身體的意思。夏目擔心田沼，於是住進田沼的家就近照顧。當晚，夏目夢見了附在田沼身上的妖怪的夢境。那個妖怪在尋找的朋友，而且似乎生了病..."
+          "p_start": 1762187400000,
+          "vod_channel_description": "某天，收到除妖人一族的首領的場靜司寫來的信，讓夏目內心動搖，之後還因某個年輕除妖人封印妖怪的儀式，信被風吹走，儘管夏目焦急地四處尋找，卻只看到先前年輕除妖人留下的小壺，裡面還散發出很重的妖氣，夏目直覺若放任不管，封印恐怕會被破除，於是趕緊求助名取…"
         }
       },
       "station_categories": [

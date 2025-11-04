@@ -1249,26 +1249,26 @@
           }
         ],
         "total_length": 190672000,
-        "focus_index": 20,
-        "next_index": 21,
-        "time": 1276564,
+        "focus_index": 28,
+        "next_index": 29,
+        "time": 2320438,
         "focus_program": {
-          "content_id": "VOD00351569",
+          "content_id": "VOD00356759",
           "time_codes": [
-            951000,
-            1709000,
-            2371000
+            1101000,
+            1940000,
+            2519000
           ],
           "timecode_duration": [],
-          "length": 2850000,
-          "asset_id": "vod72682-000031M001",
+          "length": 2849000,
+          "asset_id": "vod72682-000039M001",
           "title": "",
-          "subtitle": "第31集 衝吧越南！天菜富國島大爆走！",
-          "ep_number": 31,
+          "subtitle": "第39集 彰化不敗小吃！這些你都吃過嗎？！",
+          "ep_number": 39,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762053300000,
-          "vod_channel_description": "這次天菜帶你來玩翻富國島，首先來搭竹籃船欣賞原始自然生態，接著朝聖以童話故事打造的「越南版迪士尼」、24小時開放的「娛樂購物不夜城」，最後再入住擁有超豐富全方位設施的「五星級飯店」！"
+          "p_start": 1762077300000,
+          "vod_channel_description": "這次天菜帶你來彰化吃，包含「麵茶尬刨冰」老靈魂新吃法、爆料系「蚵仔蓋飯」、1個只要5元的「古早味點心」！"
         }
       },
       "station_categories": [
@@ -1285,7 +1285,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (compatible; proximic; +https://www.comscore.com/Web-Crawler)"
   },
   "__N_SSP": true
 }

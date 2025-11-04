@@ -1103,24 +1103,24 @@
           }
         ],
         "total_length": 53964000,
-        "focus_index": 46,
-        "next_index": 47,
-        "time": 870575,
+        "focus_index": 69,
+        "next_index": 0,
+        "time": 1059194,
         "focus_program": {
-          "content_id": "VOD00330114",
+          "content_id": "VOD00163113",
           "time_codes": [
-            530000
+            699000
           ],
           "timecode_duration": [],
           "length": 1122000,
-          "asset_id": "vod71027-000017M001",
-          "title": "食來運轉3",
-          "subtitle": "第17集",
-          "ep_number": 17,
+          "asset_id": "vod40407-030009M001",
+          "title": "舌尖之福 閩味傳奇",
+          "subtitle": "第3季第9集 味隱於市",
+          "ep_number": 9,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762197600000,
-          "vod_channel_description": "《食來運轉》是一檔有關美食的節目。節目恪守貼近生活、生動有趣的創作目標，以介紹美食為主題的表現形式，達到「美食娛樂生活」的目的；以輕鬆詼諧、生鮮獨特的藝術形式，結交八方廚藝精英、挖掘美食秘門絕技。五湖四海，美味珍饈，探求美食新境界，為觀眾提供活色生香的視聽文化盛宴。"
+          "p_start": 1762227000000,
+          "vod_channel_description": "節目聚焦閩菜歷史傳承與經典技藝，以「尋味經典，傳承匠心」為核心，聯合25位元老級閩菜大廚，系統梳理閩菜起源、流派、刀工、調味、小吃等主題，展現閩菜「清鮮、和醇、葷香、不膩」的獨特風味。"
         }
       },
       "station_categories": [

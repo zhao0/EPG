@@ -303,33 +303,33 @@
           }
         ],
         "total_length": 116303000,
-        "focus_index": 0,
-        "next_index": 1,
-        "time": 2596509,
+        "focus_index": 2,
+        "next_index": 3,
+        "time": 3313036,
         "focus_program": {
-          "content_id": "VOD00378752",
+          "content_id": "VOD00378754",
           "time_codes": [
-            1021000,
-            2072000,
-            2923000,
-            4003000,
-            4908000,
-            5842000,
-            7065000,
-            8074000,
-            8746000,
-            11366000,
-            11519000
+            1103000,
+            2083000,
+            2920000,
+            4067000,
+            4985000,
+            5836000,
+            6932000,
+            7904000,
+            8742000,
+            11330000,
+            11538000
           ],
           "timecode_duration": [],
-          "length": 11660000,
-          "asset_id": "vod64270-000808M001",
+          "length": 11658000,
+          "asset_id": "vod64270-000810M001",
           "title": "",
-          "subtitle": "川普秒慫美國要幫中國！賴清德九次巧遇民昏倒！顧立雄默認海鯤艦難產！王義川稱沒出席陸洗腦？",
-          "ep_number": 808,
+          "subtitle": "賴英九韓其邁最強救援！陳其邁高雄醜事又被揭？蔡英文讓賴惴惴不安了？北車性侵案全網炸鍋了！",
+          "ep_number": 810,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1762123200000,
+          "p_start": 1762147200000,
           "vod_channel_description": "用你聽得懂的話說給你聽，為觀眾帶來最新政治、時事評析。"
         }
       },
@@ -347,7 +347,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (compatible; proximic; +https://www.comscore.com/Web-Crawler)"
   },
   "__N_SSP": true
 }

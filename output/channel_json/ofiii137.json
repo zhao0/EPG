@@ -1771,25 +1771,25 @@
           }
         ],
         "total_length": 273099000,
-        "focus_index": 21,
-        "next_index": 22,
-        "time": 2282658,
+        "focus_index": 30,
+        "next_index": 31,
+        "time": 653903,
         "focus_program": {
-          "content_id": "VOD00368488",
+          "content_id": "VOD00368497",
           "time_codes": [
-            827000,
-            1643000,
-            2365000
+            832000,
+            1534000,
+            2224000
           ],
           "timecode_duration": [],
-          "length": 2850000,
-          "asset_id": "vod9700-005349M001",
+          "length": 2849000,
+          "asset_id": "vod9700-005359M001",
           "title": "",
-          "subtitle": "第5349集 沒跟上流行醜一年 2025髮型髮色趨勢",
-          "ep_number": 5349,
+          "subtitle": "第5359集 我的鞋比我還要紅 2025大勢潮鞋",
+          "ep_number": 5359,
           "rating": 1,
           "content_type": "show",
-          "p_start": 1761969900000,
+          "p_start": 1761996900000,
           "vod_channel_description": "給你最豐富的時尚資訊、頂級美容保養，跟你聊最煽情的兩性話題。每一集都有藝人現身說法，或做現場示範，提供最新潮的流行元素，幫你變得更健康、更美麗，恢復年輕的自信光采！"
         }
       },
@@ -1807,7 +1807,7 @@
       "href_maps": []
     },
     "recommends": [],
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
   },
   "__N_SSP": true
 }
