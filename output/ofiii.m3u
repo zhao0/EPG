@@ -1195,96 +1195,76 @@ http://localhost:5050/play/ofiii39/index.m3u8?episode_id=vod76268-000008M001
 http://localhost:5050/play/ofiii39/index.m3u8?episode_id=vod76268-000009M001
 #EXTINF:-1 tvg-id="短劇馬拉松" tvg-name="短劇馬拉松" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3689_ofiii39_tv_20250328.png" group-title="短劇馬拉松",了不起的女俠-第10集
 http://localhost:5050/play/ofiii39/index.m3u8?episode_id=vod76268-000010M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第13集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79263-000013M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第14集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79263-000014M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第15集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79263-000015M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第16集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79263-000016M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",藏藥令(30分鐘版)-第5集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod72948-000005M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第7集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79007-000007M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第8集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79007-000008M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第18集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000018M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第19集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000019M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第17集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79263-000017M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第18集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79263-000018M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第19集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79263-000019M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第20集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79263-000020M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",藏藥令(30分鐘版)-第6集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod72948-000006M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第9集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79007-000009M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第10集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79007-000010M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第20集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000020M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第21集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000021M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第21集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79263-000021M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第22集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79263-000022M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第23集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79263-000023M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",將軍家的小兒子-第24集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79263-000024M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",藏藥令(30分鐘版)-第7集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod72948-000007M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第11集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79007-000011M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第12集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79007-000012M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第22集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000022M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第23集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000023M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",安樂傳-第1集 百年修得同船渡
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod64646-000001M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",安樂傳-第2集 轟轟烈烈的求婚
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod64646-000002M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第13集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79007-000013M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第14集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79007-000014M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第24集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000024M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第25集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000025M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",安樂傳-第3集 藏在京城美男子名錄裡的玄機
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod64646-000003M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",安樂傳-第4集 棋高一著
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod64646-000004M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第15集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79007-000015M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第16集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79007-000016M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第26集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000026M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第27集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000027M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",安樂傳-第5集 賭上仕途的控訴
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod64646-000005M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",安樂傳-第6集 英雄惜英雄
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod64646-000006M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第17集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79007-000017M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",錦繡芳華-第18集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod79007-000018M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第28集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000028M001
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="Focus風采戲劇台",問天錄-第29集
-http://localhost:5050/play/ofiii1048/index.m3u8?episode_id=vod51834-000029M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",黃明志捲謝侑芯命案！否認吸毒稱「被勒索」 經紀人發聲怒批「說法矛盾」閨蜜揭內幕：心裡有鬼！
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81265-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",王子不倫戀公司生氣「全面暫停工作」付出慘痛代價 網酸飯可以亂吃...人妻不行!
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81267-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",曹佑寧被粿粿「緊抱」被追問摀住耳朵說不出話 曝光跟三位醜聞主角真實關係
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81266-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",大巨蛋飆車第一人？GD狂炫車技「龍三歲」上身 李洙赫連兩天力挺！觀眾席超chill姿勢帥翻
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81264-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",林依晨43歲生日自信曬素顏照 母女同天農歷生日引暖心共鳴
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81270-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",吳謹言久違曬出美圖九宮格 拍攝日常曝光引得粉絲狂歡
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81269-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",62歲知名音樂人屠穎不幸離世 眾星悲痛發文表示感謝與悼念
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81268-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",王晶發文悼念「喜劇催化劑」馮淬帆 爆其脾氣火爆欺善怕硬晚年太糊塗
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81273-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",金靖現身李佳琦直播間 笑談“背刺”傳聞：有謠言說明我們越來越好
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81275-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",詹妮弗·勞倫斯談暫別影壇兩年：厭倦了人們反復討論我的言論
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81274-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",王家衛竟然也會陪笑「妥協」 用實力說話馬伊琍王菲成例外
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81272-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",王家衛拍攝風格堪稱「折磨」大賞 合作過的「中日韓」演員齊喊遭殃
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81271-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",寶格麗“臻享品鑒”高級珠寶及腕錶展 蔡依林吳磊出席晚宴
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81263-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",小S也朝聖GD！低調現身大巨蛋 派翠克遭突襲超驚嚇「信義區志龍」上身
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81237-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",GD舞台事故連發！麥掉地上嚇到彈起來 躺地板太享受「耳機卡縫縫」笑到崩潰
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81236-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",蔡依林熬夜了！調皮玩梗「喜歡游刃有餘」 模仿鐵粉「討厭〈日不落〉」自嘲：芭樂歌
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81240-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",蔡依林暌違6年簽唱！喊話歌迷「去看GD」 5000人癱瘓北流 外國粉敲碗跨年「一起睡」
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81238-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",GD大巨蛋Day2！中文自我介紹太Q 下台飯撒竟「連送2個BOBO」全場暴動
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81235-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",林心如朝聖GD！李聖傑也現身 「見習大巨蛋」點歌要聽〈清醒〉全場問號
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81234-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",蔡依林吳磊活動同框引爆熱搜 豪門姐弟既視感「養眼天花板」
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81245-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",阿嬌與皇甫聖華挽手逛街引熱議 男方好似「女版陳冠希」關係親密
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81246-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",38歲劉亦菲與71歲成龍素顏同框 13年後再聚首夢回《功夫之王》
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81241-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",離婚傳聞僅8天王家衛錄音曝光 表示唐嫣「很裝」一點面子都不留
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81247-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",胡杏兒豪送好姐妹純金龍鳳鐲 胡定欣激動曬視頻表姐妹情深
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81244-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",楊威兒子和吳鎮宇兒子萬聖節聚會 15歲楊陽洋好顯老費曼像「社會人」
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81242-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",回顧!小豬被問好友粿粿婚變 王子就在旁邊「全程裝沒事」
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81230-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",馮淬帆驚傳逝世！3天前才悼念許紹雄 喜劇經典牛頭帆「香蕉你個芭樂」成絕響
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81229-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",蔡思韵曝劉俊謙求婚「挑這時機」有點生氣？ 羞叫另一半「這個字」楊祐寧求生慾爆表：不行！
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81228-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",粿粿認了出軌！17分鐘影片淚崩道歉 還原離婚主因 反控范姜「訊息見面2面人」？
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81227-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",林美秀朝聖GD！因實名制卡門外？ 丫頭&瑤瑤全程唱跳 阿緯也現身開心哼歌！
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81226-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",黃磊回應節目戴呼吸機睡覺引熱議 直言其是輔助睡眠神器用著特舒服
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81223-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",郭德綱帶妻兒在澳洲大莊園合照 照片中郭汾陽穿耳洞手機不離手
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81222-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",胡歌深情自爆墨脫緬懷母親 時隔數年仍難走出喪母陰霾
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81221-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",秦昊在三亞秒變「女兒奴」直播員 隔空喊話給米粒報備寵女無底線
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81220-000000M001
+#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="Yes娛樂",汪峰哈爾濱演唱會「真唱實錘」 音準偏差高音處遞話筒引熱議
+http://localhost:5050/play/ofiii47/index.m3u8?episode_id=vod81219-000000M001
 #EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",大大平評理-川習會後中國要算大帳？台灣從美國籌碼變負債？
 http://localhost:5050/play/ofiii50/index.m3u8?episode_id=vod69896-000303M001
 #EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="掏掏新聞",台灣1001個故事-第二十六集-鐵漢柔情的大廚辦桌菜
@@ -1769,6 +1749,40 @@ http://localhost:5050/play/ofiii76/index.m3u8?episode_id=vod57231-000000M001
 http://localhost:5050/play/ofiii76/index.m3u8?episode_id=vod50597-000000M001
 #EXTINF:-1 tvg-id="Golden影迷台" tvg-name="Golden影迷台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3880_ofiii76_tv_20250924.png" group-title="Golden影迷台",逐夢自行車-Coureur
 http://localhost:5050/play/ofiii76/index.m3u8?episode_id=vod59712-000000M001
+#EXTINF:-1 tvg-id="劉德華台" tvg-name="劉德華台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3901_ofiii77_tv_20251028.png" group-title="劉德華台",龍神太子-Game Kids
+http://localhost:5050/play/ofiii77/index.m3u8?episode_id=vod35778-000000M001
+#EXTINF:-1 tvg-id="劉德華台" tvg-name="劉德華台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3901_ofiii77_tv_20251028.png" group-title="劉德華台",新神鵰俠侶II-Saviour of the Soul II
+http://localhost:5050/play/ofiii77/index.m3u8?episode_id=vod33537-000000M001
+#EXTINF:-1 tvg-id="劉德華台" tvg-name="劉德華台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3901_ofiii77_tv_20251028.png" group-title="劉德華台",未來警察-Future X-Cops
+http://localhost:5050/play/ofiii77/index.m3u8?episode_id=vod33519-000000M001
+#EXTINF:-1 tvg-id="劉德華台" tvg-name="劉德華台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3901_ofiii77_tv_20251028.png" group-title="劉德華台",天長地久-Days of Tomorrow
+http://localhost:5050/play/ofiii77/index.m3u8?episode_id=vod33305-000000M001
+#EXTINF:-1 tvg-id="劉德華台" tvg-name="劉德華台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3901_ofiii77_tv_20251028.png" group-title="劉德華台",異域-A Home Too Far
+http://localhost:5050/play/ofiii77/index.m3u8?episode_id=vod32790-000000M001
+#EXTINF:-1 tvg-id="劉德華台" tvg-name="劉德華台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3901_ofiii77_tv_20251028.png" group-title="劉德華台",阿飛正傳-Days of Being Wild
+http://localhost:5050/play/ofiii77/index.m3u8?episode_id=vod32383-000000M001
+#EXTINF:-1 tvg-id="香港天王台" tvg-name="香港天王台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2583_ofiii78_tv_20251028.png" group-title="香港天王台",運財五福星-How to Meet the Lucky Stars
+http://localhost:5050/play/ofiii78/index.m3u8?episode_id=vod47070-000000M001
+#EXTINF:-1 tvg-id="香港天王台" tvg-name="香港天王台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2583_ofiii78_tv_20251028.png" group-title="香港天王台",賭煞-The Mighty Gambler
+http://localhost:5050/play/ofiii78/index.m3u8?episode_id=vod47117-000000M001
+#EXTINF:-1 tvg-id="香港天王台" tvg-name="香港天王台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2583_ofiii78_tv_20251028.png" group-title="香港天王台",超級無敵追女仔-L - O - V - E ..... LOVE
+http://localhost:5050/play/ofiii78/index.m3u8?episode_id=vod47045-000000M001
+#EXTINF:-1 tvg-id="香港天王台" tvg-name="香港天王台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2583_ofiii78_tv_20251028.png" group-title="香港天王台",熱血男兒之叛逆小子-Love and the City
+http://localhost:5050/play/ofiii78/index.m3u8?episode_id=vod45640-000000M001
+#EXTINF:-1 tvg-id="香港天王台" tvg-name="香港天王台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2583_ofiii78_tv_20251028.png" group-title="香港天王台",一本漫畫Ⅱ摩登笑將-My Hero 2
+http://localhost:5050/play/ofiii78/index.m3u8?episode_id=vod45644-000000M001
+#EXTINF:-1 tvg-id="香港天王台" tvg-name="香港天王台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2583_ofiii78_tv_20251028.png" group-title="香港天王台",贏錢專家-Money Maker
+http://localhost:5050/play/ofiii78/index.m3u8?episode_id=vod35169-000000M001
+#EXTINF:-1 tvg-id="香港天王台" tvg-name="香港天王台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2583_ofiii78_tv_20251028.png" group-title="香港天王台",新少林五祖-The New Legend Of Shaolin
+http://localhost:5050/play/ofiii78/index.m3u8?episode_id=vod58166-000000M001
+#EXTINF:-1 tvg-id="香港天王台" tvg-name="香港天王台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2583_ofiii78_tv_20251028.png" group-title="香港天王台",莎莎嘉嘉站起來-Sisters of the World Unite
+http://localhost:5050/play/ofiii78/index.m3u8?episode_id=vod36664-000000M001
+#EXTINF:-1 tvg-id="香港天王台" tvg-name="香港天王台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2583_ofiii78_tv_20251028.png" group-title="香港天王台",第六感奇緣之人魚傳說-Mermaid Got Married
+http://localhost:5050/play/ofiii78/index.m3u8?episode_id=vod33540-000000M001
+#EXTINF:-1 tvg-id="香港天王台" tvg-name="香港天王台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2583_ofiii78_tv_20251028.png" group-title="香港天王台",年年有今日-I Will Wait for You
+http://localhost:5050/play/ofiii78/index.m3u8?episode_id=vod36378-000000M001
+#EXTINF:-1 tvg-id="香港天王台" tvg-name="香港天王台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2583_ofiii78_tv_20251028.png" group-title="香港天王台",鴛鴦俠侶-Megaforce from the Highlands
+http://localhost:5050/play/ofiii78/index.m3u8?episode_id=vod47119-000000M001
 #EXTINF:-1 tvg-id="全民星攻略 知識開箱" tvg-name="全民星攻略 知識開箱" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3719_ofiii81_tv_20250506.png" group-title="全民星攻略 知識開箱",超有梗短片-減肥失敗的原因找到了！ 研究顯示：「男友越醜女友越胖」
 http://localhost:5050/play/ofiii81/index.m3u8?episode_id=vod38796-000567M001
 #EXTINF:-1 tvg-id="全民星攻略 知識開箱" tvg-name="全民星攻略 知識開箱" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3719_ofiii81_tv_20250506.png" group-title="全民星攻略 知識開箱",超有梗短片-緩解便秘妙招，這一飲品喝了絕對順暢
@@ -2151,6 +2165,58 @@ http://localhost:5050/play/ofiii83/index.m3u8?episode_id=vod72135-000114M001
 http://localhost:5050/play/ofiii83/index.m3u8?episode_id=vod72135-000115M001
 #EXTINF:-1 tvg-id="鄉民大學問" tvg-name="鄉民大學問" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20250221.png" group-title="鄉民大學問",第116集 盧秀燕因猪瘟攻2028難了？黃暐瀚：台南高雄綠難保？范雲斷言：黃國昌不會選到底 剝雞：沈伯洋被中共盯是提高身價！楊智伃曝鄭麗文新兩岸路線！
 http://localhost:5050/play/ofiii83/index.m3u8?episode_id=vod72135-000116M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",英國考古大發現 第五季-第5季第1集 改變歷史
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod72018-050001M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",英國考古大發現 第五季-第5季第2集 失落世界
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod72018-050002M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",英國考古大發現 第五季-第5季第3集 羅馬殘酷統治
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod72018-050003M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",英國考古大發現 第六季-第6季第1集 史前不列顛
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod72018-060001M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",英國考古大發現 第六季-第6季第2集 血腥不列顛
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod72018-060002M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",英國考古大發現 第六季-第6季第3集 拯救歷史
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod72018-060003M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",英國考古大發現 第六季-第6季第4集 哈德良長城的騎士
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod72018-060004M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",尼羅河的五千年-第1集 河口
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod73230-000001M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",尼羅河的五千年-第2集 河段
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod73230-000002M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",尼羅河的五千年-第3集 河岸
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod73230-000003M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",尼羅河的五千年-第4集 發源地
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod73230-000004M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",死亡約會-第1集 娜汀阿布拉斯 Nadine Aburas
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod73455-000001M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",死亡約會-第2集 莎朗西爾曼斯 Sharon Siermans
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod73455-000002M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",死亡約會-第3集 艾希莉佩格拉姆 Ashley Pegram
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod73455-000003M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",死亡約會-第4集 凱莉海伍德 Kayleigh Haywood
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod73455-000004M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",死亡約會-第5集 洛蘭朗 Lorraine Long
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod73455-000005M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",死亡約會-第6集 克萊兒伍德 Clare Wood
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod73455-000006M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",死亡約會-第7集 妮可懷特 Nicole White
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod73455-000007M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",死亡約會-第8集 卡莉瑞安 Carly Ryan
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod73455-000008M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",王室毛孩的奢華生活-Royals and Animals: Til Death Do Us Part
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod74143-000000M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",二戰倫敦大轟炸-第1集 空襲開始
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod77933-000001M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",二戰倫敦大轟炸-第2集 炸毀醫院
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod77933-000002M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",二戰倫敦大轟炸-第3集 緬懷逝者
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod77933-000003M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",諾曼第登陸-第1集 登陸之日
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod79033-000001M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",諾曼第登陸-第2集 消耗戰
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod79033-000002M001
+#EXTINF:-1 tvg-id="地球檔案庫" tvg-name="地球檔案庫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png" group-title="地球檔案庫",諾曼第登陸-第3集 登陸之後
+http://localhost:5050/play/ofiii84/index.m3u8?episode_id=vod79033-000003M001
 #EXTINF:-1 tvg-id="社會NOW什麼" tvg-name="社會NOW什麼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20250221.png" group-title="社會NOW什麼",第1集 台大正妹險被騙包養！潛伏交友網站的高富帥、白富美攏是詐騙集團！這「話術」讓人超難抵抗？讓你掉入愛情陷阱的「心理戰術解密」！
 http://localhost:5050/play/ofiii85/index.m3u8?episode_id=vod72134-000001M001
 #EXTINF:-1 tvg-id="社會NOW什麼" tvg-name="社會NOW什麼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20250221.png" group-title="社會NOW什麼",第2集 私養百名「後宮仙女班」！！信徒甘願奉獻身家跟「女兒」？！教主到底用什麼話術吸納信眾？讓可怕神秘組織越來越大？揭真相！
@@ -11565,6 +11631,126 @@ http://localhost:5050/play/ofiii175/index.m3u8?episode_id=vod8844-000060M001
 http://localhost:5050/play/ofiii175/index.m3u8?episode_id=vod8844-000061M001
 #EXTINF:-1 tvg-id="怪醫黑傑克TV(中文版)" tvg-name="怪醫黑傑克TV(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3811_ofiii175_tv_20250729.png" group-title="怪醫黑傑克TV(中文版)",第62集 樹海的鐮鼬(完)
 http://localhost:5050/play/ofiii175/index.m3u8?episode_id=vod8844-000062M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第1集 撿到魔王
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000001M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第2集 帶子太保，開始了
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000002M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第3集 又強又兇惡的傢伙在哪裡？
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000003M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第4集 魔王的尿床潰堤倒數計時只剩一秒
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000004M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第5集 沒有錢解決不了的事情
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000005M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第6集 魔界的玩具送來了
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000006M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第7集 魔王也要公園初豋場
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000007M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第8集 與你再次相逢
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000008M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第9集 戀愛龍捲風
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000009M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第10集 我有徒弟了
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000010M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第11集 用錢買不到的東西
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000011M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第12集 今晚不讓你睡
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000012M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第13集 卜寶的實力測驗
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000013M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第14集 你有必殺技嗎？
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000014M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第15集 太保換上了泳衣
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000015M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第16集 你也滿有男子氣概的嘛
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000016M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第17集 魔界的作業該怎麼辦才好？
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000017M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第18集 帶子太保，結束了
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000018M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第19集 醫生來了
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000019M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第20集 全員集合
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000020M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第21集 石矢魔最強的高手到底是誰
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000021M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第22集 入山練功去
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000022M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第23集 真假？去魔界？
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000023M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第24集 我回來了魔界
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000024M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第25集 新學期開始了
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000025M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第26集 我可以叫你一聲大哥嗎
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000026M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第27集 被當成魔法少女了
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000027M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第28集 來做健康檢查吧
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000028M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第29集 六騎聖是什麼？
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000029M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第30集 六騎聖到底是誰？
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000030M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第31集 還是，沒分出勝負
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000031M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第32集 轉學少女發生了什麼事？
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000032M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第33集 過去曾受過的傷
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000033M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第34集 女僕大騷動
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000034M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第35集 比賽開始的時間到了
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000035M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第36集 終於，分出勝負了
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000036M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第37集 那個男人，是老師
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000037M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第38集 兄弟鬩牆，開始了
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000038M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第39集 原來哥哥是愛哭鬼
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000039M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第40集 刺客不是客
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000040M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第41集 無路可退！該怎麼辦！
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000041M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第42集 修行的時間到了
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000042M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第43集 哥哥到底跑到哪裡去了？
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000043M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第44集 一定要變強才行
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000044M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第45集 電動一天只能打一小時
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000045M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第46集 燃燒吧！超絕合體！
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000046M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第47集 讓你久等了
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000047M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第48集 我才是他爸
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000048M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第49集 惡魔奶爸新春特別節目，卜寶卜寶西遊記！
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000049M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第50集 今天裡面的人不一樣！
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000050M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第51集 石獅子正在看著你
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000051M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第52集 不良少年一個都不留
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000052M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第53集 卜寶我家寶貝大征服/古市戀愛了
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000053M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第54集 黑卜寶長大了
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000054M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第55集 飛機頭不見了/大魔王來了
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000055M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第56集 背叛我了嗎/輪到男人們了
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000056M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第57集 要不要吃饅頭？/要不要混浴？
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000057M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第58集 惡魔野學園，開學了
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000058M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第59集 我們才是最強的
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000059M001
+#EXTINF:-1 tvg-id="惡魔奶爸(中文版)" tvg-name="惡魔奶爸(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png" group-title="惡魔奶爸(中文版)",第60集 不會說再見(完)
+http://localhost:5050/play/ofiii176/index.m3u8?episode_id=vod8900-000060M001
 #EXTINF:-1 tvg-id="鋼之鍊金術師" tvg-name="鋼之鍊金術師" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3237_ofiii177_tv_20250221.png" group-title="鋼之鍊金術師",第1集 向太陽挑釁之人
 http://localhost:5050/play/ofiii177/index.m3u8?episode_id=vod43647-000001M001
 #EXTINF:-1 tvg-id="鋼之鍊金術師" tvg-name="鋼之鍊金術師" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3237_ofiii177_tv_20250221.png" group-title="鋼之鍊金術師",第2集 禁忌的身體
@@ -13151,6 +13337,52 @@ http://localhost:5050/play/ofiii196/index.m3u8?episode_id=vod9098-000019M001
 http://localhost:5050/play/ofiii196/index.m3u8?episode_id=vod9098-000020M001
 #EXTINF:-1 tvg-id="不良笑花" tvg-name="不良笑花" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3631_ofiii196_tv_20250225.png" group-title="不良笑花",第21集
 http://localhost:5050/play/ofiii196/index.m3u8?episode_id=vod9098-000021M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第1集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000001M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第2集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000002M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第3集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000003M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第4集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000004M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第5集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000005M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第6集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000006M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第7集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000007M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第8集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000008M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第9集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000009M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第10集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000010M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第11集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000011M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第12集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000012M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第13集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000013M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第14集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000014M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第15集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000015M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第16集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000016M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第17集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000017M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第18集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000018M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第19集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000019M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第20集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000020M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第21集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000021M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第22集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000022M001
+#EXTINF:-1 tvg-id="轉角遇到愛" tvg-name="轉角遇到愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png" group-title="轉角遇到愛",第23集
+http://localhost:5050/play/ofiii197/index.m3u8?episode_id=vod77676-000023M001
 #EXTINF:-1 tvg-id="劣人傳之詭計" tvg-name="劣人傳之詭計" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3783_ofiii200_tv_20250626.png" group-title="劣人傳之詭計",第1集
 http://localhost:5050/play/ofiii200/index.m3u8?episode_id=vod11463-000001M001
 #EXTINF:-1 tvg-id="劣人傳之詭計" tvg-name="劣人傳之詭計" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3783_ofiii200_tv_20250626.png" group-title="劣人傳之詭計",第2集

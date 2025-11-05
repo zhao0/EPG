@@ -49,10 +49,10 @@
     "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3689_ofiii39_tv_20250328.png",
     "短劇馬拉松"
   ],
-  "ofiii1048": [
-    "Focus風采戲劇台",
-    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png",
-    "Focus風采戲劇台"
+  "ofiii47": [
+    "Yes娛樂",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png",
+    "Yes娛樂"
   ],
   "ofiii50": [
     "掏掏新聞",
@@ -94,6 +94,16 @@
     "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3880_ofiii76_tv_20250924.png",
     "Golden影迷台"
   ],
+  "ofiii77": [
+    "劉德華台",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3901_ofiii77_tv_20251028.png",
+    "劉德華台"
+  ],
+  "ofiii78": [
+    "香港天王台",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2583_ofiii78_tv_20251028.png",
+    "香港天王台"
+  ],
   "ofiii81": [
     "全民星攻略 知識開箱",
     "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3719_ofiii81_tv_20250506.png",
@@ -108,6 +118,11 @@
     "鄉民大學問",
     "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20250221.png",
     "鄉民大學問"
+  ],
+  "ofiii84": [
+    "地球檔案庫",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_tv_20251028.png",
+    "地球檔案庫"
   ],
   "ofiii85": [
     "社會NOW什麼",
@@ -524,6 +539,11 @@
     "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3811_ofiii175_tv_20250729.png",
     "怪醫黑傑克TV(中文版)"
   ],
+  "ofiii176": [
+    "惡魔奶爸(中文版)",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_tv_20251028.png",
+    "惡魔奶爸(中文版)"
+  ],
   "ofiii177": [
     "鋼之鍊金術師",
     "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3237_ofiii177_tv_20250221.png",
@@ -583,6 +603,11 @@
     "不良笑花",
     "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3631_ofiii196_tv_20250225.png",
     "不良笑花"
+  ],
+  "ofiii197": [
+    "轉角遇到愛",
+    "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_tv_20251028.png",
+    "轉角遇到愛"
   ],
   "ofiii200": [
     "劣人傳之詭計",
