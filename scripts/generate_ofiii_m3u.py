@@ -8,7 +8,7 @@ import zipfile
 
 def get_channel_data(channel_id):
     """獲取頻道資料"""
-    url = f"https://www.ofiii.com/_next/data/464M-DArabIf4rNleEdJm/channel/watch/{channel_id}.json"
+    url = f"https://www.ofiii.com/_next/data/YOQn3leN1n6vChLX_aqzq/channel/watch/{channel_id}.json"
     
     try:
         headers = {
