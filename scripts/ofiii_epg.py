@@ -18,7 +18,7 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
 
-def human_like_delay(min_seconds=1, max_seconds=3):
+def human_like_delay(min_seconds=1, max_seconds=5):
     """人類仿真延遲"""
     delay = random.uniform(min_seconds, max_seconds)
     print(f"⏱️ 隨機延遲 {delay:.2f}秒")
@@ -80,7 +80,7 @@ def parse_channel_list():
     
     return channel_list
 
-def fetch_epg_data(channel_id, max_retries=3):
+def fetch_epg_data(channel_id, max_retries=1):
     """獲取指定頻道的電視節目表數據"""
     url = f"https://www.ofiii.com/channel/watch/{channel_id}"
     
