@@ -246,9 +246,9 @@
     "description": ""
   },
   {
-    "channelName": "Focus風采戲劇台",
-    "id": "ofiii1048",
-    "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_mobile_20180522.png",
+    "channelName": "Yes娛樂",
+    "id": "ofiii47",
+    "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_mobile_20230707.png",
     "description": ""
   },
   {
@@ -300,6 +300,18 @@
     "description": ""
   },
   {
+    "channelName": "劉德華台",
+    "id": "ofiii77",
+    "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3901_ofiii77_mobile_20251028.png",
+    "description": ""
+  },
+  {
+    "channelName": "香港天王台",
+    "id": "ofiii78",
+    "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2583_ofiii78_mobile_20251028.png",
+    "description": ""
+  },
+  {
     "channelName": "全民星攻略 知識開箱",
     "id": "ofiii81",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3719_ofiii81_mobile_20250506.png",
@@ -315,6 +327,12 @@
     "channelName": "鄉民大學問",
     "id": "ofiii83",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_mobile_20250221.png",
+    "description": ""
+  },
+  {
+    "channelName": "地球檔案庫",
+    "id": "ofiii84",
+    "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3902_ofiii84_mobile_20251028.png",
     "description": ""
   },
   {
@@ -816,6 +834,12 @@
     "description": ""
   },
   {
+    "channelName": "惡魔奶爸(中文版)",
+    "id": "ofiii176",
+    "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3905_ofiii176_mobile_20251028.png",
+    "description": ""
+  },
+  {
     "channelName": "鋼之鍊金術師",
     "id": "ofiii177",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3237_ofiii177_mobile_20250221.png",
@@ -885,6 +909,12 @@
     "channelName": "不良笑花",
     "id": "ofiii196",
     "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3631_ofiii196_mobile_20250225.png",
+    "description": ""
+  },
+  {
+    "channelName": "轉角遇到愛",
+    "id": "ofiii197",
+    "logo": "https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3906_ofiii197_mobile_20251028.png",
     "description": ""
   },
   {
