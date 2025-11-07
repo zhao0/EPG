@@ -2,8 +2,8 @@ name: Generate ofiii-M3U Playlist and Channel Data
 
 on:
   schedule:
-    # 每12小時運行一次（UTC時間）
-    - cron: '0 */12 * * *'
+    # 每天運行
+    - cron: '0 0 * * *'  # 每天運行
   workflow_dispatch: # 允許手動觸發
 
 jobs:
@@ -21,7 +21,8 @@ jobs:
         
     - name: Install dependencies
       run: |
-        pip install requests
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
         
     - name: Create output directory
       run: mkdir -p output
