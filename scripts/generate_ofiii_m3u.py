@@ -1,3 +1,25 @@
+import sys
+import subprocess
+import importlib
+
+# 检查并安装所需的包
+required_packages = [
+    'requests',
+    'beautifulsoup4',
+    'lxml'  # BeautifulSoup 的解析器，性能更好
+]
+
+for package in required_packages:
+    try:
+        if package == 'beautifulsoup4':
+            importlib.import_module('bs4')
+        else:
+            importlib.import_module(package)
+    except ImportError:
+        print(f"正在安装 {package}...")
+        subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+
+# 现在导入其他模块
 import requests
 import json
 import time
@@ -213,7 +235,6 @@ def generate_m3u_content(channel_data, channel_id, asset_seen):
 
 def generate_txt_content(channel_data, channel_id, asset_seen, category_channels):
     """生成TXT內容，按分類組織"""
-    txt_lines = []
     added_programs = 0
     duplicate_assets = 0
     
@@ -222,7 +243,7 @@ def generate_txt_content(channel_data, channel_id, asset_seen, category_channels
         channel_info = page_props.get('channel', {})
         
         if not channel_info:
-            return txt_lines, added_programs, duplicate_assets
+            return added_programs, duplicate_assets
         
         # 基本頻道資訊
         name = channel_info.get('title', 'Unknown')
@@ -239,7 +260,7 @@ def generate_txt_content(channel_data, channel_id, asset_seen, category_channels
         is_ofiii_channel = channel_id.startswith('ofiii')
         
         if is_ofiii_channel and not programs:
-            return txt_lines, added_programs, duplicate_assets
+            return added_programs, duplicate_assets
         
         # 記錄分類
         if category not in category_channels:
@@ -372,7 +393,7 @@ def main():
     output_dir = ensure_output_dir()
     json_dir = ensure_json_dir(output_dir)
     m3u_file = output_dir / 'ofiii.m3u'
-    txt_file = output_dir / 'ofiii.txt'  # 新增TXT文件
+    txt_file = output_dir / 'ofiii.txt'
     channel_json_file = output_dir / 'ofiii_channel.json'
     playout_channel_json_file = output_dir / 'ofiii_playout-channel.json'
     
