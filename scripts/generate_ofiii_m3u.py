@@ -6,7 +6,7 @@ import importlib
 required_packages = [
     'requests',
     'beautifulsoup4',
-    'lxml',  # BeautifulSoup 的解析器，性能更好
+    'lxml',
     'aiohttp',
     'asyncio'
 ]
@@ -40,7 +40,7 @@ import asyncio
 import aiohttp
 
 async def get_build_id():
-    """動態獲取 Next.js 構建版本號 - 與 app3.py 保持一致"""
+    """動態獲取 Next.js 構建版本號"""
     try:
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
@@ -73,7 +73,7 @@ async def get_build_id():
         return "YOQn3leN1n6vChLX_aqzq"
 
 async def get_channel_data(asset_id, build_id):
-    """獲取頻道詳細數據 - 與 app3.py 保持一致"""
+    """獲取頻道詳細數據"""
     try:
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
@@ -151,7 +151,7 @@ async def get_channel_data_fallback(asset_id):
         return None
 
 def extract_channel_details(channel_data):
-    """從頻道數據中提取詳細信息 - 與 app3.py 保持一致"""
+    """從頻道數據中提取詳細信息"""
     try:
         # 檢查 channel_data 是否為 None 或空
         if not channel_data:
@@ -277,7 +277,7 @@ def cleanup_json_files(json_dir):
         return 0
 
 def get_display_name(title, subtitle):
-    """根據標題和副標題生成顯示名稱 - 與 app3.py 保持一致"""
+    """根據標題和副標題生成顯示名稱"""
     if title and subtitle:
         return f"{title}-{subtitle}"
     elif title and not subtitle:
@@ -288,7 +288,7 @@ def get_display_name(title, subtitle):
         return "未知節目"
 
 def generate_m3u_vod_content(channel_id, channel_details, group_name):
-    """生成 M3U 選集類內容 - 與 app3.py 完全一致"""
+    """生成 M3U 選集類內容"""
     content = ""
     programs = channel_details.get('programs', [])
     
@@ -313,35 +313,25 @@ def generate_m3u_vod_content(channel_id, channel_details, group_name):
     return content
 
 def generate_txt_vod_by_name(channels_by_name):
-    """按頻道名稱生成 TXT 選集類內容 - 與 app3.py 完全一致"""
+    """按頻道名稱生成 TXT 選集類內容"""
     content = ""
     
-    for channel_name, channel_data in sorted(channels_by_name.items()):
+    for channel_name, programs in sorted(channels_by_name.items()):
         content += f"{channel_name},#genre#\n"
-        for channel_info in channel_data:
-            # 確保 channel_info 是字典
-            if isinstance(channel_info, dict):
-                channel_id = channel_info.get("channel_id")
-                channel_details = channel_info.get("channel_details", {})
-                programs = channel_details.get('programs', [])
-                
-                for program in programs:
-                    asset_id = program.get('asset_id')
-                    title = program.get('title', '')
-                    subtitle = program.get('subtitle', '')
-                    
-                    # 合併標題和副標題
-                    if title and subtitle:
-                        program_name = f"{title}-{subtitle}"
-                    else:
-                        program_name = title or subtitle or '未知節目'
-                    
-                    content += f"{program_name},http://localhost:5000/{channel_id}/index.m3u8?episode_id={asset_id}\n"
+        for program_info in programs:
+            program_name = program_info.get("program_name", "未知節目")
+            channel_id = program_info.get("channel_id")
+            asset_id = program_info.get("asset_id")
+            
+            if asset_id:  # 點播節目
+                content += f"{program_name},http://localhost:5000/{channel_id}/index.m3u8?episode_id={asset_id}\n"
+            else:  # 直播頻道
+                content += f"{program_name},http://localhost:5000/{channel_id}/index.m3u8\n"
     
     return content
 
 def generate_m3u_content(channel_data, channel_id, asset_seen):
-    """生成M3U內容 - 與 app3.py 邏輯完全一致"""
+    """生成M3U內容"""
     m3u_lines = []
     added_programs = 0
     duplicate_assets = 0
@@ -360,7 +350,7 @@ def generate_m3u_content(channel_data, channel_id, asset_seen):
         
         print(f"📺 處理頻道: {name} ({channel_id}) - 類型: {channel_type} - 分組: {group}")
         
-        # 根據頻道類型生成不同的內容 - 與 app3.py 完全一致
+        # 根據頻道類型生成不同的內容
         if channel_type == 'vod':
             # 點播頻道：處理每個節目
             programs = channel_details.get('programs', [])
@@ -384,7 +374,7 @@ def generate_m3u_content(channel_data, channel_id, asset_seen):
             # 直播頻道：生成整個頻道的條目
             display_name = name
             
-            # 生成M3U條目 - 與 app3.py 格式完全一致
+            # 生成M3U條目
             extinf_line = (f'#EXTINF:-1 tvg-id="{name}" tvg-name="{name}" '
                           f'tvg-logo="{picture}" group-title="{group}",{display_name}')
             url_line = f'http://localhost:5000/{channel_id}/index.m3u8'
@@ -403,7 +393,7 @@ def generate_m3u_content(channel_data, channel_id, asset_seen):
     return m3u_lines, added_programs, duplicate_assets
 
 def generate_txt_content(channel_data, channel_id, asset_seen, channels_by_name):
-    """生成TXT內容，按頻道名稱組織 - 與 app3.py 邏輯完全一致"""
+    """生成TXT內容，按頻道名稱組織"""
     added_programs = 0
     duplicate_assets = 0
     
@@ -416,11 +406,11 @@ def generate_txt_content(channel_data, channel_id, asset_seen, channels_by_name)
         name = channel_details.get('name', 'Unknown')
         channel_type = channel_details.get('type', 'live')
         
-        # 記錄頻道名稱
+        # 初始化頻道名稱的列表
         if name not in channels_by_name:
             channels_by_name[name] = []
         
-        # 根據頻道類型生成不同的內容 - 與 app3.py 完全一致
+        # 根據頻道類型生成不同的內容
         if channel_type == 'vod':
             # 點播頻道：處理每個節目
             programs = channel_details.get('programs', [])
@@ -447,7 +437,6 @@ def generate_txt_content(channel_data, channel_id, asset_seen, channels_by_name)
                 # 將節目信息添加到頻道名稱下
                 channels_by_name[name].append({
                     "channel_id": channel_id,
-                    "channel_details": channel_details,
                     "program_name": program_name,
                     "asset_id": asset_id
                 })
@@ -460,7 +449,6 @@ def generate_txt_content(channel_data, channel_id, asset_seen, channels_by_name)
             # 將直播頻道信息添加到頻道名稱下
             channels_by_name[name].append({
                 "channel_id": channel_id,
-                "channel_details": channel_details,
                 "program_name": display_name,
                 "asset_id": None  # 直播頻道沒有asset_id
             })
@@ -572,7 +560,7 @@ async def process_channel(channel_id, json_dir, asset_seen, channels_by_name, m3
         # 獲取頻道基本資訊
         channel_info = get_channel_info(channel_json, channel_id)
         
-        # 生成M3U內容 - 使用與 app3.py 完全一致的邏輯
+        # 生成M3U內容
         channel_lines, programs_added, assets_duplicated = generate_m3u_content(channel_json, channel_id, asset_seen)
         added_programs = programs_added
         duplicate_assets = assets_duplicated
@@ -584,7 +572,7 @@ async def process_channel(channel_id, json_dir, asset_seen, channels_by_name, m3
         else:
             print(f"⚠️ 跳過頻道 {channel_id} (無有效節目)")
             
-        # 生成TXT內容 - 使用與 app3.py 完全一致的邏輯
+        # 生成TXT內容
         txt_programs, txt_duplicates = generate_txt_content(channel_json, channel_id, asset_seen.copy(), channels_by_name)
         
     else:
@@ -702,7 +690,7 @@ async def main():
                 channel_info['group_title']
             ]
     
-    # 生成TXT文件內容 - 使用與 app3.py 完全一致的邏輯
+    # 生成TXT文件內容
     print("\n🔄 生成 TXT 檔案內容...")
     txt_content = generate_txt_vod_by_name(channels_by_name)
     
